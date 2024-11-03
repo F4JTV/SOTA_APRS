@@ -1,0 +1,728 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1" 
+     creator="SOTA Mapping Project GPX Generator 1.1" 
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+     xmlns="http://www.topografix.com/GPX/1/1" 
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>SOTA Summits GPX Export</name>
+    <desc>SOTA Summits data in GPX v1.1 format></desc>
+    <author>
+      <name>SOTA Mapping Project></name>
+      <email id="admin" domain="www.sotamaps.org" />
+      <link href="https://www.sotamaps.org">
+        <text>SOTA Mapping Project</text>
+      </link>
+    </author>
+    <link href="https://www.sotamaps.org">
+      <text>SOTA Mapping Project</text>
+    </link>
+    <time>2024-11-03T14:11:37Z</time>
+    <keywords>SOTA, Summits On The Air, amateur radio, ham radio</keywords>
+    <bounds minlat="45.633598" minlon="5.3390002" maxlat="47.92712" maxlon="6.8895998"/>
+  </metadata>
+  <wpt lat="46.2803" lon="5.9544001">
+    <ele>1713</ele>
+    <name>F/JU-001</name>
+    <cmt><![CDATA[Crêt de la Neige]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="46.3223" lon="5.9948001">
+    <ele>1682</ele>
+    <name>F/JU-003</name>
+    <cmt><![CDATA[Le Colomby de Gex]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="46.150398" lon="5.8639998">
+    <ele>1621</ele>
+    <name>F/JU-004</name>
+    <cmt><![CDATA[Crêt de la Goutte]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="46.2505" lon="5.8614998">
+    <ele>1540</ele>
+    <name>F/JU-005</name>
+    <cmt><![CDATA[Crêt de Chalam]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="45.9011" lon="5.7609">
+    <ele>1534</ele>
+    <name>F/JU-006</name>
+    <cmt><![CDATA[Le Grand Colombier]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="46.411598" lon="6.0181999">
+    <ele>1496</ele>
+    <name>F/JU-008</name>
+    <cmt><![CDATA[Crêt Pela]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="46.728901" lon="6.3580999">
+    <ele>1461</ele>
+    <name>F/JU-009</name>
+    <cmt><![CDATA[Le Mont d'Or]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="46.230099" lon="5.8396001">
+    <ele>1432</ele>
+    <name>F/JU-011</name>
+    <cmt><![CDATA[Haute Crête]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="45.9431" lon="5.7529998">
+    <ele>1426</ele>
+    <name>F/JU-012</name>
+    <cmt><![CDATA[L'Hergues]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="46.4436" lon="6.0228">
+    <ele>1411</ele>
+    <name>F/JU-014</name>
+    <cmt><![CDATA[Bois de Ban]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="46.060001" lon="5.7302999">
+    <ele>1351</ele>
+    <name>F/JU-015</name>
+    <cmt><![CDATA[Crêt du Nu]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="46.9147" lon="6.4296999">
+    <ele>1323</ele>
+    <name>F/JU-016</name>
+    <cmt><![CDATA[Le Grand Taureau]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="46.990002" lon="6.5753002">
+    <ele>1302</ele>
+    <name>F/JU-017</name>
+    <cmt><![CDATA[Mont Châteleu]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="47.033001" lon="6.6718998">
+    <ele>1287</ele>
+    <name>F/JU-018</name>
+    <cmt><![CDATA[Le Meix Musy]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="45.968102" lon="5.6357999">
+    <ele>1240</ele>
+    <name>F/JU-020</name>
+    <cmt><![CDATA[Gigimont]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="46.7253" lon="6.1381001">
+    <ele>1237</ele>
+    <name>F/JU-021</name>
+    <cmt><![CDATA[Mont de Saint-Sorlin]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="45.810001" lon="5.5799999">
+    <ele>1217</ele>
+    <name>F/JU-023</name>
+    <cmt><![CDATA[Mollard de Don]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="46.532001" lon="5.9459">
+    <ele>1152</ele>
+    <name>F/JU-025</name>
+    <cmt><![CDATA[Forêt de la Joux Devant]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="47.079201" lon="6.605">
+    <ele>1160</ele>
+    <name>F/JU-026</name>
+    <cmt><![CDATA[Le Tantillon (Mont Vouillot)]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="47.7672" lon="6.7742">
+    <ele>1148</ele>
+    <name>F/JU-027</name>
+    <cmt><![CDATA[Planches des Belles Filles]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="47.036701" lon="6.4138999">
+    <ele>1141</ele>
+    <name>F/JU-028</name>
+    <cmt><![CDATA[Crêt Monniot]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="46.558102" lon="5.8683">
+    <ele>1134</ele>
+    <name>F/JU-029</name>
+    <cmt><![CDATA[Bois des Mouillières]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="45.888901" lon="5.6219001">
+    <ele>1125</ele>
+    <name>F/JU-030</name>
+    <cmt><![CDATA[Forêt Domaniale de Gervais]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="46.844501" lon="6.2444">
+    <ele>1112</ele>
+    <name>F/JU-031</name>
+    <cmt><![CDATA[Bois de Chaule]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="46.0732" lon="5.5767999">
+    <ele>1103</ele>
+    <name>F/JU-032</name>
+    <cmt><![CDATA[La Grande Montagne]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="47.097099" lon="6.6939001">
+    <ele>1092</ele>
+    <name>F/JU-033</name>
+    <cmt><![CDATA[Combe du Plane]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="45.894402" lon="5.5565">
+    <ele>1086</ele>
+    <name>F/JU-034</name>
+    <cmt><![CDATA[La Joux, Hostiaz]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="45.8778" lon="5.4566998">
+    <ele>1059</ele>
+    <name>F/JU-037</name>
+    <cmt><![CDATA[Crêt de Pont]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="45.738701" lon="5.5812001">
+    <ele>1018</ele>
+    <name>F/JU-039</name>
+    <cmt><![CDATA[Montagne de Tentanet, Lhuis]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="46.065601" lon="5.5105">
+    <ele>1015</ele>
+    <name>F/JU-040</name>
+    <cmt><![CDATA[Chaîne de l'Avocat]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="47.175701" lon="6.5490999">
+    <ele>1003</ele>
+    <name>F/JU-042</name>
+    <cmt><![CDATA[Montaurèbe]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="47.264198" lon="6.8207998">
+    <ele>982</ele>
+    <name>F/JU-043</name>
+    <cmt><![CDATA[Le Mont Miroir]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="47.091702" lon="6.3761001">
+    <ele>980</ele>
+    <name>F/JU-044</name>
+    <cmt><![CDATA[La Grange Gourmand]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="47.211201" lon="6.5777998">
+    <ele>947</ele>
+    <name>F/JU-046</name>
+    <cmt><![CDATA[Belmont]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="47.009499" lon="6.2182999">
+    <ele>933</ele>
+    <name>F/JU-047</name>
+    <cmt><![CDATA[Bois du Désert, Évillers]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="47.7575" lon="6.8895998">
+    <ele>928</ele>
+    <name>F/JU-048</name>
+    <cmt><![CDATA[Tête des Mineurs]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="46.413101" lon="5.8474998">
+    <ele>917</ele>
+    <name>F/JU-049</name>
+    <cmt><![CDATA[Forêt d'Avignon]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="46.9725" lon="5.8878002">
+    <ele>850</ele>
+    <name>F/JU-050</name>
+    <cmt><![CDATA[Mont Poupet]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="47.3619" lon="6.8291998">
+    <ele>842</ele>
+    <name>F/JU-051</name>
+    <cmt><![CDATA[Fort du Lomont]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="46.408298" lon="5.6167002">
+    <ele>841</ele>
+    <name>F/JU-052</name>
+    <cmt><![CDATA[Bois de Bugna]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="47.357601" lon="6.6114998">
+    <ele>840</ele>
+    <name>F/JU-053</name>
+    <cmt><![CDATA[Montagnes du Lomont]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="46.181702" lon="5.4997001">
+    <ele>836</ele>
+    <name>F/JU-054</name>
+    <cmt><![CDATA[Montagne de Berthiand]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="47.747898" lon="6.6929998">
+    <ele>842</ele>
+    <name>F/JU-055</name>
+    <cmt><![CDATA[Le Coporot]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="45.840801" lon="5.4524999">
+    <ele>821</ele>
+    <name>F/JU-057</name>
+    <cmt><![CDATA[Montagne de Cuny]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="46.2103" lon="5.5875001">
+    <ele>820</ele>
+    <name>F/JU-058</name>
+    <cmt><![CDATA[Grands Plans]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="46.7617" lon="5.9260998">
+    <ele>812</ele>
+    <name>F/JU-059</name>
+    <cmt><![CDATA[Mont Rivel]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="46.366901" lon="5.6619">
+    <ele>810</ele>
+    <name>F/JU-060</name>
+    <cmt><![CDATA[Balivaux]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="45.9786" lon="5.4191999">
+    <ele>801</ele>
+    <name>F/JU-062</name>
+    <cmt><![CDATA[Mont Luisandre]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="45.694199" lon="5.6128001">
+    <ele>786</ele>
+    <name>F/JU-063</name>
+    <cmt><![CDATA[La Graye]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="46.312199" lon="5.4127998">
+    <ele>768</ele>
+    <name>F/JU-065</name>
+    <cmt><![CDATA[Mont Nivigne]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="45.996899" lon="5.4418998">
+    <ele>765</ele>
+    <name>F/JU-066</name>
+    <cmt><![CDATA[Le Chanay]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="45.667801" lon="5.6480999">
+    <ele>759</ele>
+    <name>F/JU-067</name>
+    <cmt><![CDATA[Le Grand Thur]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="46.735001" lon="5.9478002">
+    <ele>739</ele>
+    <name>F/JU-069</name>
+    <cmt><![CDATA[Forêt communale de Champagnole]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="46.345798" lon="5.5100002">
+    <ele>731</ele>
+    <name>F/JU-070</name>
+    <cmt><![CDATA[Bois en Coquaine]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="45.8064" lon="5.4738998">
+    <ele>714</ele>
+    <name>F/JU-071</name>
+    <cmt><![CDATA[Bois de Souhait]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="46.573101" lon="5.5757999">
+    <ele>704</ele>
+    <name>F/JU-072</name>
+    <cmt><![CDATA[Bois du Crotard]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="46.577702" lon="5.6524">
+    <ele>703</ele>
+    <name>F/JU-073</name>
+    <cmt><![CDATA[Côte Bastien, Marnézia]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="46.2813" lon="5.5467">
+    <ele>635</ele>
+    <name>F/JU-074</name>
+    <cmt><![CDATA[Montagne de Cury]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="46.2328" lon="5.4533">
+    <ele>668</ele>
+    <name>F/JU-076</name>
+    <cmt><![CDATA[Mont du Couloir]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="47.66" lon="6.8144002">
+    <ele>653</ele>
+    <name>F/JU-078</name>
+    <cmt><![CDATA[Fort du Salbert]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="46.5028" lon="5.4205999">
+    <ele>647</ele>
+    <name>F/JU-079</name>
+    <cmt><![CDATA[Côte Colson, Chevreaux]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="46.280602" lon="5.5668998">
+    <ele>635</ele>
+    <name>F/JU-082</name>
+    <cmt><![CDATA[Bois des Combelles]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="45.7258" lon="5.7302999">
+    <ele>631</ele>
+    <name>F/JU-083</name>
+    <cmt><![CDATA[Mont Chevreaux]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="46.942799" lon="5.8497">
+    <ele>630</ele>
+    <name>F/JU-084</name>
+    <cmt><![CDATA[Bois de Côte Chaude]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="46.4128" lon="5.3766999">
+    <ele>620</ele>
+    <name>F/JU-085</name>
+    <cmt><![CDATA[Bois de la Rippe, Val d'Épy]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="47.319199" lon="6.0641999">
+    <ele>607</ele>
+    <name>F/JU-086</name>
+    <cmt><![CDATA[Fort de la Dame Blanche]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="47.246101" lon="6.0907998">
+    <ele>614</ele>
+    <name>F/JU-087</name>
+    <cmt><![CDATA[Fort de Montfaucon]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="46.195599" lon="5.3390002">
+    <ele>593</ele>
+    <name>F/JU-088</name>
+    <cmt><![CDATA[Les Bercadières]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="45.771099" lon="5.5005002">
+    <ele>580</ele>
+    <name>F/JU-089</name>
+    <cmt><![CDATA[Varquais (Bois de la Mareraie)]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="46.416698" lon="5.4461002">
+    <ele>591</ele>
+    <name>F/JU-090</name>
+    <cmt><![CDATA[Bois de Montanet]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="47.390301" lon="6.4747">
+    <ele>557</ele>
+    <name>F/JU-092</name>
+    <cmt><![CDATA[Bois de Montfort]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="45.775002" lon="5.7469001">
+    <ele>554</ele>
+    <name>F/JU-093</name>
+    <cmt><![CDATA[Montagne de Chamoise]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="47.622799" lon="6.6931">
+    <ele>557</ele>
+    <name>F/JU-094</name>
+    <cmt><![CDATA[Bois de la Thure]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="46.126099" lon="5.3456998">
+    <ele>555</ele>
+    <name>F/JU-095</name>
+    <cmt><![CDATA[Croix de la Dent]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="47.3036" lon="6.2272">
+    <ele>547</ele>
+    <name>F/JU-096</name>
+    <cmt><![CDATA[Mont Souvance]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="46.193901" lon="5.4622002">
+    <ele>545</ele>
+    <name>F/JU-098</name>
+    <cmt><![CDATA[Rochers de Jarbonnet]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="47.5975" lon="6.7624998">
+    <ele>543</ele>
+    <name>F/JU-099</name>
+    <cmt><![CDATA[Fort du Mont Vaudois]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="47.3479" lon="6.3822999">
+    <ele>512</ele>
+    <name>F/JU-100</name>
+    <cmt><![CDATA[Bois de Babre]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="45.805801" lon="5.7206001">
+    <ele>506</ele>
+    <name>F/JU-101</name>
+    <cmt><![CDATA[Grand Corneil]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="47.204601" lon="5.9777999">
+    <ele>490</ele>
+    <name>F/JU-102</name>
+    <cmt><![CDATA[Fort de Planoise]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="47.076698" lon="5.7992001">
+    <ele>467</ele>
+    <name>F/JU-103</name>
+    <cmt><![CDATA[Bois de la Côte d'Or (Le Signal)]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="47.222198" lon="6.0019002">
+    <ele>465</ele>
+    <name>F/JU-104</name>
+    <cmt><![CDATA[Fort de Rosemont]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="45.633598" lon="5.6266999">
+    <ele>402</ele>
+    <name>F/JU-108</name>
+    <cmt><![CDATA[Mont de Cordon]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="47.665798" lon="6.6742001">
+    <ele>590</ele>
+    <name>F/JU-112</name>
+    <cmt><![CDATA[Le Chérimont]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="47.709202" lon="5.7258">
+    <ele>447</ele>
+    <name>F/JU-113</name>
+    <cmt><![CDATA[Montagne de la Roche]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="47.101002" lon="5.8571">
+    <ele>522</ele>
+    <name>F/JU-114</name>
+    <cmt><![CDATA[Bois de Moini]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="46.284302" lon="5.5374999">
+    <ele>678</ele>
+    <name>F/JU-115</name>
+    <cmt><![CDATA[Bois de Chérette]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+  <wpt lat="47.92712" lon="6.6235542">
+    <ele>810</ele>
+    <name>F/JU-116</name>
+    <cmt><![CDATA[Le Bambois]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Jura]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/JU</type>
+  </wpt>
+</gpx>

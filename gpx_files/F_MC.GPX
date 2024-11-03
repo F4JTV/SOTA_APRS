@@ -1,0 +1,1624 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1" 
+     creator="SOTA Mapping Project GPX Generator 1.1" 
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+     xmlns="http://www.topografix.com/GPX/1/1" 
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>SOTA Summits GPX Export</name>
+    <desc>SOTA Summits data in GPX v1.1 format></desc>
+    <author>
+      <name>SOTA Mapping Project></name>
+      <email id="admin" domain="www.sotamaps.org" />
+      <link href="https://www.sotamaps.org">
+        <text>SOTA Mapping Project</text>
+      </link>
+    </author>
+    <link href="https://www.sotamaps.org">
+      <text>SOTA Mapping Project</text>
+    </link>
+    <time>2024-11-03T14:12:32Z</time>
+    <keywords>SOTA, Summits On The Air, amateur radio, ham radio</keywords>
+    <bounds minlat="43.458698" minlon="1.0306" maxlat="46.285801" maxlon="4.7796998"/>
+  </metadata>
+  <wpt lat="45.528301" lon="2.8141999">
+    <ele>1885</ele>
+    <name>F/MC-001</name>
+    <cmt><![CDATA[Puy de Sancy]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.058899" lon="2.7614">
+    <ele>1855</ele>
+    <name>F/MC-002</name>
+    <cmt><![CDATA[Plomb du Cantal]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.1101" lon="2.7107">
+    <ele>1806</ele>
+    <name>F/MC-003</name>
+    <cmt><![CDATA[Puy de Peyre Arse]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.109299" lon="2.6761">
+    <ele>1783</ele>
+    <name>F/MC-004</name>
+    <cmt><![CDATA[Puy Mary]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="44.910999" lon="4.191">
+    <ele>1753</ele>
+    <name>F/MC-005</name>
+    <cmt><![CDATA[Mont Mézenc]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.096199" lon="2.6447001">
+    <ele>1739</ele>
+    <name>F/MC-007</name>
+    <cmt><![CDATA[Puy Chavaroche]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.573002" lon="2.8399999">
+    <ele>1738</ele>
+    <name>F/MC-008</name>
+    <cmt><![CDATA[Puy de l'Angle]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.080299" lon="2.7063999">
+    <ele>1690</ele>
+    <name>F/MC-010</name>
+    <cmt><![CDATA[Puy Griou]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.119099" lon="2.7551999">
+    <ele>1650</ele>
+    <name>F/MC-012</name>
+    <cmt><![CDATA[Puy de Seycheuse]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.653099" lon="3.8089001">
+    <ele>1634</ele>
+    <name>F/MC-014</name>
+    <cmt><![CDATA[Pierre sur Haute]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.148102" lon="2.7323">
+    <ele>1620</ele>
+    <name>F/MC-015</name>
+    <cmt><![CDATA[Puy de Niermont]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.0509" lon="2.6631">
+    <ele>1565</ele>
+    <name>F/MC-016</name>
+    <cmt><![CDATA[L'Elancèze]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="44.642601" lon="3.5327001">
+    <ele>1552</ele>
+    <name>F/MC-017</name>
+    <cmt><![CDATA[Truc de Fortunio]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.3339" lon="2.9869001">
+    <ele>1551</ele>
+    <name>F/MC-018</name>
+    <cmt><![CDATA[Signal du Luguet]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="44.8936" lon="4.1160002">
+    <ele>1535</ele>
+    <name>F/MC-019</name>
+    <cmt><![CDATA[Rocher Tourte]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.611401" lon="2.7723">
+    <ele>1512</ele>
+    <name>F/MC-021</name>
+    <cmt><![CDATA[La Banne d'Ordanche]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="44.591499" lon="3.7923999">
+    <ele>1503</ele>
+    <name>F/MC-022</name>
+    <cmt><![CDATA[Le Moure de la Gardille]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="44.538101" lon="3.7593999">
+    <ele>1497</ele>
+    <name>F/MC-023</name>
+    <cmt><![CDATA[Montagne du Goulet]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="44.9758" lon="3.3731">
+    <ele>1497</ele>
+    <name>F/MC-024</name>
+    <cmt><![CDATA[Mont Mouchet]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="44.879398" lon="3.4361">
+    <ele>1486</ele>
+    <name>F/MC-025</name>
+    <cmt><![CDATA[Truc de la Garde]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.345798" lon="2.9300001">
+    <ele>1476</ele>
+    <name>F/MC-026</name>
+    <cmt><![CDATA[Mont Chamaroux]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.772499" lon="2.9644001">
+    <ele>1464</ele>
+    <name>F/MC-027</name>
+    <cmt><![CDATA[Puy-de-Dôme]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.3825" lon="4.5727">
+    <ele>1431</ele>
+    <name>F/MC-028</name>
+    <cmt><![CDATA[Crêt de la Perdrix]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="44.317402" lon="3.7258999">
+    <ele>1421</ele>
+    <name>F/MC-029</name>
+    <cmt><![CDATA[Signal du Bougès]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="44.9156" lon="4.0942001">
+    <ele>1423</ele>
+    <name>F/MC-030</name>
+    <cmt><![CDATA[Roche du Bachat]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.487999" lon="2.8836">
+    <ele>1407</ele>
+    <name>F/MC-031</name>
+    <cmt><![CDATA[Puy de Montchal]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.061501" lon="4.1959">
+    <ele>1388</ele>
+    <name>F/MC-032</name>
+    <cmt><![CDATA[Pic du Lizieux]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.195801" lon="4.4802999">
+    <ele>1388</ele>
+    <name>F/MC-033</name>
+    <cmt><![CDATA[Le Grand Felletin]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.7658" lon="3.7544">
+    <ele>1348</ele>
+    <name>F/MC-036</name>
+    <cmt><![CDATA[Le Pic Pelé]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="44.179199" lon="3.5409">
+    <ele>1343</ele>
+    <name>F/MC-037</name>
+    <cmt><![CDATA[La Rose des Vents]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.2892" lon="4.4699998">
+    <ele>1301</ele>
+    <name>F/MC-039</name>
+    <cmt><![CDATA[Bois Panère]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.048698" lon="3.6500001">
+    <ele>1299</ele>
+    <name>F/MC-040</name>
+    <cmt><![CDATA[La Durande]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.930801" lon="3.694">
+    <ele>1287</ele>
+    <name>F/MC-042</name>
+    <cmt><![CDATA[Puy de Montoncel]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="43.676601" lon="2.7221999">
+    <ele>1274</ele>
+    <name>F/MC-043</name>
+    <cmt><![CDATA[Montgrand]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.7342" lon="2.9521999">
+    <ele>1252</ele>
+    <name>F/MC-044</name>
+    <cmt><![CDATA[Montagne de Laschamp]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.7967" lon="2.9426999">
+    <ele>1253</ele>
+    <name>F/MC-045</name>
+    <cmt><![CDATA[Puy de Côme]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.716301" lon="2.9556999">
+    <ele>1242</ele>
+    <name>F/MC-046</name>
+    <cmt><![CDATA[Puy de Mercoeur]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="44.269699" lon="3.5472">
+    <ele>1247</ele>
+    <name>F/MC-047</name>
+    <cmt><![CDATA[Mont Gargo]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="44.136101" lon="3.6329">
+    <ele>1217</ele>
+    <name>F/MC-049</name>
+    <cmt><![CDATA[Valat de Sestrière]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.531101" lon="3.6364">
+    <ele>1215</ele>
+    <name>F/MC-051</name>
+    <cmt><![CDATA[Mont de Tirevache]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.266201" lon="3.6185999">
+    <ele>1206</ele>
+    <name>F/MC-052</name>
+    <cmt><![CDATA[Bois de Chantelauze]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.0886" lon="2.8522">
+    <ele>1199</ele>
+    <name>F/MC-053</name>
+    <cmt><![CDATA[Puy du Bac]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.802502" lon="3.6868999">
+    <ele>1191</ele>
+    <name>F/MC-054</name>
+    <cmt><![CDATA[Bois de Pamole]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="43.667198" lon="2.8694">
+    <ele>1205</ele>
+    <name>F/MC-055</name>
+    <cmt><![CDATA[Bois de Lause]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.391602" lon="3.8069">
+    <ele>1191</ele>
+    <name>F/MC-056</name>
+    <cmt><![CDATA[Suc du Bèze]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.115601" lon="4.0531998">
+    <ele>1188</ele>
+    <name>F/MC-057</name>
+    <cmt><![CDATA[Suc de Jorance]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="43.652199" lon="2.8275001">
+    <ele>1185</ele>
+    <name>F/MC-058</name>
+    <cmt><![CDATA[Pic de Concord]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.852901" lon="2.9507999">
+    <ele>1202</ele>
+    <name>F/MC-059</name>
+    <cmt><![CDATA[Puy de Louchadière]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.8279" lon="2.9549">
+    <ele>1184</ele>
+    <name>F/MC-060</name>
+    <cmt><![CDATA[Puy Chopine]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="43.677101" lon="2.6294">
+    <ele>1172</ele>
+    <name>F/MC-061</name>
+    <cmt><![CDATA[Mont Roucous]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="44.166801" lon="3.4809999">
+    <ele>1160</ele>
+    <name>F/MC-062</name>
+    <cmt><![CDATA[Roquefol]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="46.000301" lon="3.7992001">
+    <ele>1164</ele>
+    <name>F/MC-063</name>
+    <cmt><![CDATA[Pierres du Jour]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="44.244701" lon="3.7650001">
+    <ele>1164</ele>
+    <name>F/MC-064</name>
+    <cmt><![CDATA[Mont Mars]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.197201" lon="3.7283001">
+    <ele>1172</ele>
+    <name>F/MC-066</name>
+    <cmt><![CDATA[Mont Bar]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="44.2794" lon="2.9993999">
+    <ele>1156</ele>
+    <name>F/MC-068</name>
+    <cmt><![CDATA[Puech du Pal]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="44.335602" lon="3.4200001">
+    <ele>1156</ele>
+    <name>F/MC-069</name>
+    <cmt><![CDATA[Puech d'Alluech]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.6772" lon="2.9614">
+    <ele>1138</ele>
+    <name>F/MC-070</name>
+    <cmt><![CDATA[Puy de Charmont]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="44.215599" lon="2.9296999">
+    <ele>1128</ele>
+    <name>F/MC-071</name>
+    <cmt><![CDATA[Mont Seigne]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.094101" lon="2.5185001">
+    <ele>1110</ele>
+    <name>F/MC-073</name>
+    <cmt><![CDATA[Montagnes de l'Hospice]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="43.761101" lon="2.9022999">
+    <ele>1110</ele>
+    <name>F/MC-074</name>
+    <cmt><![CDATA[Le Merdelou]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="44.464199" lon="3.5332999">
+    <ele>1104</ele>
+    <name>F/MC-075</name>
+    <cmt><![CDATA[Truc de Balduc]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.1693" lon="3.8192">
+    <ele>1098</ele>
+    <name>F/MC-076</name>
+    <cmt><![CDATA[Peyramont]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="44.519798" lon="3.4521999">
+    <ele>1093</ele>
+    <name>F/MC-077</name>
+    <cmt><![CDATA[Signal de flagit]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.167702" lon="4.0310001">
+    <ele>1089</ele>
+    <name>F/MC-078</name>
+    <cmt><![CDATA[Suc d'Oursier]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.1535" lon="4.0037999">
+    <ele>1072</ele>
+    <name>F/MC-079</name>
+    <cmt><![CDATA[Suc de Jalore]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="43.7272" lon="2.6860001">
+    <ele>1071</ele>
+    <name>F/MC-080</name>
+    <cmt><![CDATA[Montrodre]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.145599" lon="3.8642001">
+    <ele>1069</ele>
+    <name>F/MC-081</name>
+    <cmt><![CDATA[Mont Courant]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="44.534199" lon="3.3146999">
+    <ele>1020</ele>
+    <name>F/MC-085</name>
+    <cmt><![CDATA[Truc du Midi]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="44.987598" lon="3.9863999">
+    <ele>1017</ele>
+    <name>F/MC-086</name>
+    <cmt><![CDATA[Suc de Monet]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="46.208099" lon="4.4871998">
+    <ele>1009</ele>
+    <name>F/MC-087</name>
+    <cmt><![CDATA[Mont Saint-Rigaud]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.8508" lon="4.3807998">
+    <ele>1003</ele>
+    <name>F/MC-088</name>
+    <cmt><![CDATA[Mont Boussuivre]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.182598" lon="3.9663">
+    <ele>984</ele>
+    <name>F/MC-089</name>
+    <cmt><![CDATA[Suc de Bartou]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.993999" lon="3.7114999">
+    <ele>980</ele>
+    <name>F/MC-090</name>
+    <cmt><![CDATA[Roc de Gabelous]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="44.230999" lon="3.8467">
+    <ele>975</ele>
+    <name>F/MC-092</name>
+    <cmt><![CDATA[Moncamp]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.7202" lon="3.6752999">
+    <ele>954</ele>
+    <name>F/MC-095</name>
+    <cmt><![CDATA[Grand Olmet]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="46.158901" lon="4.5068998">
+    <ele>944</ele>
+    <name>F/MC-096</name>
+    <cmt><![CDATA[Mont Tourvéon]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.079601" lon="3.9965999">
+    <ele>948</ele>
+    <name>F/MC-097</name>
+    <cmt><![CDATA[Mont Fracelier]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.5825" lon="4.5025001">
+    <ele>943</ele>
+    <name>F/MC-098</name>
+    <cmt><![CDATA[Crêt Malherbe]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.308601" lon="2.5478001">
+    <ele>940</ele>
+    <name>F/MC-099</name>
+    <cmt><![CDATA[Les Vaisses]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.916199" lon="3.6003001">
+    <ele>947</ele>
+    <name>F/MC-100</name>
+    <cmt><![CDATA[Croix de Séra]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.638302" lon="4.5932999">
+    <ele>935</ele>
+    <name>F/MC-102</name>
+    <cmt><![CDATA[Signal de Saint-André]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.680302" lon="4.5022001">
+    <ele>933</ele>
+    <name>F/MC-103</name>
+    <cmt><![CDATA[Monts du Lyonnais]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="43.951099" lon="3.3394001">
+    <ele>922</ele>
+    <name>F/MC-104</name>
+    <cmt><![CDATA[Serre de la Lavande]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="44.1894" lon="3.8899">
+    <ele>925</ele>
+    <name>F/MC-105</name>
+    <cmt><![CDATA[Montagne de la Vieille Morte]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.484402" lon="1.84">
+    <ele>922</ele>
+    <name>F/MC-106</name>
+    <cmt><![CDATA[Puy de la Monédière]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="46.104698" lon="4.4274998">
+    <ele>917</ele>
+    <name>F/MC-107</name>
+    <cmt><![CDATA[Mont de Favardy]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.023998" lon="3.9934001">
+    <ele>910</ele>
+    <name>F/MC-109</name>
+    <cmt><![CDATA[Mont Peynastre]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.990002" lon="4.4189">
+    <ele>898</ele>
+    <name>F/MC-110</name>
+    <cmt><![CDATA[Crêt des Quatre Bornes]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="46.109001" lon="4.5323">
+    <ele>895</ele>
+    <name>F/MC-112</name>
+    <cmt><![CDATA[Mont Soubran]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="46.182301" lon="4.5858998">
+    <ele>887</ele>
+    <name>F/MC-113</name>
+    <cmt><![CDATA[Montagne de Rochefort]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="44.137199" lon="3.0555999">
+    <ele>890</ele>
+    <name>F/MC-114</name>
+    <cmt><![CDATA[Puech d'Andan]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="46.050301" lon="4.5331001">
+    <ele>888</ele>
+    <name>F/MC-116</name>
+    <cmt><![CDATA[La Pyramide]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="44.478298" lon="2.8936">
+    <ele>876</ele>
+    <name>F/MC-117</name>
+    <cmt><![CDATA[Puy de Campèch]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="46.008999" lon="4.5496001">
+    <ele>866</ele>
+    <name>F/MC-119</name>
+    <cmt><![CDATA[Fôret de la Cantinière]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.545601" lon="3.0397">
+    <ele>874</ele>
+    <name>F/MC-120</name>
+    <cmt><![CDATA[Puy de Roche Courbière]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="44.209599" lon="3.1129">
+    <ele>880</ele>
+    <name>F/MC-121</name>
+    <cmt><![CDATA[Puech de Suège]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.4589" lon="1.9061">
+    <ele>870</ele>
+    <name>F/MC-122</name>
+    <cmt><![CDATA[Puy Charrin]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.823299" lon="4.4791999">
+    <ele>852</ele>
+    <name>F/MC-123</name>
+    <cmt><![CDATA[Crêt Pélerat]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="44.181702" lon="3.1064">
+    <ele>860</ele>
+    <name>F/MC-124</name>
+    <cmt><![CDATA[Luzergue]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.399799" lon="2.457">
+    <ele>853</ele>
+    <name>F/MC-125</name>
+    <cmt><![CDATA[La Pyramide]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="44.459" lon="3.0387001">
+    <ele>856</ele>
+    <name>F/MC-126</name>
+    <cmt><![CDATA[Puech de la Prade]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.518299" lon="3.1568999">
+    <ele>856</ele>
+    <name>F/MC-127</name>
+    <cmt><![CDATA[Puy d'Ysson]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.627499" lon="3.1073999">
+    <ele>848</ele>
+    <name>F/MC-129</name>
+    <cmt><![CDATA[Puy de Saint-Sandoux]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="44.2066" lon="3.1338">
+    <ele>849</ele>
+    <name>F/MC-130</name>
+    <cmt><![CDATA[Puech de Fontaneilles]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.1106" lon="3.9607999">
+    <ele>849</ele>
+    <name>F/MC-132</name>
+    <cmt><![CDATA[Suc de Chauven]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="43.833199" lon="3.05">
+    <ele>838</ele>
+    <name>F/MC-133</name>
+    <cmt><![CDATA[Les Bouissieyres]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="44.714401" lon="2.5035999">
+    <ele>822</ele>
+    <name>F/MC-134</name>
+    <cmt><![CDATA[Puy de l'Arbre]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.6203" lon="3.2858">
+    <ele>824</ele>
+    <name>F/MC-135</name>
+    <cmt><![CDATA[Bois d'Yronde]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.015999" lon="3.9403999">
+    <ele>831</ele>
+    <name>F/MC-136</name>
+    <cmt><![CDATA[Mont Saint-Maurice]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.771702" lon="4.4899998">
+    <ele>817</ele>
+    <name>F/MC-137</name>
+    <cmt><![CDATA[Mont Pothu]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.650299" lon="3.3039">
+    <ele>817</ele>
+    <name>F/MC-138</name>
+    <cmt><![CDATA[Bois de Cheix-Blanc]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="44.484699" lon="2.7916999">
+    <ele>811</ele>
+    <name>F/MC-139</name>
+    <cmt><![CDATA[Mont de Roquelaure]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.426601" lon="1.8918999">
+    <ele>813</ele>
+    <name>F/MC-140</name>
+    <cmt><![CDATA[Puy d'Agnoux]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="44.273899" lon="2.425">
+    <ele>810</ele>
+    <name>F/MC-141</name>
+    <cmt><![CDATA[Croix de la Garde]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="43.9603" lon="3.0025001">
+    <ele>827</ele>
+    <name>F/MC-142</name>
+    <cmt><![CDATA[Plateau de Taulan]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="43.832901" lon="2.9856999">
+    <ele>804</ele>
+    <name>F/MC-143</name>
+    <cmt><![CDATA[Mougné]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="44.0061" lon="3.2978001">
+    <ele>802</ele>
+    <name>F/MC-144</name>
+    <cmt><![CDATA[Mont Saint Alban]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="44.447601" lon="2.9008999">
+    <ele>787</ele>
+    <name>F/MC-145</name>
+    <cmt><![CDATA[Sommet des Planhes]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="44.834999" lon="2.1206">
+    <ele>785</ele>
+    <name>F/MC-146</name>
+    <cmt><![CDATA[Labastide-du-Haut-Mont]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.5611" lon="3.1189001">
+    <ele>779</ele>
+    <name>F/MC-147</name>
+    <cmt><![CDATA[Puy de Lavelle]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.482601" lon="4.7090001">
+    <ele>785</ele>
+    <name>F/MC-148</name>
+    <cmt><![CDATA[Mont Monnet]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.68" lon="3.2428">
+    <ele>781</ele>
+    <name>F/MC-149</name>
+    <cmt><![CDATA[Puy de Saint-Romain]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.165901" lon="3.9173999">
+    <ele>780</ele>
+    <name>F/MC-150</name>
+    <cmt><![CDATA[Mont Cèneuil]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.172001" lon="3.4466">
+    <ele>780</ele>
+    <name>F/MC-151</name>
+    <cmt><![CDATA[Bouillergue]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.647499" lon="3.4000001">
+    <ele>789</ele>
+    <name>F/MC-152</name>
+    <cmt><![CDATA[Courdeloup]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.510399" lon="1.8037">
+    <ele>772</ele>
+    <name>F/MC-154</name>
+    <cmt><![CDATA[Puy Pantout]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="44.0303" lon="2.9906001">
+    <ele>765</ele>
+    <name>F/MC-155</name>
+    <cmt><![CDATA[Sargels]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="43.905102" lon="2.9920001">
+    <ele>745</ele>
+    <name>F/MC-156</name>
+    <cmt><![CDATA[Sommet de la Sorgue]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="43.877899" lon="3.1645">
+    <ele>743</ele>
+    <name>F/MC-157</name>
+    <cmt><![CDATA[Le Plant de l’Église]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="43.814098" lon="2.9373">
+    <ele>736</ele>
+    <name>F/MC-158</name>
+    <cmt><![CDATA[Puech de Roste]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="44.417198" lon="2.3669">
+    <ele>736</ele>
+    <name>F/MC-159</name>
+    <cmt><![CDATA[Notre-Dame-de-Buenne]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.6194" lon="1.6486">
+    <ele>730</ele>
+    <name>F/MC-160</name>
+    <cmt><![CDATA[Mont Gargan]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="43.9272" lon="2.9166">
+    <ele>720</ele>
+    <name>F/MC-161</name>
+    <cmt><![CDATA[Ravin des Hounts]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.4216" lon="3.2319">
+    <ele>741</ele>
+    <name>F/MC-162</name>
+    <cmt><![CDATA[Montcelet]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.028198" lon="2.2003">
+    <ele>716</ele>
+    <name>F/MC-163</name>
+    <cmt><![CDATA[Puech de l'Ouratel]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="46.010899" lon="1.4434">
+    <ele>701</ele>
+    <name>F/MC-164</name>
+    <cmt><![CDATA[Puy de Sauvagnac]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="43.987301" lon="2.8884001">
+    <ele>700</ele>
+    <name>F/MC-165</name>
+    <cmt><![CDATA[Les Soutets]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="44.546799" lon="2.4779">
+    <ele>707</ele>
+    <name>F/MC-167</name>
+    <cmt><![CDATA[Puech de Kaymard]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.3508" lon="2.4087999">
+    <ele>697</ele>
+    <name>F/MC-168</name>
+    <cmt><![CDATA[Puy de Prodelles]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="46.033901" lon="1.5667">
+    <ele>695</ele>
+    <name>F/MC-169</name>
+    <cmt><![CDATA[Puy de Jouër]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="44.582401" lon="2.6050999">
+    <ele>693</ele>
+    <name>F/MC-170</name>
+    <cmt><![CDATA[Puech de Catusse]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="43.990299" lon="2.6099999">
+    <ele>669</ele>
+    <name>F/MC-173</name>
+    <cmt><![CDATA[Le Puech]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="43.897598" lon="2.6270001">
+    <ele>668</ele>
+    <name>F/MC-174</name>
+    <cmt><![CDATA[Sommet de la Borie d'Alricie]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="46.285801" lon="2.2153001">
+    <ele>656</ele>
+    <name>F/MC-175</name>
+    <cmt><![CDATA[Toulx-Sainte-Croix]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.527802" lon="3.3395">
+    <ele>632</ele>
+    <name>F/MC-176</name>
+    <cmt><![CDATA[Usson]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="44.569698" lon="2.3517001">
+    <ele>628</ele>
+    <name>F/MC-177</name>
+    <cmt><![CDATA[La Boriatte]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.120602" lon="1.7891999">
+    <ele>633</ele>
+    <name>F/MC-178</name>
+    <cmt><![CDATA[Roche de Vic]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="44.818001" lon="1.8859">
+    <ele>628</ele>
+    <name>F/MC-179</name>
+    <cmt><![CDATA[Sommet Trémenouze]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.849998" lon="4.7796998">
+    <ele>625</ele>
+    <name>F/MC-180</name>
+    <cmt><![CDATA[Mont Verdun]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.659698" lon="3.1808">
+    <ele>621</ele>
+    <name>F/MC-181</name>
+    <cmt><![CDATA[Puy de Corent]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="43.901901" lon="2.7792001">
+    <ele>619</ele>
+    <name>F/MC-182</name>
+    <cmt><![CDATA[Puech Bénézech]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.764198" lon="3.2539001">
+    <ele>603</ele>
+    <name>F/MC-183</name>
+    <cmt><![CDATA[Puy de Mur]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.9715" lon="1.2992001">
+    <ele>588</ele>
+    <name>F/MC-184</name>
+    <cmt><![CDATA[Signal de Beausoleil]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="44.4758" lon="2.3801">
+    <ele>585</ele>
+    <name>F/MC-185</name>
+    <cmt><![CDATA[Le Fraysse]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="44.471401" lon="2.4265001">
+    <ele>540</ele>
+    <name>F/MC-188</name>
+    <cmt><![CDATA[Le Bois Gros]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.754002" lon="3.1952">
+    <ele>542</ele>
+    <name>F/MC-189</name>
+    <cmt><![CDATA[Puy de Bane]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="46.0261" lon="1.0306">
+    <ele>515</ele>
+    <name>F/MC-190</name>
+    <cmt><![CDATA[Monts de Blond]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="44.590401" lon="2.1912">
+    <ele>505</ele>
+    <name>F/MC-191</name>
+    <cmt><![CDATA[Plancat]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.087799" lon="1.6188">
+    <ele>502</ele>
+    <name>F/MC-192</name>
+    <cmt><![CDATA[La Ramière]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.230598" lon="2.1528001">
+    <ele>493</ele>
+    <name>F/MC-193</name>
+    <cmt><![CDATA[Forêt de Frétigne]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="43.652199" lon="2.3137">
+    <ele>445</ele>
+    <name>F/MC-194</name>
+    <cmt><![CDATA[Les Goffes]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="44.426102" lon="3.7392001">
+    <ele>1699</ele>
+    <name>F/MC-195</name>
+    <cmt><![CDATA[Mont Lozère]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="44.401001" lon="3.8461001">
+    <ele>1680</ele>
+    <name>F/MC-197</name>
+    <cmt><![CDATA[Le Pic Cassini]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.054901" lon="4.1307001">
+    <ele>1436</ele>
+    <name>F/MC-204</name>
+    <cmt><![CDATA[Montagne du Meygal]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.224899" lon="3.9697001">
+    <ele>1076</ele>
+    <name>F/MC-218</name>
+    <cmt><![CDATA[Forêt de Miaune]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="43.458698" lon="2.2927001">
+    <ele>1035</ele>
+    <name>F/MC-221</name>
+    <cmt><![CDATA[Le Therme Noir]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.242001" lon="4.0531001">
+    <ele>971</ele>
+    <name>F/MC-222</name>
+    <cmt><![CDATA[La Madeleine]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.174999" lon="4.0549998">
+    <ele>942</ele>
+    <name>F/MC-224</name>
+    <cmt><![CDATA[Suc de Cornavy]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="43.8811" lon="2.9152999">
+    <ele>789</ele>
+    <name>F/MC-225</name>
+    <cmt><![CDATA[La Loubière]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="44.084999" lon="1.834">
+    <ele>523</ele>
+    <name>F/MC-233</name>
+    <cmt><![CDATA[La Plane]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="44.567101" lon="3.0820999">
+    <ele>1469</ele>
+    <name>F/MC-235</name>
+    <cmt><![CDATA[Signal de Mailhebiau]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="44.939999" lon="3.7650001">
+    <ele>1421</ele>
+    <name>F/MC-236</name>
+    <cmt><![CDATA[Le Devès]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="44.785801" lon="3.0030999">
+    <ele>1285</ele>
+    <name>F/MC-237</name>
+    <cmt><![CDATA[Puy de la Tuile]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.814701" lon="2.9821999">
+    <ele>1144</ele>
+    <name>F/MC-238</name>
+    <cmt><![CDATA[Grand Sarcoui]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.145802" lon="4.0654001">
+    <ele>1137</ele>
+    <name>F/MC-239</name>
+    <cmt><![CDATA[Suc d'Ayme]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.8358" lon="3.7267001">
+    <ele>1018</ele>
+    <name>F/MC-240</name>
+    <cmt><![CDATA[Pierre Beille]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="44.375" lon="3.1658001">
+    <ele>1016</ele>
+    <name>F/MC-241</name>
+    <cmt><![CDATA[Lous Valats]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.57" lon="2.1233001">
+    <ele>976</ele>
+    <name>F/MC-242</name>
+    <cmt><![CDATA[Mont Bessou]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.8633" lon="3.8541999">
+    <ele>952</ele>
+    <name>F/MC-243</name>
+    <cmt><![CDATA[Les Cornes d'Urfé]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="43.7686" lon="3.0188999">
+    <ele>916</ele>
+    <name>F/MC-244</name>
+    <cmt><![CDATA[Puech de Lion]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="43.963902" lon="3.1264999">
+    <ele>912</ele>
+    <name>F/MC-245</name>
+    <cmt><![CDATA[Cougouille]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.811699" lon="4.4825001">
+    <ele>862</ele>
+    <name>F/MC-246</name>
+    <cmt><![CDATA[Les Flachisses]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.052299" lon="3.9352">
+    <ele>838</ele>
+    <name>F/MC-247</name>
+    <cmt><![CDATA[Mont Brunelet]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="46.175499" lon="2.9533">
+    <ele>771</ele>
+    <name>F/MC-248</name>
+    <cmt><![CDATA[La Pyramide]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="43.889198" lon="3.0875001">
+    <ele>768</ele>
+    <name>F/MC-249</name>
+    <cmt><![CDATA[Plo Del Bessou]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.5825" lon="3.2842">
+    <ele>690</ele>
+    <name>F/MC-250</name>
+    <cmt><![CDATA[La Tronchère]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="46.057098" lon="1.8218">
+    <ele>679</ele>
+    <name>F/MC-251</name>
+    <cmt><![CDATA[Roc des Frocs]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.384701" lon="2.5578001">
+    <ele>672</ele>
+    <name>F/MC-252</name>
+    <cmt><![CDATA[Fournols]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.330799" lon="2.4108">
+    <ele>665</ele>
+    <name>F/MC-253</name>
+    <cmt><![CDATA[Bois de Frousty]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.9925" lon="1.6658">
+    <ele>630</ele>
+    <name>F/MC-254</name>
+    <cmt><![CDATA[Puy de Roche Guette]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.615398" lon="3.3648">
+    <ele>620</ele>
+    <name>F/MC-255</name>
+    <cmt><![CDATA[Puy d'Auger]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.526901" lon="4.7463002">
+    <ele>564</ele>
+    <name>F/MC-256</name>
+    <cmt><![CDATA[Le Pet du Loup]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.724201" lon="3.3192">
+    <ele>563</ele>
+    <name>F/MC-257</name>
+    <cmt><![CDATA[Le gros Turluron]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.591301" lon="1.0532">
+    <ele>557</ele>
+    <name>F/MC-258</name>
+    <cmt><![CDATA[Mont de Courbefy]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="44.192902" lon="2.1352999">
+    <ele>531</ele>
+    <name>F/MC-259</name>
+    <cmt><![CDATA[Les Finials]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="46.1087" lon="4.6536002">
+    <ele>484</ele>
+    <name>F/MC-260</name>
+    <cmt><![CDATA[Mont Brouilly]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="44.577499" lon="2.22">
+    <ele>462</ele>
+    <name>F/MC-261</name>
+    <cmt><![CDATA[Millagues]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="44.626499" lon="2.0866001">
+    <ele>427</ele>
+    <name>F/MC-262</name>
+    <cmt><![CDATA[Les Rouquettes]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="45.162498" lon="1.6475">
+    <ele>377</ele>
+    <name>F/MC-263</name>
+    <cmt><![CDATA[Lacoste]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+  <wpt lat="43.57" lon="2.0450001">
+    <ele>377</ele>
+    <name>F/MC-264</name>
+    <cmt><![CDATA[Montaut]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Massif-Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/MC</type>
+  </wpt>
+</gpx>

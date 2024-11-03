@@ -1,0 +1,2040 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1" 
+     creator="SOTA Mapping Project GPX Generator 1.1" 
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+     xmlns="http://www.topografix.com/GPX/1/1" 
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>SOTA Summits GPX Export</name>
+    <desc>SOTA Summits data in GPX v1.1 format></desc>
+    <author>
+      <name>SOTA Mapping Project></name>
+      <email id="admin" domain="www.sotamaps.org" />
+      <link href="https://www.sotamaps.org">
+        <text>SOTA Mapping Project</text>
+      </link>
+    </author>
+    <link href="https://www.sotamaps.org">
+      <text>SOTA Mapping Project</text>
+    </link>
+    <time>2024-11-03T14:13:37Z</time>
+    <keywords>SOTA, Summits On The Air, amateur radio, ham radio</keywords>
+    <bounds minlat="42.691101" minlon="-1.7219" maxlat="43.358002" maxlon="0.60820001"/>
+  </metadata>
+  <wpt lat="42.773899" lon="-0.1472">
+    <ele>3298</ele>
+    <name>F/PO-001</name>
+    <cmt><![CDATA[Vignemale]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.8008" lon="0.1">
+    <ele>3192</ele>
+    <name>F/PO-005</name>
+    <cmt><![CDATA[Pic Long]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.792801" lon="0.1208">
+    <ele>3173</ele>
+    <name>F/PO-006</name>
+    <cmt><![CDATA[Pic de Campbieil]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.839001" lon="-0.29030001">
+    <ele>3144</ele>
+    <name>F/PO-009</name>
+    <cmt><![CDATA[Balaïtous]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.715599" lon="0.1336">
+    <ele>3134</ele>
+    <name>F/PO-010</name>
+    <cmt><![CDATA[Pic de la Munia]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.8354" lon="0.115">
+    <ele>3091</ele>
+    <name>F/PO-012</name>
+    <cmt><![CDATA[Pic de Néouvielle]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.735199" lon="0.3599">
+    <ele>3023</ele>
+    <name>F/PO-020</name>
+    <cmt><![CDATA[Pic de Lustou]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.808601" lon="-0.2378">
+    <ele>3005</ele>
+    <name>F/PO-022</name>
+    <cmt><![CDATA[Grande Fache]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.8339" lon="-0.067699999">
+    <ele>2988</ele>
+    <name>F/PO-023</name>
+    <cmt><![CDATA[Pic d'Ardiden]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.806099" lon="0.1283">
+    <ele>2995</ele>
+    <name>F/PO-024</name>
+    <cmt><![CDATA[Grand Pic ou Cylindre d'Estaragne]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.768799" lon="0.1112">
+    <ele>2976</ele>
+    <name>F/PO-025</name>
+    <cmt><![CDATA[Soum des Salettes]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.786098" lon="-0.1203">
+    <ele>2976</ele>
+    <name>F/PO-026</name>
+    <cmt><![CDATA[Pic de la Sède]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.849499" lon="-0.31310001">
+    <ele>2974</ele>
+    <name>F/PO-027</name>
+    <cmt><![CDATA[Pic de Palas]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.777" lon="-0.082000002">
+    <ele>2968</ele>
+    <name>F/PO-028</name>
+    <cmt><![CDATA[Soum d'Aspé]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.784199" lon="-0.072400004">
+    <ele>2965</ele>
+    <name>F/PO-029</name>
+    <cmt><![CDATA[Malh Arrouy]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.823601" lon="-0.2431">
+    <ele>2965</ele>
+    <name>F/PO-030</name>
+    <cmt><![CDATA[Pic de Cambalès]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.715099" lon="0.34909999">
+    <ele>2963</ele>
+    <name>F/PO-031</name>
+    <cmt><![CDATA[Pic de la Niscoude]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.782299" lon="-0.1085">
+    <ele>2946</ele>
+    <name>F/PO-032</name>
+    <cmt><![CDATA[Pic de Labas]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.8036" lon="-0.070699997">
+    <ele>2947</ele>
+    <name>F/PO-034</name>
+    <cmt><![CDATA[Pic de Cestrède]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.7542" lon="0.27489999">
+    <ele>2935</ele>
+    <name>F/PO-035</name>
+    <cmt><![CDATA[Pic d'Aret]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.801701" lon="0.15440001">
+    <ele>2930</ele>
+    <name>F/PO-036</name>
+    <cmt><![CDATA[Pic Méchant]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.798801" lon="-0.1609">
+    <ele>2930</ele>
+    <name>F/PO-037</name>
+    <cmt><![CDATA[Pic Alphonse Meillon]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.743301" lon="0.36750001">
+    <ele>2934</ele>
+    <name>F/PO-038</name>
+    <cmt><![CDATA[Crête de Parraouis]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.842999" lon="-0.43799999">
+    <ele>2884</ele>
+    <name>F/PO-039</name>
+    <cmt><![CDATA[Pic du Midi d'Ossau]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.795601" lon="-0.0867">
+    <ele>2895</ele>
+    <name>F/PO-040</name>
+    <cmt><![CDATA[Pic de Pébignau]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.804901" lon="0.1705">
+    <ele>2877</ele>
+    <name>F/PO-041</name>
+    <cmt><![CDATA[Pic de Bugatet]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.691101" lon="0.42609999">
+    <ele>2873</ele>
+    <name>F/PO-042</name>
+    <cmt><![CDATA[Pic d'Aygues Tortes]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.711399" lon="0.2608">
+    <ele>2867</ele>
+    <name>F/PO-043</name>
+    <cmt><![CDATA[Pic d'Arriouère]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.937099" lon="0.14120001">
+    <ele>2876</ele>
+    <name>F/PO-044</name>
+    <cmt><![CDATA[Pic du Midi de Bigorre]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.740799" lon="0.46360001">
+    <ele>2860</ele>
+    <name>F/PO-046</name>
+    <cmt><![CDATA[Pic d'Espingo]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.714001" lon="0.076399997">
+    <ele>2845</ele>
+    <name>F/PO-048</name>
+    <cmt><![CDATA[Soum de Port Bieil]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.693199" lon="0.2638">
+    <ele>2832</ele>
+    <name>F/PO-049</name>
+    <cmt><![CDATA[Pic de l'Espade]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.8759" lon="0.2726">
+    <ele>2831</ele>
+    <name>F/PO-050</name>
+    <cmt><![CDATA[L'Arbizon]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.857201" lon="-0.3504">
+    <ele>2826</ele>
+    <name>F/PO-051</name>
+    <cmt><![CDATA[Le Lurien]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.834202" lon="-0.33140001">
+    <ele>2824</ele>
+    <name>F/PO-052</name>
+    <cmt><![CDATA[Pic d'Arriel ou Saget]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.806198" lon="-0.1234">
+    <ele>2816</ele>
+    <name>F/PO-053</name>
+    <cmt><![CDATA[Pic d'Estibe Aute]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.751099" lon="0.38479999">
+    <ele>2803</ele>
+    <name>F/PO-055</name>
+    <cmt><![CDATA[Pic d'Arrouyette]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.864799" lon="-0.19490001">
+    <ele>2813</ele>
+    <name>F/PO-056</name>
+    <cmt><![CDATA[Grand Barbat]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.735699" lon="0.0217">
+    <ele>2801</ele>
+    <name>F/PO-057</name>
+    <cmt><![CDATA[Pimené]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.746399" lon="0.2146">
+    <ele>2798</ele>
+    <name>F/PO-058</name>
+    <cmt><![CDATA[Pic de Garlitz]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.838501" lon="-0.2156">
+    <ele>2793</ele>
+    <name>F/PO-059</name>
+    <cmt><![CDATA[Pic de Bernat Barrau]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.8494" lon="-0.1997">
+    <ele>2785</ele>
+    <name>F/PO-060</name>
+    <cmt><![CDATA[Pic Arrouy]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.785198" lon="-0.052999999">
+    <ele>2797</ele>
+    <name>F/PO-061</name>
+    <cmt><![CDATA[Soum de Male]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.8367" lon="0.073799998">
+    <ele>2778</ele>
+    <name>F/PO-062</name>
+    <cmt><![CDATA[Mont Arrouy]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.8894" lon="-0.3152">
+    <ele>2771</ele>
+    <name>F/PO-063</name>
+    <cmt><![CDATA[Pic des Tourettes]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.874802" lon="0.24439999">
+    <ele>2738</ele>
+    <name>F/PO-065</name>
+    <cmt><![CDATA[Pic d'Aulon]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.8936" lon="-0.1673">
+    <ele>2724</ele>
+    <name>F/PO-067</name>
+    <cmt><![CDATA[Moun Né ou Pic de Monné]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.755001" lon="0.32949999">
+    <ele>2730</ele>
+    <name>F/PO-068</name>
+    <cmt><![CDATA[Pic de la Haille]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.862" lon="0.2176">
+    <ele>2721</ele>
+    <name>F/PO-069</name>
+    <cmt><![CDATA[Pic de Bastan d'Aulon]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.886902" lon="0.1753">
+    <ele>2724</ele>
+    <name>F/PO-071</name>
+    <cmt><![CDATA[Pic des Quatre Termes]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.821098" lon="-0.3626">
+    <ele>2716</ele>
+    <name>F/PO-072</name>
+    <cmt><![CDATA[Pic de Soques]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.865799" lon="0.2006">
+    <ele>2715</ele>
+    <name>F/PO-073</name>
+    <cmt><![CDATA[Pic de Bastan]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.7174" lon="0.22679999">
+    <ele>2677</ele>
+    <name>F/PO-074</name>
+    <cmt><![CDATA[Pic de Marty Caberrou]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.730202" lon="0.43669999">
+    <ele>2699</ele>
+    <name>F/PO-075</name>
+    <cmt><![CDATA[Pic des Courtalets]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.761398" lon="0.34200001">
+    <ele>2703</ele>
+    <name>F/PO-076</name>
+    <cmt><![CDATA[Pic de Berdalade]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.831402" lon="0.057799999">
+    <ele>2710</ele>
+    <name>F/PO-077</name>
+    <cmt><![CDATA[Soum de Marraut]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.868198" lon="-0.2121">
+    <ele>2703</ele>
+    <name>F/PO-078</name>
+    <cmt><![CDATA[Pic Maleshores]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.894402" lon="-0.29980001">
+    <ele>2708</ele>
+    <name>F/PO-079</name>
+    <cmt><![CDATA[Pic Arrouy]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.763599" lon="0.1472">
+    <ele>2696</ele>
+    <name>F/PO-080</name>
+    <cmt><![CDATA[Pic de Piau]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.930901" lon="-0.28380001">
+    <ele>2692</ele>
+    <name>F/PO-081</name>
+    <cmt><![CDATA[Pic des Taillades]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.870899" lon="-0.29929999">
+    <ele>2691</ele>
+    <name>F/PO-082</name>
+    <cmt><![CDATA[Le Courouaou]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.762699" lon="0.36680001">
+    <ele>2676</ele>
+    <name>F/PO-083</name>
+    <cmt><![CDATA[Pic de Sarrouyes]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.857899" lon="0.1365">
+    <ele>2657</ele>
+    <name>F/PO-084</name>
+    <cmt><![CDATA[Pic de Madaméte]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.889999" lon="0.1558">
+    <ele>2641</ele>
+    <name>F/PO-085</name>
+    <cmt><![CDATA[Soum du Cot de l'Espade]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.738499" lon="-0.1177">
+    <ele>2646</ele>
+    <name>F/PO-088</name>
+    <cmt><![CDATA[Pic de Lourdes]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.917301" lon="-0.32780001">
+    <ele>2619</ele>
+    <name>F/PO-089</name>
+    <cmt><![CDATA[Géougue d'Arre]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.936501" lon="-0.35420001">
+    <ele>2613</ele>
+    <name>F/PO-090</name>
+    <cmt><![CDATA[Pic de Ger]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.9259" lon="-0.33500001">
+    <ele>2614</ele>
+    <name>F/PO-091</name>
+    <cmt><![CDATA[Arre Sourins]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.919102" lon="-0.50370002">
+    <ele>2606</ele>
+    <name>F/PO-092</name>
+    <cmt><![CDATA[L'Escarpu]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.872398" lon="-0.35859999">
+    <ele>2603</ele>
+    <name>F/PO-093</name>
+    <cmt><![CDATA[Quintêtes]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.813801" lon="0.2447">
+    <ele>2586</ele>
+    <name>F/PO-094</name>
+    <cmt><![CDATA[Crête de Hêche-Barrade]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.726799" lon="-0.1118">
+    <ele>2590</ele>
+    <name>F/PO-095</name>
+    <cmt><![CDATA[Pic Crabère]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.927399" lon="-0.35299999">
+    <ele>2594</ele>
+    <name>F/PO-096</name>
+    <cmt><![CDATA[Pic d'Amoulat]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.757401" lon="-0.049400002">
+    <ele>2577</ele>
+    <name>F/PO-097</name>
+    <cmt><![CDATA[Soum Blanc de Secugnat]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.886299" lon="0.22409999">
+    <ele>2568</ele>
+    <name>F/PO-098</name>
+    <cmt><![CDATA[Pic de Montarrouye]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.909401" lon="-0.50550002">
+    <ele>2526</ele>
+    <name>F/PO-100</name>
+    <cmt><![CDATA[Soum de Moundaut]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.923901" lon="-0.3619">
+    <ele>2513</ele>
+    <name>F/PO-101</name>
+    <cmt><![CDATA[La Grande Arcizette]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.944199" lon="-0.72060001">
+    <ele>2504</ele>
+    <name>F/PO-102</name>
+    <cmt><![CDATA[Pic d'Anie]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.830799" lon="-0.44119999">
+    <ele>2487</ele>
+    <name>F/PO-103</name>
+    <cmt><![CDATA[Pic Peyreget]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.895599" lon="-0.48500001">
+    <ele>2457</ele>
+    <name>F/PO-104</name>
+    <cmt><![CDATA[Pic Gaziès]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.880199" lon="-0.48840001">
+    <ele>2427</ele>
+    <name>F/PO-105</name>
+    <cmt><![CDATA[Soum d'Aas]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.871899" lon="0.072300002">
+    <ele>2422</ele>
+    <name>F/PO-106</name>
+    <cmt><![CDATA[Pic d'Ayré]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.760799" lon="0.1837">
+    <ele>2418</ele>
+    <name>F/PO-108</name>
+    <cmt><![CDATA[Pic de Bourgade]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.907001" lon="0.0101">
+    <ele>2394</ele>
+    <name>F/PO-109</name>
+    <cmt><![CDATA[Soum de Nére]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.8946" lon="-0.47139999">
+    <ele>2392</ele>
+    <name>F/PO-110</name>
+    <cmt><![CDATA[Pic d'Aule]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.838001" lon="-0.1522">
+    <ele>2377</ele>
+    <name>F/PO-111</name>
+    <cmt><![CDATA[Pic de Gaube]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.902901" lon="-0.73250002">
+    <ele>2377</ele>
+    <name>F/PO-112</name>
+    <cmt><![CDATA[Grande Aiguille d'Ansabère]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.839001" lon="-0.50330001">
+    <ele>2384</ele>
+    <name>F/PO-113</name>
+    <cmt><![CDATA[Pic Hourquette]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.801899" lon="-0.44909999">
+    <ele>2364</ele>
+    <name>F/PO-114</name>
+    <cmt><![CDATA[Pic d'Anéou]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.762699" lon="0.4621">
+    <ele>2368</ele>
+    <name>F/PO-115</name>
+    <cmt><![CDATA[Montségu]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.9837" lon="0.068800002">
+    <ele>2339</ele>
+    <name>F/PO-116</name>
+    <cmt><![CDATA[Pic de Montaigu]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.8689" lon="-0.1322">
+    <ele>2316</ele>
+    <name>F/PO-117</name>
+    <cmt><![CDATA[Pic de Péguère]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.928299" lon="-0.69499999">
+    <ele>2318</ele>
+    <name>F/PO-118</name>
+    <cmt><![CDATA[Le Billare]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.9128" lon="-0.2309">
+    <ele>2291</ele>
+    <name>F/PO-119</name>
+    <cmt><![CDATA[Pic de Sarret]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.950001" lon="0.17039999">
+    <ele>2285</ele>
+    <name>F/PO-120</name>
+    <cmt><![CDATA[Pic de Ballonque]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.820202" lon="-0.60189998">
+    <ele>2258</ele>
+    <name>F/PO-121</name>
+    <cmt><![CDATA[Pic de Gabedaille]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.9617" lon="-0.5223">
+    <ele>2221</ele>
+    <name>F/PO-122</name>
+    <cmt><![CDATA[L'Embarrère]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.9226" lon="-0.4109">
+    <ele>2209</ele>
+    <name>F/PO-123</name>
+    <cmt><![CDATA[Pic de Cézy]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.842602" lon="-0.62470001">
+    <ele>2215</ele>
+    <name>F/PO-125</name>
+    <cmt><![CDATA[Pic d'Aillary]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.965401" lon="-0.49869999">
+    <ele>2188</ele>
+    <name>F/PO-126</name>
+    <cmt><![CDATA[Mardas]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.885601" lon="-0.67720002">
+    <ele>2180</ele>
+    <name>F/PO-127</name>
+    <cmt><![CDATA[Pic Lariste]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.861099" lon="0.44150001">
+    <ele>2171</ele>
+    <name>F/PO-128</name>
+    <cmt><![CDATA[Montious]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.809502" lon="-0.4043">
+    <ele>2165</ele>
+    <name>F/PO-129</name>
+    <cmt><![CDATA[Pic d'Estremère]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.880798" lon="-0.62029999">
+    <ele>2175</ele>
+    <name>F/PO-130</name>
+    <cmt><![CDATA[Pic de Labigouer]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.876999" lon="0.47659999">
+    <ele>2147</ele>
+    <name>F/PO-131</name>
+    <cmt><![CDATA[Mont Né]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.969002" lon="-0.52869999">
+    <ele>2148</ele>
+    <name>F/PO-132</name>
+    <cmt><![CDATA[Pic de Bergon]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.918701" lon="-0.069899999">
+    <ele>2141</ele>
+    <name>F/PO-133</name>
+    <cmt><![CDATA[Pic de Viscos]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.867802" lon="-0.6286">
+    <ele>2116</ele>
+    <name>F/PO-134</name>
+    <cmt><![CDATA[Table de Souperret]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.964401" lon="-0.70099998">
+    <ele>2041</ele>
+    <name>F/PO-136</name>
+    <cmt><![CDATA[Les orgues de Camplong]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.972198" lon="-0.48769999">
+    <ele>2000</ele>
+    <name>F/PO-138</name>
+    <cmt><![CDATA[Pic Lasnères]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.028198" lon="-0.49950001">
+    <ele>1973</ele>
+    <name>F/PO-139</name>
+    <cmt><![CDATA[Pic Montagnon]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.9771" lon="0.30410001">
+    <ele>1921</ele>
+    <name>F/PO-142</name>
+    <cmt><![CDATA[Signal de Bassia]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.0084" lon="-0.45950001">
+    <ele>1901</ele>
+    <name>F/PO-144</name>
+    <cmt><![CDATA[Pic de Gerbe]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.987099" lon="-0.4797">
+    <ele>1889</ele>
+    <name>F/PO-145</name>
+    <cmt><![CDATA[Pic Lorry]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.025101" lon="-0.2131">
+    <ele>1881</ele>
+    <name>F/PO-146</name>
+    <cmt><![CDATA[Soum de Granquet]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.9352" lon="0.44710001">
+    <ele>1887</ele>
+    <name>F/PO-147</name>
+    <cmt><![CDATA[Cap Nestès]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.985298" lon="-0.34060001">
+    <ele>1870</ele>
+    <name>F/PO-149</name>
+    <cmt><![CDATA[Soum de Grum]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.996201" lon="-0.2282">
+    <ele>1804</ele>
+    <name>F/PO-150</name>
+    <cmt><![CDATA[Pic de Bazès]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.055901" lon="-0.52350003">
+    <ele>1813</ele>
+    <name>F/PO-152</name>
+    <cmt><![CDATA[Pic de l'Ourlène]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.951199" lon="0.31900001">
+    <ele>1755</ele>
+    <name>F/PO-153</name>
+    <cmt><![CDATA[Monné Rouye]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.002399" lon="-0.0147">
+    <ele>1746</ele>
+    <name>F/PO-155</name>
+    <cmt><![CDATA[Hautacam]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.929901" lon="0.53359997">
+    <ele>1729</ele>
+    <name>F/PO-156</name>
+    <cmt><![CDATA[Pic de Mont Las]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.0411" lon="-0.347">
+    <ele>1728</ele>
+    <name>F/PO-157</name>
+    <cmt><![CDATA[Pic de Males ores]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.973701" lon="0.4249">
+    <ele>1722</ele>
+    <name>F/PO-158</name>
+    <cmt><![CDATA[Pic de Montaut]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.814201" lon="0.37869999">
+    <ele>1735</ele>
+    <name>F/PO-159</name>
+    <cmt><![CDATA[Peyres Aubes]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.028099" lon="-0.28600001">
+    <ele>1716</ele>
+    <name>F/PO-160</name>
+    <cmt><![CDATA[Pic de Mondragon]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.047501" lon="-0.3143">
+    <ele>1700</ele>
+    <name>F/PO-161</name>
+    <cmt><![CDATA[Pic Durban]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.003899" lon="-1.0439">
+    <ele>1657</ele>
+    <name>F/PO-162</name>
+    <cmt><![CDATA[Pic de Bizkarze]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.064999" lon="-0.56220001">
+    <ele>1646</ele>
+    <name>F/PO-163</name>
+    <cmt><![CDATA[Pic Roumendarès]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.060101" lon="-0.54589999">
+    <ele>1654</ele>
+    <name>F/PO-164</name>
+    <cmt><![CDATA[Serrisse]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.006802" lon="0.2264">
+    <ele>1628</ele>
+    <name>F/PO-165</name>
+    <cmt><![CDATA[Caoutérou]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.0247" lon="-0.65600002">
+    <ele>1625</ele>
+    <name>F/PO-166</name>
+    <cmt><![CDATA[Le Layens]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.998402" lon="-0.17399999">
+    <ele>1616</ele>
+    <name>F/PO-167</name>
+    <cmt><![CDATA[Soum de la Péne]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.012699" lon="-0.72289997">
+    <ele>1589</ele>
+    <name>F/PO-168</name>
+    <cmt><![CDATA[Pic Soulaing]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.014198" lon="0.2313">
+    <ele>1595</ele>
+    <name>F/PO-169</name>
+    <cmt><![CDATA[Casque du Lhéris]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.017101" lon="-0.80140001">
+    <ele>1568</ele>
+    <name>F/PO-171</name>
+    <cmt><![CDATA[Pic d'Issarbe]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.0522" lon="-1.0403">
+    <ele>1531</ele>
+    <name>F/PO-173</name>
+    <cmt><![CDATA[Arthanolatze]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.9534" lon="-0.1785">
+    <ele>1519</ele>
+    <name>F/PO-174</name>
+    <cmt><![CDATA[Pic Arrouy]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.032398" lon="-1.1073">
+    <ele>1466</ele>
+    <name>F/PO-175</name>
+    <cmt><![CDATA[Okabe]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.000401" lon="0.41620001">
+    <ele>1451</ele>
+    <name>F/PO-176</name>
+    <cmt><![CDATA[Pène Haute]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.0872" lon="-0.51349998">
+    <ele>1440</ele>
+    <name>F/PO-177</name>
+    <cmt><![CDATA[Pic d'Escurets]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.056999" lon="-0.1322">
+    <ele>1389</ele>
+    <name>F/PO-179</name>
+    <cmt><![CDATA[Soum du Montné]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.048901" lon="-0.70249999">
+    <ele>1351</ele>
+    <name>F/PO-181</name>
+    <cmt><![CDATA[Soum d'Ire]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.076698" lon="-0.3906">
+    <ele>1349</ele>
+    <name>F/PO-182</name>
+    <cmt><![CDATA[Soum de las Picarras]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.043999" lon="-1.1714">
+    <ele>1347</ele>
+    <name>F/PO-183</name>
+    <cmt><![CDATA[Errozate]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.058102" lon="-1.0895">
+    <ele>1338</ele>
+    <name>F/PO-184</name>
+    <cmt><![CDATA[Saroberri]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.113499" lon="-1.0075999">
+    <ele>1284</ele>
+    <name>F/PO-185</name>
+    <cmt><![CDATA[Ihatea]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.016399" lon="0.34060001">
+    <ele>1269</ele>
+    <name>F/PO-186</name>
+    <cmt><![CDATA[Pic d'Arneille]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.062599" lon="-0.6322">
+    <ele>1266</ele>
+    <name>F/PO-187</name>
+    <cmt><![CDATA[Le Trône du Roi]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.035301" lon="0.13850001">
+    <ele>1253</ele>
+    <name>F/PO-188</name>
+    <cmt><![CDATA[Le Monné]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.1133" lon="-1.3365">
+    <ele>1247</ele>
+    <name>F/PO-189</name>
+    <cmt><![CDATA[Adartza]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.005199" lon="0.5147">
+    <ele>1246</ele>
+    <name>F/PO-190</name>
+    <cmt><![CDATA[Pic de Mont Caup]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.016399" lon="0.4012">
+    <ele>1211</ele>
+    <name>F/PO-191</name>
+    <cmt><![CDATA[Cap d'Estivère]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.055" lon="-0.72320002">
+    <ele>1173</ele>
+    <name>F/PO-192</name>
+    <cmt><![CDATA[Soum de Bératu]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.055599" lon="-0.97829998">
+    <ele>1173</ele>
+    <name>F/PO-193</name>
+    <cmt><![CDATA[Beloscare]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.060799" lon="-0.77579999">
+    <ele>1167</ele>
+    <name>F/PO-194</name>
+    <cmt><![CDATA[Pic de Sudou]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.1502" lon="-1.0489">
+    <ele>1130</ele>
+    <name>F/PO-195</name>
+    <cmt><![CDATA[Pic de Belchou]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.122898" lon="-0.9497">
+    <ele>1059</ele>
+    <name>F/PO-196</name>
+    <cmt><![CDATA[Hasgagnia]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.0765" lon="-1.0135">
+    <ele>1097</ele>
+    <name>F/PO-197</name>
+    <cmt><![CDATA[Lutogagne]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.106201" lon="-0.95310003">
+    <ele>1072</ele>
+    <name>F/PO-198</name>
+    <cmt><![CDATA[Pic Belhygagne]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.142101" lon="-1.307">
+    <ele>1023</ele>
+    <name>F/PO-202</name>
+    <cmt><![CDATA[Munhoa]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.0844" lon="-0.28279999">
+    <ele>1004</ele>
+    <name>F/PO-203</name>
+    <cmt><![CDATA[Soum de la Brèque]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.156399" lon="-1.3959">
+    <ele>987</ele>
+    <name>F/PO-204</name>
+    <cmt><![CDATA[Elhorriko Kaskoa]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.0312" lon="0.43529999">
+    <ele>971</ele>
+    <name>F/PO-205</name>
+    <cmt><![CDATA[Pic de Pinçon]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.080002" lon="-0.031199999">
+    <ele>951</ele>
+    <name>F/PO-206</name>
+    <cmt><![CDATA[Pic du Jer]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.071499" lon="-0.68370003">
+    <ele>948</ele>
+    <name>F/PO-207</name>
+    <cmt><![CDATA[Soum de Berre]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.153099" lon="-1.3343">
+    <ele>939</ele>
+    <name>F/PO-208</name>
+    <cmt><![CDATA[Oilarandoi]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.0853" lon="-1.3898">
+    <ele>909</ele>
+    <name>F/PO-209</name>
+    <cmt><![CDATA[Errola]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.089401" lon="-0.089199997">
+    <ele>913</ele>
+    <name>F/PO-210</name>
+    <cmt><![CDATA[Soum d'Ech]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.290401" lon="-1.2929">
+    <ele>897</ele>
+    <name>F/PO-213</name>
+    <cmt><![CDATA[Mont Baïgoura]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.078701" lon="-0.76249999">
+    <ele>872</ele>
+    <name>F/PO-214</name>
+    <cmt><![CDATA[Sommet de Mail Haut]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.060699" lon="0.0052999998">
+    <ele>876</ele>
+    <name>F/PO-215</name>
+    <cmt><![CDATA[Tucoulet]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.059799" lon="-0.81410003">
+    <ele>865</ele>
+    <name>F/PO-216</name>
+    <cmt><![CDATA[Sommet d'Aragnouague]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.044201" lon="0.27000001">
+    <ele>821</ele>
+    <name>F/PO-217</name>
+    <cmt><![CDATA[Stiouère]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.046501" lon="0.39140001">
+    <ele>805</ele>
+    <name>F/PO-218</name>
+    <cmt><![CDATA[Le Mont]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.1483" lon="-0.84390002">
+    <ele>793</ele>
+    <name>F/PO-219</name>
+    <cmt><![CDATA[Chapelle de la Madeleine]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.100601" lon="-0.63059998">
+    <ele>792</ele>
+    <name>F/PO-220</name>
+    <cmt><![CDATA[Bisarce]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.085999" lon="-0.068099998">
+    <ele>791</ele>
+    <name>F/PO-221</name>
+    <cmt><![CDATA[Le Béout]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.9636" lon="0.58050001">
+    <ele>797</ele>
+    <name>F/PO-222</name>
+    <cmt><![CDATA[Gouardère]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.0774" lon="-0.80080003">
+    <ele>798</ele>
+    <name>F/PO-223</name>
+    <cmt><![CDATA[Lou Bouch]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.1567" lon="-1.1233">
+    <ele>792</ele>
+    <name>F/PO-224</name>
+    <cmt><![CDATA[Kohegi]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.0895" lon="-0.83179998">
+    <ele>767</ele>
+    <name>F/PO-225</name>
+    <cmt><![CDATA[Mont Begousse]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.116199" lon="-0.6512">
+    <ele>765</ele>
+    <name>F/PO-226</name>
+    <cmt><![CDATA[Soum de Ségu]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.171501" lon="-1.0948">
+    <ele>764</ele>
+    <name>F/PO-227</name>
+    <cmt><![CDATA[Nethe]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.117401" lon="-1.1795">
+    <ele>761</ele>
+    <name>F/PO-228</name>
+    <cmt><![CDATA[Gatarre]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.0084" lon="0.60820001">
+    <ele>746</ele>
+    <name>F/PO-229</name>
+    <cmt><![CDATA[Mail de Mau Bourg]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.3018" lon="-1.4322">
+    <ele>749</ele>
+    <name>F/PO-230</name>
+    <cmt><![CDATA[Pic du Mondarrain]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.122898" lon="-0.82889998">
+    <ele>700</ele>
+    <name>F/PO-232</name>
+    <cmt><![CDATA[Sommet d'Erretzü]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.175598" lon="-0.99169999">
+    <ele>700</ele>
+    <name>F/PO-233</name>
+    <cmt><![CDATA[Pic d'Elhaudy]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.1856" lon="-1.005">
+    <ele>705</ele>
+    <name>F/PO-234</name>
+    <cmt><![CDATA[Chapelle Saint Antoine]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.271702" lon="-1.62">
+    <ele>698</ele>
+    <name>F/PO-235</name>
+    <cmt><![CDATA[Ibanteli]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.173901" lon="-0.74779999">
+    <ele>661</ele>
+    <name>F/PO-236</name>
+    <cmt><![CDATA[Sommet de Cambillou]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.187099" lon="-1.2345999">
+    <ele>660</ele>
+    <name>F/PO-237</name>
+    <cmt><![CDATA[Pic d'Arradoi]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.126099" lon="0.0142">
+    <ele>649</ele>
+    <name>F/PO-238</name>
+    <cmt><![CDATA[Miramont]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.141998" lon="-0.74510002">
+    <ele>623</ele>
+    <name>F/PO-240</name>
+    <cmt><![CDATA[Sommet de Souek]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.091999" lon="-0.44100001">
+    <ele>633</ele>
+    <name>F/PO-241</name>
+    <cmt><![CDATA[Larroun]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.202801" lon="-0.7834">
+    <ele>609</ele>
+    <name>F/PO-242</name>
+    <cmt><![CDATA[Ahargo]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.300598" lon="-1.4588">
+    <ele>616</ele>
+    <name>F/PO-243</name>
+    <cmt><![CDATA[Soporro]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.137299" lon="-0.67119998">
+    <ele>577</ele>
+    <name>F/PO-244</name>
+    <cmt><![CDATA[Soum d'Aulis]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.325802" lon="-1.7219">
+    <ele>486</ele>
+    <name>F/PO-245</name>
+    <cmt><![CDATA[Xoldoko Gaina]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.174999" lon="-0.70060003">
+    <ele>476</ele>
+    <name>F/PO-246</name>
+    <cmt><![CDATA[Soum de Cams]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.2775" lon="-1.3396">
+    <ele>466</ele>
+    <name>F/PO-247</name>
+    <cmt><![CDATA[Ihisu]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.337399" lon="-1.2421">
+    <ele>470</ele>
+    <name>F/PO-248</name>
+    <cmt><![CDATA[Garralda]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.236599" lon="-0.83939999">
+    <ele>435</ele>
+    <name>F/PO-249</name>
+    <cmt><![CDATA[Suhurtegaray]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.323002" lon="-1.1932">
+    <ele>421</ele>
+    <name>F/PO-250</name>
+    <cmt><![CDATA[Eltzarruze]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.317501" lon="-1.3892">
+    <ele>358</ele>
+    <name>F/PO-251</name>
+    <cmt><![CDATA[Mont Arrokagaray]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.358002" lon="-1.2331001">
+    <ele>345</ele>
+    <name>F/PO-252</name>
+    <cmt><![CDATA[Abarratia]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.0256" lon="-0.3418">
+    <ele>2050</ele>
+    <name>F/PO-253</name>
+    <cmt><![CDATA[Le Moulle de Jaut]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.0522" lon="-0.63849998">
+    <ele>1242</ele>
+    <name>F/PO-256</name>
+    <cmt><![CDATA[Saraillé]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.952301" lon="0.47839999">
+    <ele>1849</ele>
+    <name>F/PO-257</name>
+    <cmt><![CDATA[Pic de Mont Aspet]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.9814" lon="0.5377">
+    <ele>1541</ele>
+    <name>F/PO-258</name>
+    <cmt><![CDATA[Tourroc]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.993301" lon="0.48010001">
+    <ele>1368</ele>
+    <name>F/PO-259</name>
+    <cmt><![CDATA[Pic de Picarre]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.000401" lon="0.55360001">
+    <ele>1079</ele>
+    <name>F/PO-260</name>
+    <cmt><![CDATA[Pic de Cau]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.9748" lon="0.59619999">
+    <ele>1045</ele>
+    <name>F/PO-261</name>
+    <cmt><![CDATA[Sommet de Chay]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.199902" lon="-1.2923">
+    <ele>810</ele>
+    <name>F/PO-263</name>
+    <cmt><![CDATA[Jara]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.3437" lon="-1.3339">
+    <ele>681</ele>
+    <name>F/PO-264</name>
+    <cmt><![CDATA[Mont Ursuya]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.284401" lon="-1.3741">
+    <ele>583</ele>
+    <name>F/PO-265</name>
+    <cmt><![CDATA[Gakoeta]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.748299" lon="0.1383">
+    <ele>2851</ele>
+    <name>F/PO-269</name>
+    <cmt><![CDATA[Pic de la Géla]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.711201" lon="0.026799999">
+    <ele>2780</ele>
+    <name>F/PO-270</name>
+    <cmt><![CDATA[Pic Rouge de Pailla]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.748402" lon="0.3432">
+    <ele>2743</ele>
+    <name>F/PO-271</name>
+    <cmt><![CDATA[Pic de Thou]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.856602" lon="0.14650001">
+    <ele>2663</ele>
+    <name>F/PO-272</name>
+    <cmt><![CDATA[Pic d'Estibère]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.8717" lon="0.1682">
+    <ele>2620</ele>
+    <name>F/PO-273</name>
+    <cmt><![CDATA[Pic d'Aygues-Cluses]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.921001" lon="0.068000004">
+    <ele>2587</ele>
+    <name>F/PO-274</name>
+    <cmt><![CDATA[Pène det Pouri]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.8843" lon="-0.25220001">
+    <ele>2571</ele>
+    <name>F/PO-275</name>
+    <cmt><![CDATA[Soum de Bassia du Hoo]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.930099" lon="-0.126">
+    <ele>2332</ele>
+    <name>F/PO-276</name>
+    <cmt><![CDATA[Pic du Cabaliros]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.956501" lon="-0.72009999">
+    <ele>2315</ele>
+    <name>F/PO-277</name>
+    <cmt><![CDATA[Pic du Soum Couy]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.9263" lon="-0.21080001">
+    <ele>2267</ele>
+    <name>F/PO-278</name>
+    <cmt><![CDATA[Pic du Midi d'Arrens]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.8587" lon="-0.51139998">
+    <ele>2208</ele>
+    <name>F/PO-279</name>
+    <cmt><![CDATA[Soum de la Hourquette de Larry]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.915298" lon="-0.70200002">
+    <ele>2176</ele>
+    <name>F/PO-280</name>
+    <cmt><![CDATA[Le Dec de Lhurs]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.842098" lon="-0.58200002">
+    <ele>2052</ele>
+    <name>F/PO-281</name>
+    <cmt><![CDATA[Pic du Baralet]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.919399" lon="0.31349999">
+    <ele>1754</ele>
+    <name>F/PO-282</name>
+    <cmt><![CDATA[Plo del Naou]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="42.9944" lon="-0.73640001">
+    <ele>1597</ele>
+    <name>F/PO-283</name>
+    <cmt><![CDATA[Pic de Guilhers]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.1161" lon="-1.0689">
+    <ele>1268</ele>
+    <name>F/PO-284</name>
+    <cmt><![CDATA[Hauskoa]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.105801" lon="-1.0733">
+    <ele>1265</ele>
+    <name>F/PO-285</name>
+    <cmt><![CDATA[Pic de Béhorléguy]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.115501" lon="-1.0203">
+    <ele>1193</ele>
+    <name>F/PO-286</name>
+    <cmt><![CDATA[Zihiga]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.0163" lon="0.44029999">
+    <ele>1138</ele>
+    <name>F/PO-287</name>
+    <cmt><![CDATA[Mail de Gat]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.007301" lon="-0.1239">
+    <ele>1097</ele>
+    <name>F/PO-288</name>
+    <cmt><![CDATA[Mont de Gez]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.283298" lon="-1.4075">
+    <ele>924</ele>
+    <name>F/PO-289</name>
+    <cmt><![CDATA[Artzamendi]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.062099" lon="0.0298">
+    <ele>856</ele>
+    <name>F/PO-290</name>
+    <cmt><![CDATA[Cantet d'Oulets]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.085201" lon="-0.79100001">
+    <ele>795</ele>
+    <name>F/PO-291</name>
+    <cmt><![CDATA[Pic d'Arguibelle]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.052299" lon="0.2428">
+    <ele>735</ele>
+    <name>F/PO-292</name>
+    <cmt><![CDATA[Castet]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.237" lon="-1.3388">
+    <ele>705</ele>
+    <name>F/PO-293</name>
+    <cmt><![CDATA[Larla]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.206299" lon="-1.0326999">
+    <ele>642</ele>
+    <name>F/PO-294</name>
+    <cmt><![CDATA[Mehaltzu]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.202999" lon="-1.1176">
+    <ele>642</ele>
+    <name>F/PO-295</name>
+    <cmt><![CDATA[Orgamendi]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.1147" lon="-0.67150003">
+    <ele>606</ele>
+    <name>F/PO-296</name>
+    <cmt><![CDATA[Soum d'Unars]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.0877" lon="-0.89490002">
+    <ele>589</ele>
+    <name>F/PO-297</name>
+    <cmt><![CDATA[Etchebar Mendi]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.255798" lon="-1.1741">
+    <ele>577</ele>
+    <name>F/PO-298</name>
+    <cmt><![CDATA[Hoxahandia]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.086201" lon="-0.87910002">
+    <ele>571</ele>
+    <name>F/PO-299</name>
+    <cmt><![CDATA[Le Chapeau de Gendarme]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.217201" lon="-0.80250001">
+    <ele>557</ele>
+    <name>F/PO-300</name>
+    <cmt><![CDATA[Hegiaphalea]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.225498" lon="-1.1489">
+    <ele>546</ele>
+    <name>F/PO-301</name>
+    <cmt><![CDATA[Pagaburu]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.227798" lon="-0.91729999">
+    <ele>484</ele>
+    <name>F/PO-302</name>
+    <cmt><![CDATA[Hitaborda]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+  <wpt lat="43.301899" lon="-1.1381">
+    <ele>349</ele>
+    <name>F/PO-303</name>
+    <cmt><![CDATA[Elhigna]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Pyrénées Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/PO</type>
+  </wpt>
+</gpx>

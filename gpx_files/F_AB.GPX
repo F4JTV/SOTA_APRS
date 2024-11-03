@@ -1,0 +1,4560 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1" 
+     creator="SOTA Mapping Project GPX Generator 1.1" 
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+     xmlns="http://www.topografix.com/GPX/1/1" 
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>SOTA Summits GPX Export</name>
+    <desc>SOTA Summits data in GPX v1.1 format></desc>
+    <author>
+      <name>SOTA Mapping Project></name>
+      <email id="admin" domain="www.sotamaps.org" />
+      <link href="https://www.sotamaps.org">
+        <text>SOTA Mapping Project</text>
+      </link>
+    </author>
+    <link href="https://www.sotamaps.org">
+      <text>SOTA Mapping Project</text>
+    </link>
+    <time>2024-11-03T14:09:27Z</time>
+    <keywords>SOTA, Summits On The Air, amateur radio, ham radio</keywords>
+    <bounds minlat="44.731701" minlon="5.2379999" maxlat="46.370602" maxlon="7.1849999"/>
+  </metadata>
+  <wpt lat="45.8325" lon="6.8643999">
+    <ele>4808</ele>
+    <name>F/AB-001</name>
+    <cmt><![CDATA[Mont Blanc]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.8475" lon="6.8758001">
+    <ele>4465</ele>
+    <name>F/AB-002</name>
+    <cmt><![CDATA[Mont Maudit]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.856701" lon="6.8881001">
+    <ele>4248</ele>
+    <name>F/AB-003</name>
+    <cmt><![CDATA[Mont Blanc du Tacul]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.868099" lon="6.9889002">
+    <ele>4208</ele>
+    <name>F/AB-004</name>
+    <cmt><![CDATA[Grandes Jorasses - Pointe Walker]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.9347" lon="6.9703002">
+    <ele>4122</ele>
+    <name>F/AB-005</name>
+    <cmt><![CDATA[Aiguille Verte]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.8358" lon="6.8186002">
+    <ele>4052</ele>
+    <name>F/AB-006</name>
+    <cmt><![CDATA[Aiguille de Bionnassay]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.8647" lon="6.9681001">
+    <ele>4015</ele>
+    <name>F/AB-007</name>
+    <cmt><![CDATA[Dôme de Rochefort]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.930801" lon="6.9892001">
+    <ele>4000</ele>
+    <name>F/AB-008</name>
+    <cmt><![CDATA[Les Droites]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.0047" lon="6.3085999">
+    <ele>3983</ele>
+    <name>F/AB-009</name>
+    <cmt><![CDATA[La Meije - Grand Pic]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.959999" lon="7.02">
+    <ele>3900</ele>
+    <name>F/AB-011</name>
+    <cmt><![CDATA[Aiguille d'Argentière]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="44.998299" lon="6.3311">
+    <ele>3881</ele>
+    <name>F/AB-012</name>
+    <cmt><![CDATA[Pic Gaspard]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.916698" lon="7.0247002">
+    <ele>3870</ele>
+    <name>F/AB-013</name>
+    <cmt><![CDATA[Aiguille de Triolet]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.4053" lon="6.8277998">
+    <ele>3855</ele>
+    <name>F/AB-014</name>
+    <cmt><![CDATA[La Grande Casse]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.878601" lon="6.8874998">
+    <ele>3842</ele>
+    <name>F/AB-015</name>
+    <cmt><![CDATA[Aiguille du Midi]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.968899" lon="7.0011001">
+    <ele>3824</ele>
+    <name>F/AB-017</name>
+    <cmt><![CDATA[Aiguille du Chardonnet]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.778599" lon="6.8028002">
+    <ele>3816</ele>
+    <name>F/AB-019</name>
+    <cmt><![CDATA[Aiguille des Glaciers]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.000801" lon="6.2831001">
+    <ele>3809</ele>
+    <name>F/AB-020</name>
+    <cmt><![CDATA[Le Râteau - Pic Est]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.843601" lon="6.9074998">
+    <ele>3792</ele>
+    <name>F/AB-021</name>
+    <cmt><![CDATA[La Tour Ronde]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.528099" lon="6.8603001">
+    <ele>3779</ele>
+    <name>F/AB-022</name>
+    <cmt><![CDATA[Mont Pourri]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="44.967602" lon="6.329">
+    <ele>3765</ele>
+    <name>F/AB-023</name>
+    <cmt><![CDATA[Pointe Brevoort]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.887501" lon="7.0068998">
+    <ele>3759</ele>
+    <name>F/AB-024</name>
+    <cmt><![CDATA[Aiguille de Leschaux]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.9328" lon="6.9566998">
+    <ele>3754</ele>
+    <name>F/AB-025</name>
+    <cmt><![CDATA[Le Grand Dru]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.280602" lon="7.0558">
+    <ele>3752</ele>
+    <name>F/AB-026</name>
+    <cmt><![CDATA[Pointe de Charbonnel]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.505001" lon="7">
+    <ele>3747</ele>
+    <name>F/AB-027</name>
+    <cmt><![CDATA[Aiguille de la Grande Sassière]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="44.941799" lon="6.3573999">
+    <ele>3730</ele>
+    <name>F/AB-028</name>
+    <cmt><![CDATA[Roche Faurio]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.8997" lon="7.0037999">
+    <ele>3730</ele>
+    <name>F/AB-029</name>
+    <cmt><![CDATA[Aiguille de Talèfre]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.289101" lon="6.7561002">
+    <ele>3697</ele>
+    <name>F/AB-031</name>
+    <cmt><![CDATA[La Dent Parrachée]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.815601" lon="6.8003001">
+    <ele>3673</ele>
+    <name>F/AB-032</name>
+    <cmt><![CDATA[Dômes de Miage]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.891399" lon="6.9071999">
+    <ele>3673</ele>
+    <name>F/AB-033</name>
+    <cmt><![CDATA[Aiguille du Plan]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="44.995201" lon="6.2540998">
+    <ele>3667</ele>
+    <name>F/AB-035</name>
+    <cmt><![CDATA[Pic de la Grave]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.4114" lon="6.8702998">
+    <ele>3653</ele>
+    <name>F/AB-037</name>
+    <cmt><![CDATA[La Grande Motte]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.2644" lon="6.9786">
+    <ele>3612</ele>
+    <name>F/AB-039</name>
+    <cmt><![CDATA[Pointe de Ronce]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="44.964401" lon="6.2233">
+    <ele>3596</ele>
+    <name>F/AB-040</name>
+    <cmt><![CDATA[Aiguille du Plat de la Selle]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.318501" lon="6.743">
+    <ele>3601</ele>
+    <name>F/AB-041</name>
+    <cmt><![CDATA[Dôme de l'Arpont]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.330299" lon="6.8919001">
+    <ele>3582</ele>
+    <name>F/AB-042</name>
+    <cmt><![CDATA[Grand Roc Noir]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="44.885601" lon="6.2686">
+    <ele>3564</ele>
+    <name>F/AB-043</name>
+    <cmt><![CDATA[Pointe du Vallon des Étages]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="44.897301" lon="6.2799001">
+    <ele>3563</ele>
+    <name>F/AB-044</name>
+    <cmt><![CDATA[Cîme de Clot Châtel]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="44.968601" lon="6.2600002">
+    <ele>3563</ele>
+    <name>F/AB-045</name>
+    <cmt><![CDATA[Le Plaret]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.281399" lon="6.6240001">
+    <ele>3562</ele>
+    <name>F/AB-046</name>
+    <cmt><![CDATA[Aiguille de Peclet]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="44.889599" lon="6.2447">
+    <ele>3559</ele>
+    <name>F/AB-047</name>
+    <cmt><![CDATA[Tête de l'Étret]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.2719" lon="7.1278">
+    <ele>3563</ele>
+    <name>F/AB-049</name>
+    <cmt><![CDATA[Ouille d'Arbéron]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="44.9053" lon="6.2832999">
+    <ele>3536</ele>
+    <name>F/AB-050</name>
+    <cmt><![CDATA[Cîme de l'Encoula]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.8992" lon="6.9131999">
+    <ele>3522</ele>
+    <name>F/AB-052</name>
+    <cmt><![CDATA[Aiguille de Blaitière]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.228901" lon="7.0777998">
+    <ele>3527</ele>
+    <name>F/AB-053</name>
+    <cmt><![CDATA[Pointe du Ribon]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.127201" lon="6.3369002">
+    <ele>3513</ele>
+    <name>F/AB-054</name>
+    <cmt><![CDATA[Aiguilles d'Arves Centrale]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.16" lon="6.7686">
+    <ele>3506</ele>
+    <name>F/AB-055</name>
+    <cmt><![CDATA[Aiguille de Scolette]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.123299" lon="6.3344002">
+    <ele>3514</ele>
+    <name>F/AB-056</name>
+    <cmt><![CDATA[Aiguilles d'Arves Méridionale]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.2397" lon="6.9988999">
+    <ele>3504</ele>
+    <name>F/AB-057</name>
+    <cmt><![CDATA[Pointe du Lamet]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.903099" lon="6.9194002">
+    <ele>3482</ele>
+    <name>F/AB-058</name>
+    <cmt><![CDATA[Aiguille du Grépon]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.433102" lon="7.1097002">
+    <ele>3482</ele>
+    <name>F/AB-059</name>
+    <cmt><![CDATA[Grande Aiguille Rousse]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.154701" lon="6.1436">
+    <ele>3464</ele>
+    <name>F/AB-060</name>
+    <cmt><![CDATA[Pic de l'Étendard]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="44.931099" lon="6.1066999">
+    <ele>3465</ele>
+    <name>F/AB-061</name>
+    <cmt><![CDATA[Roche de la Muzelle]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.137798" lon="6.1357999">
+    <ele>3465</ele>
+    <name>F/AB-062</name>
+    <cmt><![CDATA[Pic Bayle]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.331799" lon="6.9549999">
+    <ele>3479</ele>
+    <name>F/AB-063</name>
+    <cmt><![CDATA[Pointe du Châtelard Sud-Ouest]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="44.987499" lon="6.2835999">
+    <ele>3442</ele>
+    <name>F/AB-064</name>
+    <cmt><![CDATA[Tête Nord du Replat]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.380798" lon="7.1627998">
+    <ele>3442</ele>
+    <name>F/AB-065</name>
+    <cmt><![CDATA[Roc du Mulinet]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.385101" lon="6.9175">
+    <ele>3436</ele>
+    <name>F/AB-066</name>
+    <cmt><![CDATA[Pointe de la Sana]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.269199" lon="6.6852999">
+    <ele>3422</ele>
+    <name>F/AB-068</name>
+    <cmt><![CDATA[Pointe de l'Échelle]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="44.916401" lon="6.2781">
+    <ele>3421</ele>
+    <name>F/AB-069</name>
+    <cmt><![CDATA[Grande Aiguille de la Bérarde]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.4147" lon="6.8172002">
+    <ele>3421</ele>
+    <name>F/AB-070</name>
+    <cmt><![CDATA[Aiguille de l'Epéna]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="44.873798" lon="6.3042998">
+    <ele>3420</ele>
+    <name>F/AB-071</name>
+    <cmt><![CDATA[Pics du Says]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.2542" lon="6.6041999">
+    <ele>3416</ele>
+    <name>F/AB-072</name>
+    <cmt><![CDATA[Pointe du Bouchet]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.421902" lon="7.0700998">
+    <ele>3428</ele>
+    <name>F/AB-073</name>
+    <cmt><![CDATA[Pointe du Montet]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.4925" lon="6.7821999">
+    <ele>3417</ele>
+    <name>F/AB-074</name>
+    <cmt><![CDATA[Sommet de Bellecôte]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.916599" lon="6.9615998">
+    <ele>3412</ele>
+    <name>F/AB-075</name>
+    <cmt><![CDATA[Aiguille du Moine]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.4235" lon="6.7528">
+    <ele>3399</ele>
+    <name>F/AB-076</name>
+    <cmt><![CDATA[Le Grand Bec]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="44.895302" lon="6.1738">
+    <ele>3402</ele>
+    <name>F/AB-077</name>
+    <cmt><![CDATA[Aiguille des Arias - Sommet Est]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.2565" lon="7.1020999">
+    <ele>3415</ele>
+    <name>F/AB-078</name>
+    <cmt><![CDATA[Ouille du Favre]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.2444" lon="7.1247001">
+    <ele>3384</ele>
+    <name>F/AB-079</name>
+    <cmt><![CDATA[Pointe de la Valette]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.4128" lon="6.7922001">
+    <ele>3392</ele>
+    <name>F/AB-080</name>
+    <cmt><![CDATA[Pointe de la Grande Glière]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.1567" lon="6.8843999">
+    <ele>3378</ele>
+    <name>F/AB-081</name>
+    <cmt><![CDATA[Mont d'Ambin]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="44.877499" lon="6.2006001">
+    <ele>3373</ele>
+    <name>F/AB-082</name>
+    <cmt><![CDATA[Aiguille de l'Olan]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="44.980598" lon="6.3155999">
+    <ele>3362</ele>
+    <name>F/AB-083</name>
+    <cmt><![CDATA[Pic Nord des Cavales]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.139198" lon="6.8958001">
+    <ele>3365</ele>
+    <name>F/AB-084</name>
+    <cmt><![CDATA[Pointe Ferrand]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.132801" lon="6.3414001">
+    <ele>3364</ele>
+    <name>F/AB-085</name>
+    <cmt><![CDATA[Aiguilles d'Arves Bec Nord]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.127998" lon="6.8520002">
+    <ele>3332</ele>
+    <name>F/AB-086</name>
+    <cmt><![CDATA[Pointe Someiller]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.3573" lon="6.9783001">
+    <ele>3278</ele>
+    <name>F/AB-087</name>
+    <cmt><![CDATA[Aiguille de Méan Martin]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="44.926201" lon="6.1508002">
+    <ele>3325</ele>
+    <name>F/AB-088</name>
+    <cmt><![CDATA[Tête de Lauranoure - Sommet Central]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.367199" lon="6.9899001">
+    <ele>3330</ele>
+    <name>F/AB-089</name>
+    <cmt><![CDATA[Pointe de Méan Martin]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="44.8703" lon="6.2824998">
+    <ele>3312</ele>
+    <name>F/AB-090</name>
+    <cmt><![CDATA[Pics du Vaccivier]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.1805" lon="6.9295998">
+    <ele>3312</ele>
+    <name>F/AB-091</name>
+    <cmt><![CDATA[Mont Giusalet]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="44.908901" lon="6.1153002">
+    <ele>3294</ele>
+    <name>F/AB-092</name>
+    <cmt><![CDATA[Pointe Swan]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.237499" lon="7.1061001">
+    <ele>3287</ele>
+    <name>F/AB-093</name>
+    <cmt><![CDATA[Pointe Costans]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.3563" lon="6.7758999">
+    <ele>3312</ele>
+    <name>F/AB-094</name>
+    <cmt><![CDATA[Mont Pelve]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.179699" lon="6.7860999">
+    <ele>3269</ele>
+    <name>F/AB-095</name>
+    <cmt><![CDATA[Pointe du Notaire]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="44.91" lon="6.1457">
+    <ele>3263</ele>
+    <name>F/AB-096</name>
+    <cmt><![CDATA[Cîme du Montagnon]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.583199" lon="6.9802999">
+    <ele>3272</ele>
+    <name>F/AB-097</name>
+    <cmt><![CDATA[Pointe d'Archeboc]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.153099" lon="6.7967">
+    <ele>3252</ele>
+    <name>F/AB-098</name>
+    <cmt><![CDATA[Pointe Saint-Michel]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.1064" lon="6.3603001">
+    <ele>3237</ele>
+    <name>F/AB-099</name>
+    <cmt><![CDATA[Aiguille d'Argentière]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.163502" lon="6.8448">
+    <ele>3236</ele>
+    <name>F/AB-100</name>
+    <cmt><![CDATA[Le Petit Vallon]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.132801" lon="6.3558002">
+    <ele>3230</ele>
+    <name>F/AB-101</name>
+    <cmt><![CDATA[Aiguille de l'Épaisseur]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.0639" lon="6.4341998">
+    <ele>3228</ele>
+    <name>F/AB-102</name>
+    <cmt><![CDATA[Le Grand Galibier Sommet Ouest]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.432301" lon="7.0412002">
+    <ele>3237</ele>
+    <name>F/AB-103</name>
+    <cmt><![CDATA[Signal de l'Iseran]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.5518" lon="6.8484001">
+    <ele>3227</ele>
+    <name>F/AB-104</name>
+    <cmt><![CDATA[Aiguille Rouge]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.1544" lon="6.1659002">
+    <ele>3217</ele>
+    <name>F/AB-105</name>
+    <cmt><![CDATA[Cimes du Grand Sauvage]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.3736" lon="6.8018999">
+    <ele>3212</ele>
+    <name>F/AB-106</name>
+    <cmt><![CDATA[Pointe de la Réchasse]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.118599" lon="6.5622001">
+    <ele>3207</ele>
+    <name>F/AB-107</name>
+    <cmt><![CDATA[Pic du Thabor]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.614601" lon="6.9818001">
+    <ele>3213</ele>
+    <name>F/AB-108</name>
+    <cmt><![CDATA[Bec de l'Ane]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.763699" lon="6.7553">
+    <ele>3196</ele>
+    <name>F/AB-109</name>
+    <cmt><![CDATA[Mont Tondu]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.263302" lon="6.5609002">
+    <ele>3193</ele>
+    <name>F/AB-110</name>
+    <cmt><![CDATA[Cîme de Caron]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.3778" lon="6.8569002">
+    <ele>3196</ele>
+    <name>F/AB-112</name>
+    <cmt><![CDATA[Pointes de Pierre Brune]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.1394" lon="6.7283001">
+    <ele>3171</ele>
+    <name>F/AB-113</name>
+    <cmt><![CDATA[Pointe de Paumont]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="44.936901" lon="6.0763001">
+    <ele>3169</ele>
+    <name>F/AB-114</name>
+    <cmt><![CDATA[Pic du Clapier du Peyron]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.348099" lon="7.0599999">
+    <ele>3217</ele>
+    <name>F/AB-115</name>
+    <cmt><![CDATA[Pointe d'Andagne]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.244202" lon="6.8727999">
+    <ele>3162</ele>
+    <name>F/AB-117</name>
+    <cmt><![CDATA[Signal du Petit Mont Cenis]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.3041" lon="6.6131001">
+    <ele>3153</ele>
+    <name>F/AB-118</name>
+    <cmt><![CDATA[Mont du Borgne]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.363899" lon="7.1269002">
+    <ele>3153</ele>
+    <name>F/AB-119</name>
+    <cmt><![CDATA[Mont Seti]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.246399" lon="6.6935">
+    <ele>3128</ele>
+    <name>F/AB-120</name>
+    <cmt><![CDATA[Le Râteau d'Aussois]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.251801" lon="6.5335002">
+    <ele>3131</ele>
+    <name>F/AB-121</name>
+    <cmt><![CDATA[Mont Bréquin]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.733601" lon="6.8141999">
+    <ele>3128</ele>
+    <name>F/AB-122</name>
+    <cmt><![CDATA[Pointe Léchaud]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.398701" lon="7.0078001">
+    <ele>3135</ele>
+    <name>F/AB-123</name>
+    <cmt><![CDATA[Pélaou Blanc]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.497101" lon="6.8178">
+    <ele>3109</ele>
+    <name>F/AB-124</name>
+    <cmt><![CDATA[L'Aliet]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.065601" lon="6.4889002">
+    <ele>3098</ele>
+    <name>F/AB-125</name>
+    <cmt><![CDATA[Pointe des Cerces]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="46.0247" lon="6.8527999">
+    <ele>3098</ele>
+    <name>F/AB-126</name>
+    <cmt><![CDATA[Mont Buet]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.162498" lon="6.7143998">
+    <ele>3086</ele>
+    <name>F/AB-127</name>
+    <cmt><![CDATA[La Belle Plinier]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.434399" lon="6.8789001">
+    <ele>3081</ele>
+    <name>F/AB-128</name>
+    <cmt><![CDATA[Dôme de Pramecou]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.7113" lon="6.8218002">
+    <ele>3066</ele>
+    <name>F/AB-130</name>
+    <cmt><![CDATA[Mont de Mirande (ou Mont Miravidi)]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.145802" lon="6.5386">
+    <ele>3067</ele>
+    <name>F/AB-132</name>
+    <cmt><![CDATA[Roche Noire]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.355701" lon="6.631">
+    <ele>3048</ele>
+    <name>F/AB-133</name>
+    <cmt><![CDATA[Aiguille du Fruit]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.083099" lon="6.3748002">
+    <ele>3053</ele>
+    <name>F/AB-134</name>
+    <cmt><![CDATA[Pointe des Lauzettes]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="44.9753" lon="6.0324998">
+    <ele>3049</ele>
+    <name>F/AB-135</name>
+    <cmt><![CDATA[Pointe de Malhaubert]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.5797" lon="6.9614">
+    <ele>3053</ele>
+    <name>F/AB-136</name>
+    <cmt><![CDATA[Pointe de l'Argentière]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="44.8951" lon="6.0991998">
+    <ele>3046</ele>
+    <name>F/AB-137</name>
+    <cmt><![CDATA[Aiguille des Marmes]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.1222" lon="6.6585999">
+    <ele>3046</ele>
+    <name>F/AB-138</name>
+    <cmt><![CDATA[Punta Nera]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.329201" lon="6.6664">
+    <ele>3044</ele>
+    <name>F/AB-139</name>
+    <cmt><![CDATA[Aiguille de Chanrouge (ou de Chanrossa)]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.5658" lon="6.9942002">
+    <ele>3023</ele>
+    <name>F/AB-140</name>
+    <cmt><![CDATA[Pointe du Rocher Blanc (ou Bec de Percia)]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.458099" lon="6.8178">
+    <ele>3020</ele>
+    <name>F/AB-141</name>
+    <cmt><![CDATA[Pointe de la Vallaisonnay]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.307499" lon="6.6464">
+    <ele>3021</ele>
+    <name>F/AB-142</name>
+    <cmt><![CDATA[Pointe des Fonds]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.148102" lon="6.5931001">
+    <ele>3014</ele>
+    <name>F/AB-143</name>
+    <cmt><![CDATA[Crête des Sarrasins]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.120499" lon="6.2462001">
+    <ele>3020</ele>
+    <name>F/AB-144</name>
+    <cmt><![CDATA[Pic du Mas de la Grave]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.699501" lon="6.8415999">
+    <ele>3011</ele>
+    <name>F/AB-145</name>
+    <cmt><![CDATA[Aiguilles de l'Ermite]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.122299" lon="6.5756001">
+    <ele>3020</ele>
+    <name>F/AB-146</name>
+    <cmt><![CDATA[Le Cheval Blanc]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.4669" lon="6.9956002">
+    <ele>3017</ele>
+    <name>F/AB-147</name>
+    <cmt><![CDATA[Aiguille du Dôme]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.4809" lon="6.8692999">
+    <ele>3003</ele>
+    <name>F/AB-148</name>
+    <cmt><![CDATA[Rochers Rouges]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.643101" lon="6.6889">
+    <ele>2995</ele>
+    <name>F/AB-149</name>
+    <cmt><![CDATA[Le Roignais]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="46.0942" lon="6.8793998">
+    <ele>2989</ele>
+    <name>F/AB-150</name>
+    <cmt><![CDATA[Pic de Tenneverge]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.1707" lon="5.9913001">
+    <ele>2977</ele>
+    <name>F/AB-151</name>
+    <cmt><![CDATA[Grand Pic de Belledonne]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.690601" lon="6.8460999">
+    <ele>2978</ele>
+    <name>F/AB-152</name>
+    <cmt><![CDATA[Sommet des Rousses (Mont de Fourclaz)]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.987801" lon="6.8736">
+    <ele>2965</ele>
+    <name>F/AB-153</name>
+    <cmt><![CDATA[Aiguille du Belvedére]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.1511" lon="6.2501998">
+    <ele>2958</ele>
+    <name>F/AB-154</name>
+    <cmt><![CDATA[Cîme des Torches ou le Grand Agnelin]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.469398" lon="7.0152998">
+    <ele>3071</ele>
+    <name>F/AB-155</name>
+    <cmt><![CDATA[Pointe de la Bailletta]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.097" lon="6.4596">
+    <ele>2950</ele>
+    <name>F/AB-156</name>
+    <cmt><![CDATA[Crête de Lacha]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.990601" lon="6.8825002">
+    <ele>2944</ele>
+    <name>F/AB-157</name>
+    <cmt><![CDATA[Aiguille de la Tête Plate]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.476101" lon="6.9868999">
+    <ele>2953</ele>
+    <name>F/AB-158</name>
+    <cmt><![CDATA[Pointe de Picheru]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.180801" lon="6.3736">
+    <ele>2931</ele>
+    <name>F/AB-159</name>
+    <cmt><![CDATA[La Grande Chible]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.114399" lon="6.2828999">
+    <ele>2933</ele>
+    <name>F/AB-160</name>
+    <cmt><![CDATA[Pics de la Buffe d'en Haut (Sommet Nord)]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.241501" lon="6.1075001">
+    <ele>2928</ele>
+    <name>F/AB-161</name>
+    <cmt><![CDATA[Le Rocher Blanc]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.648102" lon="6.9403">
+    <ele>2925</ele>
+    <name>F/AB-162</name>
+    <cmt><![CDATA[Les Dents Rouges]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.661201" lon="6.9145999">
+    <ele>2939</ele>
+    <name>F/AB-163</name>
+    <cmt><![CDATA[Pointe de la Louïe Blanche]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.666199" lon="6.6707001">
+    <ele>2920</ele>
+    <name>F/AB-164</name>
+    <cmt><![CDATA[Aiguille du Grand Fond]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.169899" lon="6.5377002">
+    <ele>2925</ele>
+    <name>F/AB-165</name>
+    <cmt><![CDATA[Pointe de la Sandonière]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.2957" lon="6.1462998">
+    <ele>2908</ele>
+    <name>F/AB-166</name>
+    <cmt><![CDATA[Puy Gris]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.705601" lon="6.7849002">
+    <ele>2905</ele>
+    <name>F/AB-167</name>
+    <cmt><![CDATA[Les Grandes Aiguilles]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="44.939602" lon="6.0451002">
+    <ele>2901</ele>
+    <name>F/AB-168</name>
+    <cmt><![CDATA[Signal du Lauvitel]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.244499" lon="6.1331">
+    <ele>2914</ele>
+    <name>F/AB-169</name>
+    <cmt><![CDATA[Aiguille Michel]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.201" lon="6.9091001">
+    <ele>2917</ele>
+    <name>F/AB-171</name>
+    <cmt><![CDATA[Pointe Droset]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.6511" lon="6.6760998">
+    <ele>2893</ele>
+    <name>F/AB-172</name>
+    <cmt><![CDATA[Aiguille de la Nova]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.7486" lon="6.7424998">
+    <ele>2892</ele>
+    <name>F/AB-173</name>
+    <cmt><![CDATA[Têtes de Bellaval]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.269402" lon="6.1342001">
+    <ele>2891</ele>
+    <name>F/AB-174</name>
+    <cmt><![CDATA[Bec d'Arguille]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.976002" lon="6.8685999">
+    <ele>2888</ele>
+    <name>F/AB-175</name>
+    <cmt><![CDATA[Aiguille de la Floria]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.6703" lon="6.7245998">
+    <ele>2881</ele>
+    <name>F/AB-176</name>
+    <cmt><![CDATA[Pointe de la Terrasse]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.277599" lon="6.1245999">
+    <ele>2885</ele>
+    <name>F/AB-177</name>
+    <cmt><![CDATA[Rocher d'Arguille]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.340302" lon="6.6658001">
+    <ele>2890</ele>
+    <name>F/AB-178</name>
+    <cmt><![CDATA[Aiguille du Rateau]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.452499" lon="6.8425999">
+    <ele>2870</ele>
+    <name>F/AB-179</name>
+    <cmt><![CDATA[Aiguille Noire]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.2472" lon="6.8892002">
+    <ele>2881</ele>
+    <name>F/AB-180</name>
+    <cmt><![CDATA[Cime du Laro]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.095299" lon="6.48">
+    <ele>2869</ele>
+    <name>F/AB-182</name>
+    <cmt><![CDATA[L'Aiguille Noire]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.372799" lon="6.6891999">
+    <ele>2865</ele>
+    <name>F/AB-183</name>
+    <cmt><![CDATA[Rocher de Plassa]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.463501" lon="6.8706002">
+    <ele>2870</ele>
+    <name>F/AB-184</name>
+    <cmt><![CDATA[Pointe du Chardonnet]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.6563" lon="6.664">
+    <ele>2858</ele>
+    <name>F/AB-185</name>
+    <cmt><![CDATA[Pointe de Presset]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.039398" lon="5.9242001">
+    <ele>2857</ele>
+    <name>F/AB-186</name>
+    <cmt><![CDATA[Le Taillefer]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.425201" lon="6.9559002">
+    <ele>2856</ele>
+    <name>F/AB-188</name>
+    <cmt><![CDATA[Rocher du Charvet]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.039001" lon="5.9397998">
+    <ele>2839</ele>
+    <name>F/AB-189</name>
+    <cmt><![CDATA[La Pyramide]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.421902" lon="6.4138999">
+    <ele>2832</ele>
+    <name>F/AB-191</name>
+    <cmt><![CDATA[Le Cheval Noir]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.079102" lon="6.4727001">
+    <ele>2838</ele>
+    <name>F/AB-192</name>
+    <cmt><![CDATA[Pointe de la Fourche]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="44.967602" lon="6.0869999">
+    <ele>2830</ele>
+    <name>F/AB-193</name>
+    <cmt><![CDATA[Aiguille de Venosc]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.459202" lon="6.3662">
+    <ele>2829</ele>
+    <name>F/AB-194</name>
+    <cmt><![CDATA[Grand Pic de la Lauzière]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.297298" lon="6.4502001">
+    <ele>2824</ele>
+    <name>F/AB-195</name>
+    <cmt><![CDATA[Grand Perron des Encombres]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.379101" lon="6.3962002">
+    <ele>2822</ele>
+    <name>F/AB-196</name>
+    <cmt><![CDATA[Le Bellachat]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.1516" lon="5.9945998">
+    <ele>2842</ele>
+    <name>F/AB-197</name>
+    <cmt><![CDATA[Grande Lance d'Alemont]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.237499" lon="6.8428001">
+    <ele>2822</ele>
+    <name>F/AB-198</name>
+    <cmt><![CDATA[Mont Froid]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="46.003101" lon="6.8955998">
+    <ele>2812</ele>
+    <name>F/AB-199</name>
+    <cmt><![CDATA[Aiguille de Mesure]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.352402" lon="6.1978998">
+    <ele>2807</ele>
+    <name>F/AB-200</name>
+    <cmt><![CDATA[Pic du Frêne]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.987202" lon="6.7796998">
+    <ele>2804</ele>
+    <name>F/AB-201</name>
+    <cmt><![CDATA[Tête à l'Ane]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.446499" lon="6.9506998">
+    <ele>2827</ele>
+    <name>F/AB-202</name>
+    <cmt><![CDATA[Rocher de Bellevarde]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="44.981499" lon="5.9341998">
+    <ele>2792</ele>
+    <name>F/AB-203</name>
+    <cmt><![CDATA[Le Grand Armet]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.297401" lon="6.5075002">
+    <ele>2804</ele>
+    <name>F/AB-204</name>
+    <cmt><![CDATA[Pointe de la Masse]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.171902" lon="5.9594002">
+    <ele>2790</ele>
+    <name>F/AB-205</name>
+    <cmt><![CDATA[Grande Lance de Domène]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.395302" lon="6.7793999">
+    <ele>2797</ele>
+    <name>F/AB-206</name>
+    <cmt><![CDATA[Aiguille de la Vanoise]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.313099" lon="6.1624999">
+    <ele>2775</ele>
+    <name>F/AB-207</name>
+    <cmt><![CDATA[Le Grand Morétan]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="44.949501" lon="5.9287">
+    <ele>2771</ele>
+    <name>F/AB-208</name>
+    <cmt><![CDATA[Rocher du Lac]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.320301" lon="6.4267001">
+    <ele>2768</ele>
+    <name>F/AB-209</name>
+    <cmt><![CDATA[Pointe du Vallon]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="46.131901" lon="6.8418999">
+    <ele>2756</ele>
+    <name>F/AB-210</name>
+    <cmt><![CDATA[Dent de Barme]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="44.8867" lon="6.0675001">
+    <ele>2752</ele>
+    <name>F/AB-211</name>
+    <cmt><![CDATA[Pic de Valsenestre]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="46.0336" lon="6.8919001">
+    <ele>2752</ele>
+    <name>F/AB-212</name>
+    <cmt><![CDATA[Aiguille de Loriaz]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.955601" lon="6.5560999">
+    <ele>2750</ele>
+    <name>F/AB-213</name>
+    <cmt><![CDATA[Pointe Percée]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.6306" lon="6.6452999">
+    <ele>2738</ele>
+    <name>F/AB-214</name>
+    <cmt><![CDATA[Roc de la Charbonnière]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.241901" lon="6.0639">
+    <ele>2732</ele>
+    <name>F/AB-216</name>
+    <cmt><![CDATA[Pic des Cabottes]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.3461" lon="6.4022002">
+    <ele>2729</ele>
+    <name>F/AB-217</name>
+    <cmt><![CDATA[Le Grand Coin]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.382401" lon="6.6093998">
+    <ele>2740</ele>
+    <name>F/AB-218</name>
+    <cmt><![CDATA[Sommet de la Saulire]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.4925" lon="6.7368002">
+    <ele>2739</ele>
+    <name>F/AB-220</name>
+    <cmt><![CDATA[Roche de Mio]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.263" lon="6.1629">
+    <ele>2727</ele>
+    <name>F/AB-221</name>
+    <cmt><![CDATA[Cîme du Sambuis]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.549702" lon="6.8042002">
+    <ele>2733</ele>
+    <name>F/AB-222</name>
+    <cmt><![CDATA[Aiguille Grive]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.971699" lon="6.6908002">
+    <ele>2692</ele>
+    <name>F/AB-223</name>
+    <cmt><![CDATA[Tête du Colonney]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.345798" lon="6.4310999">
+    <ele>2697</ele>
+    <name>F/AB-224</name>
+    <cmt><![CDATA[Aiguilles de la Grande Möendaz]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.744701" lon="6.6996999">
+    <ele>2688</ele>
+    <name>F/AB-225</name>
+    <cmt><![CDATA[Aiguilles de la Pennaz]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.631901" lon="6.5372">
+    <ele>2686</ele>
+    <name>F/AB-226</name>
+    <cmt><![CDATA[Le Grand Mont]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.1978" lon="6.1806002">
+    <ele>2680</ele>
+    <name>F/AB-227</name>
+    <cmt><![CDATA[Aiguille Rousse]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.243801" lon="6.6599998">
+    <ele>2675</ele>
+    <name>F/AB-229</name>
+    <cmt><![CDATA[Tête Noire]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="46.101101" lon="6.8130999">
+    <ele>2666</ele>
+    <name>F/AB-230</name>
+    <cmt><![CDATA[Les Avoudrues]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.994202" lon="6.8533001">
+    <ele>2663</ele>
+    <name>F/AB-231</name>
+    <cmt><![CDATA[Aiguille de Bérard]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.090401" lon="6.4177999">
+    <ele>2651</ele>
+    <name>F/AB-232</name>
+    <cmt><![CDATA[Roche Olvéra]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="46.112801" lon="6.8203001">
+    <ele>2641</ele>
+    <name>F/AB-233</name>
+    <cmt><![CDATA[Pointe Rousse des Chambres]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.371101" lon="6.2122002">
+    <ele>2669</ele>
+    <name>F/AB-234</name>
+    <cmt><![CDATA[Le Grand Miceau]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="44.827999" lon="6.0735998">
+    <ele>2661</ele>
+    <name>F/AB-235</name>
+    <cmt><![CDATA[Pey de Saint-Maurice]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.3727" lon="6.7508998">
+    <ele>2651</ele>
+    <name>F/AB-236</name>
+    <cmt><![CDATA[Le Grand Marchet]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="44.927898" lon="6.0235">
+    <ele>2644</ele>
+    <name>F/AB-237</name>
+    <cmt><![CDATA[Tête de Rame]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.487801" lon="6.3775001">
+    <ele>2659</ele>
+    <name>F/AB-238</name>
+    <cmt><![CDATA[Pic du Rognolet]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.694199" lon="6.7617002">
+    <ele>2643</ele>
+    <name>F/AB-239</name>
+    <cmt><![CDATA[La Clavettaz]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.601398" lon="6.5994">
+    <ele>2633</ele>
+    <name>F/AB-241</name>
+    <cmt><![CDATA[Crêt du Rey]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.183601" lon="6.0681">
+    <ele>2586</ele>
+    <name>F/AB-242</name>
+    <cmt><![CDATA[Le Rissiou]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.1619" lon="6.3077998">
+    <ele>2625</ele>
+    <name>F/AB-243</name>
+    <cmt><![CDATA[Mont Falcon]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.893299" lon="6.4966998">
+    <ele>2616</ele>
+    <name>F/AB-244</name>
+    <cmt><![CDATA[La Grande Balmaz]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.143902" lon="5.9558001">
+    <ele>2603</ele>
+    <name>F/AB-245</name>
+    <cmt><![CDATA[Pic de Mirebel]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.493" lon="6.6629">
+    <ele>2594</ele>
+    <name>F/AB-246</name>
+    <cmt><![CDATA[Roc du Bécoin]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.5947" lon="6.6149998">
+    <ele>2575</ele>
+    <name>F/AB-247</name>
+    <cmt><![CDATA[Pointe de Combe Benite]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.090401" lon="5.9591999">
+    <ele>2561</ele>
+    <name>F/AB-248</name>
+    <cmt><![CDATA[Le Grand Galbert]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.364201" lon="6.1666999">
+    <ele>2561</ele>
+    <name>F/AB-249</name>
+    <cmt><![CDATA[Le Grand Charnier]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.965801" lon="6.7305999">
+    <ele>2554</ele>
+    <name>F/AB-250</name>
+    <cmt><![CDATA[Pointe de Platé]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.416199" lon="6.7293">
+    <ele>2573</ele>
+    <name>F/AB-251</name>
+    <cmt><![CDATA[Pointe de la Vuzelle]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.755001" lon="6.6869001">
+    <ele>2552</ele>
+    <name>F/AB-252</name>
+    <cmt><![CDATA[Tête de la Cicle]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.183899" lon="6.125">
+    <ele>2539</ele>
+    <name>F/AB-253</name>
+    <cmt><![CDATA[Les Aiguillettes]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.4286" lon="6.4386001">
+    <ele>2535</ele>
+    <name>F/AB-254</name>
+    <cmt><![CDATA[Pointe du Grand Niélard]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.9426" lon="6.5387001">
+    <ele>2538</ele>
+    <name>F/AB-255</name>
+    <cmt><![CDATA[Mont Charvet]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.610298" lon="6.5156002">
+    <ele>2534</ele>
+    <name>F/AB-256</name>
+    <cmt><![CDATA[Pointe de Comborsier]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.826099" lon="6.6931">
+    <ele>2525</ele>
+    <name>F/AB-257</name>
+    <cmt><![CDATA[Mont Joly]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.9342" lon="6.8381">
+    <ele>2525</ele>
+    <name>F/AB-258</name>
+    <cmt><![CDATA[Le Brévent]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.134399" lon="5.9335999">
+    <ele>2526</ele>
+    <name>F/AB-259</name>
+    <cmt><![CDATA[Le Grand Sorbier]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.933102" lon="6.5338998">
+    <ele>2511</ele>
+    <name>F/AB-260</name>
+    <cmt><![CDATA[Mont Fleuri]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.971901" lon="6.5636001">
+    <ele>2511</ele>
+    <name>F/AB-261</name>
+    <cmt><![CDATA[Pointe de Bella Cha]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.715801" lon="6.6922002">
+    <ele>2480</ele>
+    <name>F/AB-262</name>
+    <cmt><![CDATA[Roches Merles]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.997799" lon="6.8178">
+    <ele>2494</ele>
+    <name>F/AB-263</name>
+    <cmt><![CDATA[Frêtes de Villy]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.4067" lon="6.1987">
+    <ele>2495</ele>
+    <name>F/AB-264</name>
+    <cmt><![CDATA[Les Grands Moulins]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.5667" lon="6.3646998">
+    <ele>2484</ele>
+    <name>F/AB-265</name>
+    <cmt><![CDATA[Le Grand Arc]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.849998" lon="6.4478002">
+    <ele>2483</ele>
+    <name>F/AB-266</name>
+    <cmt><![CDATA[L'Étale]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.541401" lon="6.4053001">
+    <ele>2484</ele>
+    <name>F/AB-267</name>
+    <cmt><![CDATA[Mont Bellacha]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.981499" lon="6.5795002">
+    <ele>2478</ele>
+    <name>F/AB-268</name>
+    <cmt><![CDATA[Pointe d'Areu]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.7328" lon="6.6461">
+    <ele>2466</ele>
+    <name>F/AB-269</name>
+    <cmt><![CDATA[Rochers des Enclaves]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="46.168598" lon="6.7775002">
+    <ele>2466</ele>
+    <name>F/AB-270</name>
+    <cmt><![CDATA[Les Hauts Forts]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.153599" lon="6.2128">
+    <ele>2459</ele>
+    <name>F/AB-271</name>
+    <cmt><![CDATA[Montagne de la Lauze]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.6842" lon="6.4990001">
+    <ele>2460</ele>
+    <name>F/AB-273</name>
+    <cmt><![CDATA[Mont Mirantin]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.5853" lon="6.5714002">
+    <ele>2455</ele>
+    <name>F/AB-274</name>
+    <cmt><![CDATA[Pointe du Dzonfié]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.239601" lon="6.2150002">
+    <ele>2431</ele>
+    <name>F/AB-275</name>
+    <cmt><![CDATA[L'Ouillon]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.999401" lon="6.4597001">
+    <ele>2438</ele>
+    <name>F/AB-276</name>
+    <cmt><![CDATA[Pointe Blanche]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.983299" lon="6.6925001">
+    <ele>2437</ele>
+    <name>F/AB-277</name>
+    <cmt><![CDATA[Aup de Véran]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="46.262501" lon="6.7807999">
+    <ele>2432</ele>
+    <name>F/AB-278</name>
+    <cmt><![CDATA[Mont de Grange]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="46.3325" lon="6.7846999">
+    <ele>2431</ele>
+    <name>F/AB-279</name>
+    <cmt><![CDATA[Les Cornettes de Bise]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.802502" lon="6.4200001">
+    <ele>2409</ele>
+    <name>F/AB-280</name>
+    <cmt><![CDATA[Mont Charvin]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.1628" lon="5.9366999">
+    <ele>2402</ele>
+    <name>F/AB-281</name>
+    <cmt><![CDATA[Le Galeteau]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.3489" lon="6.2395">
+    <ele>2418</ele>
+    <name>F/AB-282</name>
+    <cmt><![CDATA[Clochers des Pères]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="44.976799" lon="5.8555002">
+    <ele>2389</ele>
+    <name>F/AB-283</name>
+    <cmt><![CDATA[Le Tabor]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.073299" lon="6.1342001">
+    <ele>2373</ele>
+    <name>F/AB-284</name>
+    <cmt><![CDATA[La Croix de Cassini]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.953899" lon="6.5725002">
+    <ele>2364</ele>
+    <name>F/AB-285</name>
+    <cmt><![CDATA[Les Quatre Têtes]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.827202" lon="6.2863998">
+    <ele>2338</ele>
+    <name>F/AB-286</name>
+    <cmt><![CDATA[La Tournette]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.7314" lon="6.6163998">
+    <ele>2341</ele>
+    <name>F/AB-288</name>
+    <cmt><![CDATA[Montagne d'Outray]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="46.181702" lon="6.8003001">
+    <ele>2346</ele>
+    <name>F/AB-289</name>
+    <cmt><![CDATA[Pointe de Vorlaz]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="44.869701" lon="5.5267">
+    <ele>2341</ele>
+    <name>F/AB-290</name>
+    <cmt><![CDATA[Le Grand Veymont]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.007198" lon="6.0960999">
+    <ele>2339</ele>
+    <name>F/AB-291</name>
+    <cmt><![CDATA[Pied Moutet]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.450802" lon="6.4675999">
+    <ele>2342</ele>
+    <name>F/AB-292</name>
+    <cmt><![CDATA[Crève-Tête]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.958302" lon="6.8011999">
+    <ele>2323</ele>
+    <name>F/AB-293</name>
+    <cmt><![CDATA[Pointe Noire de Pormenaz]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.865299" lon="6.4436002">
+    <ele>2313</ele>
+    <name>F/AB-294</name>
+    <cmt><![CDATA[Pointe de Merdassier]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.919701" lon="6.8133001">
+    <ele>2313</ele>
+    <name>F/AB-295</name>
+    <cmt><![CDATA[Pointe de Lapaz]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="46.016102" lon="6.4933">
+    <ele>2301</ele>
+    <name>F/AB-296</name>
+    <cmt><![CDATA[Le Grand Bargy]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.852798" lon="6.7666998">
+    <ele>2303</ele>
+    <name>F/AB-297</name>
+    <cmt><![CDATA[Mont Vorassay]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.3922" lon="6.5360999">
+    <ele>2294</ele>
+    <name>F/AB-298</name>
+    <cmt><![CDATA[Le Verdet]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.005001" lon="5.5641999">
+    <ele>2284</ele>
+    <name>F/AB-299</name>
+    <cmt><![CDATA[La Grande Moucherolle]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.4203" lon="6.6760998">
+    <ele>2285</ele>
+    <name>F/AB-300</name>
+    <cmt><![CDATA[Dent du Villard]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="44.858898" lon="5.9994001">
+    <ele>2259</ele>
+    <name>F/AB-303</name>
+    <cmt><![CDATA[Croix de Rougny]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="46.2033" lon="6.8032999">
+    <ele>2251</ele>
+    <name>F/AB-304</name>
+    <cmt><![CDATA[Pointe de Chésery]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="46.189301" lon="6.6104002">
+    <ele>2244</ele>
+    <name>F/AB-305</name>
+    <cmt><![CDATA[Le Roc d'Enfer]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="46.088402" lon="6.8248">
+    <ele>2240</ele>
+    <name>F/AB-306</name>
+    <cmt><![CDATA[Pointe de Sans Bet]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.9814" lon="6.5219002">
+    <ele>2232</ele>
+    <name>F/AB-307</name>
+    <cmt><![CDATA[Pointe d'Almet]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.137199" lon="5.9155002">
+    <ele>2232</ele>
+    <name>F/AB-308</name>
+    <cmt><![CDATA[Brèche Robert Nord]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="46.2206" lon="6.8167">
+    <ele>2228</ele>
+    <name>F/AB-309</name>
+    <cmt><![CDATA[Tête du Géant]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="46.353298" lon="6.7311001">
+    <ele>2221</ele>
+    <name>F/AB-310</name>
+    <cmt><![CDATA[Dent d'Oche]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.681702" lon="6.2283001">
+    <ele>2217</ele>
+    <name>F/AB-311</name>
+    <cmt><![CDATA[Pointe d'Arcalod]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="44.864601" lon="5.9685001">
+    <ele>2208</ele>
+    <name>F/AB-312</name>
+    <cmt><![CDATA[Le Gargas]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.217602" lon="6.2845998">
+    <ele>2207</ele>
+    <name>F/AB-313</name>
+    <cmt><![CDATA[Mont Charvin]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="46.018002" lon="6.9400001">
+    <ele>2201</ele>
+    <name>F/AB-314</name>
+    <cmt><![CDATA[L'Aiguillette des Posettes]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.2743" lon="6.2564998">
+    <ele>2209</ele>
+    <name>F/AB-315</name>
+    <cmt><![CDATA[Le Grand Truc]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.6917" lon="6.2656002">
+    <ele>2198</ele>
+    <name>F/AB-316</name>
+    <cmt><![CDATA[Pointe de la Sambuy]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.631901" lon="6.2305999">
+    <ele>2197</ele>
+    <name>F/AB-317</name>
+    <cmt><![CDATA[Mont Pécloz]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="46.349998" lon="6.7419">
+    <ele>2197</ele>
+    <name>F/AB-318</name>
+    <cmt><![CDATA[Le Chateau d'Oche]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="44.990898" lon="5.8456001">
+    <ele>2183</ele>
+    <name>F/AB-319</name>
+    <cmt><![CDATA[Perollier]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.692799" lon="6.1964002">
+    <ele>2181</ele>
+    <name>F/AB-320</name>
+    <cmt><![CDATA[Mont Trélod]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="46.233299" lon="6.73">
+    <ele>2176</ele>
+    <name>F/AB-321</name>
+    <cmt><![CDATA[Pointe d'entre Deux Pertuis]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.066299" lon="6.0861001">
+    <ele>2176</ele>
+    <name>F/AB-322</name>
+    <cmt><![CDATA[Signal de l'Homme]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="46.2258" lon="6.7082">
+    <ele>2170</ele>
+    <name>F/AB-323</name>
+    <cmt><![CDATA[Pointe de Nantaux]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="46.236" lon="6.7052999">
+    <ele>2156</ele>
+    <name>F/AB-324</name>
+    <cmt><![CDATA[Roc de Tavaneuse]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.3022" lon="6.2996998">
+    <ele>2143</ele>
+    <name>F/AB-325</name>
+    <cmt><![CDATA[Le Grand Châtelard]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="44.826199" lon="6.0079999">
+    <ele>2121</ele>
+    <name>F/AB-326</name>
+    <cmt><![CDATA[Le Laton]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="46.031101" lon="6.6975002">
+    <ele>2118</ele>
+    <name>F/AB-327</name>
+    <cmt><![CDATA[Tête du Pré des Saix]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="46.179901" lon="6.5815001">
+    <ele>2116</ele>
+    <name>F/AB-328</name>
+    <cmt><![CDATA[Pointe de Chalune]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="44.8894" lon="5.5240998">
+    <ele>2106</ele>
+    <name>F/AB-329</name>
+    <cmt><![CDATA[Sommet de Pierre Blanche]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="44.9254" lon="5.5187998">
+    <ele>2097</ele>
+    <name>F/AB-331</name>
+    <cmt><![CDATA[Sommet de Malaval]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="46.3092" lon="6.7606001">
+    <ele>2093</ele>
+    <name>F/AB-332</name>
+    <cmt><![CDATA[Mont Chauffé]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="46.3158" lon="6.8172002">
+    <ele>2093</ele>
+    <name>F/AB-333</name>
+    <cmt><![CDATA[Le Linleu]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="46.138" lon="6.7309999">
+    <ele>2090</ele>
+    <name>F/AB-334</name>
+    <cmt><![CDATA[Pointe d'Angolon]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="46.2519" lon="6.6981001">
+    <ele>2084</ele>
+    <name>F/AB-335</name>
+    <cmt><![CDATA[Pic de la Corne]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.287601" lon="5.7881999">
+    <ele>2082</ele>
+    <name>F/AB-336</name>
+    <cmt><![CDATA[Chamechaude]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="46.226898" lon="6.7424998">
+    <ele>2089</ele>
+    <name>F/AB-337</name>
+    <cmt><![CDATA[Pointe de la Chavache]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.615601" lon="6.2252998">
+    <ele>2076</ele>
+    <name>F/AB-338</name>
+    <cmt><![CDATA[Pointe des Arces]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.025002" lon="5.5892">
+    <ele>2109</ele>
+    <name>F/AB-339</name>
+    <cmt><![CDATA[Arêtes du Gerbier]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.667198" lon="6.2255998">
+    <ele>2070</ele>
+    <name>F/AB-340</name>
+    <cmt><![CDATA[Mont de la Coche]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="44.989601" lon="5.5372">
+    <ele>2063</ele>
+    <name>F/AB-341</name>
+    <cmt><![CDATA[Crête des Rochers de la Balme]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.308201" lon="5.8552999">
+    <ele>2062</ele>
+    <name>F/AB-342</name>
+    <cmt><![CDATA[Dent de Crolles]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.729698" lon="6.3516998">
+    <ele>2062</ele>
+    <name>F/AB-343</name>
+    <cmt><![CDATA[Dent de Cons]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.6078" lon="6.2069001">
+    <ele>2060</ele>
+    <name>F/AB-344</name>
+    <cmt><![CDATA[Pointe des Arlicots]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.958698" lon="6.4773002">
+    <ele>2050</ele>
+    <name>F/AB-346</name>
+    <cmt><![CDATA[Mont Lachat de Chatillon]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.062599" lon="5.6006999">
+    <ele>2049</ele>
+    <name>F/AB-347</name>
+    <cmt><![CDATA[Roc Cornafion]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.346901" lon="5.8730998">
+    <ele>2047</ele>
+    <name>F/AB-348</name>
+    <cmt><![CDATA[Lances de Malissard (Lance Sud)]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.644501" lon="6.1192999">
+    <ele>2045</ele>
+    <name>F/AB-349</name>
+    <cmt><![CDATA[Mont Colombier]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.600498" lon="6.1736002">
+    <ele>2041</ele>
+    <name>F/AB-350</name>
+    <cmt><![CDATA[Dent d'Arclusaz]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="46.1119" lon="6.7666998">
+    <ele>2037</ele>
+    <name>F/AB-351</name>
+    <cmt><![CDATA[Pointe du Tuet]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="44.863899" lon="5.9502001">
+    <ele>2027</ele>
+    <name>F/AB-352</name>
+    <cmt><![CDATA[Côte Belle]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.370602" lon="5.8120999">
+    <ele>2026</ele>
+    <name>F/AB-353</name>
+    <cmt><![CDATA[Grand Som]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.9277" lon="6.3512998">
+    <ele>2023</ele>
+    <name>F/AB-354</name>
+    <cmt><![CDATA[Mont Lachat]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="46.176899" lon="6.5692">
+    <ele>2012</ele>
+    <name>F/AB-357</name>
+    <cmt><![CDATA[Pointe de Chavasse]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="46.003201" lon="6.3269">
+    <ele>2004</ele>
+    <name>F/AB-358</name>
+    <cmt><![CDATA[Sous Dîne]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="44.967701" lon="5.5299001">
+    <ele>1994</ele>
+    <name>F/AB-360</name>
+    <cmt><![CDATA[Rocher du Playnet]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="46.370602" lon="6.7421999">
+    <ele>1974</ele>
+    <name>F/AB-361</name>
+    <cmt><![CDATA[Pic Boré]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.894199" lon="6.7505999">
+    <ele>1969</ele>
+    <name>F/AB-362</name>
+    <cmt><![CDATA[Le Prarion]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="46.168098" lon="6.5998001">
+    <ele>1963</ele>
+    <name>F/AB-363</name>
+    <cmt><![CDATA[Pointe d'Uble]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="46.317101" lon="6.7564998">
+    <ele>1962</ele>
+    <name>F/AB-365</name>
+    <cmt><![CDATA[Pointe de Lachau]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="46.175201" lon="6.5495">
+    <ele>1958</ele>
+    <name>F/AB-366</name>
+    <cmt><![CDATA[Haute Pointe]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.09" lon="5.6199999">
+    <ele>1966</ele>
+    <name>F/AB-367</name>
+    <cmt><![CDATA[Pic Saint-Michel]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.746899" lon="6.5061002">
+    <ele>1941</ele>
+    <name>F/AB-368</name>
+    <cmt><![CDATA[Mont Bisanne]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.046001" lon="6.0084">
+    <ele>1938</ele>
+    <name>F/AB-369</name>
+    <cmt><![CDATA[Prégentil]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="46.014702" lon="6.4211001">
+    <ele>1936</ele>
+    <name>F/AB-370</name>
+    <cmt><![CDATA[Rochers de Leschaux]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.464802" lon="5.9250002">
+    <ele>1933</ele>
+    <name>F/AB-371</name>
+    <cmt><![CDATA[Mont Granier]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.861698" lon="6.5327001">
+    <ele>1930</ele>
+    <name>F/AB-372</name>
+    <cmt><![CDATA[Tête du Torraz]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.3652" lon="5.9026999">
+    <ele>1926</ele>
+    <name>F/AB-373</name>
+    <cmt><![CDATA[L'Aulp du Seuil]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="44.8134" lon="5.8119998">
+    <ele>1937</ele>
+    <name>F/AB-374</name>
+    <cmt><![CDATA[Le Châtel ou Le Bonnet de Calvin]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.335201" lon="5.7030001">
+    <ele>1920</ele>
+    <name>F/AB-375</name>
+    <cmt><![CDATA[Grande Sure]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.937" lon="6.3339">
+    <ele>1915</ele>
+    <name>F/AB-377</name>
+    <cmt><![CDATA[Pointe de la Queblette]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.995499" lon="6.3597999">
+    <ele>1914</ele>
+    <name>F/AB-378</name>
+    <cmt><![CDATA[Montagne des Frêtes]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.147499" lon="5.6392999">
+    <ele>1901</ele>
+    <name>F/AB-379</name>
+    <cmt><![CDATA[Le Moucherotte]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="46.008099" lon="6.3497">
+    <ele>1896</ele>
+    <name>F/AB-380</name>
+    <cmt><![CDATA[Roche Parnal]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="46.288101" lon="6.5839">
+    <ele>1894</ele>
+    <name>F/AB-381</name>
+    <cmt><![CDATA[Mont Billiat]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="46.267502" lon="6.5749998">
+    <ele>1890</ele>
+    <name>F/AB-382</name>
+    <cmt><![CDATA[Pointe d'Ireuse]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="46.300301" lon="6.6448002">
+    <ele>1880</ele>
+    <name>F/AB-383</name>
+    <cmt><![CDATA[Mont Ouzon]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.9655" lon="6.4152999">
+    <ele>1877</ele>
+    <name>F/AB-384</name>
+    <cmt><![CDATA[Roc de Charmieux]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="46.0429" lon="6.4180002">
+    <ele>1877</ele>
+    <name>F/AB-385</name>
+    <cmt><![CDATA[Pointe d'Andey]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="44.818802" lon="5.4942002">
+    <ele>1876</ele>
+    <name>F/AB-386</name>
+    <cmt><![CDATA[Sommet de Tourte-Barreaux]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="44.753799" lon="5.6247001">
+    <ele>1903</ele>
+    <name>F/AB-387</name>
+    <cmt><![CDATA[Mont Barral]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.056301" lon="6.0668998">
+    <ele>1875</ele>
+    <name>F/AB-388</name>
+    <cmt><![CDATA[Les Sures]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.325001" lon="5.7641001">
+    <ele>1867</ele>
+    <name>F/AB-389</name>
+    <cmt><![CDATA[Charmant Som]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.432499" lon="5.9043999">
+    <ele>1867</ele>
+    <name>F/AB-390</name>
+    <cmt><![CDATA[Sommet du Pinet]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="46.009998" lon="6.3604002">
+    <ele>1865</ele>
+    <name>F/AB-391</name>
+    <cmt><![CDATA[Les Tampes]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.925098" lon="6.2912998">
+    <ele>1864</ele>
+    <name>F/AB-392</name>
+    <cmt><![CDATA[Tête Ronde]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="46.106701" lon="6.4545999">
+    <ele>1863</ele>
+    <name>F/AB-393</name>
+    <cmt><![CDATA[Le Môle]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.941502" lon="6.2454">
+    <ele>1856</ele>
+    <name>F/AB-395</name>
+    <cmt><![CDATA[Tête du Parmelan]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.629601" lon="6.1082001">
+    <ele>1850</ele>
+    <name>F/AB-396</name>
+    <cmt><![CDATA[Rochers de la Badaz]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.858501" lon="6.257">
+    <ele>1852</ele>
+    <name>F/AB-397</name>
+    <cmt><![CDATA[Pointe de Talamarche]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.6376" lon="6.0360999">
+    <ele>1845</ele>
+    <name>F/AB-399</name>
+    <cmt><![CDATA[Mont Margériaz]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.695599" lon="6.3302999">
+    <ele>1841</ele>
+    <name>F/AB-400</name>
+    <cmt><![CDATA[La Belle Etoile]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.829201" lon="6.3716998">
+    <ele>1839</ele>
+    <name>F/AB-401</name>
+    <cmt><![CDATA[Montagne de Sulens]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.298302" lon="5.6982999">
+    <ele>1844</ele>
+    <name>F/AB-402</name>
+    <cmt><![CDATA[Rocher de Chalves]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.820599" lon="6.4650002">
+    <ele>1835</ele>
+    <name>F/AB-403</name>
+    <cmt><![CDATA[Le Treu]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.34" lon="6.3422999">
+    <ele>1840</ele>
+    <name>F/AB-404</name>
+    <cmt><![CDATA[L'Armélaz]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="46.2943" lon="6.7213998">
+    <ele>1830</ele>
+    <name>F/AB-405</name>
+    <cmt><![CDATA[Le Jorat ou Le Clocher]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="46.1689" lon="6.6479998">
+    <ele>1826</ele>
+    <name>F/AB-406</name>
+    <cmt><![CDATA[Mont Chéry]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="44.731701" lon="5.7033">
+    <ele>1851</ele>
+    <name>F/AB-407</name>
+    <cmt><![CDATA[Le Rognon]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.8615" lon="6.2417002">
+    <ele>1828</ele>
+    <name>F/AB-408</name>
+    <cmt><![CDATA[Dents de Lanfon (Pointe Centrale)]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="46.2673" lon="6.671">
+    <ele>1815</ele>
+    <name>F/AB-409</name>
+    <cmt><![CDATA[Pointe de la Croix]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="46.02" lon="6.3463001">
+    <ele>1809</ele>
+    <name>F/AB-410</name>
+    <cmt><![CDATA[Sur Cou]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="44.891499" lon="5.5924001">
+    <ele>1808</ele>
+    <name>F/AB-411</name>
+    <cmt><![CDATA[Rochers des Chaux]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="46.301701" lon="6.7033">
+    <ele>1808</ele>
+    <name>F/AB-412</name>
+    <cmt><![CDATA[Pointe d'Autigny]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.9161" lon="6.2592001">
+    <ele>1803</ele>
+    <name>F/AB-413</name>
+    <cmt><![CDATA[Mont Teret]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="46.2183" lon="6.5897002">
+    <ele>1802</ele>
+    <name>F/AB-414</name>
+    <cmt><![CDATA[La Grande Pointe]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="46.230301" lon="6.5732999">
+    <ele>1801</ele>
+    <name>F/AB-415</name>
+    <cmt><![CDATA[Pointe de la Gay]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.848801" lon="6.2544999">
+    <ele>1793</ele>
+    <name>F/AB-416</name>
+    <cmt><![CDATA[Lanfonnet]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="46.165298" lon="6.5407">
+    <ele>1795</ele>
+    <name>F/AB-417</name>
+    <cmt><![CDATA[Pointe de Rovagne]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.345501" lon="5.8501">
+    <ele>1783</ele>
+    <name>F/AB-419</name>
+    <cmt><![CDATA[Bec de la Scia]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.7173" lon="6.2392001">
+    <ele>1784</ele>
+    <name>F/AB-420</name>
+    <cmt><![CDATA[Pointe de Velan]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.7556" lon="6.1666999">
+    <ele>1775</ele>
+    <name>F/AB-421</name>
+    <cmt><![CDATA[Roc des Bœufs]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="44.908199" lon="5.7212">
+    <ele>1769</ele>
+    <name>F/AB-422</name>
+    <cmt><![CDATA[Le Senépy]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.985802" lon="6.3046999">
+    <ele>1767</ele>
+    <name>F/AB-423</name>
+    <cmt><![CDATA[La Tête]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.317001" lon="5.8375001">
+    <ele>1768</ele>
+    <name>F/AB-424</name>
+    <cmt><![CDATA[Roc d’Arguille]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="44.7365" lon="5.7158999">
+    <ele>1796</ele>
+    <name>F/AB-426</name>
+    <cmt><![CDATA[Sommet de l'Aup]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.907902" lon="6.7433">
+    <ele>1746</ele>
+    <name>F/AB-427</name>
+    <cmt><![CDATA[Tête Noire]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.794102" lon="6.4439001">
+    <ele>1743</ele>
+    <name>F/AB-428</name>
+    <cmt><![CDATA[Praz Vechin]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.882801" lon="6.3825002">
+    <ele>1741</ele>
+    <name>F/AB-429</name>
+    <cmt><![CDATA[Sommet de Colomban]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.2966" lon="5.8280001">
+    <ele>1738</ele>
+    <name>F/AB-430</name>
+    <cmt><![CDATA[Bec Charvet]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.922199" lon="6.4482999">
+    <ele>1731</ele>
+    <name>F/AB-431</name>
+    <cmt><![CDATA[Tête du Danay]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.186798" lon="5.5925999">
+    <ele>1709</ele>
+    <name>F/AB-432</name>
+    <cmt><![CDATA[Charande]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="44.991901" lon="5.7244">
+    <ele>1710</ele>
+    <name>F/AB-433</name>
+    <cmt><![CDATA[Montagne du Conest]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="44.851101" lon="5.8902998">
+    <ele>1705</ele>
+    <name>F/AB-434</name>
+    <cmt><![CDATA[Le Chauvet]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.797199" lon="6.1047001">
+    <ele>1702</ele>
+    <name>F/AB-435</name>
+    <cmt><![CDATA[Crêt de Chatillon]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.566002" lon="6.0665002">
+    <ele>1681</ele>
+    <name>F/AB-436</name>
+    <cmt><![CDATA[Pointe de la Galoppaz]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.465801" lon="5.8448">
+    <ele>1676</ele>
+    <name>F/AB-437</name>
+    <cmt><![CDATA[Mont Outheran]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.707802" lon="6.1606002">
+    <ele>1662</ele>
+    <name>F/AB-438</name>
+    <cmt><![CDATA[Mont Julioz]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.592201" lon="6.0777998">
+    <ele>1660</ele>
+    <name>F/AB-439</name>
+    <cmt><![CDATA[Mont de la Buffaz]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="46.235001" lon="6.5432">
+    <ele>1657</ele>
+    <name>F/AB-440</name>
+    <cmt><![CDATA[Sur la Pointe]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.8666" lon="6.4085002">
+    <ele>1658</ele>
+    <name>F/AB-441</name>
+    <cmt><![CDATA[Tête de Cabeau]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.745201" lon="6.1782999">
+    <ele>1640</ele>
+    <name>F/AB-442</name>
+    <cmt><![CDATA[Roc de Four Magnin]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="46.313202" lon="6.6448002">
+    <ele>1634</ele>
+    <name>F/AB-443</name>
+    <cmt><![CDATA[Arête des Aiguillettes]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.137402" lon="5.4933">
+    <ele>1628</ele>
+    <name>F/AB-444</name>
+    <cmt><![CDATA[Roche de Méaudre]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.216599" lon="5.5351">
+    <ele>1638</ele>
+    <name>F/AB-445</name>
+    <cmt><![CDATA[Roche de Pierre Taillée]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="46.277901" lon="6.6511002">
+    <ele>1621</ele>
+    <name>F/AB-446</name>
+    <cmt><![CDATA[Pointe du Mont]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.386398" lon="5.7919002">
+    <ele>1599</ele>
+    <name>F/AB-448</name>
+    <cmt><![CDATA[L'Alienard]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="46.2299" lon="6.4949002">
+    <ele>1607</ele>
+    <name>F/AB-449</name>
+    <cmt><![CDATA[Crêt des Brottets]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="44.907101" lon="5.8800001">
+    <ele>1604</ele>
+    <name>F/AB-450</name>
+    <cmt><![CDATA[Montagne de Rousillon]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.068501" lon="5.4748001">
+    <ele>1607</ele>
+    <name>F/AB-451</name>
+    <cmt><![CDATA[Crête de Chalimont]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="44.760601" lon="5.7557001">
+    <ele>1594</ele>
+    <name>F/AB-452</name>
+    <cmt><![CDATA[Le Ménil]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="44.793098" lon="5.612">
+    <ele>1586</ele>
+    <name>F/AB-453</name>
+    <cmt><![CDATA[Sommet du Platary]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="46.2117" lon="6.4747">
+    <ele>1581</ele>
+    <name>F/AB-454</name>
+    <cmt><![CDATA[Pointe de Miribel]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.563499" lon="6.0943999">
+    <ele>1572</ele>
+    <name>F/AB-455</name>
+    <cmt><![CDATA[Mont Charvet]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.620399" lon="5.9674001">
+    <ele>1563</ele>
+    <name>F/AB-456</name>
+    <cmt><![CDATA[Mont du Nivolet]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.689602" lon="5.9896998">
+    <ele>1562</ele>
+    <name>F/AB-457</name>
+    <cmt><![CDATA[La Tour de l'Angle Est]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.0228" lon="5.4837999">
+    <ele>1575</ele>
+    <name>F/AB-458</name>
+    <cmt><![CDATA[La Sambue]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="44.919201" lon="5.5599999">
+    <ele>1558</ele>
+    <name>F/AB-461</name>
+    <cmt><![CDATA[Le Palais]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.087299" lon="5.8379002">
+    <ele>1547</ele>
+    <name>F/AB-462</name>
+    <cmt><![CDATA[Pic de l'Oeilly]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.594101" lon="6.1141">
+    <ele>1543</ele>
+    <name>F/AB-464</name>
+    <cmt><![CDATA[Mont Pelat]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.4916" lon="5.8976998">
+    <ele>1556</ele>
+    <name>F/AB-465</name>
+    <cmt><![CDATA[Mont Joigny]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="46.273701" lon="6.4882002">
+    <ele>1539</ele>
+    <name>F/AB-466</name>
+    <cmt><![CDATA[Mont Forchat]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="44.982201" lon="5.6020999">
+    <ele>1508</ele>
+    <name>F/AB-467</name>
+    <cmt><![CDATA[Crête de la Ferrière]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.659901" lon="5.8211999">
+    <ele>1504</ele>
+    <name>F/AB-468</name>
+    <cmt><![CDATA[Mont du Chat]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="46.163399" lon="6.4426999">
+    <ele>1503</ele>
+    <name>F/AB-469</name>
+    <cmt><![CDATA[Pointe des Brasses]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="44.879299" lon="5.8862">
+    <ele>1492</ele>
+    <name>F/AB-471</name>
+    <cmt><![CDATA[Croix de la Roche]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="46.2304" lon="6.3551002">
+    <ele>1480</ele>
+    <name>F/AB-473</name>
+    <cmt><![CDATA[Le Signal des Voirons]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="46.036098" lon="6.5664001">
+    <ele>1463</ele>
+    <name>F/AB-475</name>
+    <cmt><![CDATA[Barme Rousse]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.442101" lon="5.8481002">
+    <ele>1434</ele>
+    <name>F/AB-476</name>
+    <cmt><![CDATA[Roc de Gleisin]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.519199" lon="6.2733002">
+    <ele>1469</ele>
+    <name>F/AB-477</name>
+    <cmt><![CDATA[Forêt de Montgilbert (Batterie Ste Lucie)]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.510399" lon="5.8066001">
+    <ele>1433</ele>
+    <name>F/AB-478</name>
+    <cmt><![CDATA[Mont Grelle]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.506401" lon="5.8667002">
+    <ele>1419</ele>
+    <name>F/AB-479</name>
+    <cmt><![CDATA[Le Corbeley]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="46.317799" lon="6.5335999">
+    <ele>1413</ele>
+    <name>F/AB-480</name>
+    <cmt><![CDATA[Mont d'Hermone]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.252899" lon="5.7578001">
+    <ele>1406</ele>
+    <name>F/AB-481</name>
+    <cmt><![CDATA[L'Écoutoux]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="44.7561" lon="5.7806001">
+    <ele>1436</ele>
+    <name>F/AB-482</name>
+    <cmt><![CDATA[Le Rattier]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.028801" lon="5.6177001">
+    <ele>1441</ele>
+    <name>F/AB-483</name>
+    <cmt><![CDATA[Rocher de l'Eperrimont]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.056702" lon="5.5324998">
+    <ele>1375</ele>
+    <name>F/AB-484</name>
+    <cmt><![CDATA[Le Liorin]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="46.0942" lon="6.1402001">
+    <ele>1379</ele>
+    <name>F/AB-485</name>
+    <cmt><![CDATA[Le Grand Piton]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.091499" lon="5.5373998">
+    <ele>1361</ele>
+    <name>F/AB-486</name>
+    <cmt><![CDATA[Sommet de Meillarot]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="46.263401" lon="6.5226998">
+    <ele>1367</ele>
+    <name>F/AB-487</name>
+    <cmt><![CDATA[Narmont]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.045799" lon="5.7407999">
+    <ele>1360</ele>
+    <name>F/AB-488</name>
+    <cmt><![CDATA[Fau Cuchet]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.597698" lon="5.9899001">
+    <ele>1356</ele>
+    <name>F/AB-490</name>
+    <cmt><![CDATA[Mont Peney]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="46.099201" lon="6.5503998">
+    <ele>1347</ele>
+    <name>F/AB-491</name>
+    <cmt><![CDATA[Mont Orchez]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="46.260601" lon="6.4933">
+    <ele>1314</ele>
+    <name>F/AB-492</name>
+    <cmt><![CDATA[Bois de la Turche]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.798" lon="6.2497001">
+    <ele>1302</ele>
+    <name>F/AB-493</name>
+    <cmt><![CDATA[Pointe de Chenevier]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.537899" lon="6.0263">
+    <ele>1301</ele>
+    <name>F/AB-494</name>
+    <cmt><![CDATA[Sommet de Montgelas]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.896702" lon="6.1868">
+    <ele>1295</ele>
+    <name>F/AB-495</name>
+    <cmt><![CDATA[Mont Baron]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.234699" lon="5.7101002">
+    <ele>1298</ele>
+    <name>F/AB-496</name>
+    <cmt><![CDATA[Le Neron]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="46.2514" lon="6.4256001">
+    <ele>1297</ele>
+    <name>F/AB-497</name>
+    <cmt><![CDATA[Grande Combe]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.3344" lon="6.0194001">
+    <ele>1285</ele>
+    <name>F/AB-498</name>
+    <cmt><![CDATA[Sommet de Barley]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.933102" lon="6.2150998">
+    <ele>1278</ele>
+    <name>F/AB-499</name>
+    <cmt><![CDATA[Montagne de Lachat]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="44.970402" lon="5.7593999">
+    <ele>1271</ele>
+    <name>F/AB-500</name>
+    <cmt><![CDATA[Les Grandes Côtes]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.887199" lon="6.1966">
+    <ele>1243</ele>
+    <name>F/AB-501</name>
+    <cmt><![CDATA[Mont Baret]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.740299" lon="6.0769">
+    <ele>1229</ele>
+    <name>F/AB-502</name>
+    <cmt><![CDATA[Montagne de Bange]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="46.060799" lon="6.6023998">
+    <ele>1222</ele>
+    <name>F/AB-503</name>
+    <cmt><![CDATA[Pointe de Chevran]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.5172" lon="6.0486002">
+    <ele>1209</ele>
+    <name>F/AB-504</name>
+    <cmt><![CDATA[Roche du Guet]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.731899" lon="5.8237">
+    <ele>1161</ele>
+    <name>F/AB-505</name>
+    <cmt><![CDATA[La Charvaz]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="46.059898" lon="5.9383998">
+    <ele>1112</ele>
+    <name>F/AB-506</name>
+    <cmt><![CDATA[Le Vuache]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="44.831299" lon="5.698">
+    <ele>1105</ele>
+    <name>F/AB-507</name>
+    <cmt><![CDATA[Grand Fays]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="44.903301" lon="5.6408">
+    <ele>1070</ele>
+    <name>F/AB-508</name>
+    <cmt><![CDATA[Grivets]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="44.834202" lon="5.7266998">
+    <ele>1074</ele>
+    <name>F/AB-509</name>
+    <cmt><![CDATA[Serre Vulson]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.8927" lon="5.8653998">
+    <ele>1057</ele>
+    <name>F/AB-510</name>
+    <cmt><![CDATA[Montagne du Gros Foug]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.218498" lon="5.7333002">
+    <ele>1046</ele>
+    <name>F/AB-511</name>
+    <cmt><![CDATA[Mont Rachais]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="44.855" lon="5.7157998">
+    <ele>1041</ele>
+    <name>F/AB-512</name>
+    <cmt><![CDATA[L'Aurouse]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="46.134998" lon="6.4924002">
+    <ele>1011</ele>
+    <name>F/AB-513</name>
+    <cmt><![CDATA[Sur Don]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.286598" lon="5.5953002">
+    <ele>988</ele>
+    <name>F/AB-514</name>
+    <cmt><![CDATA[Dent de Moirans]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.175999" lon="5.8411002">
+    <ele>999</ele>
+    <name>F/AB-515</name>
+    <cmt><![CDATA[Prémol]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="46.069199" lon="6.198">
+    <ele>961</ele>
+    <name>F/AB-516</name>
+    <cmt><![CDATA[Crêt de la Gouette]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.417099" lon="5.6356001">
+    <ele>952</ele>
+    <name>F/AB-517</name>
+    <cmt><![CDATA[Baracuchet]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.02" lon="5.6774998">
+    <ele>942</ele>
+    <name>F/AB-518</name>
+    <cmt><![CDATA[Le Grand Brion]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.3181" lon="5.6415">
+    <ele>942</ele>
+    <name>F/AB-519</name>
+    <cmt><![CDATA[Roche Brune]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.153702" lon="5.8045001">
+    <ele>937</ele>
+    <name>F/AB-520</name>
+    <cmt><![CDATA[Fort des Quatre Seigneurs]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.946201" lon="5.8737998">
+    <ele>940</ele>
+    <name>F/AB-521</name>
+    <cmt><![CDATA[La Ferme du Comte]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="44.998299" lon="5.6616998">
+    <ele>938</ele>
+    <name>F/AB-522</name>
+    <cmt><![CDATA[La Lassière]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.9762" lon="6.0798998">
+    <ele>923</ele>
+    <name>F/AB-523</name>
+    <cmt><![CDATA[La Goliettaz]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="46.1161" lon="6.5574999">
+    <ele>910</ele>
+    <name>F/AB-524</name>
+    <cmt><![CDATA[Roc des Suets]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.953602" lon="6.0574999">
+    <ele>900</ele>
+    <name>F/AB-525</name>
+    <cmt><![CDATA[La Tête]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.5522" lon="6.0022001">
+    <ele>895</ele>
+    <name>F/AB-526</name>
+    <cmt><![CDATA[Mont Saint Michel]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.419701" lon="5.5943999">
+    <ele>888</ele>
+    <name>F/AB-527</name>
+    <cmt><![CDATA[Charavin]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="46.165001" lon="6.2108002">
+    <ele>899</ele>
+    <name>F/AB-529</name>
+    <cmt><![CDATA[Camp des Allobroges]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.640202" lon="5.7052002">
+    <ele>877</ele>
+    <name>F/AB-530</name>
+    <cmt><![CDATA[Mont Tournier]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.3937" lon="5.5595002">
+    <ele>843</ele>
+    <name>F/AB-531</name>
+    <cmt><![CDATA[Bois de Bavonne]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.481602" lon="6.1121001">
+    <ele>824</ele>
+    <name>F/AB-532</name>
+    <cmt><![CDATA[Montraillant]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.435101" lon="5.5474">
+    <ele>804</ele>
+    <name>F/AB-533</name>
+    <cmt><![CDATA[Pierre de Libre Soleil]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.053902" lon="5.3562999">
+    <ele>793</ele>
+    <name>F/AB-534</name>
+    <cmt><![CDATA[Mont Baret]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.309101" lon="5.408">
+    <ele>789</ele>
+    <name>F/AB-535</name>
+    <cmt><![CDATA[Le Camp de César]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.4519" lon="5.4769001">
+    <ele>780</ele>
+    <name>F/AB-536</name>
+    <cmt><![CDATA[Molard Levrier]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.452499" lon="5.5976">
+    <ele>779</ele>
+    <name>F/AB-537</name>
+    <cmt><![CDATA[Mont de Servelongue]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.415199" lon="5.5098">
+    <ele>773</ele>
+    <name>F/AB-538</name>
+    <cmt><![CDATA[Mont Follet]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="46.323601" lon="6.4521999">
+    <ele>754</ele>
+    <name>F/AB-539</name>
+    <cmt><![CDATA[La Maladière]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.9711" lon="5.9913001">
+    <ele>756</ele>
+    <name>F/AB-540</name>
+    <cmt><![CDATA[Bois de Bornachon]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.410198" lon="5.4439001">
+    <ele>738</ele>
+    <name>F/AB-541</name>
+    <cmt><![CDATA[Croix de Futeau]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.3232" lon="5.4688001">
+    <ele>748</ele>
+    <name>F/AB-542</name>
+    <cmt><![CDATA[Parmenie]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.3783" lon="5.6041999">
+    <ele>739</ele>
+    <name>F/AB-543</name>
+    <cmt><![CDATA[Le Replat]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.100201" lon="5.7676001">
+    <ele>733</ele>
+    <name>F/AB-544</name>
+    <cmt><![CDATA[Bellevue]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.495399" lon="5.7456999">
+    <ele>725</ele>
+    <name>F/AB-545</name>
+    <cmt><![CDATA[La Madone]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.7687" lon="5.9984002">
+    <ele>724</ele>
+    <name>F/AB-546</name>
+    <cmt><![CDATA[Chainaz-les-Frasses]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.859798" lon="6.0274">
+    <ele>729</ele>
+    <name>F/AB-547</name>
+    <cmt><![CDATA[Charnire]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="46.307701" lon="6.3579001">
+    <ele>739</ele>
+    <name>F/AB-548</name>
+    <cmt><![CDATA[Mont de Boisy]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.4398" lon="6.1041002">
+    <ele>717</ele>
+    <name>F/AB-549</name>
+    <cmt><![CDATA[Mont Pezard]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.413502" lon="5.4108">
+    <ele>709</ele>
+    <name>F/AB-550</name>
+    <cmt><![CDATA[Pierre Paltout]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.466999" lon="5.5247998">
+    <ele>710</ele>
+    <name>F/AB-551</name>
+    <cmt><![CDATA[Bois du Prena]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.474701" lon="5.4152999">
+    <ele>710</ele>
+    <name>F/AB-552</name>
+    <cmt><![CDATA[Le Château Désert]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="46.019299" lon="5.9671998">
+    <ele>705</ele>
+    <name>F/AB-553</name>
+    <cmt><![CDATA[Le Mont]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.493801" lon="5.3505001">
+    <ele>691</ele>
+    <name>F/AB-554</name>
+    <cmt><![CDATA[Grandes Charpennes]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.3778" lon="5.6170001">
+    <ele>698</ele>
+    <name>F/AB-555</name>
+    <cmt><![CDATA[Tolvon]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.7906" lon="5.7969999">
+    <ele>587</ele>
+    <name>F/AB-556</name>
+    <cmt><![CDATA[Narfé]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.051998" lon="5.6908998">
+    <ele>537</ele>
+    <name>F/AB-557</name>
+    <cmt><![CDATA[Le Petit Brion]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.134102" lon="5.7588">
+    <ele>544</ele>
+    <name>F/AB-558</name>
+    <cmt><![CDATA[Fort de Montavie]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.669899" lon="5.2379999">
+    <ele>443</ele>
+    <name>F/AB-559</name>
+    <cmt><![CDATA[Croupillon]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.7631" lon="5.2876">
+    <ele>447</ele>
+    <name>F/AB-560</name>
+    <cmt><![CDATA[Mollard Foédé]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.860298" lon="5.3585">
+    <ele>441</ele>
+    <name>F/AB-561</name>
+    <cmt><![CDATA[Bois du Serverin]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="44.7752" lon="5.8393998">
+    <ele>2789</ele>
+    <name>F/AB-564</name>
+    <cmt><![CDATA[Grande Tête de l'Obiou]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.162998" lon="5.9267001">
+    <ele>2394</ele>
+    <name>F/AB-569</name>
+    <cmt><![CDATA[Le Grand Colon]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.926998" lon="7.0036998">
+    <ele>3856</ele>
+    <name>F/AB-577</name>
+    <cmt><![CDATA[Les Courtes]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.3335" lon="7.1019001">
+    <ele>3637</ele>
+    <name>F/AB-578</name>
+    <cmt><![CDATA[L'Albaron]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.4104" lon="7.1718998">
+    <ele>3619</ele>
+    <name>F/AB-579</name>
+    <cmt><![CDATA[Levanna Centrale]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.479401" lon="7.0461001">
+    <ele>3602</ele>
+    <name>F/AB-580</name>
+    <cmt><![CDATA[La Tsanteleina]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.302101" lon="7.1195998">
+    <ele>3592</ele>
+    <name>F/AB-581</name>
+    <cmt><![CDATA[La Bessanèse]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.4025" lon="7.1849999">
+    <ele>3555</ele>
+    <name>F/AB-582</name>
+    <cmt><![CDATA[Levanna Orientale]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="44.973999" lon="6.27">
+    <ele>3542</ele>
+    <name>F/AB-583</name>
+    <cmt><![CDATA[Tête de la Gandolière]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.358299" lon="7.1574998">
+    <ele>3425</ele>
+    <name>F/AB-584</name>
+    <cmt><![CDATA[Pointe Francesetti]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.225601" lon="7.0510998">
+    <ele>3385</ele>
+    <name>F/AB-585</name>
+    <cmt><![CDATA[Mont Tour]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.169201" lon="6.8933001">
+    <ele>3372</ele>
+    <name>F/AB-586</name>
+    <cmt><![CDATA[Dents d'Ambin]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.473099" lon="7.0735998">
+    <ele>3350</ele>
+    <name>F/AB-587</name>
+    <cmt><![CDATA[Pointe de Calabre]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.654202" lon="6.9703002">
+    <ele>3173</ele>
+    <name>F/AB-588</name>
+    <cmt><![CDATA[Grand Assaly ou Pointe du Petit]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.406399" lon="6.7568998">
+    <ele>3153</ele>
+    <name>F/AB-589</name>
+    <cmt><![CDATA[Pointe du Creux Noir]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.056198" lon="6.4864001">
+    <ele>3073</ele>
+    <name>F/AB-590</name>
+    <cmt><![CDATA[Pic de La Moulinière]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.280602" lon="6.1307998">
+    <ele>2887</ele>
+    <name>F/AB-591</name>
+    <cmt><![CDATA[Pic de la Grande Valloire]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.303902" lon="6.1536002">
+    <ele>2826</ele>
+    <name>F/AB-592</name>
+    <cmt><![CDATA[Le Charmet de l'Aiguille]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.217499" lon="6.8483">
+    <ele>2755</ele>
+    <name>F/AB-593</name>
+    <cmt><![CDATA[Pointe de Bellecombe]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.316399" lon="6.1866999">
+    <ele>2727</ele>
+    <name>F/AB-594</name>
+    <cmt><![CDATA[Pointe du Villonet]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.6413" lon="6.9011998">
+    <ele>2678</ele>
+    <name>F/AB-595</name>
+    <cmt><![CDATA[Pointe des Couloureuses]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="44.756699" lon="5.8407998">
+    <ele>2584</ele>
+    <name>F/AB-596</name>
+    <cmt><![CDATA[Tête de Lapras]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.632801" lon="6.9039001">
+    <ele>2573</ele>
+    <name>F/AB-597</name>
+    <cmt><![CDATA[Pointe de la Roche Jaille]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.8983" lon="6.5524998">
+    <ele>2236</ele>
+    <name>F/AB-598</name>
+    <cmt><![CDATA[Croisse Baulet]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="44.842201" lon="5.5528002">
+    <ele>2087</ele>
+    <name>F/AB-599</name>
+    <cmt><![CDATA[Mont Aiguille]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="46.1283" lon="6.5753002">
+    <ele>1999</ele>
+    <name>F/AB-600</name>
+    <cmt><![CDATA[Pointe de Marcelly]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="44.783699" lon="5.5490999">
+    <ele>1972</ele>
+    <name>F/AB-601</name>
+    <cmt><![CDATA[Sommet de la Montagnette]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="44.761101" lon="5.9296999">
+    <ele>1848</ele>
+    <name>F/AB-602</name>
+    <cmt><![CDATA[Pic Grillon]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.2883" lon="5.7382998">
+    <ele>1771</ele>
+    <name>F/AB-603</name>
+    <cmt><![CDATA[La Pinéa]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="44.757801" lon="5.8989">
+    <ele>1753</ele>
+    <name>F/AB-604</name>
+    <cmt><![CDATA[Grand Brechon]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="44.932201" lon="5.5881">
+    <ele>1734</ele>
+    <name>F/AB-605</name>
+    <cmt><![CDATA[Montagne de la Pale]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="44.849899" lon="5.5935001">
+    <ele>1553</ele>
+    <name>F/AB-606</name>
+    <cmt><![CDATA[Rocher de l'Aubeyron]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.124699" lon="5.4503002">
+    <ele>1475</ele>
+    <name>F/AB-607</name>
+    <cmt><![CDATA[Mont Noir]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.039398" lon="5.3959999">
+    <ele>1271</ele>
+    <name>F/AB-608</name>
+    <cmt><![CDATA[Petite Cornouze]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.052502" lon="5.6406999">
+    <ele>1270</ele>
+    <name>F/AB-609</name>
+    <cmt><![CDATA[Pieu ou Le Bémont]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.073299" lon="5.4175">
+    <ele>1236</ele>
+    <name>F/AB-610</name>
+    <cmt><![CDATA[Rochers de Presles]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.392502" lon="6.0374999">
+    <ele>1230</ele>
+    <name>F/AB-611</name>
+    <cmt><![CDATA[Brame-Farine]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.2939" lon="5.6608">
+    <ele>1089</ele>
+    <name>F/AB-612</name>
+    <cmt><![CDATA[Aiguille de Chalais]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.2631" lon="5.6018">
+    <ele>998</ele>
+    <name>F/AB-613</name>
+    <cmt><![CDATA[La Cuche]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.999401" lon="6.1072001">
+    <ele>888</ele>
+    <name>F/AB-614</name>
+    <cmt><![CDATA[Crêt de la Dame]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.7491" lon="5.8987002">
+    <ele>849</ele>
+    <name>F/AB-615</name>
+    <cmt><![CDATA[Montagne de la Biolle]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.311901" lon="5.46">
+    <ele>784</ele>
+    <name>F/AB-616</name>
+    <cmt><![CDATA[Marsonnat]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.276402" lon="5.4119">
+    <ele>783</ele>
+    <name>F/AB-617</name>
+    <cmt><![CDATA[Les Chargeoux]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.974201" lon="5.9541998">
+    <ele>749</ele>
+    <name>F/AB-618</name>
+    <cmt><![CDATA[Bois de Charmont]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.578201" lon="5.7326999">
+    <ele>722</ele>
+    <name>F/AB-619</name>
+    <cmt><![CDATA[La Forêt]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.390099" lon="5.6044002">
+    <ele>692</ele>
+    <name>F/AB-620</name>
+    <cmt><![CDATA[Bois de Montmain]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.387798" lon="5.5908999">
+    <ele>672</ele>
+    <name>F/AB-621</name>
+    <cmt><![CDATA[Monure]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.926498" lon="6.0451002">
+    <ele>670</ele>
+    <name>F/AB-622</name>
+    <cmt><![CDATA[Montagne d'Age]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.234901" lon="5.4296999">
+    <ele>557</ele>
+    <name>F/AB-623</name>
+    <cmt><![CDATA[Le Trémollet]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.237301" lon="5.4640999">
+    <ele>445</ele>
+    <name>F/AB-624</name>
+    <cmt><![CDATA[Côte Belle]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.8293" lon="5.8060999">
+    <ele>397</ele>
+    <name>F/AB-625</name>
+    <cmt><![CDATA[La Muraille]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+  <wpt lat="45.125828" lon="5.9024901">
+    <ele>2253</ele>
+    <name>F/AB-626</name>
+    <cmt><![CDATA[Croix de Chamrousse]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Alpes Mont Blanc]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/AB</type>
+  </wpt>
+</gpx>

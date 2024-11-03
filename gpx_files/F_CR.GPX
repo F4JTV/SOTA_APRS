@@ -1,0 +1,2416 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1" 
+     creator="SOTA Mapping Project GPX Generator 1.1" 
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+     xmlns="http://www.topografix.com/GPX/1/1" 
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>SOTA Summits GPX Export</name>
+    <desc>SOTA Summits data in GPX v1.1 format></desc>
+    <author>
+      <name>SOTA Mapping Project></name>
+      <email id="admin" domain="www.sotamaps.org" />
+      <link href="https://www.sotamaps.org">
+        <text>SOTA Mapping Project</text>
+      </link>
+    </author>
+    <link href="https://www.sotamaps.org">
+      <text>SOTA Mapping Project</text>
+    </link>
+    <time>2024-11-03T14:11:03Z</time>
+    <keywords>SOTA, Summits On The Air, amateur radio, ham radio</keywords>
+    <bounds minlat="43.176701" minlon="3.4572999" maxlat="45.3172" maxlon="5.7433"/>
+  </metadata>
+  <wpt lat="44.7243" lon="5.6472998">
+    <ele>2051</ele>
+    <name>F/CR-002</name>
+    <cmt><![CDATA[Montagne de Jocou]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.737202" lon="5.4700999">
+    <ele>2041</ele>
+    <name>F/CR-003</name>
+    <cmt><![CDATA[Montagne de Glandasse]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.7407" lon="5.6118002">
+    <ele>1952</ele>
+    <name>F/CR-005</name>
+    <cmt><![CDATA[Montagne de Belle Motte]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.655602" lon="5.6543002">
+    <ele>1916</ele>
+    <name>F/CR-006</name>
+    <cmt><![CDATA[Toussière]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.174" lon="5.2783999">
+    <ele>1911</ele>
+    <name>F/CR-007</name>
+    <cmt><![CDATA[Mont Ventoux]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.698898" lon="5.7433">
+    <ele>1882</ele>
+    <name>F/CR-008</name>
+    <cmt><![CDATA[Pointe Feuillette]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.678398" lon="5.6405001">
+    <ele>1744</ele>
+    <name>F/CR-009</name>
+    <cmt><![CDATA[L'Aupillon]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.6194" lon="5.6493001">
+    <ele>1729</ele>
+    <name>F/CR-010</name>
+    <cmt><![CDATA[Quigouret]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.9146" lon="5.3038998">
+    <ele>1706</ele>
+    <name>F/CR-011</name>
+    <cmt><![CDATA[Serre de Montué]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.878899" lon="5.3424001">
+    <ele>1651</ele>
+    <name>F/CR-013</name>
+    <cmt><![CDATA[Puy de la Gagère]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.830299" lon="5.3315001">
+    <ele>1643</ele>
+    <name>F/CR-014</name>
+    <cmt><![CDATA[But Saint-Genix]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.846001" lon="5.3943">
+    <ele>1656</ele>
+    <name>F/CR-015</name>
+    <cmt><![CDATA[But de Nève]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.716702" lon="5.5675001">
+    <ele>1653</ele>
+    <name>F/CR-016</name>
+    <cmt><![CDATA[Serre Chomille]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.588299" lon="5.3457999">
+    <ele>1613</ele>
+    <name>F/CR-017</name>
+    <cmt><![CDATA[La Servelle]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.860298" lon="4.1652999">
+    <ele>1609</ele>
+    <name>F/CR-018</name>
+    <cmt><![CDATA[Suc de Taupernas]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.487801" lon="5.2575002">
+    <ele>1606</ele>
+    <name>F/CR-019</name>
+    <cmt><![CDATA[Le Merlu]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.637501" lon="5.2027998">
+    <ele>1589</ele>
+    <name>F/CR-020</name>
+    <cmt><![CDATA[Le Veyou]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.890099" lon="5.2388">
+    <ele>1581</ele>
+    <name>F/CR-021</name>
+    <cmt><![CDATA[Roc de Toulau]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.927898" lon="5.3492999">
+    <ele>1591</ele>
+    <name>F/CR-022</name>
+    <cmt><![CDATA[Rochers de Bournette]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.1217" lon="3.5806">
+    <ele>1565</ele>
+    <name>F/CR-023</name>
+    <cmt><![CDATA[Mont Aigoual]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.670399" lon="5.6711001">
+    <ele>1591</ele>
+    <name>F/CR-024</name>
+    <cmt><![CDATA[Le Sarrier]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.568001" lon="5.3804002">
+    <ele>1570</ele>
+    <name>F/CR-025</name>
+    <cmt><![CDATA[La Berche]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.7071" lon="5.605">
+    <ele>1556</ele>
+    <name>F/CR-026</name>
+    <cmt><![CDATA[Montagne de Pinchinet]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.843899" lon="4.2199998">
+    <ele>1551</ele>
+    <name>F/CR-027</name>
+    <cmt><![CDATA[Gerbier de Jonc]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.519798" lon="5.5159001">
+    <ele>1550</ele>
+    <name>F/CR-028</name>
+    <cmt><![CDATA[Montagne de Tarsimoure]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.6092" lon="5.5414">
+    <ele>1550</ele>
+    <name>F/CR-029</name>
+    <cmt><![CDATA[Montagne du Puy]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.6553" lon="4.0594001">
+    <ele>1544</ele>
+    <name>F/CR-030</name>
+    <cmt><![CDATA[Les Valadous]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.662498" lon="5.6016998">
+    <ele>1550</ele>
+    <name>F/CR-031</name>
+    <cmt><![CDATA[Crête de l'Estellier]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.615601" lon="5.2049999">
+    <ele>1544</ele>
+    <name>F/CR-032</name>
+    <cmt><![CDATA[Le Grand Delmas]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.261299" lon="5.5728998">
+    <ele>1532</ele>
+    <name>F/CR-034</name>
+    <cmt><![CDATA[Montagne de Chamouse]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.873901" lon="4.2224998">
+    <ele>1521</ele>
+    <name>F/CR-035</name>
+    <cmt><![CDATA[Suc de Sara]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.619999" lon="4.0794001">
+    <ele>1511</ele>
+    <name>F/CR-036</name>
+    <cmt><![CDATA[Sommet du Tanargue]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.651501" lon="5.5244002">
+    <ele>1505</ele>
+    <name>F/CR-037</name>
+    <cmt><![CDATA[Le Mayor]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.194401" lon="5.5994">
+    <ele>1484</ele>
+    <name>F/CR-038</name>
+    <cmt><![CDATA[Montagne de Palle]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.641602" lon="5.5114002">
+    <ele>1493</ele>
+    <name>F/CR-040</name>
+    <cmt><![CDATA[La Grésière]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.749401" lon="4.1532998">
+    <ele>1472</ele>
+    <name>F/CR-041</name>
+    <cmt><![CDATA[Suc de Bauzon]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.7033" lon="4.0405998">
+    <ele>1467</ele>
+    <name>F/CR-042</name>
+    <cmt><![CDATA[Le Suchalias]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.296101" lon="5.5461001">
+    <ele>1461</ele>
+    <name>F/CR-043</name>
+    <cmt><![CDATA[Montagne de l'Arsuc]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.484699" lon="5.1963">
+    <ele>1451</ele>
+    <name>F/CR-044</name>
+    <cmt><![CDATA[Montagne de Miélandre]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.031101" lon="3.4969001">
+    <ele>1445</ele>
+    <name>F/CR-045</name>
+    <cmt><![CDATA[La Luzette]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.207199" lon="5.4794002">
+    <ele>1442</ele>
+    <name>F/CR-046</name>
+    <cmt><![CDATA[Montagne du Buc]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.066101" lon="3.5761001">
+    <ele>1417</ele>
+    <name>F/CR-050</name>
+    <cmt><![CDATA[Montagne d'Aulas]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.165699" lon="5.5447001">
+    <ele>1413</ele>
+    <name>F/CR-051</name>
+    <cmt><![CDATA[Montagne d’Albion]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.9874" lon="5.3765001">
+    <ele>1408</ele>
+    <name>F/CR-052</name>
+    <cmt><![CDATA[Roche des Arnauds]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.306599" lon="5.5788999">
+    <ele>1416</ele>
+    <name>F/CR-054</name>
+    <cmt><![CDATA[En Buis]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.5079" lon="5.4113998">
+    <ele>1400</ele>
+    <name>F/CR-055</name>
+    <cmt><![CDATA[Montagne des Ruelles]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.621399" lon="3.9814">
+    <ele>1400</ele>
+    <name>F/CR-057</name>
+    <cmt><![CDATA[Trépaloup]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.2383" lon="5.3634">
+    <ele>1382</ele>
+    <name>F/CR-058</name>
+    <cmt><![CDATA[Montagne de Banne]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.163601" lon="5.4893999">
+    <ele>1392</ele>
+    <name>F/CR-059</name>
+    <cmt><![CDATA[Sommet du Col Pointu]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.2658" lon="5.6430998">
+    <ele>1393</ele>
+    <name>F/CR-060</name>
+    <cmt><![CDATA[Montagne de Chabre]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.2733" lon="5.5847001">
+    <ele>1383</ele>
+    <name>F/CR-061</name>
+    <cmt><![CDATA[Montagne d'Herc]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.3251" lon="5.4277">
+    <ele>1391</ele>
+    <name>F/CR-062</name>
+    <cmt><![CDATA[La Vanige]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.203899" lon="5.5124998">
+    <ele>1360</ele>
+    <name>F/CR-063</name>
+    <cmt><![CDATA[Montagne de Bergies]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.452599" lon="5.4415998">
+    <ele>1341</ele>
+    <name>F/CR-065</name>
+    <cmt><![CDATA[Saint Romans]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.569801" lon="5.4386001">
+    <ele>1344</ele>
+    <name>F/CR-066</name>
+    <cmt><![CDATA[Rochers de l'Aigle]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.648102" lon="5.3305001">
+    <ele>1340</ele>
+    <name>F/CR-067</name>
+    <cmt><![CDATA[La Pâle]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.834202" lon="5.2339001">
+    <ele>1342</ele>
+    <name>F/CR-068</name>
+    <cmt><![CDATA[Sommet de Bec-Pointu]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.965302" lon="5.3116999">
+    <ele>1349</ele>
+    <name>F/CR-069</name>
+    <cmt><![CDATA[Serre de Pélandré]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.455299" lon="5.1019001">
+    <ele>1338</ele>
+    <name>F/CR-070</name>
+    <cmt><![CDATA[Montagne de la Lance]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.695801" lon="5.5717001">
+    <ele>1350</ele>
+    <name>F/CR-071</name>
+    <cmt><![CDATA[Pic de l'Aigle]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.943901" lon="5.1981001">
+    <ele>1330</ele>
+    <name>F/CR-072</name>
+    <cmt><![CDATA[Rochers des deux Soeurs]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="45.1539" lon="4.5056">
+    <ele>1324</ele>
+    <name>F/CR-073</name>
+    <cmt><![CDATA[Sommet de Combe Noire]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.903599" lon="4.2505999">
+    <ele>1314</ele>
+    <name>F/CR-074</name>
+    <cmt><![CDATA[Rocher de Pialoux]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.644199" lon="4.1675">
+    <ele>1314</ele>
+    <name>F/CR-075</name>
+    <cmt><![CDATA[Mont Gros]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.2658" lon="5.3896999">
+    <ele>1302</ele>
+    <name>F/CR-076</name>
+    <cmt><![CDATA[Montagne de la Loube]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.257198" lon="5.4664001">
+    <ele>1303</ele>
+    <name>F/CR-077</name>
+    <cmt><![CDATA[Montagne de Croc]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.3242" lon="5.5816998">
+    <ele>1318</ele>
+    <name>F/CR-078</name>
+    <cmt><![CDATA[Montagne de Peylan]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.369099" lon="5.3673">
+    <ele>1317</ele>
+    <name>F/CR-079</name>
+    <cmt><![CDATA[Le Casset]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.383598" lon="5.3277998">
+    <ele>1280</ele>
+    <name>F/CR-080</name>
+    <cmt><![CDATA[Charamélet]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.2103" lon="5.3646998">
+    <ele>1268</ele>
+    <name>F/CR-084</name>
+    <cmt><![CDATA[Montagne de la Geine]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="43.979599" lon="5.4853001">
+    <ele>1256</ele>
+    <name>F/CR-086</name>
+    <cmt><![CDATA[Saint-Pierre]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.603001" lon="5.2662001">
+    <ele>1234</ele>
+    <name>F/CR-088</name>
+    <cmt><![CDATA[Le Rechas]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.4496" lon="5.3336">
+    <ele>1222</ele>
+    <name>F/CR-089</name>
+    <cmt><![CDATA[Montagne de Buègne]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.426899" lon="5.1412001">
+    <ele>1221</ele>
+    <name>F/CR-090</name>
+    <cmt><![CDATA[Gougoir]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.201199" lon="5.5731001">
+    <ele>1220</ele>
+    <name>F/CR-091</name>
+    <cmt><![CDATA[Crête de Serrière]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.642601" lon="5.256">
+    <ele>1202</ele>
+    <name>F/CR-092</name>
+    <cmt><![CDATA[Montagne de Faraud]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.540298" lon="5.3621998">
+    <ele>1208</ele>
+    <name>F/CR-093</name>
+    <cmt><![CDATA[Le Petit Désert]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.8713" lon="4.3955998">
+    <ele>1201</ele>
+    <name>F/CR-094</name>
+    <cmt><![CDATA[Serre-en-Don]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.969398" lon="4.4467001">
+    <ele>1196</ele>
+    <name>F/CR-095</name>
+    <cmt><![CDATA[La Citadelle]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.660801" lon="5.2435002">
+    <ele>1195</ele>
+    <name>F/CR-096</name>
+    <cmt><![CDATA[Serre de l'Aup]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.3139" lon="5.2403002">
+    <ele>1192</ele>
+    <name>F/CR-097</name>
+    <cmt><![CDATA[Montagne de Linceuil]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="45.186699" lon="4.5907998">
+    <ele>1191</ele>
+    <name>F/CR-098</name>
+    <cmt><![CDATA[Suc de Vent]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="45.079201" lon="4.5332999">
+    <ele>1183</ele>
+    <name>F/CR-099</name>
+    <cmt><![CDATA[Serre de Sardier]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.248501" lon="5.3235002">
+    <ele>1203</ele>
+    <name>F/CR-100</name>
+    <cmt><![CDATA[La Nible]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.074402" lon="3.7569001">
+    <ele>1179</ele>
+    <name>F/CR-102</name>
+    <cmt><![CDATA[Le Fageas]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.494099" lon="5.1696">
+    <ele>1175</ele>
+    <name>F/CR-103</name>
+    <cmt><![CDATA[Bec de Jus]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.234699" lon="5.5222001">
+    <ele>1167</ele>
+    <name>F/CR-104</name>
+    <cmt><![CDATA[Chassenaye]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.459099" lon="5.3397999">
+    <ele>1170</ele>
+    <name>F/CR-105</name>
+    <cmt><![CDATA[Rocher du Brachet]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.461899" lon="5.3955998">
+    <ele>1143</ele>
+    <name>F/CR-106</name>
+    <cmt><![CDATA[Montagne d'Oule]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.5009" lon="5.2993002">
+    <ele>1150</ele>
+    <name>F/CR-107</name>
+    <cmt><![CDATA[Le Châtelat]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="43.8153" lon="5.4675002">
+    <ele>1125</ele>
+    <name>F/CR-109</name>
+    <cmt><![CDATA[Mourre Nègre]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.4674" lon="5.2245998">
+    <ele>1150</ele>
+    <name>F/CR-110</name>
+    <cmt><![CDATA[Serre Piégu]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.517502" lon="5.1859002">
+    <ele>1121</ele>
+    <name>F/CR-111</name>
+    <cmt><![CDATA[Montagne de Vesc]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.531101" lon="5.2568998">
+    <ele>1128</ele>
+    <name>F/CR-112</name>
+    <cmt><![CDATA[Serre des Plaines]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.817501" lon="5.2883">
+    <ele>1123</ele>
+    <name>F/CR-113</name>
+    <cmt><![CDATA[Les Morins]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.731499" lon="5.2346001">
+    <ele>1112</ele>
+    <name>F/CR-114</name>
+    <cmt><![CDATA[Gaudichart]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.524502" lon="5.1248999">
+    <ele>1106</ele>
+    <name>F/CR-115</name>
+    <cmt><![CDATA[Le Roc]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.232201" lon="5.5560999">
+    <ele>1101</ele>
+    <name>F/CR-116</name>
+    <cmt><![CDATA[Gonson]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.237801" lon="5.4816999">
+    <ele>1120</ele>
+    <name>F/CR-117</name>
+    <cmt><![CDATA[Mont Bérard]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.301201" lon="5.6269002">
+    <ele>1107</ele>
+    <name>F/CR-118</name>
+    <cmt><![CDATA[Le Puy]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.550598" lon="5.2038999">
+    <ele>1117</ele>
+    <name>F/CR-120</name>
+    <cmt><![CDATA[Mourelle]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.589699" lon="5.2955999">
+    <ele>1104</ele>
+    <name>F/CR-121</name>
+    <cmt><![CDATA[Le Parquet]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.608898" lon="5.4647002">
+    <ele>1084</ele>
+    <name>F/CR-122</name>
+    <cmt><![CDATA[Pic de Luc]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.504398" lon="5.165">
+    <ele>1078</ele>
+    <name>F/CR-123</name>
+    <cmt><![CDATA[Le Grand Ruy]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.552502" lon="5.3383002">
+    <ele>1082</ele>
+    <name>F/CR-124</name>
+    <cmt><![CDATA[Château Vieux]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.7267" lon="5.4313998">
+    <ele>1088</ele>
+    <name>F/CR-125</name>
+    <cmt><![CDATA[Le Petit Pestel]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.560799" lon="5.5324998">
+    <ele>1101</ele>
+    <name>F/CR-126</name>
+    <cmt><![CDATA[Saint Roman]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.2304" lon="5.2550001">
+    <ele>1063</ele>
+    <name>F/CR-127</name>
+    <cmt><![CDATA[Montagne de Bluye]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.715599" lon="4.2930999">
+    <ele>1062</ele>
+    <name>F/CR-128</name>
+    <cmt><![CDATA[La Tour]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.73" lon="4.4772">
+    <ele>1061</ele>
+    <name>F/CR-129</name>
+    <cmt><![CDATA[Roc de Gourdon]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="45.106098" lon="4.5746999">
+    <ele>1061</ele>
+    <name>F/CR-130</name>
+    <cmt><![CDATA[Mont des Marchands]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.078499" lon="3.7316999">
+    <ele>1066</ele>
+    <name>F/CR-131</name>
+    <cmt><![CDATA[Serre de Borgne]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.682201" lon="5.4842">
+    <ele>1059</ele>
+    <name>F/CR-132</name>
+    <cmt><![CDATA[Montagne de Piémard]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.2314" lon="5.6638999">
+    <ele>1051</ele>
+    <name>F/CR-133</name>
+    <cmt><![CDATA[Le Défens]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.447601" lon="5.2245002">
+    <ele>1049</ele>
+    <name>F/CR-134</name>
+    <cmt><![CDATA[Vautour]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.749599" lon="5.4095001">
+    <ele>1030</ele>
+    <name>F/CR-135</name>
+    <cmt><![CDATA[Montagne de Bret]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="45.053902" lon="4.5822001">
+    <ele>1028</ele>
+    <name>F/CR-136</name>
+    <cmt><![CDATA[Serre de la Croix d'Argent]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.169399" lon="5.3908">
+    <ele>1019</ele>
+    <name>F/CR-137</name>
+    <cmt><![CDATA[Le Griau]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.255798" lon="5.6557999">
+    <ele>1032</ele>
+    <name>F/CR-138</name>
+    <cmt><![CDATA[Le Guers]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.279202" lon="5.5244002">
+    <ele>1025</ele>
+    <name>F/CR-139</name>
+    <cmt><![CDATA[Barret]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.514999" lon="5.2683001">
+    <ele>1031</ele>
+    <name>F/CR-140</name>
+    <cmt><![CDATA[Chalamel]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.7094" lon="4.4972">
+    <ele>1019</ele>
+    <name>F/CR-141</name>
+    <cmt><![CDATA[Crêt de Blandine]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="43.539001" lon="5.6455998">
+    <ele>1011</ele>
+    <name>F/CR-142</name>
+    <cmt><![CDATA[Pic des Mouches]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.4039" lon="5.3639002">
+    <ele>1011</ele>
+    <name>F/CR-143</name>
+    <cmt><![CDATA[Tête du Mouret]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.648399" lon="5.2732">
+    <ele>1028</ele>
+    <name>F/CR-145</name>
+    <cmt><![CDATA[Chabanat]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.814201" lon="5.0741">
+    <ele>1015</ele>
+    <name>F/CR-146</name>
+    <cmt><![CDATA[La Raye]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.397499" lon="4.0180998">
+    <ele>997</ele>
+    <name>F/CR-147</name>
+    <cmt><![CDATA[Truc de Cartades]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.179199" lon="3.6717">
+    <ele>992</ele>
+    <name>F/CR-148</name>
+    <cmt><![CDATA[Vallée Borgne]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.235001" lon="5.6216998">
+    <ele>988</ele>
+    <name>F/CR-149</name>
+    <cmt><![CDATA[Montagne d'Ozeron]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.263599" lon="5.3485999">
+    <ele>983</ele>
+    <name>F/CR-150</name>
+    <cmt><![CDATA[Bridons]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.308102" lon="5.2835999">
+    <ele>980</ele>
+    <name>F/CR-151</name>
+    <cmt><![CDATA[Montagne de Montlaud]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.6894" lon="4.3150001">
+    <ele>976</ele>
+    <name>F/CR-152</name>
+    <cmt><![CDATA[L'Aubespy]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.3442" lon="5.2291999">
+    <ele>978</ele>
+    <name>F/CR-153</name>
+    <cmt><![CDATA[Les Buisses]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.5611" lon="5.0441999">
+    <ele>971</ele>
+    <name>F/CR-154</name>
+    <cmt><![CDATA[Serre Gros]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.789902" lon="4.4944">
+    <ele>969</ele>
+    <name>F/CR-155</name>
+    <cmt><![CDATA[Sommet du Fayard]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.450001" lon="5.2561998">
+    <ele>963</ele>
+    <name>F/CR-156</name>
+    <cmt><![CDATA[Le Serre du Pontillard]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.453999" lon="5.1733999">
+    <ele>963</ele>
+    <name>F/CR-157</name>
+    <cmt><![CDATA[Montagne d'Autuche]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="43.955601" lon="3.4875">
+    <ele>955</ele>
+    <name>F/CR-158</name>
+    <cmt><![CDATA[Serre Goutèze]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.355" lon="5.2002001">
+    <ele>965</ele>
+    <name>F/CR-159</name>
+    <cmt><![CDATA[Monts d’Autuche]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.939999" lon="4.6283002">
+    <ele>949</ele>
+    <name>F/CR-160</name>
+    <cmt><![CDATA[Serre de la Roue]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.336899" lon="5.1557999">
+    <ele>944</ele>
+    <name>F/CR-161</name>
+    <cmt><![CDATA[Garde Grosse]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.027802" lon="5.3367">
+    <ele>943</ele>
+    <name>F/CR-163</name>
+    <cmt><![CDATA[Consarrum]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.597099" lon="5.1866002">
+    <ele>944</ele>
+    <name>F/CR-164</name>
+    <cmt><![CDATA[Côte Belle]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.794998" lon="5.1911001">
+    <ele>959</ele>
+    <name>F/CR-165</name>
+    <cmt><![CDATA[Merly]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.941898" lon="5.2589002">
+    <ele>952</ele>
+    <name>F/CR-166</name>
+    <cmt><![CDATA[Roc de la Croix]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.976898" lon="5.1917">
+    <ele>948</ele>
+    <name>F/CR-167</name>
+    <cmt><![CDATA[Montagne des Ussets]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.419399" lon="5.2975998">
+    <ele>936</ele>
+    <name>F/CR-169</name>
+    <cmt><![CDATA[Rocher de Bramard]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.538898" lon="5.0960002">
+    <ele>936</ele>
+    <name>F/CR-170</name>
+    <cmt><![CDATA[Montagne des Ventes]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.676701" lon="5.2136002">
+    <ele>918</ele>
+    <name>F/CR-171</name>
+    <cmt><![CDATA[Rochers de Cresta]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.785599" lon="5.2269001">
+    <ele>932</ele>
+    <name>F/CR-172</name>
+    <cmt><![CDATA[Taillefer]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.922501" lon="4.5535998">
+    <ele>911</ele>
+    <name>F/CR-173</name>
+    <cmt><![CDATA[Serre d'Auray]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.046101" lon="3.645">
+    <ele>913</ele>
+    <name>F/CR-174</name>
+    <cmt><![CDATA[Serre de Rouas]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.216999" lon="3.9507999">
+    <ele>899</ele>
+    <name>F/CR-175</name>
+    <cmt><![CDATA[Signal de Lichère]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.501598" lon="5.0001998">
+    <ele>898</ele>
+    <name>F/CR-176</name>
+    <cmt><![CDATA[Mont Rachas]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.907799" lon="4.5043998">
+    <ele>894</ele>
+    <name>F/CR-177</name>
+    <cmt><![CDATA[Folambert]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="43.9613" lon="3.4572999">
+    <ele>889</ele>
+    <name>F/CR-178</name>
+    <cmt><![CDATA[Le Calbairou]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.6619" lon="5.0475001">
+    <ele>886</ele>
+    <name>F/CR-179</name>
+    <cmt><![CDATA[Roche Colombe]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="45.1096" lon="4.6388998">
+    <ele>881</ele>
+    <name>F/CR-180</name>
+    <cmt><![CDATA[Chatelard]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.3895" lon="5.119">
+    <ele>872</ele>
+    <name>F/CR-182</name>
+    <cmt><![CDATA[Montagne des Vaux]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.490398" lon="5.0897999">
+    <ele>874</ele>
+    <name>F/CR-183</name>
+    <cmt><![CDATA[Montagne de Lusset]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.999199" lon="4.6494002">
+    <ele>856</ele>
+    <name>F/CR-184</name>
+    <cmt><![CDATA[Serre de Montourat]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.398701" lon="5.1052999">
+    <ele>849</ele>
+    <name>F/CR-186</name>
+    <cmt><![CDATA[Le Courbiou]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.901901" lon="4.7083998">
+    <ele>848</ele>
+    <name>F/CR-187</name>
+    <cmt><![CDATA[Serre de Muans]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.767502" lon="4.6336002">
+    <ele>828</ele>
+    <name>F/CR-188</name>
+    <cmt><![CDATA[Serre l'Eglise]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.080002" lon="3.8415">
+    <ele>815</ele>
+    <name>F/CR-189</name>
+    <cmt><![CDATA[Mont Brion]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.267502" lon="5.2368002">
+    <ele>804</ele>
+    <name>F/CR-191</name>
+    <cmt><![CDATA[Rocher Rond]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.177502" lon="5.4175">
+    <ele>805</ele>
+    <name>F/CR-192</name>
+    <cmt><![CDATA[Combe Ferre Ray]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.432899" lon="5.0738001">
+    <ele>800</ele>
+    <name>F/CR-194</name>
+    <cmt><![CDATA[Grand Conjau]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.784199" lon="5.3603001">
+    <ele>784</ele>
+    <name>F/CR-196</name>
+    <cmt><![CDATA[Mont Chabraret]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="43.4063" lon="5.5128999">
+    <ele>781</ele>
+    <name>F/CR-198</name>
+    <cmt><![CDATA[Tête du Grand Puech]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="43.594601" lon="5.6141">
+    <ele>782</ele>
+    <name>F/CR-199</name>
+    <cmt><![CDATA[Concors]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.544998" lon="4.2164001">
+    <ele>781</ele>
+    <name>F/CR-200</name>
+    <cmt><![CDATA[Tour de Brison]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="45.3172" lon="4.6803002">
+    <ele>753</ele>
+    <name>F/CR-201</name>
+    <cmt><![CDATA[Suc de Laveau]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.450001" lon="5.0525999">
+    <ele>749</ele>
+    <name>F/CR-202</name>
+    <cmt><![CDATA[Le Grand Ubac]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.180302" lon="5.0616999">
+    <ele>730</ele>
+    <name>F/CR-203</name>
+    <cmt><![CDATA[Crête de Saint-Amand]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="43.3424" lon="5.5510998">
+    <ele>731</ele>
+    <name>F/CR-204</name>
+    <cmt><![CDATA[Plan de l'Aigle]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="43.805099" lon="5.1851001">
+    <ele>726</ele>
+    <name>F/CR-205</name>
+    <cmt><![CDATA[Mourre de Cairas]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="43.965801" lon="3.6558001">
+    <ele>722</ele>
+    <name>F/CR-206</name>
+    <cmt><![CDATA[L'Oiselette]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.7742" lon="5.1033001">
+    <ele>735</ele>
+    <name>F/CR-207</name>
+    <cmt><![CDATA[Rocher de Baume Rousse]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.429401" lon="4.5028">
+    <ele>726</ele>
+    <name>F/CR-208</name>
+    <cmt><![CDATA[Dent de Rez]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="43.400002" lon="5.6704998">
+    <ele>715</ele>
+    <name>F/CR-209</name>
+    <cmt><![CDATA[Montagne de Régagnas]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="43.974998" lon="3.7311001">
+    <ele>713</ele>
+    <name>F/CR-210</name>
+    <cmt><![CDATA[Ranc de Banes]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.1413" lon="3.9412999">
+    <ele>699</ele>
+    <name>F/CR-212</name>
+    <cmt><![CDATA[Sommet de Combe Mâle]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.2397" lon="4.0791998">
+    <ele>695</ele>
+    <name>F/CR-213</name>
+    <cmt><![CDATA[Montagne du Rouvergue]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.617298" lon="5.0265999">
+    <ele>662</ele>
+    <name>F/CR-214</name>
+    <cmt><![CDATA[Montagne d'Eson]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="43.642799" lon="5.6977">
+    <ele>654</ele>
+    <name>F/CR-215</name>
+    <cmt><![CDATA[Montagne de Vautubière]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="43.2537" lon="5.4700999">
+    <ele>645</ele>
+    <name>F/CR-216</name>
+    <cmt><![CDATA[Mont Carpiagne]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.3228" lon="3.9914">
+    <ele>641</ele>
+    <name>F/CR-217</name>
+    <cmt><![CDATA[La Coste]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.588799" lon="5.0447001">
+    <ele>649</ele>
+    <name>F/CR-218</name>
+    <cmt><![CDATA[Serre de Briesse]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.261101" lon="4.0963998">
+    <ele>630</ele>
+    <name>F/CR-219</name>
+    <cmt><![CDATA[Chapelle Lacham]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.1325" lon="4.2856002">
+    <ele>629</ele>
+    <name>F/CR-220</name>
+    <cmt><![CDATA[Mont Bouquet]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="43.738098" lon="5.6325002">
+    <ele>628</ele>
+    <name>F/CR-221</name>
+    <cmt><![CDATA[Coste Longue]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.155399" lon="5.0240998">
+    <ele>627</ele>
+    <name>F/CR-222</name>
+    <cmt><![CDATA[Rocher du Turc]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.6483" lon="4.2803001">
+    <ele>607</ele>
+    <name>F/CR-223</name>
+    <cmt><![CDATA[Mont Laligier]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.639999" lon="4.6697001">
+    <ele>603</ele>
+    <name>F/CR-224</name>
+    <cmt><![CDATA[Sommet de Berguise]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.609402" lon="5.0007">
+    <ele>608</ele>
+    <name>F/CR-225</name>
+    <cmt><![CDATA[Montagne Sainte Euphémie]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.765301" lon="5.2914">
+    <ele>610</ele>
+    <name>F/CR-226</name>
+    <cmt><![CDATA[Les Tours]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.6572" lon="4.8525">
+    <ele>586</ele>
+    <name>F/CR-227</name>
+    <cmt><![CDATA[La Plaine des Alexis]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="43.689701" lon="5.6441998">
+    <ele>589</ele>
+    <name>F/CR-228</name>
+    <cmt><![CDATA[Saint Sépulcre]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="43.221901" lon="5.4580998">
+    <ele>563</ele>
+    <name>F/CR-229</name>
+    <cmt><![CDATA[Mont Puget]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.646702" lon="5.0774999">
+    <ele>566</ele>
+    <name>F/CR-230</name>
+    <cmt><![CDATA[Palloir]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.6842" lon="4.6897001">
+    <ele>552</ele>
+    <name>F/CR-231</name>
+    <cmt><![CDATA[Andance]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.212799" lon="4.0881">
+    <ele>545</ele>
+    <name>F/CR-232</name>
+    <cmt><![CDATA[Cauvel]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.386902" lon="4.3221998">
+    <ele>542</ele>
+    <name>F/CR-233</name>
+    <cmt><![CDATA[Beaume Lardière]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="43.9659" lon="3.8343">
+    <ele>537</ele>
+    <name>F/CR-234</name>
+    <cmt><![CDATA[Pic de Midi]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.244801" lon="4.1409001">
+    <ele>534</ele>
+    <name>F/CR-235</name>
+    <cmt><![CDATA[Dorquier]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.6381" lon="4.7007999">
+    <ele>521</ele>
+    <name>F/CR-236</name>
+    <cmt><![CDATA[Le Cayron]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.147499" lon="5.0799999">
+    <ele>521</ele>
+    <name>F/CR-237</name>
+    <cmt><![CDATA[Le Devès]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.110401" lon="3.9203">
+    <ele>518</ele>
+    <name>F/CR-238</name>
+    <cmt><![CDATA[Burgas]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.299" lon="4.1391001">
+    <ele>514</ele>
+    <name>F/CR-239</name>
+    <cmt><![CDATA[Serre de Silhol]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="43.623199" lon="5.3944998">
+    <ele>502</ele>
+    <name>F/CR-240</name>
+    <cmt><![CDATA[La Trévaresse]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="43.712502" lon="4.9828">
+    <ele>496</ele>
+    <name>F/CR-242</name>
+    <cmt><![CDATA[Les Opies]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="43.270401" lon="5.6173">
+    <ele>496</ele>
+    <name>F/CR-243</name>
+    <cmt><![CDATA[Sommet du Douard]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="43.689999" lon="5.2919002">
+    <ele>482</ele>
+    <name>F/CR-244</name>
+    <cmt><![CDATA[Les Saints Pierres]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="43.9175" lon="5.3632998">
+    <ele>460</ele>
+    <name>F/CR-245</name>
+    <cmt><![CDATA[Chapelle Sainte-Radegonde]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.7216" lon="4.6222">
+    <ele>472</ele>
+    <name>F/CR-246</name>
+    <cmt><![CDATA[Serre Nier]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.292" lon="4.2223001">
+    <ele>451</ele>
+    <name>F/CR-247</name>
+    <cmt><![CDATA[Goulet des Tribles]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.557598" lon="4.6370001">
+    <ele>439</ele>
+    <name>F/CR-248</name>
+    <cmt><![CDATA[Montagut]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="43.223301" lon="5.3719001">
+    <ele>433</ele>
+    <name>F/CR-249</name>
+    <cmt><![CDATA[Montagne de Marseilleveyre]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.621399" lon="4.8137999">
+    <ele>431</ele>
+    <name>F/CR-250</name>
+    <cmt><![CDATA[Les Grands Abris]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.926102" lon="4.8497">
+    <ele>406</ele>
+    <name>F/CR-253</name>
+    <cmt><![CDATA[Sommet de Crussol]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="43.182598" lon="5.5658002">
+    <ele>394</ele>
+    <name>F/CR-254</name>
+    <cmt><![CDATA[Cap Canaille]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.767502" lon="4.7343998">
+    <ele>394</ele>
+    <name>F/CR-255</name>
+    <cmt><![CDATA[Commune de Rompon]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="43.761902" lon="4.8621998">
+    <ele>392</ele>
+    <name>F/CR-256</name>
+    <cmt><![CDATA[Chaîne des Alpilles]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.6133" lon="4.7792001">
+    <ele>388</ele>
+    <name>F/CR-257</name>
+    <cmt><![CDATA[La Montagne]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="45.248299" lon="4.7944002">
+    <ele>361</ele>
+    <name>F/CR-258</name>
+    <cmt><![CDATA[Le Châtelet]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.471699" lon="4.724">
+    <ele>335</ele>
+    <name>F/CR-260</name>
+    <cmt><![CDATA[Le Navon]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="43.699699" lon="5.0563998">
+    <ele>310</ele>
+    <name>F/CR-262</name>
+    <cmt><![CDATA[Montagne du Défens]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.322601" lon="4.7620001">
+    <ele>313</ele>
+    <name>F/CR-263</name>
+    <cmt><![CDATA[Bois Redon]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.181099" lon="4.6606002">
+    <ele>284</ele>
+    <name>F/CR-264</name>
+    <cmt><![CDATA[Roc Durand]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="43.922699" lon="4.1511002">
+    <ele>282</ele>
+    <name>F/CR-265</name>
+    <cmt><![CDATA[Mounier, Montagnac]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.231098" lon="4.8139">
+    <ele>281</ele>
+    <name>F/CR-266</name>
+    <cmt><![CDATA[La Roquette]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.119701" lon="4.6438999">
+    <ele>272</ele>
+    <name>F/CR-267</name>
+    <cmt><![CDATA[Plateau de Lacau]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="43.176701" lon="5.3868999">
+    <ele>190</ele>
+    <name>F/CR-268</name>
+    <cmt><![CDATA[Tour de Riou]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.9478" lon="5.4108">
+    <ele>1300</ele>
+    <name>F/CR-269</name>
+    <cmt><![CDATA[Roche du Mas]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.480202" lon="5.4345999">
+    <ele>1165</ele>
+    <name>F/CR-270</name>
+    <cmt><![CDATA[Haute Huche]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="43.921101" lon="3.6052999">
+    <ele>895</ele>
+    <name>F/CR-271</name>
+    <cmt><![CDATA[Rochers de la Tude]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="43.2453" lon="5.6494002">
+    <ele>560</ele>
+    <name>F/CR-272</name>
+    <cmt><![CDATA[Le Montounier]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.800598" lon="5.4577999">
+    <ele>1827</ele>
+    <name>F/CR-274</name>
+    <cmt><![CDATA[Rochers de Plautret]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.679901" lon="5.7368002">
+    <ele>1739</ele>
+    <name>F/CR-275</name>
+    <cmt><![CDATA[Pic de l'Aigle]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.8283" lon="5.4375">
+    <ele>1703</ele>
+    <name>F/CR-276</name>
+    <cmt><![CDATA[Montagne de Beure]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.817001" lon="4.2199001">
+    <ele>1531</ele>
+    <name>F/CR-277</name>
+    <cmt><![CDATA[Les Coux]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.697498" lon="5.5531001">
+    <ele>1490</ele>
+    <name>F/CR-278</name>
+    <cmt><![CDATA[La Serrie]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.432499" lon="5.4422998">
+    <ele>1471</ele>
+    <name>F/CR-279</name>
+    <cmt><![CDATA[Montagne de Raton]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.5294" lon="5.4938998">
+    <ele>1449</ele>
+    <name>F/CR-280</name>
+    <cmt><![CDATA[Grand Surnom]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.623299" lon="5.5667">
+    <ele>1439</ele>
+    <name>F/CR-281</name>
+    <cmt><![CDATA[Quigouret]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.783298" lon="4.3657999">
+    <ele>1432</ele>
+    <name>F/CR-282</name>
+    <cmt><![CDATA[Suc de Pradou]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.648602" lon="5.6861">
+    <ele>1424</ele>
+    <name>F/CR-283</name>
+    <cmt><![CDATA[Montagne de Malemort]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.2584" lon="5.6065998">
+    <ele>1372</ele>
+    <name>F/CR-284</name>
+    <cmt><![CDATA[Montagne de Garre]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.950401" lon="5.3649001">
+    <ele>1361</ele>
+    <name>F/CR-285</name>
+    <cmt><![CDATA[La Sacha]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.499699" lon="5.4580998">
+    <ele>1361</ele>
+    <name>F/CR-286</name>
+    <cmt><![CDATA[L'Aiguille]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.569599" lon="5.5899">
+    <ele>1350</ele>
+    <name>F/CR-287</name>
+    <cmt><![CDATA[Piégu]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.886398" lon="5.4014001">
+    <ele>1348</ele>
+    <name>F/CR-288</name>
+    <cmt><![CDATA[Rochers de Beausière]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.936699" lon="5.1932998">
+    <ele>1327</ele>
+    <name>F/CR-289</name>
+    <cmt><![CDATA[Montagne de l'Epenet]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.8969" lon="4.2347002">
+    <ele>1318</ele>
+    <name>F/CR-290</name>
+    <cmt><![CDATA[Roches de Borée]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.917198" lon="5.1760998">
+    <ele>1308</ele>
+    <name>F/CR-291</name>
+    <cmt><![CDATA[Pierre Chauve]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.758202" lon="5.4373002">
+    <ele>1292</ele>
+    <name>F/CR-292</name>
+    <cmt><![CDATA[Ménil]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.331402" lon="5.5946999">
+    <ele>1288</ele>
+    <name>F/CR-293</name>
+    <cmt><![CDATA[Sommet de la Peyle]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.569199" lon="5.4200001">
+    <ele>1252</ele>
+    <name>F/CR-294</name>
+    <cmt><![CDATA[Reyssas]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="45.09" lon="4.5391998">
+    <ele>1189</ele>
+    <name>F/CR-295</name>
+    <cmt><![CDATA[Bois de la Frache]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.197498" lon="5.2385001">
+    <ele>1154</ele>
+    <name>F/CR-296</name>
+    <cmt><![CDATA[Pic du Comte]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.266399" lon="5.6869001">
+    <ele>1078</ele>
+    <name>F/CR-297</name>
+    <cmt><![CDATA[Charquinson]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.740002" lon="5.3202">
+    <ele>1017</ele>
+    <name>F/CR-298</name>
+    <cmt><![CDATA[Fayolle]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.4277" lon="3.9774001">
+    <ele>993</ele>
+    <name>F/CR-299</name>
+    <cmt><![CDATA[Truc du Samblonnet]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.785198" lon="5.3866">
+    <ele>958</ele>
+    <name>F/CR-300</name>
+    <cmt><![CDATA[Les Mians]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="43.991699" lon="3.7850001">
+    <ele>922</ele>
+    <name>F/CR-301</name>
+    <cmt><![CDATA[Montagne de la Fage]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.7831" lon="5.3994002">
+    <ele>918</ele>
+    <name>F/CR-302</name>
+    <cmt><![CDATA[Bergu]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.347698" lon="5.4394002">
+    <ele>902</ele>
+    <name>F/CR-303</name>
+    <cmt><![CDATA[Serre de Faucon]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.7267" lon="4.5282998">
+    <ele>872</ele>
+    <name>F/CR-304</name>
+    <cmt><![CDATA[Charray]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.5546" lon="5.2702999">
+    <ele>867</ele>
+    <name>F/CR-305</name>
+    <cmt><![CDATA[Pourchier]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.706402" lon="4.3379002">
+    <ele>814</ele>
+    <name>F/CR-306</name>
+    <cmt><![CDATA[Fontalazon]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.2686" lon="4.0078001">
+    <ele>738</ele>
+    <name>F/CR-307</name>
+    <cmt><![CDATA[Les Pinèdes]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.459202" lon="5.3617001">
+    <ele>736</ele>
+    <name>F/CR-308</name>
+    <cmt><![CDATA[Le Château]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.396198" lon="5.1784">
+    <ele>698</ele>
+    <name>F/CR-309</name>
+    <cmt><![CDATA[Chambrichard]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.690399" lon="5.2526999">
+    <ele>682</ele>
+    <name>F/CR-310</name>
+    <cmt><![CDATA[Grand Pégarnier]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.272202" lon="5.2133002">
+    <ele>681</ele>
+    <name>F/CR-311</name>
+    <cmt><![CDATA[Roche Colombe]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.3158" lon="4.0008001">
+    <ele>635</ele>
+    <name>F/CR-312</name>
+    <cmt><![CDATA[La Mole]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.810001" lon="4.6525002">
+    <ele>556</ele>
+    <name>F/CR-313</name>
+    <cmt><![CDATA[Serre de Doux]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="43.9575" lon="3.6991999">
+    <ele>531</ele>
+    <name>F/CR-314</name>
+    <cmt><![CDATA[Mont Méjan]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="43.9869" lon="3.8671">
+    <ele>524</ele>
+    <name>F/CR-315</name>
+    <cmt><![CDATA[Rouquette]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="43.9935" lon="3.6538">
+    <ele>521</ele>
+    <name>F/CR-316</name>
+    <cmt><![CDATA[Serre de l'Arboux]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.1381" lon="5.0664001">
+    <ele>520</ele>
+    <name>F/CR-317</name>
+    <cmt><![CDATA[Carabelle]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.373501" lon="4.1294999">
+    <ele>499</ele>
+    <name>F/CR-318</name>
+    <cmt><![CDATA[Bannelle]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.281799" lon="5.0839">
+    <ele>478</ele>
+    <name>F/CR-319</name>
+    <cmt><![CDATA[Peire Estève]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.199799" lon="4.3270998">
+    <ele>472</ele>
+    <name>F/CR-320</name>
+    <cmt><![CDATA[Serre de Fons]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="43.9137" lon="3.9626999">
+    <ele>471</ele>
+    <name>F/CR-321</name>
+    <cmt><![CDATA[Puech Camp]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.6908" lon="4.7449999">
+    <ele>462</ele>
+    <name>F/CR-322</name>
+    <cmt><![CDATA[Bois de Bressac]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.079201" lon="4.0142002">
+    <ele>438</ele>
+    <name>F/CR-323</name>
+    <cmt><![CDATA[Ugerlan]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.783298" lon="4.9899998">
+    <ele>418</ele>
+    <name>F/CR-324</name>
+    <cmt><![CDATA[Lagat]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.3283" lon="4.4808002">
+    <ele>403</ele>
+    <name>F/CR-325</name>
+    <cmt><![CDATA[La Brûlade]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.2006" lon="4.145">
+    <ele>397</ele>
+    <name>F/CR-326</name>
+    <cmt><![CDATA[Le Castelas]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.267101" lon="5.0079999">
+    <ele>395</ele>
+    <name>F/CR-327</name>
+    <cmt><![CDATA[Bois des Abrigeaux]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="43.695702" lon="5.1711998">
+    <ele>394</ele>
+    <name>F/CR-328</name>
+    <cmt><![CDATA[Les Clèdes]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.116501" lon="4.0595999">
+    <ele>360</ele>
+    <name>F/CR-329</name>
+    <cmt><![CDATA[Saint-Germain Montaigu]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.240898" lon="4.546">
+    <ele>359</ele>
+    <name>F/CR-330</name>
+    <cmt><![CDATA[Sal Del Micou]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.395401" lon="4.8147998">
+    <ele>352</ele>
+    <name>F/CR-331</name>
+    <cmt><![CDATA[La Suquée]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="43.709801" lon="5.0107999">
+    <ele>306</ele>
+    <name>F/CR-332</name>
+    <cmt><![CDATA[Mont Menu]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="44.042099" lon="5.1838002">
+    <ele>447</ele>
+    <name>F/CR-334</name>
+    <cmt><![CDATA[N.D. des Anges]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+  <wpt lat="43.8606" lon="4.7175002">
+    <ele>168</ele>
+    <name>F/CR-335</name>
+    <cmt><![CDATA[Rochers de Raous]]></cmt>
+    <desc><![CDATA[SOTA Association: F - France, Region: Côtes-du-Rhône]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit F/F/CR</type>
+  </wpt>
+</gpx>
