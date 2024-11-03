@@ -1,0 +1,2992 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1" 
+     creator="SOTA Mapping Project GPX Generator 1.1" 
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+     xmlns="http://www.topografix.com/GPX/1/1" 
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>SOTA Summits GPX Export</name>
+    <desc>SOTA Summits data in GPX v1.1 format></desc>
+    <author>
+      <name>SOTA Mapping Project></name>
+      <email id="admin" domain="www.sotamaps.org" />
+      <link href="https://www.sotamaps.org">
+        <text>SOTA Mapping Project</text>
+      </link>
+    </author>
+    <link href="https://www.sotamaps.org">
+      <text>SOTA Mapping Project</text>
+    </link>
+    <time>2024-11-03T07:16:44Z</time>
+    <keywords>SOTA, Summits On The Air, amateur radio, ham radio</keywords>
+    <bounds minlat="44.403301" minlon="-4.2347002" maxlat="50.801701" maxlon="7.8685002"/>
+  </metadata>
+  <wpt lat="47.789101" lon="5.1917">
+    <ele>521</ele>
+    <name>FL/NO-001</name>
+    <cmt><![CDATA[Bois de Baissey]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="49.895" lon="4.6742001">
+    <ele>402</ele>
+    <name>FL/NO-006</name>
+    <cmt><![CDATA[Les Dames de Meuse]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="49.873501" lon="4.7607999">
+    <ele>396</ele>
+    <name>FL/NO-008</name>
+    <cmt><![CDATA[Forêt Domaniale de Château Regnault]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.4142" lon="-3.8757999">
+    <ele>387</ele>
+    <name>FL/NO-009</name>
+    <cmt><![CDATA[Roc'h Trédudon]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.971401" lon="-0.62779999">
+    <ele>363</ele>
+    <name>FL/NO-018</name>
+    <cmt><![CDATA[Mont Pinçon]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.219398" lon="-4.2347002">
+    <ele>330</ele>
+    <name>FL/NO-021</name>
+    <cmt><![CDATA[Ménez Hom]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.168598" lon="-3.6419001">
+    <ele>318</ele>
+    <name>FL/NO-022</name>
+    <cmt><![CDATA[Roc'h Toullaëron]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.029999" lon="-2.2283001">
+    <ele>258</ele>
+    <name>FL/NO-024</name>
+    <cmt><![CDATA[Canton de la Ville Danet]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="49.279701" lon="2.6401">
+    <ele>222</ele>
+    <name>FL/NO-025</name>
+    <cmt><![CDATA[Mont Pagnotte]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="50.721401" lon="1.9486001">
+    <ele>211</ele>
+    <name>FL/NO-026</name>
+    <cmt><![CDATA[Le Communal, Escœuilles]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.1614" lon="5.6132002">
+    <ele>502</ele>
+    <name>FL/NO-028</name>
+    <cmt><![CDATA[Le Neuillon, Malaincourt-sur-Meuse]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.4506" lon="-0.1436">
+    <ele>417</ele>
+    <name>FL/NO-030</name>
+    <cmt><![CDATA[Mont des Avaloirs]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.5499" lon="0.034200002">
+    <ele>413</ele>
+    <name>FL/NO-031</name>
+    <cmt><![CDATA[Le Signal d'Ecouves]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.876099" lon="5.6796999">
+    <ele>382</ele>
+    <name>FL/NO-033</name>
+    <cmt><![CDATA[Le Mont, Loupmont]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.888802" lon="5.7122998">
+    <ele>377</ele>
+    <name>FL/NO-034</name>
+    <cmt><![CDATA[Butte de Montsec]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.2192" lon="-0.3531">
+    <ele>357</ele>
+    <name>FL/NO-035</name>
+    <cmt><![CDATA[Mont Rochard]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.417801" lon="0.28639999">
+    <ele>338</ele>
+    <name>FL/NO-037</name>
+    <cmt><![CDATA[Belvedère de Perseigne]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.155602" lon="-0.26969999">
+    <ele>326</ele>
+    <name>FL/NO-038</name>
+    <cmt><![CDATA[Les Grandes Sources]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="49.1479" lon="4.1289001">
+    <ele>292</ele>
+    <name>FL/NO-042</name>
+    <cmt><![CDATA[Le Chêne Martin]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.9608" lon="5.4291">
+    <ele>512</ele>
+    <name>FL/NO-046</name>
+    <cmt><![CDATA[Fort de Dampierre]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.2108" lon="5.6858001">
+    <ele>504</ele>
+    <name>FL/NO-048</name>
+    <cmt><![CDATA[Bastion Saint-Nicolas]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.215801" lon="5.7150002">
+    <ele>496</ele>
+    <name>FL/NO-049</name>
+    <cmt><![CDATA[Bois de Roche, Outremécourt]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.447498" lon="5.5707998">
+    <ele>451</ele>
+    <name>FL/NO-052</name>
+    <cmt><![CDATA[Bois de Vaudeville]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.9771" lon="5.6661">
+    <ele>416</ele>
+    <name>FL/NO-053</name>
+    <cmt><![CDATA[Le point de Vue, Vigneulles-lès-Hattonchâtel]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.257099" lon="5.1630998">
+    <ele>404</ele>
+    <name>FL/NO-056</name>
+    <cmt><![CDATA[Bois des Crécies]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.206902" lon="5.0103998">
+    <ele>401</ele>
+    <name>FL/NO-057</name>
+    <cmt><![CDATA[Bois Charrué]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="49.963699" lon="4.6406002">
+    <ele>396</ele>
+    <name>FL/NO-058</name>
+    <cmt><![CDATA[Bois Bryas]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.898399" lon="5.6451001">
+    <ele>397</ele>
+    <name>FL/NO-059</name>
+    <cmt><![CDATA[Bois Hauts de Buxerulles]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.789101" lon="5.6708002">
+    <ele>400</ele>
+    <name>FL/NO-060</name>
+    <cmt><![CDATA[Ancien Fort de Gironville]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.8311" lon="5.6185002">
+    <ele>383</ele>
+    <name>FL/NO-061</name>
+    <cmt><![CDATA[Ancien Fort de Liouville]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.480701" lon="-0.0275">
+    <ele>378</ele>
+    <name>FL/NO-062</name>
+    <cmt><![CDATA[La Butte Chaumont]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.0728" lon="4.6946998">
+    <ele>371</ele>
+    <name>FL/NO-063</name>
+    <cmt><![CDATA[Sous la Réserve, Villars-en-Azois]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.7621" lon="-0.96490002">
+    <ele>367</ele>
+    <name>FL/NO-064</name>
+    <cmt><![CDATA[Les Costils, Gathemo]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="49.329201" lon="5.4457998">
+    <ele>362</ele>
+    <name>FL/NO-065</name>
+    <cmt><![CDATA[Côte de Morimont]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="49.599701" lon="5.1423998">
+    <ele>349</ele>
+    <name>FL/NO-066</name>
+    <cmt><![CDATA[Fond d'Outy]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.323299" lon="-2.5836">
+    <ele>339</ele>
+    <name>FL/NO-067</name>
+    <cmt><![CDATA[Bel-Air, Trébry]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="49.410301" lon="5.2523999">
+    <ele>340</ele>
+    <name>FL/NO-068</name>
+    <cmt><![CDATA[Côte Saint-Germain]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="49.484001" lon="5.4201999">
+    <ele>336</ele>
+    <name>FL/NO-070</name>
+    <cmt><![CDATA[Bois du Haut Mont]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.7589" lon="0.3915">
+    <ele>331</ele>
+    <name>FL/NO-072</name>
+    <cmt><![CDATA[Bois de Trémont]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="49.811699" lon="4.7666998">
+    <ele>327</ele>
+    <name>FL/NO-073</name>
+    <cmt><![CDATA[Quart d'Arville]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.356899" lon="-0.38479999">
+    <ele>327</ele>
+    <name>FL/NO-074</name>
+    <cmt><![CDATA[Mont du Saule]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="49.678398" lon="4.7014999">
+    <ele>326</ele>
+    <name>FL/NO-075</name>
+    <cmt><![CDATA[Bois d'Enelle]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="49.7108" lon="4.5725002">
+    <ele>317</ele>
+    <name>FL/NO-077</name>
+    <cmt><![CDATA[Bois Communal dit le Grand Bochet]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.920601" lon="-0.41150001">
+    <ele>306</ele>
+    <name>FL/NO-078</name>
+    <cmt><![CDATA[La Guérardière, La Pommeraye]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.576698" lon="-3.3069999">
+    <ele>302</ele>
+    <name>FL/NO-079</name>
+    <cmt><![CDATA[Ménez Bré]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="49.569199" lon="5.0542002">
+    <ele>304</ele>
+    <name>FL/NO-080</name>
+    <cmt><![CDATA[Bois de Givodeau]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.0839" lon="-0.26589999">
+    <ele>286</ele>
+    <name>FL/NO-082</name>
+    <cmt><![CDATA[Le Sacré-Cœur, Torcé-Viviers-en-Charnie]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.912998" lon="-1.0954">
+    <ele>277</ele>
+    <name>FL/NO-083</name>
+    <cmt><![CDATA[St Vigor des Monts]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.5364" lon="-0.6426">
+    <ele>270</ele>
+    <name>FL/NO-084</name>
+    <cmt><![CDATA[Mont Margantin]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.305" lon="3.6844001">
+    <ele>272</ele>
+    <name>FL/NO-085</name>
+    <cmt><![CDATA[Bois de Villadin]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.883598" lon="0.096199997">
+    <ele>269</ele>
+    <name>FL/NO-086</name>
+    <cmt><![CDATA[Le Bois d'Auge]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.0975" lon="-4.1827998">
+    <ele>285</ele>
+    <name>FL/NO-087</name>
+    <cmt><![CDATA[La Motte, Plogonnec]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="49.257099" lon="4.1459999">
+    <ele>270</ele>
+    <name>FL/NO-088</name>
+    <cmt><![CDATA[Mont de Berru]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="49.23" lon="4.3024998">
+    <ele>257</ele>
+    <name>FL/NO-090</name>
+    <cmt><![CDATA[Mont Haut]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="49.0154" lon="3.6823001">
+    <ele>256</ele>
+    <name>FL/NO-091</name>
+    <cmt><![CDATA[Les Couleuvres]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.439301" lon="-0.9914">
+    <ele>252</ele>
+    <name>FL/NO-092</name>
+    <cmt><![CDATA[La Bruyère Jouanne]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="49.301399" lon="3.0095">
+    <ele>243</ele>
+    <name>FL/NO-094</name>
+    <cmt><![CDATA[Le Bois Hariez]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="49.3563" lon="1.9607">
+    <ele>236</ele>
+    <name>FL/NO-095</name>
+    <cmt><![CDATA[Bois de la Mare aux Loups]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="49.3423" lon="3.8815">
+    <ele>218</ele>
+    <name>FL/NO-100</name>
+    <cmt><![CDATA[La Montagne, Cauroy]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="49.560001" lon="3.4209001">
+    <ele>215</ele>
+    <name>FL/NO-101</name>
+    <cmt><![CDATA[Rond de Rumigny]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="49.188499" lon="2.0269001">
+    <ele>217</ele>
+    <name>FL/NO-102</name>
+    <cmt><![CDATA[Buttes de Rosne]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.494499" lon="3.5883">
+    <ele>210</ele>
+    <name>FL/NO-103</name>
+    <cmt><![CDATA[Parc de Pont]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="49.120602" lon="2.3346">
+    <ele>210</ele>
+    <name>FL/NO-105</name>
+    <cmt><![CDATA[Carrefour du Chêne Quentin]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.294498" lon="-1.9554">
+    <ele>191</ele>
+    <name>FL/NO-110</name>
+    <cmt><![CDATA[Château de Caradeuc]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.886002" lon="1.9497">
+    <ele>185</ele>
+    <name>FL/NO-112</name>
+    <cmt><![CDATA[Bois de Villiers, Crespières]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="49.6194" lon="3.0864999">
+    <ele>187</ele>
+    <name>FL/NO-115</name>
+    <cmt><![CDATA[Bois d'Héronval]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.980801" lon="2.2098999">
+    <ele>168</ele>
+    <name>FL/NO-120</name>
+    <cmt><![CDATA[Fort de Cormeilles]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="49.362499" lon="2.5123">
+    <ele>162</ele>
+    <name>FL/NO-121</name>
+    <cmt><![CDATA[Mont Cesar, Catenoy]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="49.287998" lon="-1.4668">
+    <ele>130</ele>
+    <name>FL/NO-127</name>
+    <cmt><![CDATA[Mont Castre, Montsenelle]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.1619" lon="3.9844">
+    <ele>303</ele>
+    <name>FL/NO-130</name>
+    <cmt><![CDATA[Forêt communale de Javernant]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="49.705799" lon="1.6236">
+    <ele>247</ele>
+    <name>FL/NO-131</name>
+    <cmt><![CDATA[Le Moulin de Ronchois]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="49.673599" lon="-1.8525">
+    <ele>182</ele>
+    <name>FL/NO-132</name>
+    <cmt><![CDATA[Le Petit Parc, Digulleville]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="50.801701" lon="2.4835999">
+    <ele>176</ele>
+    <name>FL/NO-133</name>
+    <cmt><![CDATA[Mont Cassel]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.1707" lon="5.5158">
+    <ele>489</ele>
+    <name>FL/NO-134</name>
+    <cmt><![CDATA[Le Ventemont]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="49.553398" lon="4.908">
+    <ele>340</ele>
+    <name>FL/NO-135</name>
+    <cmt><![CDATA[Les Longues Raies, Stonne]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="49.468399" lon="1.9426">
+    <ele>239</ele>
+    <name>FL/NO-136</name>
+    <cmt><![CDATA[Bois de Courcelles, Savignies]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="49.497398" lon="1.5844001">
+    <ele>231</ele>
+    <name>FL/NO-137</name>
+    <cmt><![CDATA[Les Dutots]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="49.503502" lon="3.7842">
+    <ele>211</ele>
+    <name>FL/NO-138</name>
+    <cmt><![CDATA[Au Dessus de Fussigny]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="49.530998" lon="3.5216999">
+    <ele>193</ele>
+    <name>FL/NO-139</name>
+    <cmt><![CDATA[Mont de Fay]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="49.536499" lon="2.8938999">
+    <ele>188</ele>
+    <name>FL/NO-140</name>
+    <cmt><![CDATA[Montagne d'Attiche]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="50.717499" lon="1.6513">
+    <ele>187</ele>
+    <name>FL/NO-141</name>
+    <cmt><![CDATA[Bois du Mont Lambert]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="49.591202" lon="-1.558">
+    <ele>178</ele>
+    <name>FL/NO-142</name>
+    <cmt><![CDATA[La Croix de la Flague]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="50.796001" lon="1.9752001">
+    <ele>172</ele>
+    <name>FL/NO-143</name>
+    <cmt><![CDATA[Ferme du Mont, Clerques]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="50.783199" lon="2.6677001">
+    <ele>164</ele>
+    <name>FL/NO-144</name>
+    <cmt><![CDATA[Mont des Cats]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="49.394764" lon="5.1022048">
+    <ele>340</ele>
+    <name>FL/NO-145</name>
+    <cmt><![CDATA[Garenne du Moulin]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Nord Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="45.205799" lon="1.1567">
+    <ele>356</ele>
+    <name>FL/SO-004</name>
+    <cmt><![CDATA[Moulin à Vent]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Sud Ouest]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="44.660801" lon="1.1408">
+    <ele>352</ele>
+    <name>FL/SO-005</name>
+    <cmt><![CDATA[Le Télégraphe]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Sud Ouest]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="44.752499" lon="1.1317">
+    <ele>319</ele>
+    <name>FL/SO-006</name>
+    <cmt><![CDATA[Les Garennes du Monteil]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Sud Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="44.7925" lon="1.2333">
+    <ele>302</ele>
+    <name>FL/SO-008</name>
+    <cmt><![CDATA[L'Ile]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Sud Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="44.403301" lon="0.46329999">
+    <ele>194</ele>
+    <name>FL/SO-011</name>
+    <cmt><![CDATA[Le Petit Peyre]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Sud Ouest]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="46.995602" lon="4.0369">
+    <ele>901</ele>
+    <name>FL/VL-001</name>
+    <cmt><![CDATA[Haut Folin]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="46.924198" lon="4.0391998">
+    <ele>821</ele>
+    <name>FL/VL-002</name>
+    <cmt><![CDATA[Mont Beuvray]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.0783" lon="4.0233002">
+    <ele>800</ele>
+    <name>FL/VL-003</name>
+    <cmt><![CDATA[Tureau des Grands Bois]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="46.254398" lon="4.3519001">
+    <ele>736</ele>
+    <name>FL/VL-004</name>
+    <cmt><![CDATA[Montagne de Dun]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="46.898899" lon="4.2744002">
+    <ele>668</ele>
+    <name>FL/VL-006</name>
+    <cmt><![CDATA[Le Signal du Montjeu]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.1856" lon="4.7961001">
+    <ele>641</ele>
+    <name>FL/VL-007</name>
+    <cmt><![CDATA[Bois de Pierre Saux]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="46.9217" lon="3.9191999">
+    <ele>637</ele>
+    <name>FL/VL-008</name>
+    <cmt><![CDATA[Mont Genièvre]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.290001" lon="3.8724999">
+    <ele>625</ele>
+    <name>FL/VL-009</name>
+    <cmt><![CDATA[Forêt de Fontaine Froide]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="46.627201" lon="4.4775">
+    <ele>603</ele>
+    <name>FL/VL-011</name>
+    <cmt><![CDATA[Mont-Saint-Vincent]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="46.425201" lon="4.7145">
+    <ele>600</ele>
+    <name>FL/VL-012</name>
+    <cmt><![CDATA[Mont de Mandé]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="46.406898" lon="4.5572">
+    <ele>585</ele>
+    <name>FL/VL-013</name>
+    <cmt><![CDATA[Bois de Châtelaine]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="46.928299" lon="4.1433001">
+    <ele>572</ele>
+    <name>FL/VL-014</name>
+    <cmt><![CDATA[Montaigu]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="46.6772" lon="4.0372">
+    <ele>506</ele>
+    <name>FL/VL-016</name>
+    <cmt><![CDATA[Mont Dardon]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.102501" lon="3.3917">
+    <ele>443</ele>
+    <name>FL/VL-017</name>
+    <cmt><![CDATA[Bois communal de Vastrasse]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="46.957802" lon="4.0033002">
+    <ele>855</ele>
+    <name>FL/VL-022</name>
+    <cmt><![CDATA[Mont Prenelay]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="46.8811" lon="3.9830999">
+    <ele>581</ele>
+    <name>FL/VL-026</name>
+    <cmt><![CDATA[Touleur]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="46.326099" lon="4.428">
+    <ele>771</ele>
+    <name>FL/VL-030</name>
+    <cmt><![CDATA[Mont Saint Cyr]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="46.302502" lon="4.6317">
+    <ele>758</ele>
+    <name>FL/VL-031</name>
+    <cmt><![CDATA[La Mère Boitier]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="46.3325" lon="4.645">
+    <ele>746</ele>
+    <name>FL/VL-032</name>
+    <cmt><![CDATA[La Pierre de Fay]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.1917" lon="4.0942001">
+    <ele>705</ele>
+    <name>FL/VL-033</name>
+    <cmt><![CDATA[Montaigu]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.243301" lon="4.0983">
+    <ele>701</ele>
+    <name>FL/VL-034</name>
+    <cmt><![CDATA[Bois du Frêne]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.063301" lon="4.1732998">
+    <ele>654</ele>
+    <name>FL/VL-036</name>
+    <cmt><![CDATA[Haut Siron]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.301701" lon="3.9617">
+    <ele>630</ele>
+    <name>FL/VL-037</name>
+    <cmt><![CDATA[Montagne de Vermot]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.282501" lon="4.8783002">
+    <ele>601</ele>
+    <name>FL/VL-038</name>
+    <cmt><![CDATA[Plain de Suzâne]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="46.4342" lon="4.4741998">
+    <ele>598</ele>
+    <name>FL/VL-039</name>
+    <cmt><![CDATA[Butte de Suin]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.293499" lon="4.9253998">
+    <ele>601</ele>
+    <name>FL/VL-040</name>
+    <cmt><![CDATA[Mont Afrique]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="46.349201" lon="4.5999999">
+    <ele>596</ele>
+    <name>FL/VL-041</name>
+    <cmt><![CDATA[Roche Claye]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="46.365799" lon="4.4292002">
+    <ele>593</ele>
+    <name>FL/VL-042</name>
+    <cmt><![CDATA[Montagne de Charnay]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.264198" lon="4.7342">
+    <ele>588</ele>
+    <name>FL/VL-043</name>
+    <cmt><![CDATA[Layé et Roche Chèvre]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="46.4925" lon="4.7542">
+    <ele>575</ele>
+    <name>FL/VL-044</name>
+    <cmt><![CDATA[Mont St-Romain]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.306702" lon="4.4208002">
+    <ele>578</ele>
+    <name>FL/VL-045</name>
+    <cmt><![CDATA[Le Haut de la Rèpe]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.1008" lon="3.9191999">
+    <ele>572</ele>
+    <name>FL/VL-046</name>
+    <cmt><![CDATA[Le Montiaux]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.264999" lon="4.8367">
+    <ele>569</ele>
+    <name>FL/VL-047</name>
+    <cmt><![CDATA[Bois de Ménageon]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.327499" lon="3.9417">
+    <ele>569</ele>
+    <name>FL/VL-048</name>
+    <cmt><![CDATA[Moulois]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.298302" lon="4.7458">
+    <ele>565</ele>
+    <name>FL/VL-049</name>
+    <cmt><![CDATA[La Montagne]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="46.41" lon="4.4124999">
+    <ele>561</ele>
+    <name>FL/VL-050</name>
+    <cmt><![CDATA[Mont Botey]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.146702" lon="4.6599998">
+    <ele>557</ele>
+    <name>FL/VL-051</name>
+    <cmt><![CDATA[Forêt Tarbet]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.310799" lon="4.7474999">
+    <ele>557</ele>
+    <name>FL/VL-052</name>
+    <cmt><![CDATA[Montagne de St Laurent]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="46.826698" lon="4.3400002">
+    <ele>554</ele>
+    <name>FL/VL-053</name>
+    <cmt><![CDATA[La Brosse]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="46.354198" lon="4.5166998">
+    <ele>551</ele>
+    <name>FL/VL-054</name>
+    <cmt><![CDATA[Rouvray]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="46.2686" lon="4.1494999">
+    <ele>549</ele>
+    <name>FL/VL-055</name>
+    <cmt><![CDATA[Heurgue]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="46.903301" lon="4.6117001">
+    <ele>545</ele>
+    <name>FL/VL-056</name>
+    <cmt><![CDATA[Mont Rome Château]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.285801" lon="4.8432999">
+    <ele>530</ele>
+    <name>FL/VL-057</name>
+    <cmt><![CDATA[Roche d'Anse]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="46.764198" lon="4.1824999">
+    <ele>527</ele>
+    <name>FL/VL-058</name>
+    <cmt><![CDATA[Dettey (Mont st-Martin)]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.3508" lon="4.3632998">
+    <ele>522</ele>
+    <name>FL/VL-059</name>
+    <cmt><![CDATA[Mont Ligot]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.188301" lon="4.6399999">
+    <ele>521</ele>
+    <name>FL/VL-060</name>
+    <cmt><![CDATA[La Senegot]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="46.500801" lon="4.4842">
+    <ele>501</ele>
+    <name>FL/VL-061</name>
+    <cmt><![CDATA[Sainte Colombe]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="46.5858" lon="4.8257999">
+    <ele>500</ele>
+    <name>FL/VL-062</name>
+    <cmt><![CDATA[Bois de Mancey]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.411701" lon="4.4717002">
+    <ele>498</ele>
+    <name>FL/VL-063</name>
+    <cmt><![CDATA[La Montagne]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="46.776699" lon="4.6342001">
+    <ele>498</ele>
+    <name>FL/VL-064</name>
+    <cmt><![CDATA[Bois de la Motte]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="46.911701" lon="4.1208">
+    <ele>492</ele>
+    <name>FL/VL-065</name>
+    <cmt><![CDATA[Le Point du Jour]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.372501" lon="4.3449998">
+    <ele>492</ele>
+    <name>FL/VL-066</name>
+    <cmt><![CDATA[Forêt de la Montagne]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="46.758301" lon="4.0700002">
+    <ele>487</ele>
+    <name>FL/VL-067</name>
+    <cmt><![CDATA[Combe au Noyer]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.060799" lon="4.2417002">
+    <ele>487</ele>
+    <name>FL/VL-068</name>
+    <cmt><![CDATA[Plateau des Rôpes]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="46.735802" lon="4.665">
+    <ele>470</ele>
+    <name>FL/VL-069</name>
+    <cmt><![CDATA[Mont Brogny]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="46.645" lon="3.8408">
+    <ele>465</ele>
+    <name>FL/VL-070</name>
+    <cmt><![CDATA[Signal de Mont]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="46.876701" lon="4.6824999">
+    <ele>452</ele>
+    <name>FL/VL-071</name>
+    <cmt><![CDATA[La Garenne de Chamilly]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="46.4533" lon="4.8274999">
+    <ele>441</ele>
+    <name>FL/VL-072</name>
+    <cmt><![CDATA[La Croix Sainte-Barbe]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.573299" lon="4.2950001">
+    <ele>437</ele>
+    <name>FL/VL-073</name>
+    <cmt><![CDATA[Le Pas de la Mule]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="46.834999" lon="4.0799999">
+    <ele>436</ele>
+    <name>FL/VL-074</name>
+    <cmt><![CDATA[Montagne de la Gay]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.0625" lon="3.8225">
+    <ele>435</ele>
+    <name>FL/VL-075</name>
+    <cmt><![CDATA[Le Toureau de Remondot]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.5425" lon="4.3225002">
+    <ele>434</ele>
+    <name>FL/VL-076</name>
+    <cmt><![CDATA[Mont de Cra]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="46.826698" lon="4.0458002">
+    <ele>513</ele>
+    <name>FL/VL-077</name>
+    <cmt><![CDATA[Mont Dône]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="46.771702" lon="3.8992">
+    <ele>433</ele>
+    <name>FL/VL-079</name>
+    <cmt><![CDATA[La Croix Charles]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.509998" lon="4.4232998">
+    <ele>431</ele>
+    <name>FL/VL-080</name>
+    <cmt><![CDATA[La Montagne]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.035" lon="3.4525001">
+    <ele>427</ele>
+    <name>FL/VL-081</name>
+    <cmt><![CDATA[Bois Château]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="46.348301" lon="4.7333002">
+    <ele>424</ele>
+    <name>FL/VL-082</name>
+    <cmt><![CDATA[La Rochette]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.318298" lon="2.6600001">
+    <ele>421</ele>
+    <name>FL/VL-083</name>
+    <cmt><![CDATA[Forêt de Beaujeu]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.217499" lon="3.4275">
+    <ele>414</ele>
+    <name>FL/VL-084</name>
+    <cmt><![CDATA[Montenoison]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="46.3983" lon="4.7567">
+    <ele>392</ele>
+    <name>FL/VL-087</name>
+    <cmt><![CDATA[Bois de la Roche]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.321499" lon="3.5511999">
+    <ele>391</ele>
+    <name>FL/VL-088</name>
+    <cmt><![CDATA[Bois des Menées]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.580799" lon="4.1542001">
+    <ele>391</ele>
+    <name>FL/VL-089</name>
+    <cmt><![CDATA[Bois de Chabrolle]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.615799" lon="3.415">
+    <ele>386</ele>
+    <name>FL/VL-090</name>
+    <cmt><![CDATA[Le Moulin Vieux]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.299198" lon="3.3733001">
+    <ele>384</ele>
+    <name>FL/VL-091</name>
+    <cmt><![CDATA[La Queue à la Dame]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.376701" lon="3.2725">
+    <ele>382</ele>
+    <name>FL/VL-092</name>
+    <cmt><![CDATA[Bois Ronneau]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.3167" lon="2.7783">
+    <ele>377</ele>
+    <name>FL/VL-093</name>
+    <cmt><![CDATA[Le Fougerat]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.9575" lon="4.5774999">
+    <ele>359</ele>
+    <name>FL/VL-095</name>
+    <cmt><![CDATA[Forêt De Vauxoué]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.481701" lon="3.7983">
+    <ele>359</ele>
+    <name>FL/VL-096</name>
+    <cmt><![CDATA[Gros Mont]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.5508" lon="3.8833001">
+    <ele>357</ele>
+    <name>FL/VL-097</name>
+    <cmt><![CDATA[Forêt du Boudet]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.9533" lon="4.4450002">
+    <ele>355</ele>
+    <name>FL/VL-098</name>
+    <cmt><![CDATA[Forêt des Brosses]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.500801" lon="3.8283">
+    <ele>354</ele>
+    <name>FL/VL-099</name>
+    <cmt><![CDATA[Montmarte]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.755798" lon="3.7225001">
+    <ele>346</ele>
+    <name>FL/VL-100</name>
+    <cmt><![CDATA[La Grosse Tour]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="46.740002" lon="2.5492001">
+    <ele>311</ele>
+    <name>FL/VL-101</name>
+    <cmt><![CDATA[Tour Malakof]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.939201" lon="3.3775001">
+    <ele>222</ele>
+    <name>FL/VL-103</name>
+    <cmt><![CDATA[Bois de Montholon]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.268902" lon="2.6368999">
+    <ele>429</ele>
+    <name>FL/VL-104</name>
+    <cmt><![CDATA[La Motte, Humbligny]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="46.2911" lon="4.4629002">
+    <ele>695</ele>
+    <name>FL/VL-105</name>
+    <cmt><![CDATA[Grande Roche]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="46.806099" lon="4.2592001">
+    <ele>681</ele>
+    <name>FL/VL-106</name>
+    <cmt><![CDATA[Le signal d'Uchon]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="46.888" lon="3.8778">
+    <ele>556</ele>
+    <name>FL/VL-107</name>
+    <cmt><![CDATA[Vieille Montagne]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.540001" lon="4.2136002">
+    <ele>387</ele>
+    <name>FL/VL-109</name>
+    <cmt><![CDATA[Le Raseau]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Val de la Loire]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.900902" lon="7.0984001">
+    <ele>1424</ele>
+    <name>FL/VO-001</name>
+    <cmt><![CDATA[Le Grand Ballon de Guebwiller]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.037601" lon="7.0163002">
+    <ele>1363</ele>
+    <name>FL/VO-002</name>
+    <cmt><![CDATA[Le Hohneck]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.1138" lon="7.0795002">
+    <ele>1306</ele>
+    <name>FL/VO-003</name>
+    <cmt><![CDATA[Gazon du Faing]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.846199" lon="6.9116998">
+    <ele>1252</ele>
+    <name>FL/VO-004</name>
+    <cmt><![CDATA[Le Gresson]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.8223" lon="6.8450999">
+    <ele>1247</ele>
+    <name>FL/VO-005</name>
+    <cmt><![CDATA[Ballon d’Alsace]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.8717" lon="6.9095998">
+    <ele>1229</ele>
+    <name>FL/VO-006</name>
+    <cmt><![CDATA[Tête des Neufs Bois]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.189499" lon="7.1500001">
+    <ele>1229</ele>
+    <name>FL/VO-007</name>
+    <cmt><![CDATA[Le Grand Brézouard]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.91" lon="6.9288001">
+    <ele>1223</ele>
+    <name>FL/VO-008</name>
+    <cmt><![CDATA[Tête de Fellering]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.829601" lon="6.7927999">
+    <ele>1216</ele>
+    <name>FL/VO-009</name>
+    <cmt><![CDATA[Ballon de Servance]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.959599" lon="6.9253001">
+    <ele>1204</ele>
+    <name>FL/VO-010</name>
+    <cmt><![CDATA[Le Grand Ventron]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.037201" lon="6.9513998">
+    <ele>1202</ele>
+    <name>FL/VO-011</name>
+    <cmt><![CDATA[Sommet de Belle Hutte]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.991901" lon="6.9440999">
+    <ele>1197</ele>
+    <name>FL/VO-012</name>
+    <cmt><![CDATA[L'Altenberg]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.8209" lon="7.0092001">
+    <ele>1192</ele>
+    <name>FL/VO-013</name>
+    <cmt><![CDATA[Rossberg]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.110802" lon="7.0022001">
+    <ele>1141</ele>
+    <name>FL/VO-014</name>
+    <cmt><![CDATA[Chaume de Sérichamp]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.0467" lon="6.9169002">
+    <ele>1137</ele>
+    <name>FL/VO-015</name>
+    <cmt><![CDATA[Tête de Grouvelin]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.179401" lon="7.0847001">
+    <ele>1130</ele>
+    <name>FL/VO-016</name>
+    <cmt><![CDATA[Le Rossberg]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.854" lon="7.1299">
+    <ele>1126</ele>
+    <name>FL/VO-017</name>
+    <cmt><![CDATA[Le Molkenrain]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.923599" lon="6.8539">
+    <ele>1108</ele>
+    <name>FL/VO-018</name>
+    <cmt><![CDATA[Haut du Rouge Gazon]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.395" lon="7.2705998">
+    <ele>1098</ele>
+    <name>FL/VO-019</name>
+    <cmt><![CDATA[Le Champ du Feu]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.104401" lon="6.9317002">
+    <ele>1086</ele>
+    <name>FL/VO-020</name>
+    <cmt><![CDATA[La Croix Hanzo]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.0798" lon="7.1381001">
+    <ele>1044</ele>
+    <name>FL/VO-021</name>
+    <cmt><![CDATA[Schratzmännele]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.549198" lon="7.2399998">
+    <ele>1008</ele>
+    <name>FL/VO-022</name>
+    <cmt><![CDATA[Rocher de Mutzig]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.512501" lon="7.1645002">
+    <ele>1007</ele>
+    <name>FL/VO-023</name>
+    <cmt><![CDATA[Le Donon]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.048401" lon="6.8185">
+    <ele>1007</ele>
+    <name>FL/VO-024</name>
+    <cmt><![CDATA[Le Faing des Meules]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.234798" lon="7.2585001">
+    <ele>988</ele>
+    <name>FL/VO-025</name>
+    <cmt><![CDATA[Le Ramelstein]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.2654" lon="7.1532001">
+    <ele>985</ele>
+    <name>FL/VO-026</name>
+    <cmt><![CDATA[Haut des Yraux]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.590801" lon="7.2758002">
+    <ele>967</ele>
+    <name>FL/VO-027</name>
+    <cmt><![CDATA[Le Baerenberg]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.344799" lon="7.1830001">
+    <ele>965</ele>
+    <name>FL/VO-028</name>
+    <cmt><![CDATA[Le Climont]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.124901" lon="6.8898001">
+    <ele>960</ele>
+    <name>FL/VO-029</name>
+    <cmt><![CDATA[Tête de Nayemont]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.926998" lon="6.7877002">
+    <ele>957</ele>
+    <name>FL/VO-030</name>
+    <cmt><![CDATA[Tête du Midi]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.0919" lon="6.8597002">
+    <ele>949</ele>
+    <name>FL/VO-031</name>
+    <cmt><![CDATA[La Goutte Logelot]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.441898" lon="7.0960999">
+    <ele>938</ele>
+    <name>FL/VO-032</name>
+    <cmt><![CDATA[Les Hautes Relevées]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.307899" lon="7.0035">
+    <ele>899</ele>
+    <name>FL/VO-033</name>
+    <cmt><![CDATA[Roche du Sapin Sec]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.120998" lon="7.1991">
+    <ele>886</ele>
+    <name>FL/VO-034</name>
+    <cmt><![CDATA[Le Cras]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.295399" lon="7.3129001">
+    <ele>856</ele>
+    <name>FL/VO-035</name>
+    <cmt><![CDATA[Rocher du Coucou]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.5285" lon="7.1329999">
+    <ele>836</ele>
+    <name>FL/VO-036</name>
+    <cmt><![CDATA[Chaume de Réquival]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.310299" lon="7.2361002">
+    <ele>829</ele>
+    <name>FL/VO-037</name>
+    <cmt><![CDATA[Le Rouhu]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.368599" lon="7.1114001">
+    <ele>831</ele>
+    <name>FL/VO-038</name>
+    <cmt><![CDATA[Solamont]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.348" lon="7.2101002">
+    <ele>819</ele>
+    <name>FL/VO-039</name>
+    <cmt><![CDATA[Le Grand Sapin]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.0718" lon="6.6778998">
+    <ele>819</ele>
+    <name>FL/VO-040</name>
+    <cmt><![CDATA[Tête de la Charmotte]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.451801" lon="7.2814999">
+    <ele>816</ele>
+    <name>FL/VO-041</name>
+    <cmt><![CDATA[Sommet du Glaserberg]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.333" lon="7.1272001">
+    <ele>793</ele>
+    <name>FL/VO-042</name>
+    <cmt><![CDATA[Le Voyemont]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.186199" lon="6.8299999">
+    <ele>769</ele>
+    <name>FL/VO-043</name>
+    <cmt><![CDATA[Mont Moyennel]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.364601" lon="7.1627998">
+    <ele>750</ele>
+    <name>FL/VO-044</name>
+    <cmt><![CDATA[Le Grand Alhan]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.418201" lon="7.0289001">
+    <ele>731</ele>
+    <name>FL/VO-045</name>
+    <cmt><![CDATA[Côte du Mont]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.321201" lon="7.3927999">
+    <ele>681</ele>
+    <name>FL/VO-047</name>
+    <cmt><![CDATA[Le Dachfirst]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.9786" lon="7.6142998">
+    <ele>581</ele>
+    <name>FL/VO-048</name>
+    <cmt><![CDATA[Grand Wintersberg]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.4086" lon="6.0700998">
+    <ele>540</ele>
+    <name>FL/VO-049</name>
+    <cmt><![CDATA[Signal de Vaudémont]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.706799" lon="7.3248">
+    <ele>542</ele>
+    <name>FL/VO-050</name>
+    <cmt><![CDATA[Le Brotschberg]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="49.048401" lon="7.8263001">
+    <ele>521</ele>
+    <name>FL/VO-051</name>
+    <cmt><![CDATA[Duerrenberg]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.630299" lon="6.1522002">
+    <ele>420</ele>
+    <name>FL/VO-053</name>
+    <cmt><![CDATA[Bois des Vaches]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.807499" lon="6.2437">
+    <ele>419</ele>
+    <name>FL/VO-054</name>
+    <cmt><![CDATA[Côte de Savrony]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.9744" lon="6.0686002">
+    <ele>400</ele>
+    <name>FL/VO-056</name>
+    <cmt><![CDATA[Bois le Comte (Vittonville)]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="49.231098" lon="6.0876002">
+    <ele>403</ele>
+    <name>FL/VO-057</name>
+    <cmt><![CDATA[Côte de Drince]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.689999" lon="5.8825998">
+    <ele>394</ele>
+    <name>FL/VO-058</name>
+    <cmt><![CDATA[Mont Saint Michel]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.725201" lon="5.8287001">
+    <ele>393</ele>
+    <name>FL/VO-059</name>
+    <cmt><![CDATA[Ancien Fort de Lucey]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.904701" lon="6.0774999">
+    <ele>382</ele>
+    <name>FL/VO-060</name>
+    <cmt><![CDATA[Butte de Mousson]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.996899" lon="6.8242002">
+    <ele>1061</ele>
+    <name>FL/VO-066</name>
+    <cmt><![CDATA[Le Rondfaing]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.978901" lon="6.7768998">
+    <ele>1014</ele>
+    <name>FL/VO-067</name>
+    <cmt><![CDATA[Haut du Roc]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.362801" lon="7.3589001">
+    <ele>901</ele>
+    <name>FL/VO-069</name>
+    <cmt><![CDATA[Ungesberg]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.426701" lon="7.4092002">
+    <ele>827</ele>
+    <name>FL/VO-070</name>
+    <cmt><![CDATA[Mt Ste Odile, La Bloss]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.249298" lon="7.3413">
+    <ele>743</ele>
+    <name>FL/VO-073</name>
+    <cmt><![CDATA[Le Haut Koenigsbourg]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.947399" lon="7.5995998">
+    <ele>526</ele>
+    <name>FL/VO-075</name>
+    <cmt><![CDATA[Wasenkoepfel]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.726398" lon="6.2119002">
+    <ele>384</ele>
+    <name>FL/VO-077</name>
+    <cmt><![CDATA[Plateau de Malzéville]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.904999" lon="7.0820999">
+    <ele>1366</ele>
+    <name>FL/VO-078</name>
+    <cmt><![CDATA[Le Storkenkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.949699" lon="7.0558">
+    <ele>1323</ele>
+    <name>FL/VO-079</name>
+    <cmt><![CDATA[Klintzkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.000801" lon="6.9809999">
+    <ele>1316</ele>
+    <name>FL/VO-080</name>
+    <cmt><![CDATA[Rothenbachkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.9562" lon="7.0393">
+    <ele>1314</ele>
+    <name>FL/VO-081</name>
+    <cmt><![CDATA[Le Lauchenkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.980701" lon="7.1261001">
+    <ele>1272</ele>
+    <name>FL/VO-082</name>
+    <cmt><![CDATA[Petit Ballon]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.025501" lon="6.9802999">
+    <ele>1228</ele>
+    <name>FL/VO-083</name>
+    <cmt><![CDATA[Grand Artimont]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.000301" lon="6.9612999">
+    <ele>1160</ele>
+    <name>FL/VO-084</name>
+    <cmt><![CDATA[Ronde Tête]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.901299" lon="6.8491001">
+    <ele>1094</ele>
+    <name>FL/VO-085</name>
+    <cmt><![CDATA[Tête des Corbeaux]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.7728" lon="6.9221001">
+    <ele>1074</ele>
+    <name>FL/VO-086</name>
+    <cmt><![CDATA[Baerenkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.917198" lon="6.902">
+    <ele>1062</ele>
+    <name>FL/VO-087</name>
+    <cmt><![CDATA[Haut de Brampas]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.980202" lon="6.8547001">
+    <ele>999</ele>
+    <name>FL/VO-088</name>
+    <cmt><![CDATA[Le Faing Berret]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.108002" lon="6.8785">
+    <ele>956</ele>
+    <name>FL/VO-089</name>
+    <cmt><![CDATA[Haut de la Pierre de Taille]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.516201" lon="7.1757002">
+    <ele>950</ele>
+    <name>FL/VO-090</name>
+    <cmt><![CDATA[Le Petit Donon]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.187099" lon="7.2473001">
+    <ele>936</ele>
+    <name>FL/VO-091</name>
+    <cmt><![CDATA[Koenigsstuhl]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.5112" lon="7.1848001">
+    <ele>901</ele>
+    <name>FL/VO-092</name>
+    <cmt><![CDATA[Kohlberg]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.033298" lon="7.2328">
+    <ele>898</ele>
+    <name>FL/VO-093</name>
+    <cmt><![CDATA[Le Stauffen]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.828201" lon="6.9692001">
+    <ele>891</ele>
+    <name>FL/VO-094</name>
+    <cmt><![CDATA[Hoherkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.807598" lon="7.0506001">
+    <ele>885</ele>
+    <name>FL/VO-095</name>
+    <cmt><![CDATA[Kuppelthannkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.019501" lon="7.2181001">
+    <ele>873</ele>
+    <name>FL/VO-096</name>
+    <cmt><![CDATA[Schlosswald]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.110199" lon="6.7104998">
+    <ele>829</ele>
+    <name>FL/VO-097</name>
+    <cmt><![CDATA[L'Ormont]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.137001" lon="7.2199998">
+    <ele>827</ele>
+    <name>FL/VO-098</name>
+    <cmt><![CDATA[Vorhofkopf de Kaysersberg]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.398201" lon="7.0848999">
+    <ele>817</ele>
+    <name>FL/VO-099</name>
+    <cmt><![CDATA[Le Houdimont]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.4692" lon="7.3708">
+    <ele>787</ele>
+    <name>FL/VO-100</name>
+    <cmt><![CDATA[Heidenkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.139099" lon="7.1631999">
+    <ele>773</ele>
+    <name>FL/VO-101</name>
+    <cmt><![CDATA[Le Grand Faudé]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.2542" lon="6.9282999">
+    <ele>761</ele>
+    <name>FL/VO-102</name>
+    <cmt><![CDATA[Massif de Kemberg]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.782501" lon="7.0258002">
+    <ele>759</ele>
+    <name>FL/VO-103</name>
+    <cmt><![CDATA[Buchberg]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.1824" lon="6.8422999">
+    <ele>748</ele>
+    <name>FL/VO-104</name>
+    <cmt><![CDATA[Mont Thiriville]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.882401" lon="6.9691">
+    <ele>714</ele>
+    <name>FL/VO-105</name>
+    <cmt><![CDATA[Seewaldkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.376999" lon="7.0107002">
+    <ele>689</ele>
+    <name>FL/VO-106</name>
+    <cmt><![CDATA[Côte d'Ortomont]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.4949" lon="7.2874999">
+    <ele>683</ele>
+    <name>FL/VO-107</name>
+    <cmt><![CDATA[Freitagberg]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.321899" lon="6.9566998">
+    <ele>669</ele>
+    <name>FL/VO-108</name>
+    <cmt><![CDATA[Roche des Corbeaux]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.165001" lon="6.7005">
+    <ele>664</ele>
+    <name>FL/VO-109</name>
+    <cmt><![CDATA[Stéaumont]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.007702" lon="6.6773">
+    <ele>652</ele>
+    <name>FL/VO-110</name>
+    <cmt><![CDATA[Bois du Bélier]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.145" lon="6.6666999">
+    <ele>649</ele>
+    <name>FL/VO-111</name>
+    <cmt><![CDATA[Roche des Fées]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.221298" lon="6.8836002">
+    <ele>645</ele>
+    <name>FL/VO-112</name>
+    <cmt><![CDATA[Chastel]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.263401" lon="6.8985">
+    <ele>621</ele>
+    <name>FL/VO-113</name>
+    <cmt><![CDATA[Forêt de Chaumont (Taintrux)]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.009899" lon="6.7403998">
+    <ele>620</ele>
+    <name>FL/VO-114</name>
+    <cmt><![CDATA[Le Mettey]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.673698" lon="7.2940998">
+    <ele>612</ele>
+    <name>FL/VO-115</name>
+    <cmt><![CDATA[Geissfels]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.496899" lon="7.3369999">
+    <ele>610</ele>
+    <name>FL/VO-116</name>
+    <cmt><![CDATA[Rocher de Grendelbruch]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.209702" lon="6.73">
+    <ele>593</ele>
+    <name>FL/VO-117</name>
+    <cmt><![CDATA[Grande Avison]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.387501" lon="6.8392">
+    <ele>591</ele>
+    <name>FL/VO-118</name>
+    <cmt><![CDATA[Roche du Coucou]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.6828" lon="7.2996001">
+    <ele>584</ele>
+    <name>FL/VO-119</name>
+    <cmt><![CDATA[Ochsenstein]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.218102" lon="6.7122998">
+    <ele>571</ele>
+    <name>FL/VO-120</name>
+    <cmt><![CDATA[Buemont]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.310299" lon="6.8495002">
+    <ele>556</ele>
+    <name>FL/VO-121</name>
+    <cmt><![CDATA[Le Grand Jumeau]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="49.055401" lon="7.7838001">
+    <ele>551</ele>
+    <name>FL/VO-122</name>
+    <cmt><![CDATA[Hohenbourg]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.463902" lon="6.9355998">
+    <ele>550</ele>
+    <name>FL/VO-123</name>
+    <cmt><![CDATA[Ortomont]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="49.018299" lon="7.7133002">
+    <ele>547</ele>
+    <name>FL/VO-124</name>
+    <cmt><![CDATA[Mohnenberg]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.2677" lon="7.3856001">
+    <ele>532</ele>
+    <name>FL/VO-125</name>
+    <cmt><![CDATA[Hahnenberg]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="49.011398" lon="7.8685002">
+    <ele>529</ele>
+    <name>FL/VO-126</name>
+    <cmt><![CDATA[Brissetish Kopf]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.387299" lon="6.0489998">
+    <ele>520</ele>
+    <name>FL/VO-127</name>
+    <cmt><![CDATA[Les Rapailles (Bois de Gugney)]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="49.006199" lon="7.6957998">
+    <ele>515</ele>
+    <name>FL/VO-128</name>
+    <cmt><![CDATA[Mittelkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="49.052299" lon="7.7075">
+    <ele>513</ele>
+    <name>FL/VO-129</name>
+    <cmt><![CDATA[Wasigensteiner Wald]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.980701" lon="7.8053999">
+    <ele>511</ele>
+    <name>FL/VO-130</name>
+    <cmt><![CDATA[Fôret Domaniale de Pfaffenbronn]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.074902" lon="5.8031998">
+    <ele>500</ele>
+    <name>FL/VO-131</name>
+    <cmt><![CDATA[Mont des Fourches]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="49.041199" lon="7.7428002">
+    <ele>496</ele>
+    <name>FL/VO-132</name>
+    <cmt><![CDATA[Engenteich]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.044899" lon="5.7528">
+    <ele>493</ele>
+    <name>FL/VO-133</name>
+    <cmt><![CDATA[Les Terres Eboulées]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.2645" lon="5.7551999">
+    <ele>492</ele>
+    <name>FL/VO-134</name>
+    <cmt><![CDATA[Les vieux Fourneaux]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.354698" lon="5.9152002">
+    <ele>491</ele>
+    <name>FL/VO-135</name>
+    <cmt><![CDATA[Le Rouvet]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.3102" lon="5.8147998">
+    <ele>484</ele>
+    <name>FL/VO-136</name>
+    <cmt><![CDATA[Bois de St-Remy]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.2897" lon="5.7721">
+    <ele>483</ele>
+    <name>FL/VO-137</name>
+    <cmt><![CDATA[Côte de Cravée]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="49.063499" lon="7.8017998">
+    <ele>479</ele>
+    <name>FL/VO-138</name>
+    <cmt><![CDATA[Kappelstein]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="49.035198" lon="7.7972002">
+    <ele>478</ele>
+    <name>FL/VO-139</name>
+    <cmt><![CDATA[Le Bois de Wingen]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.427799" lon="5.7209001">
+    <ele>454</ele>
+    <name>FL/VO-140</name>
+    <cmt><![CDATA[Côte Julien]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.3442" lon="5.6194">
+    <ele>451</ele>
+    <name>FL/VO-141</name>
+    <cmt><![CDATA[Les Réserves]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="49.006699" lon="7.6473999">
+    <ele>447</ele>
+    <name>FL/VO-142</name>
+    <cmt><![CDATA[Grossfoellmer]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="49.042" lon="7.7842999">
+    <ele>447</ele>
+    <name>FL/VO-143</name>
+    <cmt><![CDATA[Thalenberg]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.984299" lon="5.8084998">
+    <ele>442</ele>
+    <name>FL/VO-144</name>
+    <cmt><![CDATA[Raumont]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.568298" lon="5.8091998">
+    <ele>432</ele>
+    <name>FL/VO-145</name>
+    <cmt><![CDATA[Forêt de Meine]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="49.026199" lon="7.6591001">
+    <ele>430</ele>
+    <name>FL/VO-146</name>
+    <cmt><![CDATA[Fischerberg]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.996399" lon="7.4696002">
+    <ele>421</ele>
+    <name>FL/VO-147</name>
+    <cmt><![CDATA[Duerrbergkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.332699" lon="5.8685069">
+    <ele>421</ele>
+    <name>FL/VO-148</name>
+    <cmt><![CDATA[Haut de Bromont]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.543701" lon="5.8319001">
+    <ele>417</ele>
+    <name>FL/VO-149</name>
+    <cmt><![CDATA[Bonnet]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.597698" lon="6.0908999">
+    <ele>415</ele>
+    <name>FL/VO-150</name>
+    <cmt><![CDATA[Fort Pélissier]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.530399" lon="7.3717999">
+    <ele>411</ele>
+    <name>FL/VO-151</name>
+    <cmt><![CDATA[Weissenberg]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="49.014301" lon="7.6416001">
+    <ele>411</ele>
+    <name>FL/VO-152</name>
+    <cmt><![CDATA[Modenberg]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.786201" lon="6.2459998">
+    <ele>409</ele>
+    <name>FL/VO-153</name>
+    <cmt><![CDATA[Bois de Montenoy]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="49.034" lon="7.6588001">
+    <ele>406</ele>
+    <name>FL/VO-154</name>
+    <cmt><![CDATA[Steinbacher Wintersberg]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.757999" lon="6.2873001">
+    <ele>405</ele>
+    <name>FL/VO-155</name>
+    <cmt><![CDATA[Le Grand Mont]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.549198" lon="7.4517002">
+    <ele>398</ele>
+    <name>FL/VO-156</name>
+    <cmt><![CDATA[Mutzigberg]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.652302" lon="7.4804001">
+    <ele>397</ele>
+    <name>FL/VO-157</name>
+    <cmt><![CDATA[Goeftberg]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="49.004002" lon="7.5823002">
+    <ele>391</ele>
+    <name>FL/VO-158</name>
+    <cmt><![CDATA[Falkenberg]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.853699" lon="6.1359">
+    <ele>385</ele>
+    <name>FL/VO-159</name>
+    <cmt><![CDATA[La Côte (Sous la Valache)]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="49.015301" lon="7.5082002">
+    <ele>383</ele>
+    <name>FL/VO-160</name>
+    <cmt><![CDATA[Armsberg]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.830601" lon="6.1315999">
+    <ele>377</ele>
+    <name>FL/VO-161</name>
+    <cmt><![CDATA[La Côte (La Falaise)]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.6884" lon="5.8611002">
+    <ele>367</ele>
+    <name>FL/VO-162</name>
+    <cmt><![CDATA[Côte Barine]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.483799" lon="7.4720998">
+    <ele>360</ele>
+    <name>FL/VO-163</name>
+    <cmt><![CDATA[Bischenberg]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="49.049198" lon="6.0907001">
+    <ele>358</ele>
+    <name>FL/VO-164</name>
+    <cmt><![CDATA[Ouvrage St. Blaise]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="49.004101" lon="7.5173998">
+    <ele>356</ele>
+    <name>FL/VO-165</name>
+    <cmt><![CDATA[Gauchsberg]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="49.455101" lon="6.3579998">
+    <ele>314</ele>
+    <name>FL/VO-166</name>
+    <cmt><![CDATA[Stromberg]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.510799" lon="7.4401999">
+    <ele>529</ele>
+    <name>FL/VO-167</name>
+    <cmt><![CDATA[Wessenberg]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.851101" lon="6.9394999">
+    <ele>1195</ele>
+    <name>FL/VO-168</name>
+    <cmt><![CDATA[Rimbachkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.850399" lon="7.0994">
+    <ele>715</ele>
+    <name>FL/VO-169</name>
+    <cmt><![CDATA[Karsprung]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.009701" lon="6.9826999">
+    <ele>1305</ele>
+    <name>FL/VO-170</name>
+    <cmt><![CDATA[Le Rainkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.929699" lon="7.1490002">
+    <ele>813</ele>
+    <name>FL/VO-171</name>
+    <cmt><![CDATA[Hohrupf]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.972599" lon="7.1536999">
+    <ele>980</ele>
+    <name>FL/VO-172</name>
+    <cmt><![CDATA[Dornsilkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.052299" lon="6.9721999">
+    <ele>1120</ele>
+    <name>FL/VO-173</name>
+    <cmt><![CDATA[Boule du Diable (est)]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.3106" lon="7.1981001">
+    <ele>851</ele>
+    <name>FL/VO-174</name>
+    <cmt><![CDATA[Les Trois Bornes]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.3451" lon="7.2410002">
+    <ele>620</ele>
+    <name>FL/VO-175</name>
+    <cmt><![CDATA[Champs dans les Haies, La Grande Honel]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.948898" lon="6.9587002">
+    <ele>666</ele>
+    <name>FL/VO-176</name>
+    <cmt><![CDATA[Le Schlossberg]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.930801" lon="6.9257998">
+    <ele>1161</ele>
+    <name>FL/VO-177</name>
+    <cmt><![CDATA[Haut de Felzach]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.562901" lon="7.3211999">
+    <ele>645</ele>
+    <name>FL/VO-178</name>
+    <cmt><![CDATA[Grand Ringelsberg]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.9146" lon="6.8843002">
+    <ele>1085</ele>
+    <name>FL/VO-179</name>
+    <cmt><![CDATA[Tête de Meusfoux]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.812302" lon="6.9871001">
+    <ele>1017</ele>
+    <name>FL/VO-180</name>
+    <cmt><![CDATA[Hirtzenstein]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.486748" lon="7.1227002">
+    <ele>899</ele>
+    <name>FL/VO-181</name>
+    <cmt><![CDATA[La Corbeille]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.854538" lon="7.011445">
+    <ele>868</ele>
+    <name>FL/VO-182</name>
+    <cmt><![CDATA[Dreimarkstein]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.251125" lon="6.8537698">
+    <ele>705</ele>
+    <name>FL/VO-183</name>
+    <cmt><![CDATA[Chant des Roches]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.965698" lon="7.5738001">
+    <ele>441</ele>
+    <name>FL/VO-184</name>
+    <cmt><![CDATA[Schlangenberg]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.829102" lon="7.3594999">
+    <ele>417</ele>
+    <name>FL/VO-185</name>
+    <cmt><![CDATA[Hunebourg]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.903934" lon="6.368288">
+    <ele>404</ele>
+    <name>FL/VO-186</name>
+    <cmt><![CDATA[Côte de Delme]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="49.022747" lon="7.5415001">
+    <ele>402</ele>
+    <name>FL/VO-187</name>
+    <cmt><![CDATA[Erbsenberg]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="49.026402" lon="7.5086002">
+    <ele>400</ele>
+    <name>FL/VO-188</name>
+    <cmt><![CDATA[Igelsberg]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="49.048401" lon="7.6248002">
+    <ele>379</ele>
+    <name>FL/VO-189</name>
+    <cmt><![CDATA[Nestelsberg]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="49.033478" lon="7.5974002">
+    <ele>372</ele>
+    <name>FL/VO-190</name>
+    <cmt><![CDATA[Grosser Hundskopf]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="49.005177" lon="7.5657878">
+    <ele>363</ele>
+    <name>FL/VO-191</name>
+    <cmt><![CDATA[Helfenstein]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="49.0154" lon="7.5555">
+    <ele>360</ele>
+    <name>FL/VO-192</name>
+    <cmt><![CDATA[Grand Steinberg]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.585484" lon="7.4938002">
+    <ele>314</ele>
+    <name>FL/VO-193</name>
+    <cmt><![CDATA[Scharrachberg]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.507" lon="7.3235679">
+    <ele>649</ele>
+    <name>FL/VO-194</name>
+    <cmt><![CDATA[Hahnenberg]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.256302" lon="6.907167">
+    <ele>627</ele>
+    <name>FL/VO-195</name>
+    <cmt><![CDATA[Pierre de Laitre]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.7351" lon="7.3218002">
+    <ele>463</ele>
+    <name>FL/VO-196</name>
+    <cmt><![CDATA[Schlosserhoehe]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="49.0214" lon="7.4548998">
+    <ele>429</ele>
+    <name>FL/VO-197</name>
+    <cmt><![CDATA[Hochkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.9202" lon="7.5412002">
+    <ele>421</ele>
+    <name>FL/VO-198</name>
+    <cmt><![CDATA[Hochfirst]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.811501" lon="7.4510131">
+    <ele>326</ele>
+    <name>FL/VO-199</name>
+    <cmt><![CDATA[Bastberg]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.932732" lon="6.752913">
+    <ele>906</ele>
+    <name>FL/VO-200</name>
+    <cmt><![CDATA[Le Grand Coteau]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.037342" lon="6.6293001">
+    <ele>812</ele>
+    <name>FL/VO-201</name>
+    <cmt><![CDATA[Le Poêle Sauvage]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.021576" lon="6.6333671">
+    <ele>672</ele>
+    <name>FL/VO-202</name>
+    <cmt><![CDATA[Le Saint-Mont]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.228317" lon="6.7186561">
+    <ele>545</ele>
+    <name>FL/VO-203</name>
+    <cmt><![CDATA[Fouchon]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="48.231289" lon="5.7456069">
+    <ele>491</ele>
+    <name>FL/VO-204</name>
+    <cmt><![CDATA[Le Clémont]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+  <wpt lat="47.894447" lon="6.6908832">
+    <ele>781</ele>
+    <name>FL/VO-205</name>
+    <cmt><![CDATA[Roche-Tue-Boeuf]]></cmt>
+    <desc><![CDATA[SOTA Association: FL - France - Low, Region: Vosges]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit FL/</type>
+  </wpt>
+</gpx>
