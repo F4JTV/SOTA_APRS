@@ -41,22 +41,22 @@ def convert_coords(latitude, longitude):
 
 def get_passcode(ham_callsign):
     if re.match(CALL_RE, ham_callsign):
-        callsign = ham_callsign.upper()
+        call = ham_callsign.upper()
 
         i = 0
         tmp_code = 29666
-        while i < len(callsign):
+        while i < len(call):
             try:
-                tmp_code = tmp_code ^ ord(callsign[i]) * 256
-                tmp_code = tmp_code ^ ord(callsign[i + 1])
+                tmp_code = tmp_code ^ ord(call[i]) * 256
+                tmp_code = tmp_code ^ ord(call[i + 1])
                 i += 2
             except IndexError:
                 break
 
-        passcode = tmp_code & 32767
-        print(f"[+] APRS passcode for {callsign}: {passcode}\n")
+        passc = tmp_code & 32767
+        print(f"[+] APRS passcode for {call}: {passc}")
 
-        return passcode
+        return passc
 
     else:
         print("[-] Invalid Callsign")
@@ -110,3 +110,6 @@ except gpxpy.gpx.GPXXMLSyntaxException:
 except KeyboardInterrupt:
     print("[-] Script stopped by user")
     sys.exit(3)
+except FileNotFoundError:
+    print("[-] Please select a valid .gpx file name")
+    sys.exit(4)
