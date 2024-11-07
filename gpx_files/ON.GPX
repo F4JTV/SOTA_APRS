@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1" 
+     creator="SOTA Mapping Project GPX Generator 1.1" 
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+     xmlns="http://www.topografix.com/GPX/1/1" 
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>SOTA Summits GPX Export</name>
+    <desc>SOTA Summits data in GPX v1.1 format></desc>
+    <author>
+      <name>SOTA Mapping Project></name>
+      <email id="admin" domain="www.sotamaps.org" />
+      <link href="https://www.sotamaps.org">
+        <text>SOTA Mapping Project</text>
+      </link>
+    </author>
+    <link href="https://www.sotamaps.org">
+      <text>SOTA Mapping Project</text>
+    </link>
+    <time>2024-11-07T15:16:40Z</time>
+    <keywords>SOTA, Summits On The Air, amateur radio, ham radio</keywords>
+    <bounds minlat="49.77" minlon="3.6989" maxlat="51.012199" maxlon="6.3697"/>
+  </metadata>
+  <wpt lat="50.501598" lon="6.0924001">
+    <ele>694</ele>
+    <name>ON/ON-001</name>
+    <cmt><![CDATA[Signal de Botrange]]></cmt>
+    <desc><![CDATA[SOTA Association: ON - Belgium, Region: Belgium]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit ON/</type>
+  </wpt>
+  <wpt lat="50.032799" lon="5.4267001">
+    <ele>586</ele>
+    <name>ON/ON-004</name>
+    <cmt><![CDATA[Bois de Hazeille]]></cmt>
+    <desc><![CDATA[SOTA Association: ON - Belgium, Region: Belgium]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit ON/</type>
+  </wpt>
+  <wpt lat="49.951099" lon="4.8446999">
+    <ele>503</ele>
+    <name>ON/ON-006</name>
+    <cmt><![CDATA[La Croix Scaille]]></cmt>
+    <desc><![CDATA[SOTA Association: ON - Belgium, Region: Belgium]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit ON/</type>
+  </wpt>
+  <wpt lat="50.408298" lon="6.3697">
+    <ele>693</ele>
+    <name>ON/ON-009</name>
+    <cmt><![CDATA[Iverst]]></cmt>
+    <desc><![CDATA[SOTA Association: ON - Belgium, Region: Belgium]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit ON/</type>
+  </wpt>
+  <wpt lat="50.2509" lon="5.7301998">
+    <ele>651</ele>
+    <name>ON/ON-010</name>
+    <cmt><![CDATA[Baraque Fraiture]]></cmt>
+    <desc><![CDATA[SOTA Association: ON - Belgium, Region: Belgium]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit ON/</type>
+  </wpt>
+  <wpt lat="50.330601" lon="5.9775">
+    <ele>601</ele>
+    <name>ON/ON-011</name>
+    <cmt><![CDATA[Sur Clair Fa]]></cmt>
+    <desc><![CDATA[SOTA Association: ON - Belgium, Region: Belgium]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit ON/</type>
+  </wpt>
+  <wpt lat="50.314999" lon="5.8513999">
+    <ele>568</ele>
+    <name>ON/ON-013</name>
+    <cmt><![CDATA[Bois de Hodinfosse]]></cmt>
+    <desc><![CDATA[SOTA Association: ON - Belgium, Region: Belgium]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit ON/</type>
+  </wpt>
+  <wpt lat="49.77" lon="5.2033">
+    <ele>445</ele>
+    <name>ON/ON-016</name>
+    <cmt><![CDATA[Les Aisances]]></cmt>
+    <desc><![CDATA[SOTA Association: ON - Belgium, Region: Belgium]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit ON/</type>
+  </wpt>
+  <wpt lat="50.318298" lon="5.5366998">
+    <ele>395</ele>
+    <name>ON/ON-018</name>
+    <cmt><![CDATA[A la Plate]]></cmt>
+    <desc><![CDATA[SOTA Association: ON - Belgium, Region: Belgium]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit ON/</type>
+  </wpt>
+  <wpt lat="50.158298" lon="5.2930999">
+    <ele>365</ele>
+    <name>ON/ON-019</name>
+    <cmt><![CDATA[Bois de Javingue]]></cmt>
+    <desc><![CDATA[SOTA Association: ON - Belgium, Region: Belgium]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit ON/</type>
+  </wpt>
+  <wpt lat="50.178299" lon="4.9148002">
+    <ele>306</ele>
+    <name>ON/ON-021</name>
+    <cmt><![CDATA[Plantis de Mesnil]]></cmt>
+    <desc><![CDATA[SOTA Association: ON - Belgium, Region: Belgium]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit ON/</type>
+  </wpt>
+  <wpt lat="50.398102" lon="5.9710999">
+    <ele>455</ele>
+    <name>ON/ON-025</name>
+    <cmt><![CDATA[Burteaumont]]></cmt>
+    <desc><![CDATA[SOTA Association: ON - Belgium, Region: Belgium]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit ON/</type>
+  </wpt>
+  <wpt lat="50.675598" lon="5.9207001">
+    <ele>354</ele>
+    <name>ON/ON-026</name>
+    <cmt><![CDATA[Le Mont d'Henri-Chapelle]]></cmt>
+    <desc><![CDATA[SOTA Association: ON - Belgium, Region: Belgium]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit ON/</type>
+  </wpt>
+  <wpt lat="50.764198" lon="3.6989">
+    <ele>159</ele>
+    <name>ON/ON-027</name>
+    <cmt><![CDATA[Pottelberg]]></cmt>
+    <desc><![CDATA[SOTA Association: ON - Belgium, Region: Belgium]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit ON/</type>
+  </wpt>
+  <wpt lat="51.012199" lon="5.5423002">
+    <ele>199</ele>
+    <name>ON/ON-028</name>
+    <cmt><![CDATA[Noordelijke terril Waterschei]]></cmt>
+    <desc><![CDATA[SOTA Association: ON - Belgium, Region: Belgium]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit ON/</type>
+  </wpt>
+  <wpt lat="50.6591" lon="5.5581002">
+    <ele>241</ele>
+    <name>ON/ON-029</name>
+    <cmt><![CDATA[Terril Ste-Barde et Tonne]]></cmt>
+    <desc><![CDATA[SOTA Association: ON - Belgium, Region: Belgium]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit ON/</type>
+  </wpt>
+  <wpt lat="50.3965" lon="4.2975001">
+    <ele>246</ele>
+    <name>ON/ON-030</name>
+    <cmt><![CDATA[Terril de l'Hougarde (ouest)]]></cmt>
+    <desc><![CDATA[SOTA Association: ON - Belgium, Region: Belgium]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit ON/</type>
+  </wpt>
+  <wpt lat="50.354099" lon="5.3442998">
+    <ele>343</ele>
+    <name>ON/ON-031</name>
+    <cmt><![CDATA[Château d'eau de Havelange]]></cmt>
+    <desc><![CDATA[SOTA Association: ON - Belgium, Region: Belgium]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit ON/</type>
+  </wpt>
+</gpx>

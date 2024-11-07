@@ -1,0 +1,4088 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1" 
+     creator="SOTA Mapping Project GPX Generator 1.1" 
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+     xmlns="http://www.topografix.com/GPX/1/1" 
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>SOTA Summits GPX Export</name>
+    <desc>SOTA Summits data in GPX v1.1 format></desc>
+    <author>
+      <name>SOTA Mapping Project></name>
+      <email id="admin" domain="www.sotamaps.org" />
+      <link href="https://www.sotamaps.org">
+        <text>SOTA Mapping Project</text>
+      </link>
+    </author>
+    <link href="https://www.sotamaps.org">
+      <text>SOTA Mapping Project</text>
+    </link>
+    <time>2024-11-07T15:13:16Z</time>
+    <keywords>SOTA, Summits On The Air, amateur radio, ham radio</keywords>
+    <bounds minlat="42.467442" minlon="13.846231" maxlat="46.2981" maxlon="18.468082"/>
+  </metadata>
+  <wpt lat="44.062523" lon="16.382986">
+    <ele>1831</ele>
+    <name>9A/DH-001</name>
+    <cmt><![CDATA[Dinara]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.34206" lon="17.053802">
+    <ele>1764</ele>
+    <name>9A/DH-002</name>
+    <cmt><![CDATA[Sveti Jure]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.371487" lon="16.997124">
+    <ele>1642</ele>
+    <name>9A/DH-003</name>
+    <cmt><![CDATA[Sveti Ilija]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.287079" lon="17.112097">
+    <ele>1536</ele>
+    <name>9A/DH-004</name>
+    <cmt><![CDATA[Kimet]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.790627" lon="16.484905">
+    <ele>1509</ele>
+    <name>9A/DH-005</name>
+    <cmt><![CDATA[Svilaja]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.527107" lon="16.637335">
+    <ele>1339</ele>
+    <name>9A/DH-006</name>
+    <cmt><![CDATA[Veliki Kabal]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.489326" lon="16.692076">
+    <ele>1319</ele>
+    <name>9A/DH-007</name>
+    <cmt><![CDATA[Sveti Jure]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.276073" lon="17.257977">
+    <ele>1314</ele>
+    <name>9A/DH-008</name>
+    <cmt><![CDATA[Veliki Šibenik]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.831146" lon="16.421818">
+    <ele>1304</ele>
+    <name>9A/DH-009</name>
+    <cmt><![CDATA[Veli vrh]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.855808" lon="16.38238">
+    <ele>1301</ele>
+    <name>9A/DH-010</name>
+    <cmt><![CDATA[Lisina]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.64069" lon="16.928823">
+    <ele>1265</ele>
+    <name>9A/DH-011</name>
+    <cmt><![CDATA[Tovarnica]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.350281" lon="15.448326">
+    <ele>1265</ele>
+    <name>9A/DH-012</name>
+    <cmt><![CDATA[Golić]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.857929" lon="16.597401">
+    <ele>1251</ele>
+    <name>9A/DH-013</name>
+    <cmt><![CDATA[Karaula]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.196903" lon="16.146397">
+    <ele>1251</ele>
+    <name>9A/DH-014</name>
+    <cmt><![CDATA[Bobija]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.264202" lon="17.242495">
+    <ele>1245</ele>
+    <name>9A/DH-015</name>
+    <cmt><![CDATA[Mihovil]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="42.573936" lon="18.351738">
+    <ele>1234</ele>
+    <name>9A/DH-016</name>
+    <cmt><![CDATA[Ilijin vrh]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.962955" lon="16.329824">
+    <ele>1206</ele>
+    <name>9A/DH-017</name>
+    <cmt><![CDATA[Bat]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.156563" lon="16.216166">
+    <ele>1201</ele>
+    <name>9A/DH-018</name>
+    <cmt><![CDATA[Orlovac]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.197067" lon="16.196028">
+    <ele>1190</ele>
+    <name>9A/DH-019</name>
+    <cmt><![CDATA[Veliki gologlav]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.274326" lon="15.624964">
+    <ele>1171</ele>
+    <name>9A/DH-020</name>
+    <cmt><![CDATA[Bukovo pleće]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="42.57679" lon="18.415543">
+    <ele>1164</ele>
+    <name>9A/DH-021</name>
+    <cmt><![CDATA[Veliki Štedar]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.191841" lon="17.194147">
+    <ele>1158</ele>
+    <name>9A/DH-022</name>
+    <cmt><![CDATA[Velika Kapela]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.924541" lon="16.169809">
+    <ele>1148</ele>
+    <name>9A/DH-023</name>
+    <cmt><![CDATA[Čavinica]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.105511" lon="16.269709">
+    <ele>1148</ele>
+    <name>9A/DH-024</name>
+    <cmt><![CDATA[Zelenika]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.348888" lon="15.412104">
+    <ele>1110</ele>
+    <name>9A/DH-025</name>
+    <cmt><![CDATA[Bojin kuk]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.331047" lon="15.502815">
+    <ele>1110</ele>
+    <name>9A/DH-026</name>
+    <cmt><![CDATA[Crni vrh]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.915478" lon="16.341852">
+    <ele>1101</ele>
+    <name>9A/DH-027</name>
+    <cmt><![CDATA[Kunica]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.247646" lon="15.750786">
+    <ele>1064</ele>
+    <name>9A/DH-028</name>
+    <cmt><![CDATA[Panoga]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.216576" lon="17.332796">
+    <ele>1061</ele>
+    <name>9A/DH-029</name>
+    <cmt><![CDATA[Sveti Rok]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.068176" lon="16.301815">
+    <ele>1004</ele>
+    <name>9A/DH-030</name>
+    <cmt><![CDATA[Vršina]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="42.584747" lon="18.38806">
+    <ele>994</ele>
+    <name>9A/DH-031</name>
+    <cmt><![CDATA[Goliš]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="42.807404" lon="17.912851">
+    <ele>966</ele>
+    <name>9A/DH-032</name>
+    <cmt><![CDATA[Neprobic]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.777195" lon="16.374342">
+    <ele>965</ele>
+    <name>9A/DH-033</name>
+    <cmt><![CDATA[Viliki vrh]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="42.996265" lon="17.159536">
+    <ele>961</ele>
+    <name>9A/DH-034</name>
+    <cmt><![CDATA[Sveti Ilija]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.374599" lon="15.353883">
+    <ele>954</ele>
+    <name>9A/DH-035</name>
+    <cmt><![CDATA[Jovinov kuk]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.46656" lon="16.768301">
+    <ele>949</ele>
+    <name>9A/DH-036</name>
+    <cmt><![CDATA[Lišnica]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.694607" lon="16.565395">
+    <ele>941</ele>
+    <name>9A/DH-037</name>
+    <cmt><![CDATA[Glavica]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.558723" lon="16.950367">
+    <ele>925</ele>
+    <name>9A/DH-038</name>
+    <cmt><![CDATA[Maglaj]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.156616" lon="17.308735">
+    <ele>917</ele>
+    <name>9A/DH-039</name>
+    <cmt><![CDATA[Šapašnik]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.235527" lon="17.199583">
+    <ele>910</ele>
+    <name>9A/DH-040</name>
+    <cmt><![CDATA[Velika Vidovica]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.429569" lon="17.036095">
+    <ele>908</ele>
+    <name>9A/DH-041</name>
+    <cmt><![CDATA[Velika Orljača]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="42.833855" lon="17.859333">
+    <ele>899</ele>
+    <name>9A/DH-042</name>
+    <cmt><![CDATA[Tmor]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.447498" lon="17.07">
+    <ele>886</ele>
+    <name>9A/DH-043</name>
+    <cmt><![CDATA[Veliki Vilinjak]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="42.584721" lon="18.321375">
+    <ele>876</ele>
+    <name>9A/DH-044</name>
+    <cmt><![CDATA[Veliki Devet]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.391529" lon="17.135876">
+    <ele>868</ele>
+    <name>9A/DH-045</name>
+    <cmt><![CDATA[Piljevača]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.322369" lon="15.465815">
+    <ele>864</ele>
+    <name>9A/DH-046</name>
+    <cmt><![CDATA[Vidakov kuk]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.430912" lon="16.730907">
+    <ele>862</ele>
+    <name>9A/DH-047</name>
+    <cmt><![CDATA[Kula]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.448414" lon="16.990269">
+    <ele>848</ele>
+    <name>9A/DH-048</name>
+    <cmt><![CDATA[Sidoč]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.569828" lon="16.904594">
+    <ele>840</ele>
+    <name>9A/DH-049</name>
+    <cmt><![CDATA[Rimnica]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.692757" lon="16.412977">
+    <ele>839</ele>
+    <name>9A/DH-050</name>
+    <cmt><![CDATA[Movran]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.746929" lon="16.321386">
+    <ele>795</ele>
+    <name>9A/DH-051</name>
+    <cmt><![CDATA[Krpušnjak]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.413757" lon="16.830914">
+    <ele>788</ele>
+    <name>9A/DH-052</name>
+    <cmt><![CDATA[Kozji rat]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.279701" lon="16.619787">
+    <ele>780</ele>
+    <name>9A/DH-053</name>
+    <cmt><![CDATA[Vidova gora]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.570736" lon="16.408945">
+    <ele>779</ele>
+    <name>9A/DH-054</name>
+    <cmt><![CDATA[Kozjak]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.099602" lon="17.375669">
+    <ele>773</ele>
+    <name>9A/DH-055</name>
+    <cmt><![CDATA[Sveti Ilija]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.623512" lon="16.521917">
+    <ele>761</ele>
+    <name>9A/DH-056</name>
+    <cmt><![CDATA[Lisac]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="42.605526" lon="18.340208">
+    <ele>758</ele>
+    <name>9A/DH-057</name>
+    <cmt><![CDATA[Duštica]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.499874" lon="16.723917">
+    <ele>754</ele>
+    <name>9A/DH-058</name>
+    <cmt><![CDATA[Prčevice]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.525982" lon="16.848234">
+    <ele>750</ele>
+    <name>9A/DH-059</name>
+    <cmt><![CDATA[Visočica]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.672585" lon="16.470032">
+    <ele>749</ele>
+    <name>9A/DH-060</name>
+    <cmt><![CDATA[Runjevac]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.59375" lon="16.167274">
+    <ele>739</ele>
+    <name>9A/DH-061</name>
+    <cmt><![CDATA[Crni vrh]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.091122" lon="16.140825">
+    <ele>739</ele>
+    <name>9A/DH-062</name>
+    <cmt><![CDATA[Međijak]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.076172" lon="17.53273">
+    <ele>736</ele>
+    <name>9A/DH-063</name>
+    <cmt><![CDATA[Babina Gomila]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="42.902676" lon="17.844055">
+    <ele>736</ele>
+    <name>9A/DH-064</name>
+    <cmt><![CDATA[Treskavac]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.129868" lon="16.171339">
+    <ele>727</ele>
+    <name>9A/DH-065</name>
+    <cmt><![CDATA[Plješivica]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="42.745636" lon="17.98646">
+    <ele>727</ele>
+    <name>9A/DH-066</name>
+    <cmt><![CDATA[Semin]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="42.60928" lon="18.307587">
+    <ele>725</ele>
+    <name>9A/DH-067</name>
+    <cmt><![CDATA[Žića]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="42.963673" lon="17.361551">
+    <ele>712</ele>
+    <name>9A/DH-068</name>
+    <cmt><![CDATA[Rota]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="42.597355" lon="18.251772">
+    <ele>701</ele>
+    <name>9A/DH-069</name>
+    <cmt><![CDATA[Stražišće]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.809116" lon="16.214809">
+    <ele>701</ele>
+    <name>9A/DH-070</name>
+    <cmt><![CDATA[Crni Vrh]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.503712" lon="16.613895">
+    <ele>701</ele>
+    <name>9A/DH-071</name>
+    <cmt><![CDATA[Vrenjak]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.578125" lon="16.215014">
+    <ele>700</ele>
+    <name>9A/DH-072</name>
+    <cmt><![CDATA[Labinštica]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="42.983612" lon="17.251884">
+    <ele>694</ele>
+    <name>9A/DH-073</name>
+    <cmt><![CDATA[Supine]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.090481" lon="17.5133">
+    <ele>691</ele>
+    <name>9A/DH-074</name>
+    <cmt><![CDATA[Ilica]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.240021" lon="17.362282">
+    <ele>683</ele>
+    <name>9A/DH-075</name>
+    <cmt><![CDATA[Velika glavica]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.649002" lon="16.354839">
+    <ele>675</ele>
+    <name>9A/DH-076</name>
+    <cmt><![CDATA[Kita]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.118233" lon="15.699709">
+    <ele>674</ele>
+    <name>9A/DH-077</name>
+    <cmt><![CDATA[Jurišinka]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.615032" lon="16.657997">
+    <ele>663</ele>
+    <name>9A/DH-078</name>
+    <cmt><![CDATA[Trapošnik]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="42.885078" lon="17.786551">
+    <ele>659</ele>
+    <name>9A/DH-079</name>
+    <cmt><![CDATA[Volunac]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.111446" lon="15.831975">
+    <ele>658</ele>
+    <name>9A/DH-080</name>
+    <cmt><![CDATA[Veliki Prosjek]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.586853" lon="16.290079">
+    <ele>646</ele>
+    <name>9A/DH-081</name>
+    <cmt><![CDATA[Crni krug]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.58271" lon="16.508862">
+    <ele>641</ele>
+    <name>9A/DH-082</name>
+    <cmt><![CDATA[Koštak]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="42.857895" lon="17.537004">
+    <ele>632</ele>
+    <name>9A/DH-083</name>
+    <cmt><![CDATA[Čarović]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="42.742737" lon="17.946957">
+    <ele>631</ele>
+    <name>9A/DH-084</name>
+    <cmt><![CDATA[Gradina]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="42.635654" lon="18.210241">
+    <ele>628</ele>
+    <name>9A/DH-085</name>
+    <cmt><![CDATA[Malaštica]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.144482" lon="16.597601">
+    <ele>628</ele>
+    <name>9A/DH-086</name>
+    <cmt><![CDATA[Sveta Nikola]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="42.987133" lon="17.300011">
+    <ele>627</ele>
+    <name>9A/DH-087</name>
+    <cmt><![CDATA[Viter]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="42.904053" lon="17.7533">
+    <ele>626</ele>
+    <name>9A/DH-088</name>
+    <cmt><![CDATA[Utrk]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.634251" lon="16.463873">
+    <ele>618</ele>
+    <name>9A/DH-089</name>
+    <cmt><![CDATA[Pometeno brdo]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="42.929447" lon="17.372965">
+    <ele>613</ele>
+    <name>9A/DH-090</name>
+    <cmt><![CDATA[Ćučin]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.055359" lon="17.577545">
+    <ele>599</ele>
+    <name>9A/DH-091</name>
+    <cmt><![CDATA[Mala Rujnica]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.643375" lon="16.308208">
+    <ele>595</ele>
+    <name>9A/DH-092</name>
+    <cmt><![CDATA[Crni vrh]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="42.686653" lon="18.102942">
+    <ele>587</ele>
+    <name>9A/DH-093</name>
+    <cmt><![CDATA[Oštra glava]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.029999" lon="16.11359">
+    <ele>585</ele>
+    <name>9A/DH-094</name>
+    <cmt><![CDATA[Hum]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.128582" lon="15.797637">
+    <ele>585</ele>
+    <name>9A/DH-095</name>
+    <cmt><![CDATA[Ilina glavica]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.553349" lon="16.163935">
+    <ele>581</ele>
+    <name>9A/DH-096</name>
+    <cmt><![CDATA[Veliki Jelinak]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.45459" lon="16.653759">
+    <ele>571</ele>
+    <name>9A/DH-097</name>
+    <cmt><![CDATA[Zahod]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="42.947937" lon="17.008387">
+    <ele>569</ele>
+    <name>9A/DH-098</name>
+    <cmt><![CDATA[Klupca]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="42.961761" lon="17.563051">
+    <ele>563</ele>
+    <name>9A/DH-099</name>
+    <cmt><![CDATA[Daska]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="42.978474" lon="17.325428">
+    <ele>562</ele>
+    <name>9A/DH-100</name>
+    <cmt><![CDATA[Dubovo brdo]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="42.49921" lon="18.385965">
+    <ele>560</ele>
+    <name>9A/DH-101</name>
+    <cmt><![CDATA[Ilijin vrh]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.706474" lon="16.076401">
+    <ele>542</ele>
+    <name>9A/DH-102</name>
+    <cmt><![CDATA[Velika glava]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="42.726383" lon="17.980518">
+    <ele>540</ele>
+    <name>9A/DH-103</name>
+    <cmt><![CDATA[Vrteljka]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="42.82798" lon="17.840466">
+    <ele>528</ele>
+    <name>9A/DH-104</name>
+    <cmt><![CDATA[Kunjev vrh]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.056114" lon="16.103855">
+    <ele>515</ele>
+    <name>9A/DH-105</name>
+    <cmt><![CDATA[Mali Hum]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="42.739273" lon="17.554419">
+    <ele>513</ele>
+    <name>9A/DH-106</name>
+    <cmt><![CDATA[Veliki Grad]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="42.937176" lon="16.859173">
+    <ele>509</ele>
+    <name>9A/DH-107</name>
+    <cmt><![CDATA[Kom]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.637672" lon="16.020914">
+    <ele>509</ele>
+    <name>9A/DH-108</name>
+    <cmt><![CDATA[Orlice]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.743404" lon="15.996112">
+    <ele>503</ele>
+    <name>9A/DH-109</name>
+    <cmt><![CDATA[Krtolin]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.660809" lon="16.095695">
+    <ele>503</ele>
+    <name>9A/DH-110</name>
+    <cmt><![CDATA[Mravnik]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.147766" lon="17.473387">
+    <ele>502</ele>
+    <name>9A/DH-111</name>
+    <cmt><![CDATA[Veliki Šubir]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="42.844555" lon="17.641806">
+    <ele>490</ele>
+    <name>9A/DH-112</name>
+    <cmt><![CDATA[Ilijino Brdo]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.136173" lon="17.490366">
+    <ele>489</ele>
+    <name>9A/DH-113</name>
+    <cmt><![CDATA[Pozla Gora]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.660069" lon="16.123804">
+    <ele>485</ele>
+    <name>9A/DH-114</name>
+    <cmt><![CDATA[Crni vrh]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.007305" lon="17.237576">
+    <ele>473</ele>
+    <name>9A/DH-115</name>
+    <cmt><![CDATA[Velji vrh]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.188595" lon="17.404882">
+    <ele>467</ele>
+    <name>9A/DH-116</name>
+    <cmt><![CDATA[Gomila]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="42.467442" lon="18.468082">
+    <ele>464</ele>
+    <name>9A/DH-117</name>
+    <cmt><![CDATA[Studeno]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.170048" lon="17.448456">
+    <ele>461</ele>
+    <name>9A/DH-118</name>
+    <cmt><![CDATA[Zveč]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.65237" lon="16.221308">
+    <ele>455</ele>
+    <name>9A/DH-119</name>
+    <cmt><![CDATA[Trištenica]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.527607" lon="16.208107">
+    <ele>444</ele>
+    <name>9A/DH-120</name>
+    <cmt><![CDATA[Vlaška]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="42.710537" lon="17.992226">
+    <ele>442</ele>
+    <name>9A/DH-121</name>
+    <cmt><![CDATA[Bračevo brdo]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.973602" lon="15.79584">
+    <ele>425</ele>
+    <name>9A/DH-122</name>
+    <cmt><![CDATA[Cologuz]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.18161" lon="17.370165">
+    <ele>423</ele>
+    <name>9A/DH-123</name>
+    <cmt><![CDATA[Rajše]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="42.744801" lon="16.8507">
+    <ele>418</ele>
+    <name>9A/DH-124</name>
+    <cmt><![CDATA[Pleševo brdo]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="42.894047" lon="17.478449">
+    <ele>417</ele>
+    <name>9A/DH-125</name>
+    <cmt><![CDATA[Ulenje]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.077236" lon="17.482374">
+    <ele>416</ele>
+    <name>9A/DH-126</name>
+    <cmt><![CDATA[Plavač]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="42.649345" lon="18.111412">
+    <ele>403</ele>
+    <name>9A/DH-127</name>
+    <cmt><![CDATA[Srđ]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="42.879055" lon="17.686718">
+    <ele>400</ele>
+    <name>9A/DH-128</name>
+    <cmt><![CDATA[Vepar]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="42.978584" lon="17.506298">
+    <ele>395</ele>
+    <name>9A/DH-129</name>
+    <cmt><![CDATA[Šibenik]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="42.768822" lon="17.419447">
+    <ele>391</ele>
+    <name>9A/DH-130</name>
+    <cmt><![CDATA[Planjak]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="42.946827" lon="16.69343">
+    <ele>377</ele>
+    <name>9A/DH-131</name>
+    <cmt><![CDATA[Hum]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.109512" lon="17.5797">
+    <ele>372</ele>
+    <name>9A/DH-132</name>
+    <cmt><![CDATA[Golovrh]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="42.732395" lon="17.609922">
+    <ele>368</ele>
+    <name>9A/DH-133</name>
+    <cmt><![CDATA[Blatska gora]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="42.705902" lon="17.712444">
+    <ele>361</ele>
+    <name>9A/DH-134</name>
+    <cmt><![CDATA[Planjak]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="42.765373" lon="17.488113">
+    <ele>348</ele>
+    <name>9A/DH-135</name>
+    <cmt><![CDATA[Bandjera]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="42.835857" lon="17.706461">
+    <ele>347</ele>
+    <name>9A/DH-136</name>
+    <cmt><![CDATA[Strinčera]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.078667" lon="17.460522">
+    <ele>339</ele>
+    <name>9A/DH-137</name>
+    <cmt><![CDATA[Gradina]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.990303" lon="15.05903">
+    <ele>337</ele>
+    <name>9A/DH-138</name>
+    <cmt><![CDATA[Vela Straža]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="42.801552" lon="17.726797">
+    <ele>333</ele>
+    <name>9A/DH-139</name>
+    <cmt><![CDATA[Velja]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="42.764648" lon="17.449421">
+    <ele>333</ele>
+    <name>9A/DH-140</name>
+    <cmt><![CDATA[Bijed]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.060398" lon="17.402287">
+    <ele>328</ele>
+    <name>9A/DH-141</name>
+    <cmt><![CDATA[Krstina]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.905807" lon="15.707716">
+    <ele>327</ele>
+    <name>9A/DH-142</name>
+    <cmt><![CDATA[Velika gradina]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="42.810844" lon="17.764277">
+    <ele>321</ele>
+    <name>9A/DH-143</name>
+    <cmt><![CDATA[Pjenak]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.044312" lon="17.550816">
+    <ele>316</ele>
+    <name>9A/DH-144</name>
+    <cmt><![CDATA[Umac]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="42.950596" lon="16.839371">
+    <ele>315</ele>
+    <name>9A/DH-145</name>
+    <cmt><![CDATA[Spivnik]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="42.896557" lon="17.686325">
+    <ele>310</ele>
+    <name>9A/DH-146</name>
+    <cmt><![CDATA[Kulina]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.898361" lon="15.609728">
+    <ele>303</ele>
+    <name>9A/DH-147</name>
+    <cmt><![CDATA[Štandarac]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.026157" lon="15.748558">
+    <ele>302</ele>
+    <name>9A/DH-148</name>
+    <cmt><![CDATA[Kosa]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.493992" lon="16.142981">
+    <ele>288</ele>
+    <name>9A/DH-149</name>
+    <cmt><![CDATA[Velo]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.085331" lon="15.144018">
+    <ele>287</ele>
+    <name>9A/DH-150</name>
+    <cmt><![CDATA[Šćah]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="42.777256" lon="17.761354">
+    <ele>281</ele>
+    <name>9A/DH-151</name>
+    <cmt><![CDATA[Veljara]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="42.816864" lon="17.704319">
+    <ele>280</ele>
+    <name>9A/DH-152</name>
+    <cmt><![CDATA[Polakovica]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.830254" lon="15.729278">
+    <ele>274</ele>
+    <name>9A/DH-153</name>
+    <cmt><![CDATA[Gradina]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.982651" lon="15.30549">
+    <ele>272</ele>
+    <name>9A/DH-154</name>
+    <cmt><![CDATA[Veliki Bokolj]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.249695" lon="15.441833">
+    <ele>268</ele>
+    <name>9A/DH-155</name>
+    <cmt><![CDATA[Lergova gradina]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="42.842743" lon="17.696022">
+    <ele>250</ele>
+    <name>9A/DH-156</name>
+    <cmt><![CDATA[Sveti Bartolomeo]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="42.768414" lon="16.513098">
+    <ele>239</ele>
+    <name>9A/DH-157</name>
+    <cmt><![CDATA[Sušac]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="42.96257" lon="16.015421">
+    <ele>239</ele>
+    <name>9A/DH-158</name>
+    <cmt><![CDATA[Stražbenica]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.82951" lon="15.289447">
+    <ele>237</ele>
+    <name>9A/DH-159</name>
+    <cmt><![CDATA[Metlina]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.3577" lon="16.351954">
+    <ele>237</ele>
+    <name>9A/DH-160</name>
+    <cmt><![CDATA[Vela straža]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="42.740021" lon="17.856123">
+    <ele>234</ele>
+    <name>9A/DH-161</name>
+    <cmt><![CDATA[Velji vrh]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.116699" lon="17.474199">
+    <ele>231</ele>
+    <name>9A/DH-162</name>
+    <cmt><![CDATA[Neum]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.495808" lon="16.306368">
+    <ele>217</ele>
+    <name>9A/DH-163</name>
+    <cmt><![CDATA[Veli vinogradi]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="42.762798" lon="16.832935">
+    <ele>216</ele>
+    <name>9A/DH-164</name>
+    <cmt><![CDATA[Platidog]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="42.74366" lon="17.805351">
+    <ele>215</ele>
+    <name>9A/DH-165</name>
+    <cmt><![CDATA[Katine staje]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="42.762383" lon="17.77219">
+    <ele>206</ele>
+    <name>9A/DH-166</name>
+    <cmt><![CDATA[Vrh Olipa]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="42.677414" lon="17.94437">
+    <ele>205</ele>
+    <name>9A/DH-167</name>
+    <cmt><![CDATA[Balokovo]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="42.649914" lon="18.072573">
+    <ele>192</ele>
+    <name>9A/DH-168</name>
+    <cmt><![CDATA[Velika Petka]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.178188" lon="14.96773">
+    <ele>185</ele>
+    <name>9A/DH-169</name>
+    <cmt><![CDATA[Sridnji]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.44804" lon="16.157759">
+    <ele>178</ele>
+    <name>9A/DH-170</name>
+    <cmt><![CDATA[Buhaj]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.278507" lon="14.770533">
+    <ele>175</ele>
+    <name>9A/DH-171</name>
+    <cmt><![CDATA[Straža o. Ist]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="43.68795" lon="15.841024">
+    <ele>169</ele>
+    <name>9A/DH-172</name>
+    <cmt><![CDATA[Klepac o. Zlarin]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="42.916946" lon="17.716944">
+    <ele>503</ele>
+    <name>9A/DH-173</name>
+    <cmt><![CDATA[Velika Bratota]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: DalmatinskaHrvatska (Dalmatian Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.367367" lon="15.504536">
+    <ele>1757</ele>
+    <name>9A/GH-001</name>
+    <cmt><![CDATA[Vaganski Vrh]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.328598" lon="15.569648">
+    <ele>1750</ele>
+    <name>9A/GH-002</name>
+    <cmt><![CDATA[Sveto Brdo]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.578861" lon="15.875915">
+    <ele>1656</ele>
+    <name>9A/GH-003</name>
+    <cmt><![CDATA[Ozeblin]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.793777" lon="15.748487">
+    <ele>1648</ele>
+    <name>9A/GH-004</name>
+    <cmt><![CDATA[Gola Plješivica]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.389633" lon="15.468038">
+    <ele>1639</ele>
+    <name>9A/GH-005</name>
+    <cmt><![CDATA[Badanj]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.712017" lon="15.834612">
+    <ele>1622</ele>
+    <name>9A/GH-006</name>
+    <cmt><![CDATA[Trovrh]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.375565" lon="15.445477">
+    <ele>1609</ele>
+    <name>9A/GH-007</name>
+    <cmt><![CDATA[Debelo brdo]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.55825" lon="15.872312">
+    <ele>1608</ele>
+    <name>9A/GH-008</name>
+    <cmt><![CDATA[Rudi Lisac]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.413216" lon="15.401685">
+    <ele>1600</ele>
+    <name>9A/GH-009</name>
+    <cmt><![CDATA[Čelavac]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.464169" lon="15.886361">
+    <ele>1590</ele>
+    <name>9A/GH-010</name>
+    <cmt><![CDATA[Kremen]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.42968" lon="15.371359">
+    <ele>1583</ele>
+    <name>9A/GH-011</name>
+    <cmt><![CDATA[Visočica]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.403805" lon="15.397428">
+    <ele>1572</ele>
+    <name>9A/GH-012</name>
+    <cmt><![CDATA[Kozjak]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.619446" lon="15.832877">
+    <ele>1551</ele>
+    <name>9A/GH-013</name>
+    <cmt><![CDATA[Čardak]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.693401" lon="15.07301">
+    <ele>1550</ele>
+    <name>9A/GH-014</name>
+    <cmt><![CDATA[Veliki golić]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.273579" lon="14.961196">
+    <ele>1534</ele>
+    <name>9A/GH-015</name>
+    <cmt><![CDATA[Kula]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.43153" lon="14.621202">
+    <ele>1527</ele>
+    <name>9A/GH-016</name>
+    <cmt><![CDATA[Veliki Risnjak]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.62109" lon="15.092602">
+    <ele>1504</ele>
+    <name>9A/GH-017</name>
+    <cmt><![CDATA[Laktin vrh]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.642982" lon="15.102552">
+    <ele>1503</ele>
+    <name>9A/GH-018</name>
+    <cmt><![CDATA[Debeljak]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.871719" lon="15.065149">
+    <ele>1492</ele>
+    <name>9A/GH-019</name>
+    <cmt><![CDATA[Bijeli Vrh]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.440605" lon="14.584052">
+    <ele>1480</ele>
+    <name>9A/GH-020</name>
+    <cmt><![CDATA[Snježnik]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.486832" lon="14.530033">
+    <ele>1480</ele>
+    <name>9A/GH-021</name>
+    <cmt><![CDATA[Gornji Medvejci]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.499657" lon="14.511676">
+    <ele>1470</ele>
+    <name>9A/GH-022</name>
+    <cmt><![CDATA[Ceclje]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.667568" lon="15.099032">
+    <ele>1449</ele>
+    <name>9A/GH-023</name>
+    <cmt><![CDATA[Zalinac]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.239864" lon="16.139046">
+    <ele>1446</ele>
+    <name>9A/GH-024</name>
+    <cmt><![CDATA[Bijeli vrh]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.254936" lon="14.800858">
+    <ele>1428</ele>
+    <name>9A/GH-025</name>
+    <cmt><![CDATA[Viševica]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.438011" lon="15.332038">
+    <ele>1422</ele>
+    <name>9A/GH-026</name>
+    <cmt><![CDATA[Trušeljev vrh]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.405312" lon="15.369015">
+    <ele>1422</ele>
+    <name>9A/GH-027</name>
+    <cmt><![CDATA[Golić]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.408176" lon="16.015232">
+    <ele>1416</ele>
+    <name>9A/GH-028</name>
+    <cmt><![CDATA[Gutešin vrh]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.252041" lon="15.836507">
+    <ele>1404</ele>
+    <name>9A/GH-029</name>
+    <cmt><![CDATA[Veliki Crnopac]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.348362" lon="16.020891">
+    <ele>1399</ele>
+    <name>9A/GH-030</name>
+    <cmt><![CDATA[Orozovac]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.490658" lon="15.205909">
+    <ele>1381</ele>
+    <name>9A/GH-031</name>
+    <cmt><![CDATA[Vrh Konjevače]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.459312" lon="14.465805">
+    <ele>1377</ele>
+    <name>9A/GH-032</name>
+    <cmt><![CDATA[Obruč]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.205334" lon="14.990946">
+    <ele>1375</ele>
+    <name>9A/GH-033</name>
+    <cmt><![CDATA[Velika Javornica]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.319611" lon="14.917761">
+    <ele>1365</ele>
+    <name>9A/GH-034</name>
+    <cmt><![CDATA[Plana]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.414368" lon="15.338487">
+    <ele>1351</ele>
+    <name>9A/GH-035</name>
+    <cmt><![CDATA[Velike ploče]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.447899" lon="14.5264">
+    <ele>1342</ele>
+    <name>9A/GH-036</name>
+    <cmt><![CDATA[Crni vrh]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.432571" lon="14.545016">
+    <ele>1338</ele>
+    <name>9A/GH-037</name>
+    <cmt><![CDATA[Jesenovica]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.214329" lon="16.154604">
+    <ele>1336</ele>
+    <name>9A/GH-038</name>
+    <cmt><![CDATA[Konjska glava]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.333912" lon="15.994635">
+    <ele>1334</ele>
+    <name>9A/GH-039</name>
+    <cmt><![CDATA[Lisac]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.298824" lon="14.926427">
+    <ele>1332</ele>
+    <name>9A/GH-040</name>
+    <cmt><![CDATA[Bijela kosa]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.292633" lon="16.144705">
+    <ele>1329</ele>
+    <name>9A/GH-041</name>
+    <cmt><![CDATA[Panos]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.258518" lon="14.858146">
+    <ele>1316</ele>
+    <name>9A/GH-042</name>
+    <cmt><![CDATA[Gradina]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.404991" lon="15.94265">
+    <ele>1295</ele>
+    <name>9A/GH-043</name>
+    <cmt><![CDATA[Veliki Urljaj]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.487667" lon="15.928652">
+    <ele>1292</ele>
+    <name>9A/GH-044</name>
+    <cmt><![CDATA[Javornik]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.539238" lon="15.213306">
+    <ele>1288</ele>
+    <name>9A/GH-045</name>
+    <cmt><![CDATA[Metla]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.506161" lon="15.184237">
+    <ele>1286</ele>
+    <name>9A/GH-046</name>
+    <cmt><![CDATA[Veliki Sadikovac]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.30574" lon="15.028518">
+    <ele>1280</ele>
+    <name>9A/GH-047</name>
+    <cmt><![CDATA[Mirkovica]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.287315" lon="16.158409">
+    <ele>1280</ele>
+    <name>9A/GH-048</name>
+    <cmt><![CDATA[Sekulin vrh]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.872192" lon="15.53355">
+    <ele>1279</ele>
+    <name>9A/GH-049</name>
+    <cmt><![CDATA[Selički vrh]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.288094" lon="14.872437">
+    <ele>1268</ele>
+    <name>9A/GH-050</name>
+    <cmt><![CDATA[Maj vrh]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.690113" lon="15.57047">
+    <ele>1267</ele>
+    <name>9A/GH-051</name>
+    <cmt><![CDATA[Golo trlo]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.749821" lon="15.66906">
+    <ele>1259</ele>
+    <name>9A/GH-052</name>
+    <cmt><![CDATA[Mrsinj]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.242455" lon="16.182873">
+    <ele>1239</ele>
+    <name>9A/GH-053</name>
+    <cmt><![CDATA[Crni vrh]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.445583" lon="15.709714">
+    <ele>1233</ele>
+    <name>9A/GH-054</name>
+    <cmt><![CDATA[Jelovi vrh]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.775749" lon="15.443832">
+    <ele>1233</ele>
+    <name>9A/GH-055</name>
+    <cmt><![CDATA[Stipanov Grič]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.2967" lon="15.07">
+    <ele>1230</ele>
+    <name>9A/GH-056</name>
+    <cmt><![CDATA[Smolnik]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.583443" lon="15.573895">
+    <ele>1209</ele>
+    <name>9A/GH-057</name>
+    <cmt><![CDATA[Palež]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.772537" lon="15.557476">
+    <ele>1205</ele>
+    <name>9A/GH-058</name>
+    <cmt><![CDATA[Panos]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.884659" lon="15.466804">
+    <ele>1204</ele>
+    <name>9A/GH-059</name>
+    <cmt><![CDATA[Krivi Javor]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.259926" lon="15.785166">
+    <ele>1202</ele>
+    <name>9A/GH-060</name>
+    <cmt><![CDATA[Ćelevac]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.591026" lon="14.578339">
+    <ele>1197</ele>
+    <name>9A/GH-061</name>
+    <cmt><![CDATA[Crna gora]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.035198" lon="15.3">
+    <ele>1191</ele>
+    <name>9A/GH-062</name>
+    <cmt><![CDATA[Kameniti vrh]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.239361" lon="15.961636">
+    <ele>1187</ele>
+    <name>9A/GH-063</name>
+    <cmt><![CDATA[Oklinak]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.294025" lon="15.994351">
+    <ele>1186</ele>
+    <name>9A/GH-064</name>
+    <cmt><![CDATA[Mila]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.260441" lon="15.145482">
+    <ele>1180</ele>
+    <name>9A/GH-065</name>
+    <cmt><![CDATA[Klek]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.805801" lon="15.53">
+    <ele>1178</ele>
+    <name>9A/GH-066</name>
+    <cmt><![CDATA[Lisina]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.58427" lon="14.563158">
+    <ele>1178</ele>
+    <name>9A/GH-067</name>
+    <cmt><![CDATA[Crnolaški Berinšček]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.390705" lon="15.800014">
+    <ele>1177</ele>
+    <name>9A/GH-068</name>
+    <cmt><![CDATA[Jasenar]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.441368" lon="15.726942">
+    <ele>1177</ele>
+    <name>9A/GH-069</name>
+    <cmt><![CDATA[Komača]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.357716" lon="15.778328">
+    <ele>1176</ele>
+    <name>9A/GH-070</name>
+    <cmt><![CDATA[Vrh Jelovi]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.610001" lon="15.905178">
+    <ele>1174</ele>
+    <name>9A/GH-071</name>
+    <cmt><![CDATA[Tičevo]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.363144" lon="14.988939">
+    <ele>1173</ele>
+    <name>9A/GH-072</name>
+    <cmt><![CDATA[Debela kosa]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.227837" lon="14.780259">
+    <ele>1172</ele>
+    <name>9A/GH-073</name>
+    <cmt><![CDATA[Zagradski vrh]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.611504" lon="14.541542">
+    <ele>1170</ele>
+    <name>9A/GH-074</name>
+    <cmt><![CDATA[Prezidanski Berinšček]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.633537" lon="15.553323">
+    <ele>1166</ele>
+    <name>9A/GH-075</name>
+    <cmt><![CDATA[Goloura]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.812748" lon="15.461395">
+    <ele>1164</ele>
+    <name>9A/GH-076</name>
+    <cmt><![CDATA[Cigelj]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.333549" lon="15.923714">
+    <ele>1155</ele>
+    <name>9A/GH-077</name>
+    <cmt><![CDATA[Tomašev vrh]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.438019" lon="14.790549">
+    <ele>1153</ele>
+    <name>9A/GH-078</name>
+    <cmt><![CDATA[Veliki Drgomalj]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.801746" lon="15.426339">
+    <ele>1148</ele>
+    <name>9A/GH-079</name>
+    <cmt><![CDATA[Crni vrh]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.355751" lon="14.805037">
+    <ele>1145</ele>
+    <name>9A/GH-080</name>
+    <cmt><![CDATA[Debeli vrh]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.956146" lon="15.400235">
+    <ele>1141</ele>
+    <name>9A/GH-081</name>
+    <cmt><![CDATA[Veliki Lisac]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.094067" lon="15.100838">
+    <ele>1140</ele>
+    <name>9A/GH-082</name>
+    <cmt><![CDATA[Javorov Vrh]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.94294" lon="15.432736">
+    <ele>1139</ele>
+    <name>9A/GH-083</name>
+    <cmt><![CDATA[Veliki Javornik]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.459091" lon="15.327468">
+    <ele>1138</ele>
+    <name>9A/GH-084</name>
+    <cmt><![CDATA[Mali orljak]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.649593" lon="15.91356">
+    <ele>1133</ele>
+    <name>9A/GH-085</name>
+    <cmt><![CDATA[Lisina]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.437012" lon="15.756373">
+    <ele>1131</ele>
+    <name>9A/GH-086</name>
+    <cmt><![CDATA[Mirkača]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.072201" lon="15.238283">
+    <ele>1129</ele>
+    <name>9A/GH-087</name>
+    <cmt><![CDATA[Mala Kapela]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.013596" lon="15.370525">
+    <ele>1124</ele>
+    <name>9A/GH-088</name>
+    <cmt><![CDATA[Visoki vrh]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.563435" lon="15.98871">
+    <ele>1122</ele>
+    <name>9A/GH-089</name>
+    <cmt><![CDATA[Juriča Ogradak]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.246212" lon="14.739759">
+    <ele>1120</ele>
+    <name>9A/GH-090</name>
+    <cmt><![CDATA[Kanculova glava]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.713242" lon="15.547734">
+    <ele>1115</ele>
+    <name>9A/GH-091</name>
+    <cmt><![CDATA[Šijanova kosa]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.90976" lon="15.551722">
+    <ele>1113</ele>
+    <name>9A/GH-092</name>
+    <cmt><![CDATA[Prlinka]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.406284" lon="15.777992">
+    <ele>1111</ele>
+    <name>9A/GH-093</name>
+    <cmt><![CDATA[Risovac]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.349609" lon="14.91765">
+    <ele>1108</ele>
+    <name>9A/GH-094</name>
+    <cmt><![CDATA[Petehovac]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.78812" lon="15.288424">
+    <ele>1105</ele>
+    <name>9A/GH-095</name>
+    <cmt><![CDATA[Marković rudine]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.313644" lon="14.6621">
+    <ele>1105</ele>
+    <name>9A/GH-096</name>
+    <cmt><![CDATA[Jelenčić]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.155918" lon="15.143039">
+    <ele>1104</ele>
+    <name>9A/GH-097</name>
+    <cmt><![CDATA[Crni vrh]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.147655" lon="15.158319">
+    <ele>1100</ele>
+    <name>9A/GH-098</name>
+    <cmt><![CDATA[Komesač]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.365246" lon="14.654122">
+    <ele>1089</ele>
+    <name>9A/GH-099</name>
+    <cmt><![CDATA[Kalić]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.211075" lon="15.977846">
+    <ele>1087</ele>
+    <name>9A/GH-100</name>
+    <cmt><![CDATA[Crni vrh]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.819279" lon="15.589973">
+    <ele>1085</ele>
+    <name>9A/GH-101</name>
+    <cmt><![CDATA[Veliki Kik]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.922169" lon="15.41491">
+    <ele>1081</ele>
+    <name>9A/GH-102</name>
+    <cmt><![CDATA[Markovac]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.798504" lon="15.207102">
+    <ele>1073</ele>
+    <name>9A/GH-103</name>
+    <cmt><![CDATA[Korenski vrh]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.850945" lon="15.561976">
+    <ele>1071</ele>
+    <name>9A/GH-104</name>
+    <cmt><![CDATA[Crni vrh]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.735222" lon="15.463207">
+    <ele>1069</ele>
+    <name>9A/GH-105</name>
+    <cmt><![CDATA[Lisac]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.221439" lon="15.991038">
+    <ele>1059</ele>
+    <name>9A/GH-106</name>
+    <cmt><![CDATA[Paripovac]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.193748" lon="15.968146">
+    <ele>1058</ele>
+    <name>9A/GH-107</name>
+    <cmt><![CDATA[Sedlo]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.452702" lon="16.058968">
+    <ele>1057</ele>
+    <name>9A/GH-108</name>
+    <cmt><![CDATA[Veliki vrh]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.208549" lon="15.053047">
+    <ele>1049</ele>
+    <name>9A/GH-109</name>
+    <cmt><![CDATA[Debeli Vrh]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.723602" lon="15.780814">
+    <ele>1045</ele>
+    <name>9A/GH-110</name>
+    <cmt><![CDATA[Tičevo]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.420208" lon="14.92136">
+    <ele>1043</ele>
+    <name>9A/GH-111</name>
+    <cmt><![CDATA[Skradski vrh]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.413662" lon="14.732853">
+    <ele>1040</ele>
+    <name>9A/GH-112</name>
+    <cmt><![CDATA[Veliki Tomac]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.992226" lon="15.2693">
+    <ele>1029</ele>
+    <name>9A/GH-113</name>
+    <cmt><![CDATA[Kita]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.068836" lon="15.283036">
+    <ele>1018</ele>
+    <name>9A/GH-114</name>
+    <cmt><![CDATA[Bijela kosa]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.867012" lon="15.414639">
+    <ele>1018</ele>
+    <name>9A/GH-115</name>
+    <cmt><![CDATA[Ciljak]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.3867" lon="14.9517">
+    <ele>1015</ele>
+    <name>9A/GH-116</name>
+    <cmt><![CDATA[Javorova kosa]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.320168" lon="16.166414">
+    <ele>1013</ele>
+    <name>9A/GH-117</name>
+    <cmt><![CDATA[Gologlav]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.504444" lon="14.723393">
+    <ele>1010</ele>
+    <name>9A/GH-118</name>
+    <cmt><![CDATA[Špičasti Vrh]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.681335" lon="15.183765">
+    <ele>1010</ele>
+    <name>9A/GH-119</name>
+    <cmt><![CDATA[Krčmar]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.139515" lon="16.049837">
+    <ele>1006</ele>
+    <name>9A/GH-120</name>
+    <cmt><![CDATA[Vrhovo]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.411747" lon="14.866426">
+    <ele>998</ele>
+    <name>9A/GH-121</name>
+    <cmt><![CDATA[Kupjački vrh]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.511059" lon="16.043571">
+    <ele>997</ele>
+    <name>9A/GH-122</name>
+    <cmt><![CDATA[Lisac]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.354019" lon="15.037739">
+    <ele>993</ele>
+    <name>9A/GH-123</name>
+    <cmt><![CDATA[Veliki Kozarac]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.788475" lon="15.137462">
+    <ele>992</ele>
+    <name>9A/GH-124</name>
+    <cmt><![CDATA[Sigurnjakovac]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.505703" lon="15.633972">
+    <ele>986</ele>
+    <name>9A/GH-125</name>
+    <cmt><![CDATA[Jelovi vrh]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.371532" lon="14.746752">
+    <ele>981</ele>
+    <name>9A/GH-126</name>
+    <cmt><![CDATA[Debela lipa]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.717705" lon="15.163345">
+    <ele>975</ele>
+    <name>9A/GH-127</name>
+    <cmt><![CDATA[Veliki Oštrac]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.436329" lon="15.697726">
+    <ele>975</ele>
+    <name>9A/GH-128</name>
+    <cmt><![CDATA[Kuk]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.409134" lon="15.88587">
+    <ele>970</ele>
+    <name>9A/GH-129</name>
+    <cmt><![CDATA[Opčuv]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.597099" lon="15.951498">
+    <ele>970</ele>
+    <name>9A/GH-130</name>
+    <cmt><![CDATA[Visoka glava]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.603207" lon="15.976965">
+    <ele>966</ele>
+    <name>9A/GH-131</name>
+    <cmt><![CDATA[Basača]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.393871" lon="15.007402">
+    <ele>960</ele>
+    <name>9A/GH-132</name>
+    <cmt><![CDATA[Oštri vrh]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.484512" lon="15.676983">
+    <ele>959</ele>
+    <name>9A/GH-133</name>
+    <cmt><![CDATA[Biškupov vrh]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.533497" lon="15.695454">
+    <ele>959</ele>
+    <name>9A/GH-134</name>
+    <cmt><![CDATA[Rebička gradina]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.093246" lon="15.03504">
+    <ele>950</ele>
+    <name>9A/GH-135</name>
+    <cmt><![CDATA[Plasi vrh]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.579033" lon="15.645771">
+    <ele>948</ele>
+    <name>9A/GH-136</name>
+    <cmt><![CDATA[Ljutica]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.417648" lon="14.764979">
+    <ele>947</ele>
+    <name>9A/GH-137</name>
+    <cmt><![CDATA[Doren vrh]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.072636" lon="15.074634">
+    <ele>940</ele>
+    <name>9A/GH-138</name>
+    <cmt><![CDATA[Ivakuša]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.952477" lon="15.583803">
+    <ele>940</ele>
+    <name>9A/GH-139</name>
+    <cmt><![CDATA[Trovrh]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.665768" lon="15.698604">
+    <ele>939</ele>
+    <name>9A/GH-140</name>
+    <cmt><![CDATA[Gradina]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.473091" lon="14.356708">
+    <ele>938</ele>
+    <name>9A/GH-141</name>
+    <cmt><![CDATA[Grmada]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.027855" lon="15.055196">
+    <ele>938</ele>
+    <name>9A/GH-142</name>
+    <cmt><![CDATA[Planina]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.614212" lon="15.238085">
+    <ele>934</ele>
+    <name>9A/GH-143</name>
+    <cmt><![CDATA[Crna kosa]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.667179" lon="15.24143">
+    <ele>934</ele>
+    <name>9A/GH-144</name>
+    <cmt><![CDATA[Torine]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.018242" lon="15.052424">
+    <ele>934</ele>
+    <name>9A/GH-145</name>
+    <cmt><![CDATA[Samar]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.984428" lon="15.563016">
+    <ele>934</ele>
+    <name>9A/GH-146</name>
+    <cmt><![CDATA[Veliko Bilo]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.917561" lon="15.294231">
+    <ele>933</ele>
+    <name>9A/GH-147</name>
+    <cmt><![CDATA[Erderoga Kosa]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.385014" lon="15.855318">
+    <ele>932</ele>
+    <name>9A/GH-148</name>
+    <cmt><![CDATA[Vodena Glava]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.698521" lon="15.729475">
+    <ele>926</ele>
+    <name>9A/GH-149</name>
+    <cmt><![CDATA[Galovac]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.339252" lon="16.100399">
+    <ele>916</ele>
+    <name>9A/GH-150</name>
+    <cmt><![CDATA[Urljaj]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.696091" lon="15.248024">
+    <ele>910</ele>
+    <name>9A/GH-151</name>
+    <cmt><![CDATA[Veliki vrh]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.192913" lon="15.166793">
+    <ele>906</ele>
+    <name>9A/GH-152</name>
+    <cmt><![CDATA[Jasenov vrh]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.398808" lon="15.091924">
+    <ele>902</ele>
+    <name>9A/GH-153</name>
+    <cmt><![CDATA[Lovnik]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.241615" lon="16.046492">
+    <ele>902</ele>
+    <name>9A/GH-154</name>
+    <cmt><![CDATA[Debelo brdo]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.716034" lon="15.224399">
+    <ele>891</ele>
+    <name>9A/GH-155</name>
+    <cmt><![CDATA[Bočić]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.887691" lon="15.653805">
+    <ele>888</ele>
+    <name>9A/GH-156</name>
+    <cmt><![CDATA[Medveđak oštri]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.460537" lon="15.029947">
+    <ele>885</ele>
+    <name>9A/GH-157</name>
+    <cmt><![CDATA[Okrugljak]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.586948" lon="15.269396">
+    <ele>877</ele>
+    <name>9A/GH-158</name>
+    <cmt><![CDATA[Velika Karausevica]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.454201" lon="15.065">
+    <ele>877</ele>
+    <name>9A/GH-159</name>
+    <cmt><![CDATA[Uz Lazine - Litorić]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.225803" lon="16.051077">
+    <ele>874</ele>
+    <name>9A/GH-160</name>
+    <cmt><![CDATA[Vijojla]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.838436" lon="15.14269">
+    <ele>867</ele>
+    <name>9A/GH-161</name>
+    <cmt><![CDATA[Kopanj]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.669952" lon="15.313916">
+    <ele>860</ele>
+    <name>9A/GH-162</name>
+    <cmt><![CDATA[Risovac]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.430176" lon="15.614367">
+    <ele>849</ele>
+    <name>9A/GH-163</name>
+    <cmt><![CDATA[Zir]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.247223" lon="15.16433">
+    <ele>847</ele>
+    <name>9A/GH-164</name>
+    <cmt><![CDATA[Soviljica]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.378719" lon="14.555311">
+    <ele>836</ele>
+    <name>9A/GH-165</name>
+    <cmt><![CDATA[Velika Kamičina]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.3708" lon="15.7158">
+    <ele>831</ele>
+    <name>9A/GH-166</name>
+    <cmt><![CDATA[Medvidovača]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.973301" lon="15.1242">
+    <ele>827</ele>
+    <name>9A/GH-167</name>
+    <cmt><![CDATA[Zarin]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.035309" lon="15.443376">
+    <ele>826</ele>
+    <name>9A/GH-168</name>
+    <cmt><![CDATA[Veliki Pištenik]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.323166" lon="15.721029">
+    <ele>819</ele>
+    <name>9A/GH-169</name>
+    <cmt><![CDATA[Liskovi kuk]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.437428" lon="15.660197">
+    <ele>819</ele>
+    <name>9A/GH-170</name>
+    <cmt><![CDATA[Debljača]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.531555" lon="14.67192">
+    <ele>814</ele>
+    <name>9A/GH-171</name>
+    <cmt><![CDATA[Mala Gospa]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.13752" lon="15.225555">
+    <ele>810</ele>
+    <name>9A/GH-172</name>
+    <cmt><![CDATA[Deriguz]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.657204" lon="15.306577">
+    <ele>800</ele>
+    <name>9A/GH-173</name>
+    <cmt><![CDATA[Metlača]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.530289" lon="15.326437">
+    <ele>796</ele>
+    <name>9A/GH-174</name>
+    <cmt><![CDATA[Oštra]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.877945" lon="15.295392">
+    <ele>795</ele>
+    <name>9A/GH-175</name>
+    <cmt><![CDATA[Um]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.441135" lon="15.021152">
+    <ele>795</ele>
+    <name>9A/GH-176</name>
+    <cmt><![CDATA[Stražbenica]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.04652" lon="15.39434">
+    <ele>795</ele>
+    <name>9A/GH-177</name>
+    <cmt><![CDATA[Plaška glava]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.635868" lon="15.372686">
+    <ele>787</ele>
+    <name>9A/GH-178</name>
+    <cmt><![CDATA[Šutića vrh]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.028748" lon="15.478079">
+    <ele>787</ele>
+    <name>9A/GH-179</name>
+    <cmt><![CDATA[Gredoviti vrh]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.045341" lon="15.487544">
+    <ele>786</ele>
+    <name>9A/GH-180</name>
+    <cmt><![CDATA[Medarički vrh]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.855888" lon="15.194709">
+    <ele>773</ele>
+    <name>9A/GH-181</name>
+    <cmt><![CDATA[Veliki Sinjal]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.570709" lon="15.293092">
+    <ele>773</ele>
+    <name>9A/GH-182</name>
+    <cmt><![CDATA[Krčmar]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.496624" lon="16.107061">
+    <ele>772</ele>
+    <name>9A/GH-183</name>
+    <cmt><![CDATA[Debeljača]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.470325" lon="16.106411">
+    <ele>772</ele>
+    <name>9A/GH-184</name>
+    <cmt><![CDATA[Panos]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.636673" lon="15.404773">
+    <ele>770</ele>
+    <name>9A/GH-185</name>
+    <cmt><![CDATA[Marina glava]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.642956" lon="15.351933">
+    <ele>770</ele>
+    <name>9A/GH-186</name>
+    <cmt><![CDATA[Grabovača]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.376968" lon="15.700954">
+    <ele>761</ele>
+    <name>9A/GH-187</name>
+    <cmt><![CDATA[Volarica]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.931744" lon="15.099862">
+    <ele>758</ele>
+    <name>9A/GH-188</name>
+    <cmt><![CDATA[Prgačevac]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.486904" lon="15.376613">
+    <ele>752</ele>
+    <name>9A/GH-189</name>
+    <cmt><![CDATA[Debela glava]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.360901" lon="15.200941">
+    <ele>750</ele>
+    <name>9A/GH-190</name>
+    <cmt><![CDATA[Veliki vrh]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.624268" lon="15.278872">
+    <ele>744</ele>
+    <name>9A/GH-191</name>
+    <cmt><![CDATA[Panos-Oteš]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.914665" lon="15.205041">
+    <ele>738</ele>
+    <name>9A/GH-192</name>
+    <cmt><![CDATA[Jelovak]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.516266" lon="14.931364">
+    <ele>734</ele>
+    <name>9A/GH-193</name>
+    <cmt><![CDATA[Levešni vrh]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.831669" lon="15.245277">
+    <ele>725</ele>
+    <name>9A/GH-194</name>
+    <cmt><![CDATA[Šatrinski vrh]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.496441" lon="14.773725">
+    <ele>703</ele>
+    <name>9A/GH-195</name>
+    <cmt><![CDATA[Primorac]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.845001" lon="15.262222">
+    <ele>645</ele>
+    <name>9A/GH-196</name>
+    <cmt><![CDATA[Prozorina]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.934044" lon="15.159932">
+    <ele>642</ele>
+    <name>9A/GH-197</name>
+    <cmt><![CDATA[Veliko Derivo]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.3358" lon="15.235">
+    <ele>634</ele>
+    <name>9A/GH-198</name>
+    <cmt><![CDATA[Vitkovac]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.012352" lon="15.606649">
+    <ele>626</ele>
+    <name>9A/GH-199</name>
+    <cmt><![CDATA[Ostrunov vrh]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.313927" lon="15.216799">
+    <ele>620</ele>
+    <name>9A/GH-200</name>
+    <cmt><![CDATA[Veliki Trtor]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.181133" lon="15.26293">
+    <ele>620</ele>
+    <name>9A/GH-201</name>
+    <cmt><![CDATA[Velika Stražbenica]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.171677" lon="15.322755">
+    <ele>605</ele>
+    <name>9A/GH-202</name>
+    <cmt><![CDATA[Radošić]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.132587" lon="15.334665">
+    <ele>597</ele>
+    <name>9A/GH-203</name>
+    <cmt><![CDATA[Trojvrh]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.051094" lon="15.688225">
+    <ele>576</ele>
+    <name>9A/GH-204</name>
+    <cmt><![CDATA[Cager]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.097153" lon="15.572869">
+    <ele>518</ele>
+    <name>9A/GH-205</name>
+    <cmt><![CDATA[Velika Melnica]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.252071" lon="15.297124">
+    <ele>515</ele>
+    <name>9A/GH-206</name>
+    <cmt><![CDATA[Bakarni]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.134548" lon="15.516994">
+    <ele>495</ele>
+    <name>9A/GH-207</name>
+    <cmt><![CDATA[Kuranov vrh]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.364765" lon="14.465885">
+    <ele>484</ele>
+    <name>9A/GH-208</name>
+    <cmt><![CDATA[Turnić]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.41581" lon="15.263187">
+    <ele>468</ele>
+    <name>9A/GH-209</name>
+    <cmt><![CDATA[Veliki Družac]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.387135" lon="15.314404">
+    <ele>460</ele>
+    <name>9A/GH-210</name>
+    <cmt><![CDATA[Privis]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.368393" lon="15.29936">
+    <ele>406</ele>
+    <name>9A/GH-211</name>
+    <cmt><![CDATA[Umol]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.209858" lon="15.553572">
+    <ele>405</ele>
+    <name>9A/GH-212</name>
+    <cmt><![CDATA[Velika Lisac]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.136002" lon="15.3901">
+    <ele>861</ele>
+    <name>9A/GH-213</name>
+    <cmt><![CDATA[Hum]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: GorskaHrvatska (Mountainous Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.385963" lon="17.332125">
+    <ele>985</ele>
+    <name>9A/IH-001</name>
+    <cmt><![CDATA[Psunj]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: IstocnaHrvatska (East Croatia)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.522366" lon="17.603378">
+    <ele>954</ele>
+    <name>9A/IH-002</name>
+    <cmt><![CDATA[Papuk]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: IstocnaHrvatska (East Croatia)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.553761" lon="17.566891">
+    <ele>887</ele>
+    <name>9A/IH-003</name>
+    <cmt><![CDATA[Lom]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: IstocnaHrvatska (East Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.602661" lon="17.43181">
+    <ele>863</ele>
+    <name>9A/IH-004</name>
+    <cmt><![CDATA[Crni vrh]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: IstocnaHrvatska (East Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.505688" lon="17.450737">
+    <ele>854</ele>
+    <name>9A/IH-005</name>
+    <cmt><![CDATA[Ravna Gora]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: IstocnaHrvatska (East Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.490082" lon="17.73568">
+    <ele>836</ele>
+    <name>9A/IH-006</name>
+    <cmt><![CDATA[Kolac vrh]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: IstocnaHrvatska (East Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.483299" lon="17.846701">
+    <ele>792</ele>
+    <name>9A/IH-007</name>
+    <cmt><![CDATA[Kapovac]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: IstocnaHrvatska (East Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.579315" lon="17.453409">
+    <ele>731</ele>
+    <name>9A/IH-008</name>
+    <cmt><![CDATA[Kestenova poljana]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: IstocnaHrvatska (East Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.305801" lon="17.5208">
+    <ele>618</ele>
+    <name>9A/IH-009</name>
+    <cmt><![CDATA[Kapavac]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: IstocnaHrvatska (East Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.281948" lon="17.566729">
+    <ele>615</ele>
+    <name>9A/IH-010</name>
+    <cmt><![CDATA[Maksimov Hrast]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: IstocnaHrvatska (East Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.289196" lon="17.914917">
+    <ele>469</ele>
+    <name>9A/IH-011</name>
+    <cmt><![CDATA[Cinkovac]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: IstocnaHrvatska (East Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.189651" lon="17.75564">
+    <ele>353</ele>
+    <name>9A/IH-012</name>
+    <cmt><![CDATA[Kasonjski vrh]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: IstocnaHrvatska (East Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.794502" lon="15.013008">
+    <ele>1699</ele>
+    <name>9A/PH-001</name>
+    <cmt><![CDATA[Mali Rajinac]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: PrimorskaHrvatska (Coastal Croatia)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.802223" lon="14.973333">
+    <ele>1676</ele>
+    <name>9A/PH-002</name>
+    <cmt><![CDATA[Veliki Zavižan]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: PrimorskaHrvatska (Coastal Croatia)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.745537" lon="14.988836">
+    <ele>1669</ele>
+    <name>9A/PH-003</name>
+    <cmt><![CDATA[Goli vrh]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: PrimorskaHrvatska (Coastal Croatia)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.782623" lon="15.025663">
+    <ele>1667</ele>
+    <name>9A/PH-004</name>
+    <cmt><![CDATA[Veliki Rajinac]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: PrimorskaHrvatska (Coastal Croatia)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.764008" lon="15.021648">
+    <ele>1649</ele>
+    <name>9A/PH-005</name>
+    <cmt><![CDATA[Hajducki Kukovi]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: PrimorskaHrvatska (Coastal Croatia)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.733044" lon="15.035413">
+    <ele>1629</ele>
+    <name>9A/PH-006</name>
+    <cmt><![CDATA[Veliki Kozjak]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: PrimorskaHrvatska (Coastal Croatia)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.647663" lon="15.048485">
+    <ele>1622</ele>
+    <name>9A/PH-007</name>
+    <cmt><![CDATA[Šatorina]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: PrimorskaHrvatska (Coastal Croatia)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.702782" lon="14.992778">
+    <ele>1622</ele>
+    <name>9A/PH-008</name>
+    <cmt><![CDATA[Zečjak]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: PrimorskaHrvatska (Coastal Croatia)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.724255" lon="15.013164">
+    <ele>1605</ele>
+    <name>9A/PH-009</name>
+    <cmt><![CDATA[Goljak]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: PrimorskaHrvatska (Coastal Croatia)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.466831" lon="15.24435">
+    <ele>1452</ele>
+    <name>9A/PH-010</name>
+    <cmt><![CDATA[Siljevača]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: PrimorskaHrvatska (Coastal Croatia)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.450634" lon="15.255284">
+    <ele>1406</ele>
+    <name>9A/PH-011</name>
+    <cmt><![CDATA[Veliki Stolac]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: PrimorskaHrvatska (Coastal Croatia)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.284946" lon="14.201991">
+    <ele>1395</ele>
+    <name>9A/PH-012</name>
+    <cmt><![CDATA[Vojak]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: PrimorskaHrvatska (Coastal Croatia)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.607101" lon="15.124272">
+    <ele>1366</ele>
+    <name>9A/PH-013</name>
+    <cmt><![CDATA[Javarovo bilo]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: PrimorskaHrvatska (Coastal Croatia)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.578636" lon="15.170289">
+    <ele>1332</ele>
+    <name>9A/PH-014</name>
+    <cmt><![CDATA[Rusovo]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: PrimorskaHrvatska (Coastal Croatia)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.539669" lon="15.18441">
+    <ele>1337</ele>
+    <name>9A/PH-015</name>
+    <cmt><![CDATA[Kuk od Karline plane]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: PrimorskaHrvatska (Coastal Croatia)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.582615" lon="15.073885">
+    <ele>1317</ele>
+    <name>9A/PH-016</name>
+    <cmt><![CDATA[Budakovo Brdo]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: PrimorskaHrvatska (Coastal Croatia)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.578613" lon="15.096111">
+    <ele>1291</ele>
+    <name>9A/PH-017</name>
+    <cmt><![CDATA[Bačić kuk]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: PrimorskaHrvatska (Coastal Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.146919" lon="14.917882">
+    <ele>1277</ele>
+    <name>9A/PH-018</name>
+    <cmt><![CDATA[Zapadak]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: PrimorskaHrvatska (Coastal Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.361847" lon="14.190582">
+    <ele>1271</ele>
+    <name>9A/PH-019</name>
+    <cmt><![CDATA[Veliki Planik]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: PrimorskaHrvatska (Coastal Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.397514" lon="14.211338">
+    <ele>1242</ele>
+    <name>9A/PH-020</name>
+    <cmt><![CDATA[Gomila]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: PrimorskaHrvatska (Coastal Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.853996" lon="14.998663">
+    <ele>1197</ele>
+    <name>9A/PH-021</name>
+    <cmt><![CDATA[Veliki vrh]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: PrimorskaHrvatska (Coastal Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.52578" lon="15.212809">
+    <ele>1197</ele>
+    <name>9A/PH-022</name>
+    <cmt><![CDATA[Crni vrh]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: PrimorskaHrvatska (Coastal Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.109032" lon="14.932561">
+    <ele>1173</ele>
+    <name>9A/PH-023</name>
+    <cmt><![CDATA[Bilo]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: PrimorskaHrvatska (Coastal Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.050186" lon="14.982203">
+    <ele>1132</ele>
+    <name>9A/PH-024</name>
+    <cmt><![CDATA[Crni vrh]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: PrimorskaHrvatska (Coastal Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.334267" lon="14.641718">
+    <ele>1106</ele>
+    <name>9A/PH-025</name>
+    <cmt><![CDATA[Tuhobić]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: PrimorskaHrvatska (Coastal Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.419437" lon="14.12673">
+    <ele>1105</ele>
+    <name>9A/PH-026</name>
+    <cmt><![CDATA[Orljak]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: PrimorskaHrvatska (Coastal Croatia)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.102638" lon="14.991526">
+    <ele>1095</ele>
+    <name>9A/PH-027</name>
+    <cmt><![CDATA[Miškovo bilo]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: PrimorskaHrvatska (Coastal Croatia)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.441341" lon="14.111959">
+    <ele>1060</ele>
+    <name>9A/PH-028</name>
+    <cmt><![CDATA[Mocvil]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: PrimorskaHrvatska (Coastal Croatia)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.458721" lon="14.013839">
+    <ele>1013</ele>
+    <name>9A/PH-029</name>
+    <cmt><![CDATA[Žbevnica]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: PrimorskaHrvatska (Coastal Croatia)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.001404" lon="14.99495">
+    <ele>962</ele>
+    <name>9A/PH-030</name>
+    <cmt><![CDATA[Vrnčev vrh]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: PrimorskaHrvatska (Coastal Croatia)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.478992" lon="14.036086">
+    <ele>820</ele>
+    <name>9A/PH-031</name>
+    <cmt><![CDATA[Siljevac]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: PrimorskaHrvatska (Coastal Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.171188" lon="14.201027">
+    <ele>818</ele>
+    <name>9A/PH-032</name>
+    <cmt><![CDATA[Sisol]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: PrimorskaHrvatska (Coastal Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.318409" lon="14.598895">
+    <ele>704</ele>
+    <name>9A/PH-033</name>
+    <cmt><![CDATA[Ljubelj]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: PrimorskaHrvatska (Coastal Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.078037" lon="14.346107">
+    <ele>648</ele>
+    <name>9A/PH-034</name>
+    <cmt><![CDATA[Gorice]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: PrimorskaHrvatska (Coastal Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.671497" lon="14.361757">
+    <ele>588</ele>
+    <name>9A/PH-035</name>
+    <cmt><![CDATA[Televrina]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: PrimorskaHrvatska (Coastal Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.994385" lon="14.68714">
+    <ele>568</ele>
+    <name>9A/PH-036</name>
+    <cmt><![CDATA[Obzova]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: PrimorskaHrvatska (Coastal Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.019707" lon="14.378194">
+    <ele>562</ele>
+    <name>9A/PH-037</name>
+    <cmt><![CDATA[Velo Gračište]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: PrimorskaHrvatska (Coastal Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.019958" lon="14.122986">
+    <ele>539</ele>
+    <name>9A/PH-038</name>
+    <cmt><![CDATA[Goli]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: PrimorskaHrvatska (Coastal Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.324856" lon="14.013318">
+    <ele>503</ele>
+    <name>9A/PH-039</name>
+    <cmt><![CDATA[St. Draguć]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: PrimorskaHrvatska (Coastal Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.285" lon="14.0583">
+    <ele>497</ele>
+    <name>9A/PH-040</name>
+    <cmt><![CDATA[Gradnji breg]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: PrimorskaHrvatska (Coastal Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.417427" lon="13.846231">
+    <ele>492</ele>
+    <name>9A/PH-041</name>
+    <cmt><![CDATA[Veliki Repavac]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: PrimorskaHrvatska (Coastal Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.866219" lon="14.344458">
+    <ele>483</ele>
+    <name>9A/PH-042</name>
+    <cmt><![CDATA[Helm]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: PrimorskaHrvatska (Coastal Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.286869" lon="13.904428">
+    <ele>480</ele>
+    <name>9A/PH-043</name>
+    <cmt><![CDATA[Piloščak]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: PrimorskaHrvatska (Coastal Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.011745" lon="14.761689">
+    <ele>475</ele>
+    <name>9A/PH-044</name>
+    <cmt><![CDATA[Trike]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: PrimorskaHrvatska (Coastal Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.224731" lon="13.944551">
+    <ele>474</ele>
+    <name>9A/PH-045</name>
+    <cmt><![CDATA[Velanov breg]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: PrimorskaHrvatska (Coastal Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.107895" lon="14.168974">
+    <ele>471</ele>
+    <name>9A/PH-046</name>
+    <cmt><![CDATA[Standar]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: PrimorskaHrvatska (Coastal Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.886833" lon="14.399464">
+    <ele>428</ele>
+    <name>9A/PH-047</name>
+    <cmt><![CDATA[Zlostan]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: PrimorskaHrvatska (Coastal Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.773006" lon="14.789279">
+    <ele>409</ele>
+    <name>9A/PH-048</name>
+    <cmt><![CDATA[Kamenjak]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: PrimorskaHrvatska (Coastal Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.361919" lon="13.941612">
+    <ele>401</ele>
+    <name>9A/PH-049</name>
+    <cmt><![CDATA[Solina]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: PrimorskaHrvatska (Coastal Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.173534" lon="14.727892">
+    <ele>381</ele>
+    <name>9A/PH-050</name>
+    <cmt><![CDATA[Drenin]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: PrimorskaHrvatska (Coastal Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.922146" lon="14.792597">
+    <ele>349</ele>
+    <name>9A/PH-051</name>
+    <cmt><![CDATA[Kur]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: PrimorskaHrvatska (Coastal Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.476513" lon="14.994845">
+    <ele>349</ele>
+    <name>9A/PH-052</name>
+    <cmt><![CDATA[Sveti Vid]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: PrimorskaHrvatska (Coastal Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.361774" lon="13.893033">
+    <ele>346</ele>
+    <name>9A/PH-053</name>
+    <cmt><![CDATA[Veli vrh]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: PrimorskaHrvatska (Coastal Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.111767" lon="14.605739">
+    <ele>327</ele>
+    <name>9A/PH-054</name>
+    <cmt><![CDATA[Sveti Juraj]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: PrimorskaHrvatska (Coastal Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.404163" lon="13.921988">
+    <ele>317</ele>
+    <name>9A/PH-055</name>
+    <cmt><![CDATA[Meja]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: PrimorskaHrvatska (Coastal Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.244354" lon="14.120213">
+    <ele>269</ele>
+    <name>9A/PH-056</name>
+    <cmt><![CDATA[Miheli]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: PrimorskaHrvatska (Coastal Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.448097" lon="15.073431">
+    <ele>267</ele>
+    <name>9A/PH-057</name>
+    <cmt><![CDATA[Veli brig]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: PrimorskaHrvatska (Coastal Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.501572" lon="14.508669">
+    <ele>241</ele>
+    <name>9A/PH-058</name>
+    <cmt><![CDATA[Grgoščak]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: PrimorskaHrvatska (Coastal Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.867523" lon="14.761214">
+    <ele>225</ele>
+    <name>9A/PH-059</name>
+    <cmt><![CDATA[Standarac]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: PrimorskaHrvatska (Coastal Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.50145" lon="15.033843">
+    <ele>218</ele>
+    <name>9A/PH-060</name>
+    <cmt><![CDATA[Panos]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: PrimorskaHrvatska (Coastal Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="44.975407" lon="14.50675">
+    <ele>194</ele>
+    <name>9A/PH-061</name>
+    <cmt><![CDATA[Krušija]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: PrimorskaHrvatska (Coastal Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="46.181377" lon="16.12718">
+    <ele>1060</ele>
+    <name>9A/ZH-001</name>
+    <cmt><![CDATA[Ivanščica]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: ZapadnaHrvatska (West Croatia)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.899258" lon="15.947515">
+    <ele>1032</ele>
+    <name>9A/ZH-002</name>
+    <cmt><![CDATA[Sljeme]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: ZapadnaHrvatska (West Croatia)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.718586" lon="15.265984">
+    <ele>880</ele>
+    <name>9A/ZH-003</name>
+    <cmt><![CDATA[Karvanka]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: ZapadnaHrvatska (West Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.749012" lon="15.609236">
+    <ele>870</ele>
+    <name>9A/ZH-004</name>
+    <cmt><![CDATA[Japetić]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: ZapadnaHrvatska (West Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="46.1894" lon="15.908637">
+    <ele>846</ele>
+    <name>9A/ZH-005</name>
+    <cmt><![CDATA[Sušec]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: ZapadnaHrvatska (West Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.753563" lon="15.548227">
+    <ele>795</ele>
+    <name>9A/ZH-006</name>
+    <cmt><![CDATA[Zečak]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: ZapadnaHrvatska (West Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.737194" lon="15.668073">
+    <ele>780</ele>
+    <name>9A/ZH-007</name>
+    <cmt><![CDATA[Plešivica]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: ZapadnaHrvatska (West Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.751228" lon="15.641409">
+    <ele>748</ele>
+    <name>9A/ZH-008</name>
+    <cmt><![CDATA[Rancerje]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: ZapadnaHrvatska (West Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.798042" lon="15.564467">
+    <ele>728</ele>
+    <name>9A/ZH-009</name>
+    <cmt><![CDATA[Noršićka Plešivica]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: ZapadnaHrvatska (West Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="46.260151" lon="15.797819">
+    <ele>718</ele>
+    <name>9A/ZH-010</name>
+    <cmt><![CDATA[Maceljska gora]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: ZapadnaHrvatska (West Croatia)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="46.271637" lon="15.983872">
+    <ele>694</ele>
+    <name>9A/ZH-011</name>
+    <cmt><![CDATA[Ravna Gora - Tri kralja]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: ZapadnaHrvatska (West Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="46.280479" lon="15.999966">
+    <ele>686</ele>
+    <name>9A/ZH-012</name>
+    <cmt><![CDATA[Ravna gora]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: ZapadnaHrvatska (West Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="46.190002" lon="16.214262">
+    <ele>670</ele>
+    <name>9A/ZH-013</name>
+    <cmt><![CDATA[Ham]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: ZapadnaHrvatska (West Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="46.131294" lon="16.454699">
+    <ele>643</ele>
+    <name>9A/ZH-014</name>
+    <cmt><![CDATA[Vranilac]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: ZapadnaHrvatska (West Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.593212" lon="17.34314">
+    <ele>639</ele>
+    <name>9A/ZH-015</name>
+    <cmt><![CDATA[Pogani vrh]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: ZapadnaHrvatska (West Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.203781" lon="16.297995">
+    <ele>614</ele>
+    <name>9A/ZH-016</name>
+    <cmt><![CDATA[Piramida]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: ZapadnaHrvatska (West Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.19014" lon="16.231392">
+    <ele>601</ele>
+    <name>9A/ZH-017</name>
+    <cmt><![CDATA[Kapija brdo]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: ZapadnaHrvatska (West Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="46.173447" lon="16.234579">
+    <ele>595</ele>
+    <name>9A/ZH-018</name>
+    <cmt><![CDATA[Rudski Gobec]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: ZapadnaHrvatska (West Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.862457" lon="15.866854">
+    <ele>592</ele>
+    <name>9A/ZH-019</name>
+    <cmt><![CDATA[Zlatnica brijeg]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: ZapadnaHrvatska (West Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="46.180695" lon="16.284281">
+    <ele>590</ele>
+    <name>9A/ZH-020</name>
+    <cmt><![CDATA[Veliki Ljubenjak]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: ZapadnaHrvatska (West Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="46.185825" lon="15.838174">
+    <ele>581</ele>
+    <name>9A/ZH-021</name>
+    <cmt><![CDATA[Brezovica]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: ZapadnaHrvatska (West Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="46.168133" lon="16.036375">
+    <ele>578</ele>
+    <name>9A/ZH-022</name>
+    <cmt><![CDATA[Gornji Pokojec]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: ZapadnaHrvatska (West Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.972404" lon="16.160393">
+    <ele>576</ele>
+    <name>9A/ZH-023</name>
+    <cmt><![CDATA[Drenova]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: ZapadnaHrvatska (West Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="46.193157" lon="15.796802">
+    <ele>562</ele>
+    <name>9A/ZH-024</name>
+    <cmt><![CDATA[Ravnica]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: ZapadnaHrvatska (West Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="46.166355" lon="16.433784">
+    <ele>558</ele>
+    <name>9A/ZH-025</name>
+    <cmt><![CDATA[Ljubelj]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: ZapadnaHrvatska (West Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.592224" lon="15.40896">
+    <ele>537</ele>
+    <name>9A/ZH-026</name>
+    <cmt><![CDATA[Vodenica]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: ZapadnaHrvatska (West Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.132359" lon="16.155499">
+    <ele>534</ele>
+    <name>9A/ZH-027</name>
+    <cmt><![CDATA[Kokirna]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: ZapadnaHrvatska (West Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="46.178265" lon="15.735785">
+    <ele>521</ele>
+    <name>9A/ZH-028</name>
+    <cmt><![CDATA[Kuna gora]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: ZapadnaHrvatska (West Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="46.292496" lon="16.033432">
+    <ele>521</ele>
+    <name>9A/ZH-029</name>
+    <cmt><![CDATA[Kukelj]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: ZapadnaHrvatska (West Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="46.26149" lon="15.885111">
+    <ele>521</ele>
+    <name>9A/ZH-030</name>
+    <cmt><![CDATA[Veliki stog]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: ZapadnaHrvatska (West Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.311451" lon="15.808792">
+    <ele>513</ele>
+    <name>9A/ZH-031</name>
+    <cmt><![CDATA[Mali Petrovac]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: ZapadnaHrvatska (West Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="46.05891" lon="15.736179">
+    <ele>508</ele>
+    <name>9A/ZH-032</name>
+    <cmt><![CDATA[Cesarsko brdo]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: ZapadnaHrvatska (West Croatia)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="46.183376" lon="15.688669">
+    <ele>499</ele>
+    <name>9A/ZH-033</name>
+    <cmt><![CDATA[Žolekov breg]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: ZapadnaHrvatska (West Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="46.154514" lon="16.499872">
+    <ele>492</ele>
+    <name>9A/ZH-034</name>
+    <cmt><![CDATA[Jasenov brijeg]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: ZapadnaHrvatska (West Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.614117" lon="16.753836">
+    <ele>488</ele>
+    <name>9A/ZH-035</name>
+    <cmt><![CDATA[Humka]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: ZapadnaHrvatska (West Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.517723" lon="15.363048">
+    <ele>481</ele>
+    <name>9A/ZH-036</name>
+    <cmt><![CDATA[Goljak]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: ZapadnaHrvatska (West Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="46.2981" lon="16.048849">
+    <ele>480</ele>
+    <name>9A/ZH-037</name>
+    <cmt><![CDATA[Babjak]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: ZapadnaHrvatska (West Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="46.216301" lon="15.981264">
+    <ele>475</ele>
+    <name>9A/ZH-038</name>
+    <cmt><![CDATA[Želimor]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: ZapadnaHrvatska (West Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.265659" lon="15.44755">
+    <ele>473</ele>
+    <name>9A/ZH-039</name>
+    <cmt><![CDATA[Gradina]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: ZapadnaHrvatska (West Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="46.240711" lon="16.016724">
+    <ele>443</ele>
+    <name>9A/ZH-040</name>
+    <cmt><![CDATA[Roščica]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: ZapadnaHrvatska (West Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.329742" lon="15.538507">
+    <ele>428</ele>
+    <name>9A/ZH-041</name>
+    <cmt><![CDATA[Veli vrh]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: ZapadnaHrvatska (West Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="46.132759" lon="16.243666">
+    <ele>419</ele>
+    <name>9A/ZH-042</name>
+    <cmt><![CDATA[Ščepanje]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: ZapadnaHrvatska (West Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.395901" lon="16.271132">
+    <ele>416</ele>
+    <name>9A/ZH-043</name>
+    <cmt><![CDATA[Cepeliš]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: ZapadnaHrvatska (West Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="46.115685" lon="15.987596">
+    <ele>411</ele>
+    <name>9A/ZH-044</name>
+    <cmt><![CDATA[Strogača]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: ZapadnaHrvatska (West Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.39032" lon="15.782957">
+    <ele>378</ele>
+    <name>9A/ZH-045</name>
+    <cmt><![CDATA[Vlajnić brdo]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: ZapadnaHrvatska (West Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.347809" lon="15.31389">
+    <ele>376</ele>
+    <name>9A/ZH-046</name>
+    <cmt><![CDATA[Kučer]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: ZapadnaHrvatska (West Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.350628" lon="15.65855">
+    <ele>350</ele>
+    <name>9A/ZH-047</name>
+    <cmt><![CDATA[Bilo]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: ZapadnaHrvatska (West Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.40757" lon="15.579675">
+    <ele>344</ele>
+    <name>9A/ZH-048</name>
+    <cmt><![CDATA[Martinšćak]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: ZapadnaHrvatska (West Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+  <wpt lat="45.444836" lon="15.525256">
+    <ele>320</ele>
+    <name>9A/ZH-049</name>
+    <cmt><![CDATA[Velika Vinica]]></cmt>
+    <desc><![CDATA[SOTA Association: 9A - Croatia, Region: ZapadnaHrvatska (West Croatia)]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit 9A/</type>
+  </wpt>
+</gpx>

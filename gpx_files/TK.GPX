@@ -1,0 +1,1336 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1" 
+     creator="SOTA Mapping Project GPX Generator 1.1" 
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+     xmlns="http://www.topografix.com/GPX/1/1" 
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>SOTA Summits GPX Export</name>
+    <desc>SOTA Summits data in GPX v1.1 format></desc>
+    <author>
+      <name>SOTA Mapping Project></name>
+      <email id="admin" domain="www.sotamaps.org" />
+      <link href="https://www.sotamaps.org">
+        <text>SOTA Mapping Project</text>
+      </link>
+    </author>
+    <link href="https://www.sotamaps.org">
+      <text>SOTA Mapping Project</text>
+    </link>
+    <time>2024-11-07T15:08:03Z</time>
+    <keywords>SOTA, Summits On The Air, amateur radio, ham radio</keywords>
+    <bounds minlat="41.469971" minlon="8.5522289" maxlat="42.947456" maxlon="9.4770966"/>
+  </metadata>
+  <wpt lat="42.379696" lon="8.9455957">
+    <ele>2706</ele>
+    <name>TK/TK-001</name>
+    <cmt><![CDATA[Monte Cinto]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.216057" lon="9.0577879">
+    <ele>2622</ele>
+    <name>TK/TK-002</name>
+    <cmt><![CDATA[Monte Rotondo]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.375122" lon="8.9137096">
+    <ele>2556</ele>
+    <name>TK/TK-003</name>
+    <cmt><![CDATA[Punta Minuta]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.343048" lon="8.8785954">
+    <ele>2525</ele>
+    <name>TK/TK-004</name>
+    <cmt><![CDATA[Paglia Orba]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.230389" lon="9.120122">
+    <ele>2453</ele>
+    <name>TK/TK-005</name>
+    <cmt><![CDATA[Monte Cardo]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.466736" lon="8.9888124">
+    <ele>2390</ele>
+    <name>TK/TK-006</name>
+    <cmt><![CDATA[Monte Padru]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.137486" lon="9.0986004">
+    <ele>2389</ele>
+    <name>TK/TK-007</name>
+    <cmt><![CDATA[Monte d'Oro]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.059681" lon="9.1336508">
+    <ele>2352</ele>
+    <name>TK/TK-008</name>
+    <cmt><![CDATA[Monte Renoso]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.264568" lon="8.9703579">
+    <ele>2327</ele>
+    <name>TK/TK-009</name>
+    <cmt><![CDATA[Punta Artica]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.208626" lon="9.0054951">
+    <ele>2313</ele>
+    <name>TK/TK-010</name>
+    <cmt><![CDATA[Punta Alle Porte]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.454391" lon="8.9615183">
+    <ele>2305</ele>
+    <name>TK/TK-011</name>
+    <cmt><![CDATA[Cima di a Statoghia]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.229828" lon="9.011343">
+    <ele>2295</ele>
+    <name>TK/TK-012</name>
+    <cmt><![CDATA[Capu a Chiostru]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.051746" lon="9.1118717">
+    <ele>2255</ele>
+    <name>TK/TK-014</name>
+    <cmt><![CDATA[Punta Alla Vetta]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.130028" lon="9.0714779">
+    <ele>2254</ele>
+    <name>TK/TK-015</name>
+    <cmt><![CDATA[Pointe Migliarello]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.391373" lon="8.9015007">
+    <ele>2201</ele>
+    <name>TK/TK-016</name>
+    <cmt><![CDATA[Punta Missoghiu]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.420883" lon="9.0804262">
+    <ele>2180</ele>
+    <name>TK/TK-017</name>
+    <cmt><![CDATA[Cima a i Mori]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.321999" lon="8.8915234">
+    <ele>2235</ele>
+    <name>TK/TK-018</name>
+    <cmt><![CDATA[Punta Licciola]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.410316" lon="8.9114838">
+    <ele>2148</ele>
+    <name>TK/TK-019</name>
+    <cmt><![CDATA[A Muvrella]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.445755" lon="8.9128628">
+    <ele>2145</ele>
+    <name>TK/TK-020</name>
+    <cmt><![CDATA[Capu Ladroncellu]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.459599" lon="8.9191227">
+    <ele>2144</ele>
+    <name>TK/TK-021</name>
+    <cmt><![CDATA[Monte Corona]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="41.849457" lon="9.207181">
+    <ele>2134</ele>
+    <name>TK/TK-022</name>
+    <cmt><![CDATA[Monte Alcudina]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.235947" lon="8.9437027">
+    <ele>2101</ele>
+    <name>TK/TK-023</name>
+    <cmt><![CDATA[Cimatella]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="41.996117" lon="9.2166548">
+    <ele>2041</ele>
+    <name>TK/TK-024</name>
+    <cmt><![CDATA[Punta della Cappella]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.296246" lon="8.8497982">
+    <ele>2049</ele>
+    <name>TK/TK-025</name>
+    <cmt><![CDATA[Capu a Cuccula]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.175713" lon="9.0480032">
+    <ele>2021</ele>
+    <name>TK/TK-026</name>
+    <cmt><![CDATA[Pointe de Pinzi Corbini]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.4137" lon="8.8892965">
+    <ele>1992</ele>
+    <name>TK/TK-027</name>
+    <cmt><![CDATA[Capu Penne Rosse]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="41.944904" lon="9.2191553">
+    <ele>1981</ele>
+    <name>TK/TK-028</name>
+    <cmt><![CDATA[Monte Furmicula]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.419125" lon="8.8558226">
+    <ele>1951</ele>
+    <name>TK/TK-029</name>
+    <cmt><![CDATA[Capu a u Ceppu]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.335716" lon="9.0982733">
+    <ele>1951</ele>
+    <name>TK/TK-030</name>
+    <cmt><![CDATA[Pinerole]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.001499" lon="9.1542997">
+    <ele>1950</ele>
+    <name>TK/TK-031</name>
+    <cmt><![CDATA[Monte Giovanni]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.428333" lon="9.0983858">
+    <ele>1929</ele>
+    <name>TK/TK-032</name>
+    <cmt><![CDATA[Turone]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.501713" lon="8.9227648">
+    <ele>1937</ele>
+    <name>TK/TK-033</name>
+    <cmt><![CDATA[Monte Grosso]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="41.835964" lon="9.2313528">
+    <ele>1899</ele>
+    <name>TK/TK-034</name>
+    <cmt><![CDATA[Punta di u Furnellu]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.125092" lon="9.0471449">
+    <ele>1879</ele>
+    <name>TK/TK-035</name>
+    <cmt><![CDATA[Cima di Vico]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="41.815147" lon="9.217433">
+    <ele>1855</ele>
+    <name>TK/TK-036</name>
+    <cmt><![CDATA[Punta Alta]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.396206" lon="9.3267651">
+    <ele>1767</ele>
+    <name>TK/TK-037</name>
+    <cmt><![CDATA[Monte San Petrone]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.336697" lon="9.3461533">
+    <ele>1731</ele>
+    <name>TK/TK-038</name>
+    <cmt><![CDATA[Cima di Calleruccio]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="41.856911" lon="9.118722">
+    <ele>1724</ele>
+    <name>TK/TK-039</name>
+    <cmt><![CDATA[Punta Sistaja]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.271729" lon="8.8820982">
+    <ele>1712</ele>
+    <name>TK/TK-040</name>
+    <cmt><![CDATA[Capu a Rughia]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="41.944042" lon="9.0357018">
+    <ele>1679</ele>
+    <name>TK/TK-041</name>
+    <cmt><![CDATA[Punta Mantellucciu]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.041531" lon="9.0208969">
+    <ele>1630</ele>
+    <name>TK/TK-042</name>
+    <cmt><![CDATA[Punta d'Isa]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.14138" lon="8.8972473">
+    <ele>1624</ele>
+    <name>TK/TK-043</name>
+    <cmt><![CDATA[Monte Cervellu]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.338394" lon="8.7588339">
+    <ele>1619</ele>
+    <name>TK/TK-044</name>
+    <cmt><![CDATA[Capu a a Ghiallichiccia]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.319923" lon="8.8065243">
+    <ele>1591</ele>
+    <name>TK/TK-045</name>
+    <cmt><![CDATA[Capu a a Penna]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.322777" lon="8.7695246">
+    <ele>1587</ele>
+    <name>TK/TK-046</name>
+    <cmt><![CDATA[Capu di Chiuvalle]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.342319" lon="9.2547102">
+    <ele>1581</ele>
+    <name>TK/TK-047</name>
+    <cmt><![CDATA[Monte Piano Maggiore]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.148258" lon="9.1990061">
+    <ele>1565</ele>
+    <name>TK/TK-048</name>
+    <cmt><![CDATA[Punta Muro]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.011353" lon="8.9850731">
+    <ele>1541</ele>
+    <name>TK/TK-049</name>
+    <cmt><![CDATA[Punta Tirulellu]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.58128" lon="9.2099056">
+    <ele>1535</ele>
+    <name>TK/TK-050</name>
+    <cmt><![CDATA[Monte Astu]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.163021" lon="9.2194662">
+    <ele>1528</ele>
+    <name>TK/TK-051</name>
+    <cmt><![CDATA[Punta Paglia]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.200523" lon="8.9428978">
+    <ele>1511</ele>
+    <name>TK/TK-052</name>
+    <cmt><![CDATA[Monte Sant'Eliseo]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.219921" lon="8.8486023">
+    <ele>1510</ele>
+    <name>TK/TK-053</name>
+    <cmt><![CDATA[L'Incinosa ou Chieragella]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="41.773937" lon="9.2314978">
+    <ele>1483</ele>
+    <name>TK/TK-054</name>
+    <cmt><![CDATA[Punta Velaco]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.539509" lon="9.2272339">
+    <ele>1469</ele>
+    <name>TK/TK-055</name>
+    <cmt><![CDATA[Monte Reghia di Pozzo]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.156967" lon="8.8667984">
+    <ele>1425</ele>
+    <name>TK/TK-056</name>
+    <cmt><![CDATA[Bocca Larga]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="41.80138" lon="9.0596008">
+    <ele>1414</ele>
+    <name>TK/TK-057</name>
+    <cmt><![CDATA[Punta di i Cavalletti]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="41.758892" lon="8.9927711">
+    <ele>1400</ele>
+    <name>TK/TK-058</name>
+    <cmt><![CDATA[Monte San Petru]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.438194" lon="8.8001404">
+    <ele>1388</ele>
+    <name>TK/TK-060</name>
+    <cmt><![CDATA[Capu di Vegnu]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="41.722866" lon="9.2227602">
+    <ele>1381</ele>
+    <name>TK/TK-061</name>
+    <cmt><![CDATA[Monte Calva]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="41.588406" lon="9.1008368">
+    <ele>1371</ele>
+    <name>TK/TK-062</name>
+    <cmt><![CDATA[Malpassu]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.227604" lon="8.6937962">
+    <ele>1331</ele>
+    <name>TK/TK-063</name>
+    <cmt><![CDATA[Capu di u Vitullu]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.827747" lon="9.3857679">
+    <ele>1322</ele>
+    <name>TK/TK-064</name>
+    <cmt><![CDATA[Cima di e Follicie]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="41.655487" lon="9.1636972">
+    <ele>1314</ele>
+    <name>TK/TK-065</name>
+    <cmt><![CDATA[Punta di a Vaca Morta]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="41.910557" lon="8.9936562">
+    <ele>1345</ele>
+    <name>TK/TK-066</name>
+    <cmt><![CDATA[Punta d'Urghjavari]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.788574" lon="9.4186249">
+    <ele>1307</ele>
+    <name>TK/TK-067</name>
+    <cmt><![CDATA[Monte Stello]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="41.600136" lon="9.1246929">
+    <ele>1299</ele>
+    <name>TK/TK-068</name>
+    <cmt><![CDATA[Punta di Compolelli]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.364132" lon="9.432723">
+    <ele>1285</ele>
+    <name>TK/TK-069</name>
+    <cmt><![CDATA[Mont Olmelli]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.546947" lon="9.015811">
+    <ele>1285</ele>
+    <name>TK/TK-070</name>
+    <cmt><![CDATA[Cima di Tornabue]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.27858" lon="8.7505083">
+    <ele>1282</ele>
+    <name>TK/TK-071</name>
+    <cmt><![CDATA[Capu â Vetta]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.221859" lon="8.8196287">
+    <ele>1273</ele>
+    <name>TK/TK-072</name>
+    <cmt><![CDATA[Capu Sant'Anghiulu]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.056576" lon="8.8765621">
+    <ele>1271</ele>
+    <name>TK/TK-073</name>
+    <cmt><![CDATA[Punta Sant'Eliseo]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.241989" lon="8.7025127">
+    <ele>1294</ele>
+    <name>TK/TK-074</name>
+    <cmt><![CDATA[Capu d'Orto]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.300423" lon="9.4010887">
+    <ele>1267</ele>
+    <name>TK/TK-075</name>
+    <cmt><![CDATA[Rocher de Muteri]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.12252" lon="9.2774439">
+    <ele>1240</ele>
+    <name>TK/TK-076</name>
+    <cmt><![CDATA[Pointe de Logoniello]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.449383" lon="9.3301868">
+    <ele>1236</ele>
+    <name>TK/TK-077</name>
+    <cmt><![CDATA[Monte Compoli]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.492455" lon="9.0938196">
+    <ele>1231</ele>
+    <name>TK/TK-078</name>
+    <cmt><![CDATA[Cima di Modico]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.291161" lon="9.3200169">
+    <ele>1230</ele>
+    <name>TK/TK-079</name>
+    <cmt><![CDATA[San Servanio]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="41.695297" lon="9.2033138">
+    <ele>1227</ele>
+    <name>TK/TK-080</name>
+    <cmt><![CDATA[Punta di u Diamante]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.546139" lon="9.3487129">
+    <ele>1234</ele>
+    <name>TK/TK-081</name>
+    <cmt><![CDATA[Cima a u Spazzolu]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.463264" lon="9.4083204">
+    <ele>1218</ele>
+    <name>TK/TK-082</name>
+    <cmt><![CDATA[Monte Sant' Angelo]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.387615" lon="9.1121349">
+    <ele>1203</ele>
+    <name>TK/TK-083</name>
+    <cmt><![CDATA[Capo d'Alici]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.753345" lon="9.3911114">
+    <ele>1198</ele>
+    <name>TK/TK-084</name>
+    <cmt><![CDATA[Guadalone]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.244835" lon="9.3116693">
+    <ele>1189</ele>
+    <name>TK/TK-085</name>
+    <cmt><![CDATA[Punta Cervio]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="41.894669" lon="8.9475012">
+    <ele>1162</ele>
+    <name>TK/TK-086</name>
+    <cmt><![CDATA[Punta di Sarracinaggio]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.503548" lon="9.2181892">
+    <ele>1150</ele>
+    <name>TK/TK-087</name>
+    <cmt><![CDATA[Monte Tevisi]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.344852" lon="9.4770966">
+    <ele>1133</ele>
+    <name>TK/TK-088</name>
+    <cmt><![CDATA[Monte Negrine]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.185493" lon="8.7026577">
+    <ele>1131</ele>
+    <name>TK/TK-089</name>
+    <cmt><![CDATA[Capu di Calazzu]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="41.868828" lon="9.3044872">
+    <ele>1122</ele>
+    <name>TK/TK-090</name>
+    <cmt><![CDATA[Punta Mozza]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.529785" lon="9.0571604">
+    <ele>1113</ele>
+    <name>TK/TK-091</name>
+    <cmt><![CDATA[Cima di u Cugnolu]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.269718" lon="9.4440308">
+    <ele>1093</ele>
+    <name>TK/TK-092</name>
+    <cmt><![CDATA[Pointe de Campana]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.241329" lon="8.755497">
+    <ele>1110</ele>
+    <name>TK/TK-093</name>
+    <cmt><![CDATA[Capu a u Monte]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.328323" lon="9.1991034">
+    <ele>1062</ele>
+    <name>TK/TK-094</name>
+    <cmt><![CDATA[Monte Tomboni]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="41.854061" lon="8.8876276">
+    <ele>1059</ele>
+    <name>TK/TK-095</name>
+    <cmt><![CDATA[Punta Cuzzanicciu]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="41.949661" lon="9.2948523">
+    <ele>1045</ele>
+    <name>TK/TK-096</name>
+    <cmt><![CDATA[Punta di Quarcio Grosso]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.729431" lon="9.3898926">
+    <ele>1038</ele>
+    <name>TK/TK-097</name>
+    <cmt><![CDATA[Monte di Giagoppa]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="41.710888" lon="9.091342">
+    <ele>1033</ele>
+    <name>TK/TK-098</name>
+    <cmt><![CDATA[Punta di Serradu]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.351089" lon="8.7162828">
+    <ele>1023</ele>
+    <name>TK/TK-099</name>
+    <cmt><![CDATA[Capu Manganellu]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="41.724091" lon="9.0188255">
+    <ele>976</ele>
+    <name>TK/TK-100</name>
+    <cmt><![CDATA[Monte Pelosu]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.133373" lon="8.7584047">
+    <ele>920</ele>
+    <name>TK/TK-101</name>
+    <cmt><![CDATA[Punta di e Saltelle]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="41.907093" lon="9.2852116">
+    <ele>961</ele>
+    <name>TK/TK-102</name>
+    <cmt><![CDATA[Punta di u Pinellu]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.695133" lon="9.4004831">
+    <ele>958</ele>
+    <name>TK/TK-103</name>
+    <cmt><![CDATA[Serra di Pigno]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.628536" lon="9.3837624">
+    <ele>955</ele>
+    <name>TK/TK-104</name>
+    <cmt><![CDATA[Cime du Zuccarello]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="41.704872" lon="9.0184717">
+    <ele>951</ele>
+    <name>TK/TK-105</name>
+    <cmt><![CDATA[Punta de Zibo]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="41.962681" lon="8.9841022">
+    <ele>924</ele>
+    <name>TK/TK-106</name>
+    <cmt><![CDATA[Punta di Bassatone]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.443466" lon="9.2592907">
+    <ele>909</ele>
+    <name>TK/TK-107</name>
+    <cmt><![CDATA[Punta di Querceta Tonda]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.529152" lon="9.0924473">
+    <ele>904</ele>
+    <name>TK/TK-108</name>
+    <cmt><![CDATA[Cima di Luda]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.153893" lon="8.7880697">
+    <ele>904</ele>
+    <name>TK/TK-109</name>
+    <cmt><![CDATA[Punta di a Cuma]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="41.954075" lon="8.8717232">
+    <ele>888</ele>
+    <name>TK/TK-110</name>
+    <cmt><![CDATA[Monte Aragnascu]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.022686" lon="8.7920179">
+    <ele>876</ele>
+    <name>TK/TK-111</name>
+    <cmt><![CDATA[Punta san Sisto]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="41.725693" lon="8.9088345">
+    <ele>871</ele>
+    <name>TK/TK-112</name>
+    <cmt><![CDATA[Punta di Buturetu]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.502628" lon="8.733573">
+    <ele>848</ele>
+    <name>TK/TK-113</name>
+    <cmt><![CDATA[Capu Pianu]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.422039" lon="9.155468">
+    <ele>846</ele>
+    <name>TK/TK-114</name>
+    <cmt><![CDATA[Prato Soprano]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.394623" lon="8.6629238">
+    <ele>839</ele>
+    <name>TK/TK-115</name>
+    <cmt><![CDATA[Capu Tondu]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.889282" lon="9.361516">
+    <ele>836</ele>
+    <name>TK/TK-116</name>
+    <cmt><![CDATA[Monte Grofiglieta]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.447044" lon="9.1457157">
+    <ele>820</ele>
+    <name>TK/TK-117</name>
+    <cmt><![CDATA[Punta di Ciuffello]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="41.697998" lon="9.1417351">
+    <ele>807</ele>
+    <name>TK/TK-118</name>
+    <cmt><![CDATA[Punta Pinetu]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.158791" lon="9.3147163">
+    <ele>784</ele>
+    <name>TK/TK-119</name>
+    <cmt><![CDATA[Punta Chigliani]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.373074" lon="8.6300879">
+    <ele>784</ele>
+    <name>TK/TK-120</name>
+    <cmt><![CDATA[Punta di a Literniccia]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="41.953259" lon="8.7005758">
+    <ele>780</ele>
+    <name>TK/TK-121</name>
+    <cmt><![CDATA[Punta Pozzo di Borgo]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.555672" lon="9.1557579">
+    <ele>776</ele>
+    <name>TK/TK-122</name>
+    <cmt><![CDATA[Cima di Pinzali]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="41.946053" lon="8.6792097">
+    <ele>791</ele>
+    <name>TK/TK-123</name>
+    <cmt><![CDATA[Punta di Lisa]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.458065" lon="8.7139339">
+    <ele>813</ele>
+    <name>TK/TK-124</name>
+    <cmt><![CDATA[Capu di l'Argentella]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.211872" lon="8.6118059">
+    <ele>727</ele>
+    <name>TK/TK-125</name>
+    <cmt><![CDATA[Monte Ravu]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.407616" lon="8.7419472">
+    <ele>727</ele>
+    <name>TK/TK-126</name>
+    <cmt><![CDATA[Punta di Chiumi]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.522171" lon="8.7484751">
+    <ele>725</ele>
+    <name>TK/TK-127</name>
+    <cmt><![CDATA[Capu di a Conca]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.156387" lon="8.6576176">
+    <ele>701</ele>
+    <name>TK/TK-128</name>
+    <cmt><![CDATA[Capu di Bagliu]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="41.620945" lon="9.0067768">
+    <ele>695</ele>
+    <name>TK/TK-129</name>
+    <cmt><![CDATA[Punta di Meruliccia]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="41.638523" lon="9.062294">
+    <ele>688</ele>
+    <name>TK/TK-130</name>
+    <cmt><![CDATA[Punta di Forcone]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="41.679771" lon="8.966855">
+    <ele>665</ele>
+    <name>TK/TK-131</name>
+    <cmt><![CDATA[Punta Savaziglia]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.382088" lon="9.1791248">
+    <ele>645</ele>
+    <name>TK/TK-132</name>
+    <cmt><![CDATA[Monte a Supietra]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.371197" lon="8.6050787">
+    <ele>639</ele>
+    <name>TK/TK-133</name>
+    <cmt><![CDATA[Capu Licchia]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="41.623688" lon="8.923007">
+    <ele>609</ele>
+    <name>TK/TK-134</name>
+    <cmt><![CDATA[Punta di Scandulaja]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.921886" lon="9.3898182">
+    <ele>606</ele>
+    <name>TK/TK-135</name>
+    <cmt><![CDATA[Punta di Gulfidoni]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.947456" lon="9.398798">
+    <ele>602</ele>
+    <name>TK/TK-136</name>
+    <cmt><![CDATA[Monte di e Catelle]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="41.826458" lon="9.3618269">
+    <ele>599</ele>
+    <name>TK/TK-137</name>
+    <cmt><![CDATA[Monte Santu]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="41.953632" lon="8.9453278">
+    <ele>652</ele>
+    <name>TK/TK-138</name>
+    <cmt><![CDATA[Punta d'Arese]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.316399" lon="8.6106148">
+    <ele>618</ele>
+    <name>TK/TK-139</name>
+    <cmt><![CDATA[Monte Senino]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="41.98074" lon="8.7474241">
+    <ele>573</ele>
+    <name>TK/TK-140</name>
+    <cmt><![CDATA[Urticelli]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="41.626553" lon="8.886754">
+    <ele>567</ele>
+    <name>TK/TK-141</name>
+    <cmt><![CDATA[Punta di Furcona]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.456245" lon="9.174448">
+    <ele>566</ele>
+    <name>TK/TK-142</name>
+    <cmt><![CDATA[L'Orienda]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.607826" lon="8.9141455">
+    <ele>562</ele>
+    <name>TK/TK-143</name>
+    <cmt><![CDATA[Cima di Sant'Angelo]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.355999" lon="8.5748024">
+    <ele>560</ele>
+    <name>TK/TK-144</name>
+    <cmt><![CDATA[Capu Purcile]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="41.62307" lon="8.9446363">
+    <ele>535</ele>
+    <name>TK/TK-145</name>
+    <cmt><![CDATA[Punta di Corna Caprunu]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="41.921326" lon="8.6784859">
+    <ele>528</ele>
+    <name>TK/TK-146</name>
+    <cmt><![CDATA[Cinaraggia (Cime Ouest)]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.684044" lon="9.1152029">
+    <ele>478</ele>
+    <name>TK/TK-147</name>
+    <cmt><![CDATA[Cima d'Ifana]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="41.62632" lon="8.8488331">
+    <ele>442</ele>
+    <name>TK/TK-148</name>
+    <cmt><![CDATA[Capu di Locu]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.68824" lon="9.195632">
+    <ele>421</ele>
+    <name>TK/TK-149</name>
+    <cmt><![CDATA[Monte Genova]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.676331" lon="9.3360023">
+    <ele>354</ele>
+    <name>TK/TK-150</name>
+    <cmt><![CDATA[Monte Sant'Angelo]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="41.503525" lon="9.1782351">
+    <ele>351</ele>
+    <name>TK/TK-151</name>
+    <cmt><![CDATA[Punta d'Arcinivale]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.122959" lon="8.6767206">
+    <ele>345</ele>
+    <name>TK/TK-152</name>
+    <cmt><![CDATA[Crête de Rizali]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="41.572033" lon="9.3134995">
+    <ele>323</ele>
+    <name>TK/TK-153</name>
+    <cmt><![CDATA[Punta di u Cerchiu]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="41.469971" lon="9.130229">
+    <ele>317</ele>
+    <name>TK/TK-154</name>
+    <cmt><![CDATA[Monte Biancu]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.236534" lon="8.5522289">
+    <ele>331</ele>
+    <name>TK/TK-155</name>
+    <cmt><![CDATA[Tour de Turghiu]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.666328" lon="9.3293991">
+    <ele>253</ele>
+    <name>TK/TK-156</name>
+    <cmt><![CDATA[Monte Silva Mala]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="41.50938" lon="9.2644091">
+    <ele>252</ele>
+    <name>TK/TK-157</name>
+    <cmt><![CDATA[Punta di Rafaellu]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.172558" lon="8.5711441">
+    <ele>189</ele>
+    <name>TK/TK-158</name>
+    <cmt><![CDATA[Erbaghiolu]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.340744" lon="8.8678122">
+    <ele>2335</ele>
+    <name>TK/TK-159</name>
+    <cmt><![CDATA[Capu Tafunatu]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.219116" lon="8.7366629">
+    <ele>1230</ele>
+    <name>TK/TK-160</name>
+    <cmt><![CDATA[Capu a e Macenule]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="41.552906" lon="9.0151091">
+    <ele>626</ele>
+    <name>TK/TK-161</name>
+    <cmt><![CDATA[Scapone]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="41.944099" lon="8.7894001">
+    <ele>238</ele>
+    <name>TK/TK-162</name>
+    <cmt><![CDATA[Monte Sant’Angelo]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="41.747299" lon="8.9572001">
+    <ele>1114</ele>
+    <name>TK/TK-163</name>
+    <cmt><![CDATA[Punta di Purcili]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="41.7565" lon="9.3072004">
+    <ele>809</ele>
+    <name>TK/TK-164</name>
+    <cmt><![CDATA[Conca]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.095001" lon="8.8320999">
+    <ele>726</ele>
+    <name>TK/TK-165</name>
+    <cmt><![CDATA[Punta Alsivisu]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+  <wpt lat="42.4384" lon="9.2631998">
+    <ele>910</ele>
+    <name>TK/TK-166</name>
+    <cmt><![CDATA[Pedani]]></cmt>
+    <desc><![CDATA[SOTA Association: TK - Corsica, Region: Corsica]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit TK/</type>
+  </wpt>
+</gpx>

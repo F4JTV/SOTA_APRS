@@ -8,33 +8,34 @@ from socket import *
 import gpxpy.gpx
 
 CALL_RE = r"^[a-zA-Z0-9-]+$"
+# "https://www.sotamaps.org/index_tools.php?what=creategpxfile&asncode=F&rgncode=AM&sortmode=code"
 
 
 def convert_coords(latitude, longitude):
-    latDegrees = int(abs(latitude))
-    latMinutes = format((abs(latitude) - latDegrees) * 60, '.2f')
+    lat_degrees = int(abs(latitude))
+    lat_minutes = format((abs(latitude) - lat_degrees) * 60, '.2f')
 
-    longDegrees = int(abs(longitude))
-    longMinutes = format((abs(longitude) - longDegrees) * 60, '.2f')
+    long_degrees = int(abs(longitude))
+    long_minutes = format((abs(longitude) - long_degrees) * 60, '.2f')
 
-    latDirection = "N" if latitude >= 0 else "S"
-    longDirection = "E" if longitude >= 0 else "W"
+    lat_direction = "N" if latitude >= 0 else "S"
+    long_direction = "E" if longitude >= 0 else "W"
 
-    latDegreesString = str(latDegrees)
-    longDegreesString = str(longDegrees)
+    lat_degrees_str = str(lat_degrees)
+    long_degrees_string = str(long_degrees)
 
-    if latDegreesString.startswith("-"):
-        latDegreesString = latDegreesString[1:]
-    if longDegreesString.startswith("-"):
-        longDegreesString = longDegreesString[1:]
+    if lat_degrees_str.startswith("-"):
+        lat_degrees_str = lat_degrees_str[1:]
+    if long_degrees_string.startswith("-"):
+        long_degrees_string = long_degrees_string[1:]
 
-    if len(longDegreesString) < 3:
-        longDegreesString = "0" + longDegreesString
-    if len(latDegreesString) < 2:
-        latDegreesString = "0" + latDegreesString
+    if len(long_degrees_string) < 3:
+        long_degrees_string = "0" + long_degrees_string
+    if len(lat_degrees_str) < 2:
+        lat_degrees_str = "0" + lat_degrees_str
 
-    converted = (latDegreesString + latMinutes.zfill(5) + latDirection + "S" +
-                 longDegreesString.zfill(3) + longMinutes.zfill(5) + longDirection)
+    converted = (lat_degrees_str + lat_minutes.zfill(5) + lat_direction + "S" +
+                 long_degrees_string.zfill(3) + long_minutes.zfill(5) + long_direction)
 
     return converted
 

@@ -1,0 +1,3424 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1" 
+     creator="SOTA Mapping Project GPX Generator 1.1" 
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+     xmlns="http://www.topografix.com/GPX/1/1" 
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>SOTA Summits GPX Export</name>
+    <desc>SOTA Summits data in GPX v1.1 format></desc>
+    <author>
+      <name>SOTA Mapping Project></name>
+      <email id="admin" domain="www.sotamaps.org" />
+      <link href="https://www.sotamaps.org">
+        <text>SOTA Mapping Project</text>
+      </link>
+    </author>
+    <link href="https://www.sotamaps.org">
+      <text>SOTA Mapping Project</text>
+    </link>
+    <time>2024-11-07T15:12:20Z</time>
+    <keywords>SOTA, Summits On The Air, amateur radio, ham radio</keywords>
+    <bounds minlat="47.6017" minlon="6.3593998" maxlat="54.553299" maxlon="14.8375"/>
+  </metadata>
+  <wpt lat="49.0219" lon="12.8211">
+    <ele>1049</ele>
+    <name>DM/BM-002</name>
+    <cmt><![CDATA[Pröller]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="48.964401" lon="12.8794">
+    <ele>1095</ele>
+    <name>DM/BM-006</name>
+    <cmt><![CDATA[Hirschenstein]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="48.9342" lon="12.9433">
+    <ele>1022</ele>
+    <name>DM/BM-010</name>
+    <cmt><![CDATA[Vogelsang]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="48.816898" lon="13.2167">
+    <ele>1011</ele>
+    <name>DM/BM-012</name>
+    <cmt><![CDATA[Brotjacklriegel]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.047199" lon="12.6744">
+    <ele>697</ele>
+    <name>DM/BM-013</name>
+    <cmt><![CDATA[Gallnerberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="48.906101" lon="12.9475">
+    <ele>775</ele>
+    <name>DM/BM-019</name>
+    <cmt><![CDATA[Butzen]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.20314" lon="13.109763">
+    <ele>1293</ele>
+    <name>DM/BM-028</name>
+    <cmt><![CDATA[Großer Osser]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.180801" lon="12.7731">
+    <ele>664</ele>
+    <name>DM/BM-030</name>
+    <cmt><![CDATA[Roßberghütte]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.165798" lon="12.9731">
+    <ele>1132</ele>
+    <name>DM/BM-036</name>
+    <cmt><![CDATA[Großer Riedelstein]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.112499" lon="13.1358">
+    <ele>1453</ele>
+    <name>DM/BM-047</name>
+    <cmt><![CDATA[Großer Arber]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="48.888901" lon="13.6425">
+    <ele>1139</ele>
+    <name>DM/BM-063</name>
+    <cmt><![CDATA[Almberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="48.6511" lon="13.6508">
+    <ele>789</ele>
+    <name>DM/BM-064</name>
+    <cmt><![CDATA[Staffelberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="48.8186" lon="13.6781">
+    <ele>1156</ele>
+    <name>DM/BM-065</name>
+    <cmt><![CDATA[Haidel]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.4636" lon="12.5375">
+    <ele>888</ele>
+    <name>DM/BM-087</name>
+    <cmt><![CDATA[Signalberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.5242" lon="12.6328">
+    <ele>894</ele>
+    <name>DM/BM-092</name>
+    <cmt><![CDATA[Ebene]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.614201" lon="10.2872">
+    <ele>499</ele>
+    <name>DM/BM-099</name>
+    <cmt><![CDATA[Scheinberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.944447" lon="10.453889">
+    <ele>488</ele>
+    <name>DM/BM-108</name>
+    <cmt><![CDATA[Zabelstein]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.108299" lon="10.6348">
+    <ele>494</ele>
+    <name>DM/BM-133</name>
+    <cmt><![CDATA[Bramberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.068901" lon="10.5256">
+    <ele>689</ele>
+    <name>DM/BM-135</name>
+    <cmt><![CDATA[Hesselberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.182499" lon="12.0203">
+    <ele>826</ele>
+    <name>DM/BM-153</name>
+    <cmt><![CDATA[Großer Kornberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.987499" lon="11.9797">
+    <ele>945</ele>
+    <name>DM/BM-154</name>
+    <cmt><![CDATA[Kösseine]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.0308" lon="11.8094">
+    <ele>1024</ele>
+    <name>DM/BM-160</name>
+    <cmt><![CDATA[Ochsenkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.0522" lon="11.8539">
+    <ele>1051</ele>
+    <name>DM/BM-161</name>
+    <cmt><![CDATA[Schneeberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.129025" lon="11.854528">
+    <ele>877</ele>
+    <name>DM/BM-165</name>
+    <cmt><![CDATA[Waldstein]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.909698" lon="12.0528">
+    <ele>946</ele>
+    <name>DM/BM-174</name>
+    <cmt><![CDATA[Platte]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.7136" lon="11.1578">
+    <ele>532</ele>
+    <name>DM/BM-195</name>
+    <cmt><![CDATA[Rodenstein]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.635571" lon="11.41116">
+    <ele>635</ele>
+    <name>DM/BM-203</name>
+    <cmt><![CDATA[Hohe Reut]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.467201" lon="11.3114">
+    <ele>603</ele>
+    <name>DM/BM-210</name>
+    <cmt><![CDATA[Moritzberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.240799" lon="11.4308">
+    <ele>591</ele>
+    <name>DM/BM-217</name>
+    <cmt><![CDATA[Buchberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.015598" lon="10.7622">
+    <ele>656</ele>
+    <name>DM/BM-226</name>
+    <cmt><![CDATA[Dürrenberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.276901" lon="9.7674999">
+    <ele>660</ele>
+    <name>DM/BM-240</name>
+    <cmt><![CDATA[Dreistelzberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.370602" lon="9.9792004">
+    <ele>928</ele>
+    <name>DM/BM-241</name>
+    <cmt><![CDATA[Kreuzberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.5994" lon="11.6194">
+    <ele>651</ele>
+    <name>DM/BM-253</name>
+    <cmt><![CDATA[Ossinger]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.413601" lon="11.5847">
+    <ele>653</ele>
+    <name>DM/BM-256</name>
+    <cmt><![CDATA[Poppberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="48.927502" lon="13.0278">
+    <ele>1121</ele>
+    <name>DM/BM-258</name>
+    <cmt><![CDATA[Einödriegel]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.098099" lon="12.9597">
+    <ele>898</ele>
+    <name>DM/BM-259</name>
+    <cmt><![CDATA[Weigelsberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.070301" lon="13.0411">
+    <ele>876</ele>
+    <name>DM/BM-261</name>
+    <cmt><![CDATA[Wolfgangriegel]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="48.987202" lon="13.0481">
+    <ele>785</ele>
+    <name>DM/BM-262</name>
+    <cmt><![CDATA[Rabenholz]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.0369" lon="13.1053">
+    <ele>983</ele>
+    <name>DM/BM-263</name>
+    <cmt><![CDATA[Kronberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.0397" lon="13.2894">
+    <ele>934</ele>
+    <name>DM/BM-267</name>
+    <cmt><![CDATA[Riesberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.1078" lon="13.2064">
+    <ele>943</ele>
+    <name>DM/BM-268</name>
+    <cmt><![CDATA[Hochberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="48.9347" lon="13.2792">
+    <ele>1042</ele>
+    <name>DM/BM-271</name>
+    <cmt><![CDATA[Eschenberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="48.978298" lon="13.3892">
+    <ele>1452</ele>
+    <name>DM/BM-274</name>
+    <cmt><![CDATA[Großer Rachel]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="48.9389" lon="13.5069">
+    <ele>1373</ele>
+    <name>DM/BM-276</name>
+    <cmt><![CDATA[Lusen]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="48.794701" lon="13.5372">
+    <ele>798</ele>
+    <name>DM/BM-279</name>
+    <cmt><![CDATA[Geyersberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="48.6394" lon="13.3014">
+    <ele>560</ele>
+    <name>DM/BM-286</name>
+    <cmt><![CDATA[Ebersberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="48.685001" lon="13.6581">
+    <ele>947</ele>
+    <name>DM/BM-288</name>
+    <cmt><![CDATA[Frauenwald]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="48.542801" lon="13.7222">
+    <ele>762</ele>
+    <name>DM/BM-290</name>
+    <cmt><![CDATA[Höhenberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="48.998299" lon="12.9406">
+    <ele>844</ele>
+    <name>DM/BM-295</name>
+    <cmt><![CDATA[Abendberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.034698" lon="12.7664">
+    <ele>922</ele>
+    <name>DM/BM-296</name>
+    <cmt><![CDATA[Hadriwa]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="48.9506" lon="12.7719">
+    <ele>595</ele>
+    <name>DM/BM-298</name>
+    <cmt><![CDATA[Engelsberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.215801" lon="12.8067">
+    <ele>742</ele>
+    <name>DM/BM-304</name>
+    <cmt><![CDATA[Haidstein]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.3022" lon="12.6506">
+    <ele>691</ele>
+    <name>DM/BM-309</name>
+    <cmt><![CDATA[Hochwald]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.667198" lon="12.3656">
+    <ele>801</ele>
+    <name>DM/BM-321</name>
+    <cmt><![CDATA[Fahrenberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.757801" lon="12.3983">
+    <ele>900</ele>
+    <name>DM/BM-323</name>
+    <cmt><![CDATA[Entenbühl]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="48.870602" lon="13.2125">
+    <ele>880</ele>
+    <name>DM/BM-324</name>
+    <cmt><![CDATA[Fürberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.230301" lon="11.2533">
+    <ele>517</ele>
+    <name>DM/BM-330</name>
+    <cmt><![CDATA[Oberer roter Bühl]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.278099" lon="11.6431">
+    <ele>795</ele>
+    <name>DM/BM-332</name>
+    <cmt><![CDATA[Döbraberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.089401" lon="11.4808">
+    <ele>528</ele>
+    <name>DM/BM-334</name>
+    <cmt><![CDATA[Kesselleite]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.3242" lon="11.1364">
+    <ele>516</ele>
+    <name>DM/BM-336</name>
+    <cmt><![CDATA[Muppberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.812199" lon="11.9983">
+    <ele>715</ele>
+    <name>DM/BM-337</name>
+    <cmt><![CDATA[Hesserberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.828602" lon="11.8497">
+    <ele>681</ele>
+    <name>DM/BM-339</name>
+    <cmt><![CDATA[Rauher Kulm]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.781101" lon="11.5061">
+    <ele>627</ele>
+    <name>DM/BM-344</name>
+    <cmt><![CDATA[Kleiner Kulm]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.7817" lon="11.6817">
+    <ele>644</ele>
+    <name>DM/BM-345</name>
+    <cmt><![CDATA[Kalvarienberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.511902" lon="12.0128">
+    <ele>673</ele>
+    <name>DM/BM-349</name>
+    <cmt><![CDATA[Rotbühl]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.324402" lon="11.3822">
+    <ele>595</ele>
+    <name>DM/BM-351</name>
+    <cmt><![CDATA[Dillberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.1703" lon="11.4292">
+    <ele>573</ele>
+    <name>DM/BM-352</name>
+    <cmt><![CDATA[Schlüpfelberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="48.7742" lon="11.1017">
+    <ele>552</ele>
+    <name>DM/BM-356</name>
+    <cmt><![CDATA[Hainberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.1619" lon="10.9769">
+    <ele>484</ele>
+    <name>DM/BM-361</name>
+    <cmt><![CDATA[Kulch]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.186901" lon="10.4911">
+    <ele>512</ele>
+    <name>DM/BM-362</name>
+    <cmt><![CDATA[Nassacher Höhe]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.321098" lon="9.9302998">
+    <ele>839</ele>
+    <name>DM/BM-366</name>
+    <cmt><![CDATA[Totnansberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.105789" lon="9.8056698">
+    <ele>486</ele>
+    <name>DM/BM-367</name>
+    <cmt><![CDATA[Sodenberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.23402" lon="12.934895">
+    <ele>1079</ele>
+    <name>DM/BM-368</name>
+    <cmt><![CDATA[Schwarzriegel]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.9314" lon="10.5397">
+    <ele>491</ele>
+    <name>DM/BM-369</name>
+    <cmt><![CDATA[Euerberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.361" lon="12.4757">
+    <ele>708</ele>
+    <name>DM/BM-371</name>
+    <cmt><![CDATA[Oberer Eibenstein]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.3969" lon="9.8620996">
+    <ele>928</ele>
+    <name>DM/BM-372</name>
+    <cmt><![CDATA[Dammersfeldkuppe]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.026501" lon="12.5544">
+    <ele>740</ele>
+    <name>DM/BM-373</name>
+    <cmt><![CDATA[Büscherl]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.026501" lon="11.0058">
+    <ele>644</ele>
+    <name>DM/BM-374</name>
+    <cmt><![CDATA[Wülzburg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.307201" lon="9.8233995">
+    <ele>639</ele>
+    <name>DM/BM-375</name>
+    <cmt><![CDATA[Pilsterköpfe]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.900299" lon="11.0664">
+    <ele>596</ele>
+    <name>DM/BM-376</name>
+    <cmt><![CDATA[Brandholz]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.905998" lon="9.4300003">
+    <ele>586</ele>
+    <name>DM/BM-377</name>
+    <cmt><![CDATA[Geiersberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.028198" lon="11.4197">
+    <ele>574</ele>
+    <name>DM/BM-378</name>
+    <cmt><![CDATA[Sulzbuck]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.0783" lon="9.1094999">
+    <ele>436</ele>
+    <name>DM/BM-379</name>
+    <cmt><![CDATA[Hahnenkamm]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.896599" lon="9.8683996">
+    <ele>387</ele>
+    <name>DM/BM-380</name>
+    <cmt><![CDATA[Breitfeldhöhe]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Bayern (Mittelgebirge)]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="47.8736" lon="8.0038996">
+    <ele>1493</ele>
+    <name>DM/BW-001</name>
+    <cmt><![CDATA[Feldberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="47.835602" lon="8.0188999">
+    <ele>1415</ele>
+    <name>DM/BW-002</name>
+    <cmt><![CDATA[Herzogenhorn]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="47.822498" lon="7.8330998">
+    <ele>1414</ele>
+    <name>DM/BW-003</name>
+    <cmt><![CDATA[Belchen]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="47.911701" lon="7.8983002">
+    <ele>1284</ele>
+    <name>DM/BW-008</name>
+    <cmt><![CDATA[Schauinsland]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="48.062199" lon="8.0110998">
+    <ele>1241</ele>
+    <name>DM/BW-009</name>
+    <cmt><![CDATA[Kandel]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="47.7892" lon="7.7883">
+    <ele>1229</ele>
+    <name>DM/BW-010</name>
+    <cmt><![CDATA[Köhlgarten]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="47.939701" lon="8.1175003">
+    <ele>1190</ele>
+    <name>DM/BW-014</name>
+    <cmt><![CDATA[Weisstannenhöhe]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="47.9011" lon="8.1842003">
+    <ele>1190</ele>
+    <name>DM/BW-015</name>
+    <cmt><![CDATA[Hochfirst]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="48.11301" lon="8.1171741">
+    <ele>1177</ele>
+    <name>DM/BW-016</name>
+    <cmt><![CDATA[Obereck]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="47.778301" lon="7.7010999">
+    <ele>1165</ele>
+    <name>DM/BW-018</name>
+    <cmt><![CDATA[Blauen]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="48.605801" lon="8.2013998">
+    <ele>1163</ele>
+    <name>DM/BW-019</name>
+    <cmt><![CDATA[Hornisgrinde]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="48.642502" lon="8.2686005">
+    <ele>1055</ele>
+    <name>DM/BW-029</name>
+    <cmt><![CDATA[Hoher Ochsenkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="48.150719" lon="8.7497396">
+    <ele>1015</ele>
+    <name>DM/BW-038</name>
+    <cmt><![CDATA[Lemberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="48.1628" lon="8.8052998">
+    <ele>1007</ele>
+    <name>DM/BW-041</name>
+    <cmt><![CDATA[Wandbühl]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="48.213638" lon="8.80723">
+    <ele>1002</ele>
+    <name>DM/BW-046</name>
+    <cmt><![CDATA[Plettenberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="48.669399" lon="8.2756004">
+    <ele>1002</ele>
+    <name>DM/BW-047</name>
+    <cmt><![CDATA[Badener Höhe]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="48.708599" lon="8.4158001">
+    <ele>984</ele>
+    <name>DM/BW-054</name>
+    <cmt><![CDATA[Hohloh]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="47.692799" lon="7.8741999">
+    <ele>983</ele>
+    <name>DM/BW-055</name>
+    <cmt><![CDATA[Hohe Möhr]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="48.023899" lon="8.6710997">
+    <ele>977</ele>
+    <name>DM/BW-057</name>
+    <cmt><![CDATA[Lupfen]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="48.2719" lon="9.0219002">
+    <ele>975</ele>
+    <name>DM/BW-058</name>
+    <cmt><![CDATA[Burg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="48.224998" lon="8.9483004">
+    <ele>964</ele>
+    <name>DM/BW-064</name>
+    <cmt><![CDATA[Heersberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="48.404202" lon="8.2367001">
+    <ele>947</ele>
+    <name>DM/BW-066</name>
+    <cmt><![CDATA[Großer Hundskopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="48.338902" lon="8.1535997">
+    <ele>945</ele>
+    <name>DM/BW-067</name>
+    <cmt><![CDATA[Brandenkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="48.448601" lon="8.1985998">
+    <ele>874</ele>
+    <name>DM/BW-077</name>
+    <cmt><![CDATA[Braunberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="48.509998" lon="9.5441999">
+    <ele>872</ele>
+    <name>DM/BW-078</name>
+    <cmt><![CDATA[Römerstein]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="47.7953" lon="8.7503004">
+    <ele>844</ele>
+    <name>DM/BW-085</name>
+    <cmt><![CDATA[Hohenstoffeln]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="47.836102" lon="8.7472">
+    <ele>844</ele>
+    <name>DM/BW-086</name>
+    <cmt><![CDATA[Hohenhewen]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="48.388302" lon="9.0705996">
+    <ele>820</ele>
+    <name>DM/BW-089</name>
+    <cmt><![CDATA[Farrenberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="48.256901" lon="8.1814003">
+    <ele>789</ele>
+    <name>DM/BW-093</name>
+    <cmt><![CDATA[Farrenkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="48.619999" lon="9.6328001">
+    <ele>779</ele>
+    <name>DM/BW-094</name>
+    <cmt><![CDATA[Kornberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="48.4944" lon="9.2441998">
+    <ele>707</ele>
+    <name>DM/BW-099</name>
+    <cmt><![CDATA[Achalm]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="47.764702" lon="8.8193998">
+    <ele>690</ele>
+    <name>DM/BW-101</name>
+    <cmt><![CDATA[Hohentwiel]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="48.743099" lon="9.7166996">
+    <ele>684</ele>
+    <name>DM/BW-102</name>
+    <cmt><![CDATA[Hohenstaufen]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="48.7644" lon="8.2805996">
+    <ele>668</ele>
+    <name>DM/BW-103</name>
+    <cmt><![CDATA[Merkur]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="47.954399" lon="7.8053002">
+    <ele>645</ele>
+    <name>DM/BW-105</name>
+    <cmt><![CDATA[Schönberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.4706" lon="9.0410995">
+    <ele>624</ele>
+    <name>DM/BW-107</name>
+    <cmt><![CDATA[Katzenbuckel]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="48.604401" lon="9.5363998">
+    <ele>598</ele>
+    <name>DM/BW-110</name>
+    <cmt><![CDATA[Limburg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.036701" lon="9.5502996">
+    <ele>586</ele>
+    <name>DM/BW-111</name>
+    <cmt><![CDATA[Hohe Brach]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.402588" lon="8.7301321">
+    <ele>568</ele>
+    <name>DM/BW-114</name>
+    <cmt><![CDATA[Königstuhl]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="48.080799" lon="7.6725001">
+    <ele>564</ele>
+    <name>DM/BW-115</name>
+    <cmt><![CDATA[Kaiserstuhl/Totenkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="48.870602" lon="10.3561">
+    <ele>668</ele>
+    <name>DM/BW-131</name>
+    <cmt><![CDATA[Ipf]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="48.220299" lon="8.8381004">
+    <ele>1000</ele>
+    <name>DM/BW-147</name>
+    <cmt><![CDATA[Gespaltener Fels]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="47.992199" lon="8.6700001">
+    <ele>949</ele>
+    <name>DM/BW-156</name>
+    <cmt><![CDATA[Lindenberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="47.881199" lon="8.5834999">
+    <ele>921</ele>
+    <name>DM/BW-193</name>
+    <cmt><![CDATA[Schächer]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="48.054699" lon="8.7417002">
+    <ele>954</ele>
+    <name>DM/BW-195</name>
+    <cmt><![CDATA[Zundelberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.003899" lon="8.9881001">
+    <ele>477</ele>
+    <name>DM/BW-212</name>
+    <cmt><![CDATA[Baiselberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="48.117802" lon="8.7638998">
+    <ele>1002</ele>
+    <name>DM/BW-228</name>
+    <cmt><![CDATA[Hummelsberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="47.830299" lon="8.5214005">
+    <ele>880</ele>
+    <name>DM/BW-233</name>
+    <cmt><![CDATA[Buchberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="47.786919" lon="8.5564518">
+    <ele>930</ele>
+    <name>DM/BW-235</name>
+    <cmt><![CDATA[Hoher Randen]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="47.819199" lon="8.0930996">
+    <ele>1299</ele>
+    <name>DM/BW-284</name>
+    <cmt><![CDATA[Schnepfhalde]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="47.741402" lon="7.8463998">
+    <ele>1074</ele>
+    <name>DM/BW-293</name>
+    <cmt><![CDATA[Zeller Blauen]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="48.0975" lon="7.9443998">
+    <ele>516</ele>
+    <name>DM/BW-298</name>
+    <cmt><![CDATA[Hohe Tanne]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="48.353901" lon="7.9808002">
+    <ele>639</ele>
+    <name>DM/BW-308</name>
+    <cmt><![CDATA[Rauhkasten]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="48.467499" lon="8.0263996">
+    <ele>690</ele>
+    <name>DM/BW-314</name>
+    <cmt><![CDATA[Brandeckkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="47.741699" lon="9.4242001">
+    <ele>754</ele>
+    <name>DM/BW-348</name>
+    <cmt><![CDATA[Gehrenberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="47.786701" lon="9.0353003">
+    <ele>698</ele>
+    <name>DM/BW-359</name>
+    <cmt><![CDATA[Stöckenloch]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="47.807201" lon="8.9558001">
+    <ele>640</ele>
+    <name>DM/BW-361</name>
+    <cmt><![CDATA[Rossberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="47.6856" lon="8.9194002">
+    <ele>716</ele>
+    <name>DM/BW-363</name>
+    <cmt><![CDATA[Schiener Berg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="47.704082" lon="8.7769508">
+    <ele>621</ele>
+    <name>DM/BW-365</name>
+    <cmt><![CDATA[Rauhenberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="48.808601" lon="8.4083004">
+    <ele>759</ele>
+    <name>DM/BW-385</name>
+    <cmt><![CDATA[Mauzenberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.4361" lon="8.9783001">
+    <ele>519</ele>
+    <name>DM/BW-454</name>
+    <cmt><![CDATA[Hebert]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="47.6492" lon="8.4756002">
+    <ele>641</ele>
+    <name>DM/BW-461</name>
+    <cmt><![CDATA[Napberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="47.6017" lon="8.3978004">
+    <ele>690</ele>
+    <name>DM/BW-471</name>
+    <cmt><![CDATA[Wannenberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="48.162418" lon="9.5564203">
+    <ele>767</ele>
+    <name>DM/BW-484</name>
+    <cmt><![CDATA[Bussen]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="48.204399" lon="7.9717002">
+    <ele>744</ele>
+    <name>DM/BW-531</name>
+    <cmt><![CDATA[Hünersedel]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="47.773602" lon="7.9397001">
+    <ele>1205</ele>
+    <name>DM/BW-639</name>
+    <cmt><![CDATA[Hochgescheid]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="47.794399" lon="8.0044003">
+    <ele>1310</ele>
+    <name>DM/BW-640</name>
+    <cmt><![CDATA[Blößling]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="48.8475" lon="10.1425">
+    <ele>733</ele>
+    <name>DM/BW-653</name>
+    <cmt><![CDATA[Grünenberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="48.735001" lon="9.8500004">
+    <ele>781</ele>
+    <name>DM/BW-659</name>
+    <cmt><![CDATA[Kaltes Feld]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="48.743301" lon="9.8185997">
+    <ele>757</ele>
+    <name>DM/BW-661</name>
+    <cmt><![CDATA[Stuifen]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="48.6367" lon="9.7118998">
+    <ele>751</ele>
+    <name>DM/BW-664</name>
+    <cmt><![CDATA[Wasserberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="48.588299" lon="9.4702997">
+    <ele>775</ele>
+    <name>DM/BW-695</name>
+    <cmt><![CDATA[Teck]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="47.752201" lon="7.7392001">
+    <ele>1084</ele>
+    <name>DM/BW-766</name>
+    <cmt><![CDATA[Hohwildsberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="47.672501" lon="7.7814002">
+    <ele>619</ele>
+    <name>DM/BW-768</name>
+    <cmt><![CDATA[Scheinberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="47.694698" lon="7.7024999">
+    <ele>702</ele>
+    <name>DM/BW-801</name>
+    <cmt><![CDATA[Munzenberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="48.1203" lon="7.9731002">
+    <ele>607</ele>
+    <name>DM/BW-841</name>
+    <cmt><![CDATA[Vögelestein]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="47.981701" lon="8.7650003">
+    <ele>867</ele>
+    <name>DM/BW-845</name>
+    <cmt><![CDATA[Hummelskopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="48.323601" lon="8.9674997">
+    <ele>850</ele>
+    <name>DM/BW-846</name>
+    <cmt><![CDATA[Burg Hohenzollern]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="48.4482" lon="8.0948">
+    <ele>878</ele>
+    <name>DM/BW-847</name>
+    <cmt><![CDATA[Siedigkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="48.750248" lon="9.8871403">
+    <ele>778</ele>
+    <name>DM/BW-848</name>
+    <cmt><![CDATA[Bernhardus]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="47.794498" lon="8.1941004">
+    <ele>1105</ele>
+    <name>DM/BW-849</name>
+    <cmt><![CDATA[Wagnersberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="47.8125" lon="9.1409998">
+    <ele>717</ele>
+    <name>DM/BW-850</name>
+    <cmt><![CDATA[Hochbühl]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="47.842468" lon="8.1478977">
+    <ele>1175</ele>
+    <name>DM/BW-851</name>
+    <cmt><![CDATA[Ahaberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="48.315243" lon="9.1231728">
+    <ele>910</ele>
+    <name>DM/BW-852</name>
+    <cmt><![CDATA[Herrenwald]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="48.041683" lon="8.9954119">
+    <ele>871</ele>
+    <name>DM/BW-853</name>
+    <cmt><![CDATA[Blankenhalde]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="47.822926" lon="9.4008799">
+    <ele>838</ele>
+    <name>DM/BW-854</name>
+    <cmt><![CDATA[Höchsten]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="48.618633" lon="9.7705936">
+    <ele>751</ele>
+    <name>DM/BW-855</name>
+    <cmt><![CDATA[Michelsberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="48.372463" lon="9.7499933">
+    <ele>699</ele>
+    <name>DM/BW-856</name>
+    <cmt><![CDATA[Kapellenberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="48.26952" lon="8.2166653">
+    <ele>634</ele>
+    <name>DM/BW-857</name>
+    <cmt><![CDATA[Bühlerstein]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="48.726013" lon="8.2258358">
+    <ele>586</ele>
+    <name>DM/BW-858</name>
+    <cmt><![CDATA[Iberst]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="48.777817" lon="8.2522087">
+    <ele>568</ele>
+    <name>DM/BW-859</name>
+    <cmt><![CDATA[Battert]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="48.841946" lon="8.3333292">
+    <ele>533</ele>
+    <name>DM/BW-860</name>
+    <cmt><![CDATA[Eichelberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="48.752602" lon="8.2022734">
+    <ele>525</ele>
+    <name>DM/BW-861</name>
+    <cmt><![CDATA[Fremersberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Baden-Württemberg]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.49765" lon="9.9362898">
+    <ele>950</ele>
+    <name>DM/HE-001</name>
+    <cmt><![CDATA[Wasserkuppe]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Hessen]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.233601" lon="8.4577999">
+    <ele>879</ele>
+    <name>DM/HE-003</name>
+    <cmt><![CDATA[Großer Feldberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Hessen]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.545601" lon="9.8985996">
+    <ele>835</ele>
+    <name>DM/HE-007</name>
+    <cmt><![CDATA[Milseburg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Hessen]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.518101" lon="9.2391996">
+    <ele>773</ele>
+    <name>DM/HE-017</name>
+    <cmt><![CDATA[Taufstein]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Hessen]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.016399" lon="9.0841999">
+    <ele>675</ele>
+    <name>DM/HE-023</name>
+    <cmt><![CDATA[Wüstegarten]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Hessen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.956402" lon="8.5391998">
+    <ele>674</ele>
+    <name>DM/HE-025</name>
+    <cmt><![CDATA[Sackpfeife]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Hessen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.0261" lon="9.0216999">
+    <ele>657</ele>
+    <name>DM/HE-029</name>
+    <cmt><![CDATA[Hohes Lohr]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Hessen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.24556" lon="9.7552795">
+    <ele>643</ele>
+    <name>DM/HE-032</name>
+    <cmt><![CDATA[Hirschberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Hessen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.285358" lon="9.7870598">
+    <ele>641</ele>
+    <name>DM/HE-035</name>
+    <cmt><![CDATA[Bilstein]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Hessen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.888302" lon="9.5180998">
+    <ele>636</ele>
+    <name>DM/HE-037</name>
+    <cmt><![CDATA[Eisenberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Hessen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.7892" lon="9.8844004">
+    <ele>630</ele>
+    <name>DM/HE-042</name>
+    <cmt><![CDATA[Soisberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Hessen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.1325" lon="8.9775">
+    <ele>626</ele>
+    <name>DM/HE-043</name>
+    <cmt><![CDATA[Traddelkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Hessen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.055599" lon="8.0032997">
+    <ele>619</ele>
+    <name>DM/HE-044</name>
+    <cmt><![CDATA[Kalte Herberge]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Hessen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.112499" lon="8.1296997">
+    <ele>618</ele>
+    <name>DM/HE-045</name>
+    <cmt><![CDATA[Hohe Wurzel]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Hessen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.307201" lon="9.3557997">
+    <ele>615</ele>
+    <name>DM/HE-046</name>
+    <cmt><![CDATA[Hohes Gras]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Hessen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.065334" lon="9.0765514">
+    <ele>611</ele>
+    <name>DM/HE-047</name>
+    <cmt><![CDATA[Auenberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Hessen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.788898" lon="8.4306002">
+    <ele>609</ele>
+    <name>DM/HE-048</name>
+    <cmt><![CDATA[Angelburg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Hessen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.7197" lon="8.7716999">
+    <ele>605</ele>
+    <name>DM/HE-053</name>
+    <cmt><![CDATA[Neunkircher Höhe]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Hessen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.352333" lon="9.267333">
+    <ele>601</ele>
+    <name>DM/HE-054</name>
+    <cmt><![CDATA[Großer Bärenberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Hessen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.5383" lon="8.8052998">
+    <ele>593</ele>
+    <name>DM/HE-057</name>
+    <cmt><![CDATA[Hardberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Hessen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.793098" lon="9.4666996">
+    <ele>592</ele>
+    <name>DM/HE-058</name>
+    <cmt><![CDATA[Rimberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Hessen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.158901" lon="8.2545996">
+    <ele>592</ele>
+    <name>DM/HE-059</name>
+    <cmt><![CDATA[Hohe Kanzel]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Hessen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.988899" lon="9.0381002">
+    <ele>583</ele>
+    <name>DM/HE-064</name>
+    <cmt><![CDATA[Jeust]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Hessen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.35442" lon="9.3471603">
+    <ele>579</ele>
+    <name>DM/HE-066</name>
+    <cmt><![CDATA[Hoher Dörnberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Hessen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.604443" lon="8.8027782">
+    <ele>577</ele>
+    <name>DM/HE-068</name>
+    <cmt><![CDATA[Tromm]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Hessen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.250599" lon="10.04">
+    <ele>569</ele>
+    <name>DM/HE-072</name>
+    <cmt><![CDATA[Hohestein]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Hessen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.889198" lon="8.4941998">
+    <ele>561</ele>
+    <name>DM/HE-075</name>
+    <cmt><![CDATA[Schwarzenberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Hessen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.036545" lon="9.7322073">
+    <ele>549</ele>
+    <name>DM/HE-082</name>
+    <cmt><![CDATA[Alheimer]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Hessen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.7183" lon="9.8424997">
+    <ele>554</ele>
+    <name>DM/HE-087</name>
+    <cmt><![CDATA[Stallberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Hessen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.119701" lon="9.0888996">
+    <ele>528</ele>
+    <name>DM/HE-088</name>
+    <cmt><![CDATA[Homberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Hessen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.251099" lon="9.6599998">
+    <ele>528</ele>
+    <name>DM/HE-089</name>
+    <cmt><![CDATA[Bielstein]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Hessen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.874401" lon="9.8681002">
+    <ele>524</ele>
+    <name>DM/HE-092</name>
+    <cmt><![CDATA[Dreienberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Hessen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.318298" lon="9.2192001">
+    <ele>523</ele>
+    <name>DM/HE-094</name>
+    <cmt><![CDATA[Isthaberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Hessen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.736099" lon="9.8755999">
+    <ele>522</ele>
+    <name>DM/HE-095</name>
+    <cmt><![CDATA[Kleinberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Hessen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.327801" lon="8.6617002">
+    <ele>518</ele>
+    <name>DM/HE-097</name>
+    <cmt><![CDATA[Steinkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Hessen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.116638" lon="10.09999">
+    <ele>515</ele>
+    <name>DM/HE-101</name>
+    <cmt><![CDATA[Rabenkuppe]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Hessen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.730598" lon="8.6852999">
+    <ele>514</ele>
+    <name>DM/HE-102</name>
+    <cmt><![CDATA[Felsberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Hessen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.100822" lon="10.009274">
+    <ele>513</ele>
+    <name>DM/HE-103</name>
+    <cmt><![CDATA[Boyneburg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Hessen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.641899" lon="9.54">
+    <ele>494</ele>
+    <name>DM/HE-111</name>
+    <cmt><![CDATA[Sängersberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Hessen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.2808" lon="9.915">
+    <ele>482</ele>
+    <name>DM/HE-121</name>
+    <cmt><![CDATA[Roßkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Hessen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.042801" lon="9.5602999">
+    <ele>480</ele>
+    <name>DM/HE-128</name>
+    <cmt><![CDATA[Eichelsberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Hessen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.369202" lon="9.8824997">
+    <ele>478</ele>
+    <name>DM/HE-131</name>
+    <cmt><![CDATA[Auf der Schärfe]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Hessen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.871899" lon="8.6700001">
+    <ele>474</ele>
+    <name>DM/HE-135</name>
+    <cmt><![CDATA[Wollenberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Hessen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.788601" lon="9.6497002">
+    <ele>476</ele>
+    <name>DM/HE-136</name>
+    <cmt><![CDATA[Mengshäuser Kuppe]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Hessen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.508301" lon="9.5613003">
+    <ele>472</ele>
+    <name>DM/HE-138</name>
+    <cmt><![CDATA[Staufenberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Hessen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.141701" lon="8.4155998">
+    <ele>451</ele>
+    <name>DM/HE-151</name>
+    <cmt><![CDATA[Staufen]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Hessen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.0453" lon="9.2108002">
+    <ele>433</ele>
+    <name>DM/HE-165</name>
+    <cmt><![CDATA[Altenburg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Hessen]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.178101" lon="9.6933002">
+    <ele>564</ele>
+    <name>DM/HE-241</name>
+    <cmt><![CDATA[Himmelsberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Hessen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.227798" lon="9.8627996">
+    <ele>754</ele>
+    <name>DM/HE-253</name>
+    <cmt><![CDATA[Kasseler Kuppe]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Hessen]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.146679" lon="9.7753601">
+    <ele>583</ele>
+    <name>DM/HE-272</name>
+    <cmt><![CDATA[Eisberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Hessen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.7258" lon="8.6372004">
+    <ele>517</ele>
+    <name>DM/HE-314</name>
+    <cmt><![CDATA[Melibocus]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Hessen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.676899" lon="8.8305998">
+    <ele>478</ele>
+    <name>DM/HE-333</name>
+    <cmt><![CDATA[Stotz]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Hessen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.249699" lon="9.3428001">
+    <ele>537</ele>
+    <name>DM/HE-353</name>
+    <cmt><![CDATA[Schwengeberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Hessen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.442902" lon="9.8823004">
+    <ele>783</ele>
+    <name>DM/HE-427</name>
+    <cmt><![CDATA[Großer Nallenberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Hessen]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.6842" lon="8.7307997">
+    <ele>576</ele>
+    <name>DM/HE-484</name>
+    <cmt><![CDATA[Krehberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Hessen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.106899" lon="9.5166998">
+    <ele>567</ele>
+    <name>DM/HE-499</name>
+    <cmt><![CDATA[Hermannskoppe]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Hessen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.7967" lon="8.9216995">
+    <ele>363</ele>
+    <name>DM/HE-509</name>
+    <cmt><![CDATA[Amöneburg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Hessen]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.580002" lon="9.375">
+    <ele>391</ele>
+    <name>DM/HE-516</name>
+    <cmt><![CDATA[Deiselberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Hessen]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.149399" lon="9.0230999">
+    <ele>615</ele>
+    <name>DM/HE-517</name>
+    <cmt><![CDATA[Dicker Kopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Hessen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.651699" lon="8.5808001">
+    <ele>498</ele>
+    <name>DM/HE-518</name>
+    <cmt><![CDATA[Dünsberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Hessen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.639999" lon="9.9949999">
+    <ele>721</ele>
+    <name>DM/HE-526</name>
+    <cmt><![CDATA[Habelberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Hessen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.1875" lon="8.3257999">
+    <ele>524</ele>
+    <name>DM/HE-547</name>
+    <cmt><![CDATA[Nickel]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Hessen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.8167" lon="8.8022003">
+    <ele>379</ele>
+    <name>DM/HE-548</name>
+    <cmt><![CDATA[Ortenberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Hessen]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.751701" lon="9.7017002">
+    <ele>516</ele>
+    <name>DM/HE-561</name>
+    <cmt><![CDATA[Stoppelsberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Hessen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.0051" lon="8.6046">
+    <ele>552</ele>
+    <name>DM/HE-562</name>
+    <cmt><![CDATA[Struthkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Hessen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.133301" lon="9.0900002">
+    <ele>488</ele>
+    <name>DM/HE-568</name>
+    <cmt><![CDATA[Wolfschur]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Hessen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.387699" lon="9.7545996">
+    <ele>658</ele>
+    <name>DM/HE-570</name>
+    <cmt><![CDATA[Große Haube]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Hessen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="54.553299" lon="13.6281">
+    <ele>161</ele>
+    <name>DM/ND-003</name>
+    <cmt><![CDATA[Piekberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Norddeutschland]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="54.210949" lon="10.7238">
+    <ele>167</ele>
+    <name>DM/ND-009</name>
+    <cmt><![CDATA[Bungsberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Norddeutschland]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.756401" lon="10.6181">
+    <ele>971</ele>
+    <name>DM/NS-001</name>
+    <cmt><![CDATA[Wurmberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Niedersachsen]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.850601" lon="10.3831">
+    <ele>762</ele>
+    <name>DM/NS-008</name>
+    <cmt><![CDATA[Schalke]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Niedersachsen]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="52.175598" lon="8.0532999">
+    <ele>331</ele>
+    <name>DM/NS-036</name>
+    <cmt><![CDATA[Dörenberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Niedersachsen]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.780602" lon="9.5918999">
+    <ele>528</ele>
+    <name>DM/NS-092</name>
+    <cmt><![CDATA[Große Blöße]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Niedersachsen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="52.164398" lon="9.5639">
+    <ele>375</ele>
+    <name>DM/NS-107</name>
+    <cmt><![CDATA[Grasberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Niedersachsen]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="52.3186" lon="8.0216999">
+    <ele>194</ele>
+    <name>DM/NS-108</name>
+    <cmt><![CDATA[Piesberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Niedersachsen]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.820599" lon="10.1539">
+    <ele>401</ele>
+    <name>DM/NS-110</name>
+    <cmt><![CDATA[Fahrenberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Niedersachsen]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.686401" lon="10.4519">
+    <ele>686</ele>
+    <name>DM/NS-111</name>
+    <cmt><![CDATA[Aschentalshalbe]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Niedersachsen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.891899" lon="10.2889">
+    <ele>556</ele>
+    <name>DM/NS-115</name>
+    <cmt><![CDATA[Ecksberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Niedersachsen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="52.215599" lon="9.0689001">
+    <ele>320</ele>
+    <name>DM/NS-117</name>
+    <cmt><![CDATA[Hainholz/Lange Wand]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Niedersachsen]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="52.128601" lon="9.6125002">
+    <ele>419</ele>
+    <name>DM/NS-121</name>
+    <cmt><![CDATA[Fast]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Niedersachsen]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="52.2472" lon="9.5082998">
+    <ele>405</ele>
+    <name>DM/NS-122</name>
+    <cmt><![CDATA[Bröhn]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Niedersachsen]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="52.259701" lon="9.2114">
+    <ele>373</ele>
+    <name>DM/NS-125</name>
+    <cmt><![CDATA[Bückeberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Niedersachsen]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="52.171398" lon="9.3836002">
+    <ele>440</ele>
+    <name>DM/NS-126</name>
+    <cmt><![CDATA[Hohe Egge]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Niedersachsen]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="52.058102" lon="9.6227999">
+    <ele>441</ele>
+    <name>DM/NS-127</name>
+    <cmt><![CDATA[Thüster Berg / Kanstein]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Niedersachsen]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.929199" lon="9.5657997">
+    <ele>460</ele>
+    <name>DM/NS-129</name>
+    <cmt><![CDATA[Ebersnacken]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Niedersachsen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="52.028999" lon="9.2943993">
+    <ele>361</ele>
+    <name>DM/NS-133</name>
+    <cmt><![CDATA[Schierholzberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Niedersachsen]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="52.085831" lon="9.5269403">
+    <ele>439</ele>
+    <name>DM/NS-135</name>
+    <cmt><![CDATA[Lauensteiner Kopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Niedersachsen]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.958599" lon="9.6899996">
+    <ele>480</ele>
+    <name>DM/NS-136</name>
+    <cmt><![CDATA[Bloße Zelle]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Niedersachsen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.473099" lon="9.7650003">
+    <ele>492</ele>
+    <name>DM/NS-141</name>
+    <cmt><![CDATA[Hoher Hagen]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Niedersachsen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.554199" lon="9.6852999">
+    <ele>402</ele>
+    <name>DM/NS-143</name>
+    <cmt><![CDATA[Heidelberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Niedersachsen]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.5378" lon="10.0494">
+    <ele>428</ele>
+    <name>DM/NS-147</name>
+    <cmt><![CDATA[Mackenröder Spitze]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Niedersachsen]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.8144" lon="10.0614">
+    <ele>370</ele>
+    <name>DM/NS-152</name>
+    <cmt><![CDATA[Kahlberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Niedersachsen]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.872501" lon="9.7489004">
+    <ele>411</ele>
+    <name>DM/NS-155</name>
+    <cmt><![CDATA[Helleberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Niedersachsen]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.846901" lon="9.6368999">
+    <ele>445</ele>
+    <name>DM/NS-156</name>
+    <cmt><![CDATA[Holzberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Niedersachsen]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="52.035301" lon="9.8167">
+    <ele>395</ele>
+    <name>DM/NS-160</name>
+    <cmt><![CDATA[Hohe Tafel]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Niedersachsen]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="52.063438" lon="9.9637003">
+    <ele>359</ele>
+    <name>DM/NS-161</name>
+    <cmt><![CDATA[Griesberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Niedersachsen]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="52.057499" lon="10.0406">
+    <ele>317</ele>
+    <name>DM/NS-163</name>
+    <cmt><![CDATA[Hammersteins Höhe]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Niedersachsen]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="52.1964" lon="10.7433">
+    <ele>323</ele>
+    <name>DM/NS-165</name>
+    <cmt><![CDATA[Eilumer Horn]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Niedersachsen]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.9058" lon="9.8902998">
+    <ele>396</ele>
+    <name>DM/NS-175</name>
+    <cmt><![CDATA[Hohe Egge]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Niedersachsen]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.958302" lon="9.3247004">
+    <ele>375</ele>
+    <name>DM/NS-177</name>
+    <cmt><![CDATA[Mühlenberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Niedersachsen]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.790001" lon="10.0048">
+    <ele>316</ele>
+    <name>DM/NS-178</name>
+    <cmt><![CDATA[Westerberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Niedersachsen]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.682201" lon="7.2494001">
+    <ele>461</ele>
+    <name>DM/NW-003</name>
+    <cmt><![CDATA[Ölberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Nordrhein-Westfalen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.18" lon="8.4885998">
+    <ele>841</ele>
+    <name>DM/NW-026</name>
+    <cmt><![CDATA[Kahler Asten]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Nordrhein-Westfalen]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="52.014702" lon="8.4752998">
+    <ele>302</ele>
+    <name>DM/NW-062</name>
+    <cmt><![CDATA[Hünenburg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Nordrhein-Westfalen]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="52.261902" lon="8.4792004">
+    <ele>274</ele>
+    <name>DM/NW-063</name>
+    <cmt><![CDATA[Nonnenstein]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Nordrhein-Westfalen]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="52.291401" lon="8.6386003">
+    <ele>320</ele>
+    <name>DM/NW-078</name>
+    <cmt><![CDATA[Heidbrink]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Nordrhein-Westfalen]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.9361" lon="8.7243996">
+    <ele>365</ele>
+    <name>DM/NW-089</name>
+    <cmt><![CDATA[Stapellager Berge]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Nordrhein-Westfalen]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.932201" lon="6.4482999">
+    <ele>290</ele>
+    <name>DM/NW-134</name>
+    <cmt><![CDATA[Sophienhöhe]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Nordrhein-Westfalen]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.854698" lon="9.3247004">
+    <ele>496</ele>
+    <name>DM/NW-135</name>
+    <cmt><![CDATA[Köterberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Nordrhein-Westfalen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="52.055302" lon="8.4057999">
+    <ele>316</ele>
+    <name>DM/NW-148</name>
+    <cmt><![CDATA[Hengeberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Nordrhein-Westfalen]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.904202" lon="8.3741999">
+    <ele>645</ele>
+    <name>DM/NW-184</name>
+    <cmt><![CDATA[Großer Ahlertsberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Nordrhein-Westfalen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.125801" lon="8.5297003">
+    <ele>816</ele>
+    <name>DM/NW-185</name>
+    <cmt><![CDATA[Ziegenhelle]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Nordrhein-Westfalen]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.3125" lon="8.6007996">
+    <ele>806</ele>
+    <name>DM/NW-187</name>
+    <cmt><![CDATA[Hoher Eimberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Nordrhein-Westfalen]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.301102" lon="8.3838997">
+    <ele>745</ele>
+    <name>DM/NW-189</name>
+    <cmt><![CDATA[Bastenberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Nordrhein-Westfalen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.325001" lon="8.4666996">
+    <ele>732</ele>
+    <name>DM/NW-191</name>
+    <cmt><![CDATA[Wiedegge]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Nordrhein-Westfalen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.314999" lon="8.4306002">
+    <ele>732</ele>
+    <name>DM/NW-192</name>
+    <cmt><![CDATA[Stüppel]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Nordrhein-Westfalen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.2686" lon="8.4264002">
+    <ele>724</ele>
+    <name>DM/NW-193</name>
+    <cmt><![CDATA[Steinmarkskopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Nordrhein-Westfalen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.331699" lon="8.5086002">
+    <ele>715</ele>
+    <name>DM/NW-194</name>
+    <cmt><![CDATA[Heidkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Nordrhein-Westfalen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.138302" lon="8.1674995">
+    <ele>688</ele>
+    <name>DM/NW-196</name>
+    <cmt><![CDATA[Himberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Nordrhein-Westfalen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.1483" lon="7.7567">
+    <ele>660</ele>
+    <name>DM/NW-204</name>
+    <cmt><![CDATA[Nordhelle]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Nordrhein-Westfalen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.023102" lon="8.0214005">
+    <ele>658</ele>
+    <name>DM/NW-205</name>
+    <cmt><![CDATA[Hoher Wald]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Nordrhein-Westfalen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.263901" lon="8.1063995">
+    <ele>655</ele>
+    <name>DM/NW-206</name>
+    <cmt><![CDATA[Homert]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Nordrhein-Westfalen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.153599" lon="8.3311005">
+    <ele>655</ele>
+    <name>DM/NW-207</name>
+    <cmt><![CDATA[Wilzenberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Nordrhein-Westfalen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.333099" lon="8.3189001">
+    <ele>597</ele>
+    <name>DM/NW-215</name>
+    <cmt><![CDATA[Vogelsang]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Nordrhein-Westfalen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.205799" lon="7.9294">
+    <ele>582</ele>
+    <name>DM/NW-219</name>
+    <cmt><![CDATA[Heiligenstuhl]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Nordrhein-Westfalen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.214699" lon="7.8242002">
+    <ele>573</ele>
+    <name>DM/NW-223</name>
+    <cmt><![CDATA[Hohe Molmert]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Nordrhein-Westfalen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.346901" lon="8.3930998">
+    <ele>562</ele>
+    <name>DM/NW-225</name>
+    <cmt><![CDATA[Ostenberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Nordrhein-Westfalen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.355301" lon="7.8288999">
+    <ele>546</ele>
+    <name>DM/NW-230</name>
+    <cmt><![CDATA[Balver Wald]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Nordrhein-Westfalen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.055599" lon="7.9857998">
+    <ele>626</ele>
+    <name>DM/NW-231</name>
+    <cmt><![CDATA[Wolfhardt]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Nordrhein-Westfalen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="52.069698" lon="9.0321999">
+    <ele>388</ele>
+    <name>DM/NW-250</name>
+    <cmt><![CDATA[Steinberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Nordrhein-Westfalen]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="52.435799" lon="8.4336004">
+    <ele>183</ele>
+    <name>DM/NW-256</name>
+    <cmt><![CDATA[Kollwesshöh]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Nordrhein-Westfalen]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.276402" lon="8.5586004">
+    <ele>843</ele>
+    <name>DM/NW-263</name>
+    <cmt><![CDATA[Langenberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Nordrhein-Westfalen]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.310902" lon="8.2037001">
+    <ele>593</ele>
+    <name>DM/NW-265</name>
+    <cmt><![CDATA[Hoher Ransenberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Nordrhein-Westfalen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.894402" lon="9.2193003">
+    <ele>448</ele>
+    <name>DM/NW-266</name>
+    <cmt><![CDATA[Das Mörth]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Nordrhein-Westfalen]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.962799" lon="9.1548004">
+    <ele>429</ele>
+    <name>DM/NW-267</name>
+    <cmt><![CDATA[Winterberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Nordrhein-Westfalen]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.386101" lon="7.0107999">
+    <ele>747</ele>
+    <name>DM/RP-001</name>
+    <cmt><![CDATA[Hohe Acht]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Rheinland-Pfalz]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.230598" lon="6.7688999">
+    <ele>699</ele>
+    <name>DM/RP-002</name>
+    <cmt><![CDATA[Ernst Berg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Rheinland-Pfalz]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.256901" lon="6.3593998">
+    <ele>697</ele>
+    <name>DM/RP-003</name>
+    <cmt><![CDATA[Schwarzer Mann]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Rheinland-Pfalz]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.988899" lon="7.0444002">
+    <ele>420</ele>
+    <name>DM/RP-150</name>
+    <cmt><![CDATA[Kinheimer Berg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Rheinland-Pfalz]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.730408" lon="7.0906">
+    <ele>816</ele>
+    <name>DM/RP-158</name>
+    <cmt><![CDATA[Erbeskopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Rheinland-Pfalz]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.675301" lon="6.8344002">
+    <ele>708</ele>
+    <name>DM/RP-171</name>
+    <cmt><![CDATA[Röster Kopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Rheinland-Pfalz]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.9133" lon="7.6125002">
+    <ele>656</ele>
+    <name>DM/RP-179</name>
+    <cmt><![CDATA[Ellerspring]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Rheinland-Pfalz]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.936901" lon="7.5949998">
+    <ele>653</ele>
+    <name>DM/RP-180</name>
+    <cmt><![CDATA[Simmerkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Rheinland-Pfalz]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.776268" lon="7.2571578">
+    <ele>670</ele>
+    <name>DM/RP-187</name>
+    <cmt><![CDATA[Wildenburger Kopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Rheinland-Pfalz]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.993099" lon="7.7261">
+    <ele>623</ele>
+    <name>DM/RP-193</name>
+    <cmt><![CDATA[Kandrich]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Rheinland-Pfalz]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.8536" lon="7.4492002">
+    <ele>597</ele>
+    <name>DM/RP-197</name>
+    <cmt><![CDATA[Womrather Höhe]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Rheinland-Pfalz]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.7817" lon="7.7674999">
+    <ele>421</ele>
+    <name>DM/RP-262</name>
+    <cmt><![CDATA[Lemberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Rheinland-Pfalz]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.654999" lon="7.7897">
+    <ele>489</ele>
+    <name>DM/RP-271</name>
+    <cmt><![CDATA[Stahlberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Rheinland-Pfalz]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.625301" lon="7.9147">
+    <ele>687</ele>
+    <name>DM/RP-272</name>
+    <cmt><![CDATA[Königsstuhl / Donnersberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Rheinland-Pfalz]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.375801" lon="8.1213999">
+    <ele>554</ele>
+    <name>DM/RP-287</name>
+    <cmt><![CDATA[Weinbiet]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Rheinland-Pfalz]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.3186" lon="8.0831003">
+    <ele>672</ele>
+    <name>DM/RP-302</name>
+    <cmt><![CDATA[Kalmit]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Rheinland-Pfalz]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.298599" lon="8.0707998">
+    <ele>635</ele>
+    <name>DM/RP-305</name>
+    <cmt><![CDATA[Hochberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Rheinland-Pfalz]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.2617" lon="8.0293999">
+    <ele>637</ele>
+    <name>DM/RP-311</name>
+    <cmt><![CDATA[Roßberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Rheinland-Pfalz]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.1619" lon="7.8541999">
+    <ele>477</ele>
+    <name>DM/RP-318</name>
+    <cmt><![CDATA[Wolfshorn]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Rheinland-Pfalz]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.152344" lon="7.9892888">
+    <ele>504</ele>
+    <name>DM/RP-319</name>
+    <cmt><![CDATA[Treutelskopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Rheinland-Pfalz]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.123901" lon="7.7486">
+    <ele>513</ele>
+    <name>DM/RP-322</name>
+    <cmt><![CDATA[Großer Eyberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Rheinland-Pfalz]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.112202" lon="7.8221998">
+    <ele>491</ele>
+    <name>DM/RP-325</name>
+    <cmt><![CDATA[Jüngstberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Rheinland-Pfalz]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.067799" lon="7.8752999">
+    <ele>534</ele>
+    <name>DM/RP-329</name>
+    <cmt><![CDATA[Bobenthaler Knopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Rheinland-Pfalz]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.659599" lon="8.1020002">
+    <ele>656</ele>
+    <name>DM/RP-334</name>
+    <cmt><![CDATA[Fuchskaute]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Rheinland-Pfalz]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.375801" lon="7.9060998">
+    <ele>444</ele>
+    <name>DM/RP-365</name>
+    <cmt><![CDATA[Höchst]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Rheinland-Pfalz]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.626701" lon="7.2950001">
+    <ele>441</ele>
+    <name>DM/RP-366</name>
+    <cmt><![CDATA[Asberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Rheinland-Pfalz]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.135799" lon="7.9608002">
+    <ele>487</ele>
+    <name>DM/RP-387</name>
+    <cmt><![CDATA[Abtskopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Rheinland-Pfalz]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.424198" lon="8.0518999">
+    <ele>571</ele>
+    <name>DM/RP-394</name>
+    <cmt><![CDATA[Drachenfels]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Rheinland-Pfalz]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.1917" lon="7.9986">
+    <ele>533</ele>
+    <name>DM/RP-397</name>
+    <cmt><![CDATA[Föhrlenberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Rheinland-Pfalz]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.843899" lon="7.9102998">
+    <ele>527</ele>
+    <name>DM/RP-398</name>
+    <cmt><![CDATA[Giebelberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Rheinland-Pfalz]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.215801" lon="7.9577999">
+    <ele>567</ele>
+    <name>DM/RP-400</name>
+    <cmt><![CDATA[Großer Adelberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Rheinland-Pfalz]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.110298" lon="7.8710999">
+    <ele>410</ele>
+    <name>DM/RP-403</name>
+    <cmt><![CDATA[Grünberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Rheinland-Pfalz]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.573101" lon="7.5233002">
+    <ele>536</ele>
+    <name>DM/RP-406</name>
+    <cmt><![CDATA[Herrmannsberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Rheinland-Pfalz]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.079399" lon="7.1669002">
+    <ele>421</ele>
+    <name>DM/RP-407</name>
+    <cmt><![CDATA[Hochkessel]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Rheinland-Pfalz]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.360699" lon="7.1985002">
+    <ele>588</ele>
+    <name>DM/RP-408</name>
+    <cmt><![CDATA[Hochsimmer]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Rheinland-Pfalz]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.085602" lon="7.9136">
+    <ele>561</ele>
+    <name>DM/RP-411</name>
+    <cmt><![CDATA[Hohe Derst]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Rheinland-Pfalz]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.9478" lon="6.8558002">
+    <ele>355</ele>
+    <name>DM/RP-412</name>
+    <cmt><![CDATA[Höhe Haardter Hochwald]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Rheinland-Pfalz]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.202801" lon="8.0050001">
+    <ele>552</ele>
+    <name>DM/RP-413</name>
+    <cmt><![CDATA[Hohenberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Rheinland-Pfalz]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.195599" lon="7.8992">
+    <ele>455</ele>
+    <name>DM/RP-414</name>
+    <cmt><![CDATA[Hollenberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Rheinland-Pfalz]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.1553" lon="7.9000001">
+    <ele>462</ele>
+    <name>DM/RP-416</name>
+    <cmt><![CDATA[Immersberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Rheinland-Pfalz]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.284401" lon="8.0446997">
+    <ele>662</ele>
+    <name>DM/RP-417</name>
+    <cmt><![CDATA[Kesselberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Rheinland-Pfalz]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.575298" lon="7.5785999">
+    <ele>569</ele>
+    <name>DM/RP-420</name>
+    <cmt><![CDATA[Königsberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Rheinland-Pfalz]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.424999" lon="7.7339001">
+    <ele>545</ele>
+    <name>DM/RP-426</name>
+    <cmt><![CDATA[Montabaurer Höhe]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Rheinland-Pfalz]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.099998" lon="7.8578">
+    <ele>402</ele>
+    <name>DM/RP-427</name>
+    <cmt><![CDATA[Nestelberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Rheinland-Pfalz]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.0681" lon="7.73">
+    <ele>442</ele>
+    <name>DM/RP-428</name>
+    <cmt><![CDATA[Nestel-Berg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Rheinland-Pfalz]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.520802" lon="7.48">
+    <ele>562</ele>
+    <name>DM/RP-432</name>
+    <cmt><![CDATA[Potzberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Rheinland-Pfalz]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.1814" lon="7.9703002">
+    <ele>564</ele>
+    <name>DM/RP-433</name>
+    <cmt><![CDATA[Rehberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Rheinland-Pfalz]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.964699" lon="6.9861002">
+    <ele>365</ele>
+    <name>DM/RP-436</name>
+    <cmt><![CDATA[Rothenberg 1]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Rheinland-Pfalz]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.197201" lon="7.9278002">
+    <ele>462</ele>
+    <name>DM/RP-438</name>
+    <cmt><![CDATA[Rothenberg 3]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Rheinland-Pfalz]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.597801" lon="6.8239002">
+    <ele>695</ele>
+    <name>DM/RP-449</name>
+    <cmt><![CDATA[Teufelskopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Rheinland-Pfalz]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.415798" lon="8.1288996">
+    <ele>545</ele>
+    <name>DM/RP-450</name>
+    <cmt><![CDATA[Vorderer Langenberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Rheinland-Pfalz]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.948101" lon="6.9738998">
+    <ele>361</ele>
+    <name>DM/RP-452</name>
+    <cmt><![CDATA[Wehlener Wald]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Rheinland-Pfalz]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.5364" lon="7.5769">
+    <ele>427</ele>
+    <name>DM/RP-456</name>
+    <cmt><![CDATA[Dernbacher Kopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Rheinland-Pfalz]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.663101" lon="7.3766999">
+    <ele>608</ele>
+    <name>DM/RP-457</name>
+    <cmt><![CDATA[Erbenstein]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Rheinland-Pfalz]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.2089" lon="7.9082999">
+    <ele>435</ele>
+    <name>DM/RP-459</name>
+    <cmt><![CDATA[Felsentisch]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Rheinland-Pfalz]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.400101" lon="7.6287999">
+    <ele>473</ele>
+    <name>DM/RP-463</name>
+    <cmt><![CDATA[Großer Hausberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Rheinland-Pfalz]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.9011" lon="6.9222002">
+    <ele>434</ele>
+    <name>DM/RP-466</name>
+    <cmt><![CDATA[Höhe Piesport]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Rheinland-Pfalz]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.345001" lon="7.4228001">
+    <ele>373</ele>
+    <name>DM/RP-470</name>
+    <cmt><![CDATA[Karmelenberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Rheinland-Pfalz]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.816101" lon="6.7884998">
+    <ele>418</ele>
+    <name>DM/RP-478</name>
+    <cmt><![CDATA[Mehringer Berg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Rheinland-Pfalz]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.470798" lon="8.0894003">
+    <ele>516</ele>
+    <name>DM/RP-482</name>
+    <cmt><![CDATA[Rahnfels]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Rheinland-Pfalz]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.061401" lon="7.7872">
+    <ele>571</ele>
+    <name>DM/RP-494</name>
+    <cmt><![CDATA[Wegelnburg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Rheinland-Pfalz]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.799198" lon="10.6153">
+    <ele>1142</ele>
+    <name>DM/SA-001</name>
+    <cmt><![CDATA[Brocken]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Sachsen-Anhalt]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.5961" lon="11.9542">
+    <ele>250</ele>
+    <name>DM/SA-033</name>
+    <cmt><![CDATA[Petersberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Sachsen-Anhalt]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="52.013599" lon="10.7153">
+    <ele>288</ele>
+    <name>DM/SA-053</name>
+    <cmt><![CDATA[Großer Fallstein]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Sachsen-Anhalt]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.551899" lon="7.2725">
+    <ele>604</ele>
+    <name>DM/SR-006</name>
+    <cmt><![CDATA[Trautzberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Saarland]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.486401" lon="7.0292001">
+    <ele>569</ele>
+    <name>DM/SR-012</name>
+    <cmt><![CDATA[Schaumberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Saarland]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="49.529999" lon="6.5739002">
+    <ele>451</ele>
+    <name>DM/SR-075</name>
+    <cmt><![CDATA[Langensteinchen]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Saarland]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.4561" lon="12.6464">
+    <ele>1018</ele>
+    <name>DM/SX-002</name>
+    <cmt><![CDATA[Auersberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Sachsen]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.849144" lon="14.646784">
+    <ele>793</ele>
+    <name>DM/SX-014</name>
+    <cmt><![CDATA[Lausche/Luž]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Sachsen]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.825802" lon="14.7275">
+    <ele>744</ele>
+    <name>DM/SX-019</name>
+    <cmt><![CDATA[Hochwald]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Sachsen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.073601" lon="14.2778">
+    <ele>586</ele>
+    <name>DM/SX-025</name>
+    <cmt><![CDATA[Valtenberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Sachsen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.010101" lon="14.6562">
+    <ele>583</ele>
+    <name>DM/SX-026</name>
+    <cmt><![CDATA[Kottmar]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Sachsen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.854698" lon="14.1772">
+    <ele>560</ele>
+    <name>DM/SX-029</name>
+    <cmt><![CDATA[Großer Zschirnstein]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Sachsen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.8964" lon="14.2592">
+    <ele>556</ele>
+    <name>DM/SX-030</name>
+    <cmt><![CDATA[Großer Winterberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Sachsen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.119999" lon="14.5247">
+    <ele>555</ele>
+    <name>DM/SX-031</name>
+    <cmt><![CDATA[Czorneboh]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Sachsen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.108898" lon="14.3519">
+    <ele>498</ele>
+    <name>DM/SX-037</name>
+    <cmt><![CDATA[Großer Picho]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Sachsen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.9011" lon="14.12">
+    <ele>451</ele>
+    <name>DM/SX-045</name>
+    <cmt><![CDATA[Papststein]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Sachsen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.93" lon="14.085">
+    <ele>415</ele>
+    <name>DM/SX-057</name>
+    <cmt><![CDATA[Lilienstein]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Sachsen]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.303902" lon="13.0119">
+    <ele>312</ele>
+    <name>DM/SX-085</name>
+    <cmt><![CDATA[Collm]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Sachsen]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.5425" lon="12.6356">
+    <ele>732</ele>
+    <name>DM/SX-109</name>
+    <cmt><![CDATA[Steinberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Sachsen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.177799" lon="14.8375">
+    <ele>415</ele>
+    <name>DM/SX-229</name>
+    <cmt><![CDATA[Kämpferberge]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Sachsen]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.658298" lon="10.7447">
+    <ele>983</ele>
+    <name>DM/TH-001</name>
+    <cmt><![CDATA[Großer Beerberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Thüringen]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.851101" lon="10.4664">
+    <ele>916</ele>
+    <name>DM/TH-004</name>
+    <cmt><![CDATA[Großer Inselsberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Thüringen]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.5117" lon="11.0236">
+    <ele>875</ele>
+    <name>DM/TH-012</name>
+    <cmt><![CDATA[Großer Farmdenkopf Plateau]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Thüringen]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.446098" lon="11.4517">
+    <ele>793</ele>
+    <name>DM/TH-027</name>
+    <cmt><![CDATA[Wetzstein]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Thüringen]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.746101" lon="10.1044">
+    <ele>714</ele>
+    <name>DM/TH-033</name>
+    <cmt><![CDATA[Baier]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Thüringen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.388111" lon="10.592512">
+    <ele>679</ele>
+    <name>DM/TH-040</name>
+    <cmt><![CDATA[Großer Gleichberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Thüringen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.743599" lon="10.2422">
+    <ele>644</ele>
+    <name>DM/TH-045</name>
+    <cmt><![CDATA[Pleß]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Thüringen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.411098" lon="10.5925">
+    <ele>641</ele>
+    <name>DM/TH-046</name>
+    <cmt><![CDATA[Kleiner Gleichberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Thüringen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.549999" lon="10.2433">
+    <ele>639</ele>
+    <name>DM/TH-047</name>
+    <cmt><![CDATA[Hutsberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Thüringen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.331699" lon="9.9521999">
+    <ele>511</ele>
+    <name>DM/TH-060</name>
+    <cmt><![CDATA[Junkerkuppe]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Thüringen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.953899" lon="10.4614">
+    <ele>484</ele>
+    <name>DM/TH-064</name>
+    <cmt><![CDATA[Großer Hörselberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Thüringen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.014198" lon="11.2561">
+    <ele>478</ele>
+    <name>DM/TH-066</name>
+    <cmt><![CDATA[Ettersberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Thüringen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.4119" lon="11.0764">
+    <ele>473</ele>
+    <name>DM/TH-067</name>
+    <cmt><![CDATA[Kulpenberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Thüringen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.240299" lon="11.2805">
+    <ele>380</ele>
+    <name>DM/TH-075</name>
+    <cmt><![CDATA[Künzelsberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Thüringen]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.624699" lon="10.4789">
+    <ele>740</ele>
+    <name>DM/TH-081</name>
+    <cmt><![CDATA[Dolmar]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Thüringen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.59" lon="10.2703">
+    <ele>751</ele>
+    <name>DM/TH-082</name>
+    <cmt><![CDATA[Gebaberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Thüringen]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.355701" lon="10.5113">
+    <ele>522</ele>
+    <name>DM/TH-083</name>
+    <cmt><![CDATA[Rondell]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Thüringen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.462799" lon="10.4029">
+    <ele>533</ele>
+    <name>DM/TH-085</name>
+    <cmt><![CDATA[Birkenberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Thüringen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.642799" lon="10.6408">
+    <ele>749</ele>
+    <name>DM/TH-195</name>
+    <cmt><![CDATA[Schwarzer Kopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Thüringen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.485298" lon="10.4639">
+    <ele>536</ele>
+    <name>DM/TH-414</name>
+    <cmt><![CDATA[Dietrichsberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Thüringen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.6689" lon="10.1786">
+    <ele>702</ele>
+    <name>DM/TH-645</name>
+    <cmt><![CDATA[Hoher Rain]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Thüringen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.781399" lon="10.0306">
+    <ele>667</ele>
+    <name>DM/TH-663</name>
+    <cmt><![CDATA[Dietrichsberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Thüringen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.799702" lon="10.0283">
+    <ele>627</ele>
+    <name>DM/TH-680</name>
+    <cmt><![CDATA[Öchsenberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Thüringen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.683601" lon="11.3689">
+    <ele>482</ele>
+    <name>DM/TH-832</name>
+    <cmt><![CDATA[Kulm]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Thüringen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.607529" lon="11.1973">
+    <ele>708</ele>
+    <name>DM/TH-844</name>
+    <cmt><![CDATA[Quittelsberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Thüringen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.451199" lon="10.4844">
+    <ele>487</ele>
+    <name>DM/TH-852</name>
+    <cmt><![CDATA[Hasenburg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Thüringen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.749802" lon="10.9328">
+    <ele>605</ele>
+    <name>DM/TH-853</name>
+    <cmt><![CDATA[Halskappe]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Thüringen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.3452" lon="10.034">
+    <ele>487</ele>
+    <name>DM/TH-857</name>
+    <cmt><![CDATA[Röhrigsberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Thüringen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.7934" lon="9.9851999">
+    <ele>487</ele>
+    <name>DM/TH-861</name>
+    <cmt><![CDATA[Ulsterberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Thüringen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="50.870602" lon="10.0381">
+    <ele>452</ele>
+    <name>DM/TH-865</name>
+    <cmt><![CDATA[Steinkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Thüringen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.095001" lon="10.2328">
+    <ele>450</ele>
+    <name>DM/TH-866</name>
+    <cmt><![CDATA[Stöckigtsberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Thüringen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+  <wpt lat="51.317501" lon="11.0785">
+    <ele>391</ele>
+    <name>DM/TH-867</name>
+    <cmt><![CDATA[Lauberkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DM - Germany (Low Mountains), Region: Thüringen]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DM/</type>
+  </wpt>
+</gpx>

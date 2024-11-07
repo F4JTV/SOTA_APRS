@@ -1,0 +1,2208 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1" 
+     creator="SOTA Mapping Project GPX Generator 1.1" 
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+     xmlns="http://www.topografix.com/GPX/1/1" 
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>SOTA Summits GPX Export</name>
+    <desc>SOTA Summits data in GPX v1.1 format></desc>
+    <author>
+      <name>SOTA Mapping Project></name>
+      <email id="admin" domain="www.sotamaps.org" />
+      <link href="https://www.sotamaps.org">
+        <text>SOTA Mapping Project</text>
+      </link>
+    </author>
+    <link href="https://www.sotamaps.org">
+      <text>SOTA Mapping Project</text>
+    </link>
+    <time>2024-11-07T15:12:40Z</time>
+    <keywords>SOTA, Summits On The Air, amateur radio, ham radio</keywords>
+    <bounds minlat="37.1017" minlon="-9.3913002" maxlat="42.068699" maxlon="-6.5945001"/>
+  </metadata>
+  <wpt lat="39.3134" lon="-7.3600001">
+    <ele>1027</ele>
+    <name>CT/AA-001</name>
+    <cmt><![CDATA[Serra de São Mamede]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Alto Alentejo]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="39.396999" lon="-7.3799">
+    <ele>868</ele>
+    <name>CT/AA-002</name>
+    <cmt><![CDATA[Castelo de Marvão]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Alto Alentejo]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="38.739201" lon="-7.5841999">
+    <ele>653</ele>
+    <name>CT/AA-003</name>
+    <cmt><![CDATA[Serra da Ossa]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Alto Alentejo]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="39.335899" lon="-7.3073001">
+    <ele>971</ele>
+    <name>CT/AA-004</name>
+    <cmt><![CDATA[Fria]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Alto Alentejo]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="39.303299" lon="-7.4503002">
+    <ele>654</ele>
+    <name>CT/AA-005</name>
+    <cmt><![CDATA[Cruz da Penha]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Alto Alentejo]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="38.737499" lon="-7.5415001">
+    <ele>642</ele>
+    <name>CT/AA-006</name>
+    <cmt><![CDATA[Alto do Castelo]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Alto Alentejo]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="38.834499" lon="-7.5346999">
+    <ele>524</ele>
+    <name>CT/AA-007</name>
+    <cmt><![CDATA[Caldeireiros]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Alto Alentejo]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="38.874901" lon="-7.2635999">
+    <ele>489</ele>
+    <name>CT/AA-008</name>
+    <cmt><![CDATA[Monte de Vila Boim]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Alto Alentejo]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="39.5755" lon="-7.6300998">
+    <ele>463</ele>
+    <name>CT/AA-009</name>
+    <cmt><![CDATA[São Miguel de Nisa]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Alto Alentejo]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="39.3773" lon="-7.4172001">
+    <ele>836</ele>
+    <name>CT/AA-010</name>
+    <cmt><![CDATA[Penha do Alto]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Alto Alentejo]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="38.5769" lon="-8.1131001">
+    <ele>441</ele>
+    <name>CT/AA-011</name>
+    <cmt><![CDATA[São Sebastião]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Alto Alentejo]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="37.314999" lon="-8.5956001">
+    <ele>902</ele>
+    <name>CT/AL-001</name>
+    <cmt><![CDATA[Serra de Foia]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Algarve]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="37.307098" lon="-7.9617">
+    <ele>589</ele>
+    <name>CT/AL-002</name>
+    <cmt><![CDATA[Pelados]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Algarve]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="37.1017" lon="-7.8311">
+    <ele>410</ele>
+    <name>CT/AL-003</name>
+    <cmt><![CDATA[Cerro de São Miguel]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Algarve]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="37.307701" lon="-8.5316">
+    <ele>773</ele>
+    <name>CT/AL-004</name>
+    <cmt><![CDATA[Picota]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Algarve]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="37.256901" lon="-8.1534996">
+    <ele>467</ele>
+    <name>CT/AL-005</name>
+    <cmt><![CDATA[Rocha dos Soídos]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Algarve]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="37.2607" lon="-8.0488997">
+    <ele>474</ele>
+    <name>CT/AL-006</name>
+    <cmt><![CDATA[Negros]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Algarve]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="37.256699" lon="-8.1009998">
+    <ele>480</ele>
+    <name>CT/AL-007</name>
+    <cmt><![CDATA[Serra da Rocha da Pena]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Algarve]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="37.3195" lon="-8.3868999">
+    <ele>353</ele>
+    <name>CT/AL-008</name>
+    <cmt><![CDATA[Sela]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Algarve]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="37.113602" lon="-8.0612001">
+    <ele>227</ele>
+    <name>CT/AL-009</name>
+    <cmt><![CDATA[Cabeço de Câmara]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Algarve]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="40.973999" lon="-7.9875002">
+    <ele>1381</ele>
+    <name>CT/BA-001</name>
+    <cmt><![CDATA[Serra de Montemuro]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Alta]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="40.875599" lon="-8.0613003">
+    <ele>1052</ele>
+    <name>CT/BA-003</name>
+    <cmt><![CDATA[São Macário]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Alta]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="40.771" lon="-7.4240999">
+    <ele>989</ele>
+    <name>CT/BA-004</name>
+    <cmt><![CDATA[Pisco]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Alta]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="40.864498" lon="-6.9917002">
+    <ele>976</ele>
+    <name>CT/BA-005</name>
+    <cmt><![CDATA[Serra da Marofa]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Alta]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="40.832001" lon="-7.8411002">
+    <ele>929</ele>
+    <name>CT/BA-006</name>
+    <cmt><![CDATA[São Lourenço]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Alta]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="40.472301" lon="-7.5393">
+    <ele>1595</ele>
+    <name>CT/BA-007</name>
+    <cmt><![CDATA[Santinha]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Alta]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="40.4389" lon="-7.4920998">
+    <ele>1301</ele>
+    <name>CT/BA-008</name>
+    <cmt><![CDATA[Corredor de Mouros]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Alta]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="40.431599" lon="-7.4622002">
+    <ele>1272</ele>
+    <name>CT/BA-009</name>
+    <cmt><![CDATA[Cabeço da Azinha]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Alta]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.0075" lon="-8.1026001">
+    <ele>1222</ele>
+    <name>CT/BA-010</name>
+    <cmt><![CDATA[Pedra Posta]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Alta]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="40.452801" lon="-7.3564">
+    <ele>1148</ele>
+    <name>CT/BA-011</name>
+    <cmt><![CDATA[Mosqueiros]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Alta]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="40.842499" lon="-8.1829996">
+    <ele>1119</ele>
+    <name>CT/BA-012</name>
+    <cmt><![CDATA[Candal]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Alta]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.033401" lon="-8.1514997">
+    <ele>1032</ele>
+    <name>CT/BA-013</name>
+    <cmt><![CDATA[Nossa Senhora do Castelo]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Alta]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="40.424999" lon="-7.2226">
+    <ele>1018</ele>
+    <name>CT/BA-014</name>
+    <cmt><![CDATA[Cabeço das Fráguas]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Alta]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.011799" lon="-7.4183998">
+    <ele>1000</ele>
+    <name>CT/BA-015</name>
+    <cmt><![CDATA[Serra da Laboreira]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Alta]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.0728" lon="-7.5798998">
+    <ele>985</ele>
+    <name>CT/BA-016</name>
+    <cmt><![CDATA[Mãe da Loba]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Alta]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="40.285999" lon="-7.2126002">
+    <ele>867</ele>
+    <name>CT/BA-017</name>
+    <cmt><![CDATA[Serra de Opa]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Alta]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="40.702999" lon="-8.2887001">
+    <ele>804</ele>
+    <name>CT/BA-018</name>
+    <cmt><![CDATA[Ladário]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Alta]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.092999" lon="-7.3278999">
+    <ele>814</ele>
+    <name>CT/BA-019</name>
+    <cmt><![CDATA[Senhora do Viso]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Alta]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.159" lon="-7.4439998">
+    <ele>782</ele>
+    <name>CT/BA-020</name>
+    <cmt><![CDATA[Senhora do Vencimento]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Alta]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="40.881001" lon="-7.9840999">
+    <ele>780</ele>
+    <name>CT/BA-021</name>
+    <cmt><![CDATA[Cimal]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Alta]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.136799" lon="-7.5246">
+    <ele>733</ele>
+    <name>CT/BA-022</name>
+    <cmt><![CDATA[São Domingos]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Alta]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="40.667999" lon="-7.3070998">
+    <ele>726</ele>
+    <name>CT/BA-023</name>
+    <cmt><![CDATA[Cabeça Grande]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Alta]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.036301" lon="-7.0893002">
+    <ele>652</ele>
+    <name>CT/BA-024</name>
+    <cmt><![CDATA[São Gabriel]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Alta]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.030102" lon="-7.0158">
+    <ele>508</ele>
+    <name>CT/BA-025</name>
+    <cmt><![CDATA[Calábria]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Alta]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.1506" lon="-7.1402001">
+    <ele>459</ele>
+    <name>CT/BA-026</name>
+    <cmt><![CDATA[Castelo Velho]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Alta]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="40.547298" lon="-8.2020998">
+    <ele>1075</ele>
+    <name>CT/BA-027</name>
+    <cmt><![CDATA[Caramulinho]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Alta]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="40.6418" lon="-8.1205997">
+    <ele>1043</ele>
+    <name>CT/BA-028</name>
+    <cmt><![CDATA[Janus]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Alta]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="40.606499" lon="-7.2319002">
+    <ele>976</ele>
+    <name>CT/BA-029</name>
+    <cmt><![CDATA[Rainha]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Alta]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="40.595798" lon="-7.6581998">
+    <ele>766</ele>
+    <name>CT/BA-030</name>
+    <cmt><![CDATA[Pousadas]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Alta]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.1008" lon="-7.2909002">
+    <ele>704</ele>
+    <name>CT/BA-031</name>
+    <cmt><![CDATA[Castelo de Numão]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Alta]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="40.6744" lon="-7.427">
+    <ele>653</ele>
+    <name>CT/BA-032</name>
+    <cmt><![CDATA[Cabeço de Boi]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Alta]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="40.321899" lon="-7.6125998">
+    <ele>1993</ele>
+    <name>CT/BB-001</name>
+    <cmt><![CDATA[Serra da Estrela]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Baixa]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="40.080502" lon="-7.5254998">
+    <ele>1227</ele>
+    <name>CT/BB-002</name>
+    <cmt><![CDATA[Serra da Gardunha]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Baixa]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="39.8484" lon="-7.9257002">
+    <ele>1084</ele>
+    <name>CT/BB-003</name>
+    <cmt><![CDATA[Cabeço Rainha]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Baixa]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="39.989601" lon="-7.7839999">
+    <ele>915</ele>
+    <name>CT/BB-004</name>
+    <cmt><![CDATA[Serra do Moradal]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Baixa]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="39.6945" lon="-8.1306">
+    <ele>591</ele>
+    <name>CT/BB-005</name>
+    <cmt><![CDATA[Serra da Melriça]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Baixa]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="40.294998" lon="-7.5792999">
+    <ele>1758</ele>
+    <name>CT/BB-006</name>
+    <cmt><![CDATA[Encosta do Diabo]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Baixa]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="40.0774" lon="-8.1626997">
+    <ele>1193</ele>
+    <name>CT/BB-007</name>
+    <cmt><![CDATA[Santo António da Neve]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Baixa]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="40.0289" lon="-7.7090001">
+    <ele>1097</ele>
+    <name>CT/BB-008</name>
+    <cmt><![CDATA[Zibreiro]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Baixa]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="40.3717" lon="-7.4169998">
+    <ele>1048</ele>
+    <name>CT/BB-009</name>
+    <cmt><![CDATA[Mata da Atalaia]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Baixa]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="40.2328" lon="-7.0713">
+    <ele>1007</ele>
+    <name>CT/BB-010</name>
+    <cmt><![CDATA[Serra da Malcata]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Baixa]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="40.0984" lon="-7.6490998">
+    <ele>1005</ele>
+    <name>CT/BB-011</name>
+    <cmt><![CDATA[Serra da Maunça]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Baixa]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="39.940899" lon="-7.9628">
+    <ele>970</ele>
+    <name>CT/BB-012</name>
+    <cmt><![CDATA[Povoinha]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Baixa]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="39.819" lon="-7.8804002">
+    <ele>954</ele>
+    <name>CT/BB-013</name>
+    <cmt><![CDATA[Espadana]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Baixa]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="39.994202" lon="-7.7413998">
+    <ele>908</ele>
+    <name>CT/BB-014</name>
+    <cmt><![CDATA[Cabeça Gorda]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Baixa]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="39.948399" lon="-7.7667999">
+    <ele>899</ele>
+    <name>CT/BB-015</name>
+    <cmt><![CDATA[Sarzedinha]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Baixa]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="40.1889" lon="-7.0511999">
+    <ele>839</ele>
+    <name>CT/BB-016</name>
+    <cmt><![CDATA[Marvaninha]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Baixa]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="40.026798" lon="-6.9738002">
+    <ele>828</ele>
+    <name>CT/BB-017</name>
+    <cmt><![CDATA[Serra da Gorda]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Baixa]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="40.2052" lon="-7.2399001">
+    <ele>804</ele>
+    <name>CT/BB-018</name>
+    <cmt><![CDATA[Santa Marta]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Baixa]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="40.151299" lon="-7.5881">
+    <ele>799</ele>
+    <name>CT/BB-019</name>
+    <cmt><![CDATA[Serra do Gomes]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Baixa]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="40.219299" lon="-7.4345002">
+    <ele>791</ele>
+    <name>CT/BB-020</name>
+    <cmt><![CDATA[Meal Redondo]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Baixa]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="40.088402" lon="-7.0762">
+    <ele>768</ele>
+    <name>CT/BB-021</name>
+    <cmt><![CDATA[Campo Frio]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Baixa]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="40.178001" lon="-7.1111999">
+    <ele>763</ele>
+    <name>CT/BB-022</name>
+    <cmt><![CDATA[Canafichal]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Baixa]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="40.0355" lon="-7.1138">
+    <ele>763</ele>
+    <name>CT/BB-023</name>
+    <cmt><![CDATA[Monsanto]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Baixa]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="40.341202" lon="-7.3583002">
+    <ele>721</ele>
+    <name>CT/BB-024</name>
+    <cmt><![CDATA[Serra da Esperança]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Baixa]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="39.754398" lon="-7.9909">
+    <ele>659</ele>
+    <name>CT/BB-025</name>
+    <cmt><![CDATA[Vergão]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Baixa]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="39.772499" lon="-7.7749">
+    <ele>614</ele>
+    <name>CT/BB-026</name>
+    <cmt><![CDATA[Galego]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Baixa]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="39.963402" lon="-7.0257001">
+    <ele>580</ele>
+    <name>CT/BB-027</name>
+    <cmt><![CDATA[Murracha]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Baixa]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="39.6791" lon="-7.7006998">
+    <ele>570</ele>
+    <name>CT/BB-028</name>
+    <cmt><![CDATA[Penedo Gordo]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Baixa]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="39.788799" lon="-8.2646999">
+    <ele>454</ele>
+    <name>CT/BB-029</name>
+    <cmt><![CDATA[Monte da Mendeira]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Baixa]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="39.727798" lon="-7.2879">
+    <ele>457</ele>
+    <name>CT/BB-030</name>
+    <cmt><![CDATA[Castelo]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Baixa]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="39.839699" lon="-8.3289003">
+    <ele>462</ele>
+    <name>CT/BB-031</name>
+    <cmt><![CDATA[Arega]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Baixa]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="40.351398" lon="-7.1808">
+    <ele>1008</ele>
+    <name>CT/BB-032</name>
+    <cmt><![CDATA[Cabeço de São Cornélio]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Baixa]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="40.061401" lon="-7.1157999">
+    <ele>681</ele>
+    <name>CT/BB-033</name>
+    <cmt><![CDATA[Moreirinha]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Baixa]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="39.704601" lon="-7.7189999">
+    <ele>541</ele>
+    <name>CT/BB-034</name>
+    <cmt><![CDATA[Alvaiade]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Baixa]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="39.890099" lon="-7.6939001">
+    <ele>509</ele>
+    <name>CT/BB-035</name>
+    <cmt><![CDATA[Serra de Magarefe]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Baixa]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="40.0895" lon="-8.1788998">
+    <ele>1205</ele>
+    <name>CT/BL-002</name>
+    <cmt><![CDATA[Alto do Trevim]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Litoral]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="40.139999" lon="-7.8792">
+    <ele>1190</ele>
+    <name>CT/BL-003</name>
+    <cmt><![CDATA[Rocha]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Litoral]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="40.885201" lon="-8.2546997">
+    <ele>1099</ele>
+    <name>CT/BL-004</name>
+    <cmt><![CDATA[Detrelo da Malhada]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Litoral]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="39.828602" lon="-8.4111004">
+    <ele>618</ele>
+    <name>CT/BL-005</name>
+    <cmt><![CDATA[Serra de Alvaiázere]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Litoral]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="39.922501" lon="-8.5445995">
+    <ele>555</ele>
+    <name>CT/BL-006</name>
+    <cmt><![CDATA[Serra de Sicó]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Litoral]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="40.368599" lon="-8.3584003">
+    <ele>563</ele>
+    <name>CT/BL-007</name>
+    <cmt><![CDATA[Serra do Buçaco]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Litoral]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="40.2015" lon="-8.8823004">
+    <ele>257</ele>
+    <name>CT/BL-008</name>
+    <cmt><![CDATA[Serra da Boa Viagem]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Litoral]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="40.181599" lon="-7.8095002">
+    <ele>1418</ele>
+    <name>CT/BL-009</name>
+    <cmt><![CDATA[Picoto da Cebola]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Litoral]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="40.266201" lon="-7.8260999">
+    <ele>1244</ele>
+    <name>CT/BL-010</name>
+    <cmt><![CDATA[Monte do Culcurinho]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Litoral]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="40.1465" lon="-7.7747002">
+    <ele>1086</ele>
+    <name>CT/BL-011</name>
+    <cmt><![CDATA[Chiqueiro]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Litoral]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="40.108601" lon="-7.9524002">
+    <ele>1052</ele>
+    <name>CT/BL-012</name>
+    <cmt><![CDATA[Decabelos]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Litoral]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="40.173901" lon="-8.0044003">
+    <ele>963</ele>
+    <name>CT/BL-013</name>
+    <cmt><![CDATA[Gatucha]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Litoral]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="40.0811" lon="-7.8530998">
+    <ele>936</ele>
+    <name>CT/BL-014</name>
+    <cmt><![CDATA[Cabeço do Souto]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Litoral]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="40.168301" lon="-8.0464001">
+    <ele>859</ele>
+    <name>CT/BL-015</name>
+    <cmt><![CDATA[Vieiro]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Litoral]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="40.028999" lon="-7.9507999">
+    <ele>851</ele>
+    <name>CT/BL-016</name>
+    <cmt><![CDATA[Cabeço da Urra]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Litoral]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="39.5495" lon="-8.8664999">
+    <ele>615</ele>
+    <name>CT/BL-018</name>
+    <cmt><![CDATA[Vale Grande]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Litoral]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="40.155602" lon="-8.1568003">
+    <ele>601</ele>
+    <name>CT/BL-019</name>
+    <cmt><![CDATA[Sacões]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Litoral]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="39.5355" lon="-8.7826004">
+    <ele>588</ele>
+    <name>CT/BL-020</name>
+    <cmt><![CDATA[Serra de Mendiga]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Litoral]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="40.2584" lon="-8.3498001">
+    <ele>535</ele>
+    <name>CT/BL-021</name>
+    <cmt><![CDATA[Serra da Aveleira]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Litoral]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="40.0308" lon="-8.5003996">
+    <ele>532</ele>
+    <name>CT/BL-022</name>
+    <cmt><![CDATA[Serra do Rabaçal]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Litoral]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="40.000099" lon="-8.4039001">
+    <ele>512</ele>
+    <name>CT/BL-023</name>
+    <cmt><![CDATA[Monte de Vez]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Litoral]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="40.864799" lon="-8.4244003">
+    <ele>515</ele>
+    <name>CT/BL-024</name>
+    <cmt><![CDATA[Serra do Pereiro]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Litoral]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="40.211201" lon="-8.1506996">
+    <ele>492</ele>
+    <name>CT/BL-025</name>
+    <cmt><![CDATA[Serra de Santa Quitéria]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Litoral]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="40.224098" lon="-8.3080997">
+    <ele>458</ele>
+    <name>CT/BL-026</name>
+    <cmt><![CDATA[Cômoros]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Litoral]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="40.166302" lon="-8.3493004">
+    <ele>413</ele>
+    <name>CT/BL-027</name>
+    <cmt><![CDATA[Chãs]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Litoral]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="40.215599" lon="-7.8179998">
+    <ele>1342</ele>
+    <name>CT/BL-028</name>
+    <cmt><![CDATA[São Pedro de Açor]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Litoral]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="40.937199" lon="-8.2200003">
+    <ele>722</ele>
+    <name>CT/BL-029</name>
+    <cmt><![CDATA[Alto da Senhora da Mó]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Litoral]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="40.078899" lon="-7.7466998">
+    <ele>701</ele>
+    <name>CT/BL-030</name>
+    <cmt><![CDATA[Senhora da Peneda]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Litoral]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="40.077301" lon="-8.4617004">
+    <ele>328</ele>
+    <name>CT/BL-031</name>
+    <cmt><![CDATA[Pega]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Beira Litoral]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="37.3708" lon="-8.0806999">
+    <ele>577</ele>
+    <name>CT/BT-001</name>
+    <cmt><![CDATA[Serra de Mú]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Baixo Alentejo]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="38.008099" lon="-7.3092999">
+    <ele>479</ele>
+    <name>CT/BT-002</name>
+    <cmt><![CDATA[Serra da Adiça]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Baixo Alentejo]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="37.615002" lon="-8.3864002">
+    <ele>393</ele>
+    <name>CT/BT-003</name>
+    <cmt><![CDATA[Serra da Vigia]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Baixo Alentejo]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="38.169201" lon="-8.6456003">
+    <ele>325</ele>
+    <name>CT/BT-004</name>
+    <cmt><![CDATA[Atalaia de Grândola]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Baixo Alentejo]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="37.762001" lon="-8.6918001">
+    <ele>372</ele>
+    <name>CT/BT-005</name>
+    <cmt><![CDATA[Santo Isidoro]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Baixo Alentejo]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="37.965" lon="-7.2852001">
+    <ele>523</ele>
+    <name>CT/BT-006</name>
+    <cmt><![CDATA[Serra de Ficalho]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Baixo Alentejo]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="37.700401" lon="-7.7614002">
+    <ele>370</ele>
+    <name>CT/BT-008</name>
+    <cmt><![CDATA[Serro Alcaria Ruiva]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Baixo Alentejo]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="38.332699" lon="-7.7157998">
+    <ele>424</ele>
+    <name>CT/BT-009</name>
+    <cmt><![CDATA[São Pedro]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Baixo Alentejo]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="38.063801" lon="-7.3358998">
+    <ele>400</ele>
+    <name>CT/BT-010</name>
+    <cmt><![CDATA[Serra Alta]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Baixo Alentejo]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="37.669601" lon="-7.7536001">
+    <ele>306</ele>
+    <name>CT/BT-011</name>
+    <cmt><![CDATA[São Barão]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Baixo Alentejo]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.2486" lon="-7.8864002">
+    <ele>1416</ele>
+    <name>CT/DL-001</name>
+    <cmt><![CDATA[Serra do Marão]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Douro Litoral]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.323601" lon="-8.3860998">
+    <ele>570</ele>
+    <name>CT/DL-002</name>
+    <cmt><![CDATA[Citânia de Sanfins]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Douro Litoral]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.1716" lon="-8.4934998">
+    <ele>374</ele>
+    <name>CT/DL-003</name>
+    <cmt><![CDATA[Serra de Santa Justa]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Douro Litoral]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.295601" lon="-7.9165001">
+    <ele>1239</ele>
+    <name>CT/DL-004</name>
+    <cmt><![CDATA[Pena Suar]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Douro Litoral]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.195702" lon="-8.0284004">
+    <ele>971</ele>
+    <name>CT/DL-005</name>
+    <cmt><![CDATA[Aboboreira]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Douro Litoral]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.186901" lon="-7.96">
+    <ele>952</ele>
+    <name>CT/DL-006</name>
+    <cmt><![CDATA[Chã de Arcas]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Douro Litoral]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.113701" lon="-8.1351995">
+    <ele>670</ele>
+    <name>CT/DL-007</name>
+    <cmt><![CDATA[Alto de Lamas]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Douro Litoral]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.1884" lon="-8.2320995">
+    <ele>593</ele>
+    <name>CT/DL-008</name>
+    <cmt><![CDATA[Brenha]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Douro Litoral]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.354" lon="-7.9556999">
+    <ele>573</ele>
+    <name>CT/DL-010</name>
+    <cmt><![CDATA[Borrança]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Douro Litoral]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.063599" lon="-8.3460999">
+    <ele>518</ele>
+    <name>CT/DL-011</name>
+    <cmt><![CDATA[Serra da Boneca]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Douro Litoral]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.2001" lon="-8.3906002">
+    <ele>519</ele>
+    <name>CT/DL-012</name>
+    <cmt><![CDATA[Vandoma]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Douro Litoral]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.097599" lon="-8.2272997">
+    <ele>480</ele>
+    <name>CT/DL-013</name>
+    <cmt><![CDATA[Monte de Santiago]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Douro Litoral]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.145" lon="-8.4679003">
+    <ele>385</ele>
+    <name>CT/DL-014</name>
+    <cmt><![CDATA[Serra de Pias]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Douro Litoral]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.236599" lon="-8.0945997">
+    <ele>381</ele>
+    <name>CT/DL-015</name>
+    <cmt><![CDATA[São Salvador]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Douro Litoral]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.292599" lon="-8.4884005">
+    <ele>344</ele>
+    <name>CT/DL-016</name>
+    <cmt><![CDATA[Outeiro Alto]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Douro Litoral]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.310001" lon="-8.2737999">
+    <ele>578</ele>
+    <name>CT/DL-017</name>
+    <cmt><![CDATA[Monte Telégrafo]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Douro Litoral]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.096298" lon="-8.4108">
+    <ele>416</ele>
+    <name>CT/DL-018</name>
+    <cmt><![CDATA[Serra de Santa Iria]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Douro Litoral]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.091099" lon="-8.4421997">
+    <ele>322</ele>
+    <name>CT/DL-019</name>
+    <cmt><![CDATA[Serra das Flores]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Douro Litoral]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.241001" lon="-8.4846001">
+    <ele>320</ele>
+    <name>CT/DL-020</name>
+    <cmt><![CDATA[Cornadinho]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Douro Litoral]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="39.173599" lon="-9.0487003">
+    <ele>666</ele>
+    <name>CT/ES-001</name>
+    <cmt><![CDATA[Serra do Montejunto]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Estremadura]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="38.782001" lon="-9.3913002">
+    <ele>528</ele>
+    <name>CT/ES-002</name>
+    <cmt><![CDATA[Cruz Alta]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Estremadura]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="38.480999" lon="-9.0001001">
+    <ele>501</ele>
+    <name>CT/ES-003</name>
+    <cmt><![CDATA[Alto do Formosinho]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Estremadura]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="38.986801" lon="-9.1513004">
+    <ele>442</ele>
+    <name>CT/ES-005</name>
+    <cmt><![CDATA[Monte do Alqueidão]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Estremadura]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="38.8699" lon="-9.2475004">
+    <ele>401</ele>
+    <name>CT/ES-006</name>
+    <cmt><![CDATA[Monfirre]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Estremadura]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="39.017601" lon="-9.2249002">
+    <ele>395</ele>
+    <name>CT/ES-007</name>
+    <cmt><![CDATA[Senhora do Socorro]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Estremadura]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="38.446602" lon="-9.0493002">
+    <ele>381</ele>
+    <name>CT/ES-008</name>
+    <cmt><![CDATA[Píncaro]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Estremadura]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="38.533901" lon="-8.9383001">
+    <ele>392</ele>
+    <name>CT/ES-009</name>
+    <cmt><![CDATA[São Luís da Serra]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Estremadura]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="38.8941" lon="-9.0904999">
+    <ele>350</ele>
+    <name>CT/ES-010</name>
+    <cmt><![CDATA[Monte Serves]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Estremadura]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="38.915798" lon="-9.2425003">
+    <ele>431</ele>
+    <name>CT/ES-011</name>
+    <cmt><![CDATA[Atalaia]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Estremadura]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="38.8983" lon="-9.1941004">
+    <ele>409</ele>
+    <name>CT/ES-012</name>
+    <cmt><![CDATA[Cabeço de Montachique]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Estremadura]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.9296" lon="-8.2917004">
+    <ele>1416</ele>
+    <name>CT/MN-001</name>
+    <cmt><![CDATA[Alto da Pedrada]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Minho]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.813" lon="-8.1952">
+    <ele>1359</ele>
+    <name>CT/MN-002</name>
+    <cmt><![CDATA[Louriça]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Minho]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.639099" lon="-8.0436001">
+    <ele>1262</ele>
+    <name>CT/MN-003</name>
+    <cmt><![CDATA[Cabreira]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Minho]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.867802" lon="-8.5184002">
+    <ele>883</ele>
+    <name>CT/MN-004</name>
+    <cmt><![CDATA[Corno de Bico]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Minho]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.8116" lon="-8.6967001">
+    <ele>825</ele>
+    <name>CT/MN-005</name>
+    <cmt><![CDATA[Alto do Espinheiro]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Minho]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.728802" lon="-8.4594002">
+    <ele>722</ele>
+    <name>CT/MN-006</name>
+    <cmt><![CDATA[Oural]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Minho]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.758701" lon="-8.1190004">
+    <ele>1430</ele>
+    <name>CT/MN-007</name>
+    <cmt><![CDATA[Borrageiro]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Minho]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.9688" lon="-8.3072996">
+    <ele>1374</ele>
+    <name>CT/MN-008</name>
+    <cmt><![CDATA[Pedrinho]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Minho]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="42.0079" lon="-8.2559004">
+    <ele>1294</ele>
+    <name>CT/MN-009</name>
+    <cmt><![CDATA[Fojo]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Minho]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="42.068699" lon="-8.2032003">
+    <ele>1256</ele>
+    <name>CT/MN-010</name>
+    <cmt><![CDATA[Picos]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Minho]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.9879" lon="-8.2377996">
+    <ele>1268</ele>
+    <name>CT/MN-011</name>
+    <cmt><![CDATA[Penameda]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Minho]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.766701" lon="-8.1578999">
+    <ele>1235</ele>
+    <name>CT/MN-012</name>
+    <cmt><![CDATA[Pé de Cabril]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Minho]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.818218" lon="-8.1649303">
+    <ele>1230</ele>
+    <name>CT/MN-013</name>
+    <cmt><![CDATA[Cruz do Touro]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Minho]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.739799" lon="-7.9478002">
+    <ele>1209</ele>
+    <name>CT/MN-014</name>
+    <cmt><![CDATA[Cerdeira]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Minho]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="42.0173" lon="-8.1917">
+    <ele>1215</ele>
+    <name>CT/MN-015</name>
+    <cmt><![CDATA[Chã de Matança]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Minho]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.5989" lon="-7.9816999">
+    <ele>1191</ele>
+    <name>CT/MN-016</name>
+    <cmt><![CDATA[Torrinheiras]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Minho]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.719299" lon="-8.2358999">
+    <ele>992</ele>
+    <name>CT/MN-018</name>
+    <cmt><![CDATA[Piorneiro]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Minho]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.541901" lon="-8.1162996">
+    <ele>894</ele>
+    <name>CT/MN-019</name>
+    <cmt><![CDATA[Alto do Morgair]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Minho]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.545898" lon="-8.0608997">
+    <ele>865</ele>
+    <name>CT/MN-020</name>
+    <cmt><![CDATA[Lapela]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Minho]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.973301" lon="-8.4315004">
+    <ele>842</ele>
+    <name>CT/MN-021</name>
+    <cmt><![CDATA[Alagoa de Cima]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Minho]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.9547" lon="-8.4924002">
+    <ele>842</ele>
+    <name>CT/MN-022</name>
+    <cmt><![CDATA[Monte Cotão]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Minho]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.500401" lon="-8.0481005">
+    <ele>830</ele>
+    <name>CT/MN-024</name>
+    <cmt><![CDATA[Penouta]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Minho]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.757702" lon="-8.2067003">
+    <ele>824</ele>
+    <name>CT/MN-025</name>
+    <cmt><![CDATA[Picota]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Minho]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.864899" lon="-8.3245001">
+    <ele>821</ele>
+    <name>CT/MN-026</name>
+    <cmt><![CDATA[Alto do Gião]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Minho]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.488201" lon="-8.0263996">
+    <ele>796</ele>
+    <name>CT/MN-027</name>
+    <cmt><![CDATA[Senhora da Orada]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Minho]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.770599" lon="-8.3743">
+    <ele>771</ele>
+    <name>CT/MN-028</name>
+    <cmt><![CDATA[Castelo da Nóbrega]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Minho]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.614899" lon="-8.1774998">
+    <ele>739</ele>
+    <name>CT/MN-029</name>
+    <cmt><![CDATA[Alto da Senhora da Lapa]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Minho]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.627998" lon="-8.2463999">
+    <ele>743</ele>
+    <name>CT/MN-030</name>
+    <cmt><![CDATA[Alto de São Mamede de Penafiel]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Minho]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.462399" lon="-7.9913998">
+    <ele>640</ele>
+    <name>CT/MN-031</name>
+    <cmt><![CDATA[Citânia do Ladário]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Minho]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.9216" lon="-8.7146997">
+    <ele>638</ele>
+    <name>CT/MN-032</name>
+    <cmt><![CDATA[Alto da Pena]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Minho]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.429501" lon="-8.2686996">
+    <ele>613</ele>
+    <name>CT/MN-033</name>
+    <cmt><![CDATA[Monte da Penha]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Minho]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.503201" lon="-8.2247">
+    <ele>601</ele>
+    <name>CT/MN-034</name>
+    <cmt><![CDATA[Santa Marinha]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Minho]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.541801" lon="-8.3695002">
+    <ele>572</ele>
+    <name>CT/MN-035</name>
+    <cmt><![CDATA[Sameiro]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Minho]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.714901" lon="-8.5978003">
+    <ele>574</ele>
+    <name>CT/MN-036</name>
+    <cmt><![CDATA[Nora]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Minho]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.762699" lon="-8.8080997">
+    <ele>550</ele>
+    <name>CT/MN-037</name>
+    <cmt><![CDATA[Santa Luzia]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Minho]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.836601" lon="-8.6139002">
+    <ele>516</ele>
+    <name>CT/MN-038</name>
+    <cmt><![CDATA[Formigoso]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Minho]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.497601" lon="-8.3810997">
+    <ele>493</ele>
+    <name>CT/MN-039</name>
+    <cmt><![CDATA[Outinho]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Minho]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.6754" lon="-8.6492004">
+    <ele>485</ele>
+    <name>CT/MN-040</name>
+    <cmt><![CDATA[Monte da Padela]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Minho]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.467098" lon="-8.4576998">
+    <ele>468</ele>
+    <name>CT/MN-042</name>
+    <cmt><![CDATA[Penedo das Letras]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Minho]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.753201" lon="-8.7538004">
+    <ele>470</ele>
+    <name>CT/MN-043</name>
+    <cmt><![CDATA[Aguieira]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Minho]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.8032" lon="-8.6183004">
+    <ele>431</ele>
+    <name>CT/MN-044</name>
+    <cmt><![CDATA[Antelas]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Minho]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.5191" lon="-8.5209999">
+    <ele>412</ele>
+    <name>CT/MN-045</name>
+    <cmt><![CDATA[Airó]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Minho]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.835201" lon="-8.8323002">
+    <ele>410</ele>
+    <name>CT/MN-046</name>
+    <cmt><![CDATA[Alto da Espiga]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Minho]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.404701" lon="-8.3435001">
+    <ele>410</ele>
+    <name>CT/MN-047</name>
+    <cmt><![CDATA[Senhora dos Montes]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Minho]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.906399" lon="-8.7763996">
+    <ele>344</ele>
+    <name>CT/MN-048</name>
+    <cmt><![CDATA[Monte de Goios]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Minho]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.418301" lon="-8.4036999">
+    <ele>334</ele>
+    <name>CT/MN-049</name>
+    <cmt><![CDATA[Castro]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Minho]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.4557" lon="-8.5852003">
+    <ele>301</ele>
+    <name>CT/MN-050</name>
+    <cmt><![CDATA[Monte da Saia]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Minho]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.82468" lon="-8.0409803">
+    <ele>1541</ele>
+    <name>CT/MN-051</name>
+    <cmt><![CDATA[Pico da Nevosa]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Minho]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="42.039799" lon="-8.1029997">
+    <ele>1336</ele>
+    <name>CT/MN-052</name>
+    <cmt><![CDATA[Giestoso]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Minho]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="42.006901" lon="-8.2229004">
+    <ele>1314</ele>
+    <name>CT/MN-053</name>
+    <cmt><![CDATA[Outeiro Alvo]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Minho]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.4119" lon="-8.0628004">
+    <ele>851</ele>
+    <name>CT/MN-054</name>
+    <cmt><![CDATA[Nossa Senhora do Viso]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Minho]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.465599" lon="-8.0754004">
+    <ele>851</ele>
+    <name>CT/MN-055</name>
+    <cmt><![CDATA[Pedreira]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Minho]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.829601" lon="-8.7454004">
+    <ele>742</ele>
+    <name>CT/MN-056</name>
+    <cmt><![CDATA[Pedra Alçada]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Minho]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.6744" lon="-8.3311996">
+    <ele>571</ele>
+    <name>CT/MN-057</name>
+    <cmt><![CDATA[Santa Cruz]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Minho]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.517601" lon="-8.2426004">
+    <ele>556</ele>
+    <name>CT/MN-058</name>
+    <cmt><![CDATA[Lajedas]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Minho]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.586899" lon="-8.6746998">
+    <ele>488</ele>
+    <name>CT/MN-059</name>
+    <cmt><![CDATA[São Gonçalo]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Minho]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.476601" lon="-8.4124002">
+    <ele>465</ele>
+    <name>CT/MN-060</name>
+    <cmt><![CDATA[Penedice]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Minho]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.489399" lon="-8.6455002">
+    <ele>297</ele>
+    <name>CT/MN-061</name>
+    <cmt><![CDATA[Franqueira]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Minho]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.630299" lon="-8.7931995">
+    <ele>189</ele>
+    <name>CT/MN-062</name>
+    <cmt><![CDATA[Castelo do Neiva]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Minho]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="39.535702" lon="-8.6367998">
+    <ele>678</ele>
+    <name>CT/RB-001</name>
+    <cmt><![CDATA[Serra de Aire]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Ribatejo]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="39.6138" lon="-7.9751">
+    <ele>643</ele>
+    <name>CT/RB-002</name>
+    <cmt><![CDATA[Serra do Bando dos Santos]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Ribatejo]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="39.622398" lon="-8.0279999">
+    <ele>624</ele>
+    <name>CT/RB-003</name>
+    <cmt><![CDATA[Monte de Mação]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Ribatejo]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="39.757" lon="-8.2579002">
+    <ele>451</ele>
+    <name>CT/RB-004</name>
+    <cmt><![CDATA[Junqueira]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Ribatejo]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.7173" lon="-6.8554001">
+    <ele>1320</ele>
+    <name>CT/TM-002</name>
+    <cmt><![CDATA[Serra da Nogueira]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Trás-os-Montes e Alto Douro]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.3395" lon="-7.8392">
+    <ele>1311</ele>
+    <name>CT/TM-003</name>
+    <cmt><![CDATA[Vaqueiro]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Trás-os-Montes e Alto Douro]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.694" lon="-7.8484001">
+    <ele>1279</ele>
+    <name>CT/TM-004</name>
+    <cmt><![CDATA[Armada]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Trás-os-Montes e Alto Douro]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.9151" lon="-7.0037999">
+    <ele>1273</ele>
+    <name>CT/TM-005</name>
+    <cmt><![CDATA[Coroa]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Trás-os-Montes e Alto Douro]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.434101" lon="-7.0068998">
+    <ele>1199</ele>
+    <name>CT/TM-006</name>
+    <cmt><![CDATA[Serra de Bornes]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Trás-os-Montes e Alto Douro]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.562302" lon="-7.5174999">
+    <ele>1148</ele>
+    <name>CT/TM-007</name>
+    <cmt><![CDATA[Padrela]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Trás-os-Montes e Alto Douro]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.415401" lon="-7.6343002">
+    <ele>1134</ele>
+    <name>CT/TM-008</name>
+    <cmt><![CDATA[Cabreiro]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Trás-os-Montes e Alto Douro]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.470798" lon="-7.3326998">
+    <ele>1013</ele>
+    <name>CT/TM-009</name>
+    <cmt><![CDATA[Alto do Picoto]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Trás-os-Montes e Alto Douro]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.362099" lon="-7.7638998">
+    <ele>1330</ele>
+    <name>CT/TM-012</name>
+    <cmt><![CDATA[Caravelas]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Trás-os-Montes e Alto Douro]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.7953" lon="-7.8196998">
+    <ele>1280</ele>
+    <name>CT/TM-013</name>
+    <cmt><![CDATA[Facho]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Trás-os-Montes e Alto Douro]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.656898" lon="-6.9126">
+    <ele>1231</ele>
+    <name>CT/TM-014</name>
+    <cmt><![CDATA[Pena Mourisca]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Trás-os-Montes e Alto Douro]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.813702" lon="-7.7147999">
+    <ele>1217</ele>
+    <name>CT/TM-015</name>
+    <cmt><![CDATA[Monte de Meixedo]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Trás-os-Montes e Alto Douro]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.549198" lon="-7.6882">
+    <ele>1203</ele>
+    <name>CT/TM-016</name>
+    <cmt><![CDATA[Minhéu]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Trás-os-Montes e Alto Douro]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.604198" lon="-7.8955998">
+    <ele>1174</ele>
+    <name>CT/TM-017</name>
+    <cmt><![CDATA[Seixa]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Trás-os-Montes e Alto Douro]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.732201" lon="-7.6473999">
+    <ele>1155</ele>
+    <name>CT/TM-018</name>
+    <cmt><![CDATA[Leiranco]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Trás-os-Montes e Alto Douro]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.898102" lon="-6.7719002">
+    <ele>1121</ele>
+    <name>CT/TM-020</name>
+    <cmt><![CDATA[Coroto]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Trás-os-Montes e Alto Douro]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.398899" lon="-7.5623002">
+    <ele>1032</ele>
+    <name>CT/TM-021</name>
+    <cmt><![CDATA[Escarão]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Trás-os-Montes e Alto Douro]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.626301" lon="-7.7042999">
+    <ele>1002</ele>
+    <name>CT/TM-022</name>
+    <cmt><![CDATA[Pedras]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Trás-os-Montes e Alto Douro]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.3918" lon="-6.6071">
+    <ele>997</ele>
+    <name>CT/TM-023</name>
+    <cmt><![CDATA[Serra da Castanheira]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Trás-os-Montes e Alto Douro]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.890202" lon="-6.5945001">
+    <ele>981</ele>
+    <name>CT/TM-024</name>
+    <cmt><![CDATA[Cabeça Velha]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Trás-os-Montes e Alto Douro]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.443298" lon="-7.8639002">
+    <ele>958</ele>
+    <name>CT/TM-025</name>
+    <cmt><![CDATA[Bentozelos]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Trás-os-Montes e Alto Douro]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.913799" lon="-7.1515002">
+    <ele>922</ele>
+    <name>CT/TM-026</name>
+    <cmt><![CDATA[Arrasca]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Trás-os-Montes e Alto Douro]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.5956" lon="-7.6560998">
+    <ele>910</ele>
+    <name>CT/TM-027</name>
+    <cmt><![CDATA[Telégrafo]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Trás-os-Montes e Alto Douro]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.194901" lon="-6.9556999">
+    <ele>902</ele>
+    <name>CT/TM-028</name>
+    <cmt><![CDATA[Mua]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Trás-os-Montes e Alto Douro]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.259201" lon="-7.3080001">
+    <ele>898</ele>
+    <name>CT/TM-029</name>
+    <cmt><![CDATA[Senhora da Graça]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Trás-os-Montes e Alto Douro]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.2108" lon="-6.7589998">
+    <ele>884</ele>
+    <name>CT/TM-030</name>
+    <cmt><![CDATA[Cabeço do Outeiro]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Trás-os-Montes e Alto Douro]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.443298" lon="-7.3937001">
+    <ele>892</ele>
+    <name>CT/TM-031</name>
+    <cmt><![CDATA[Garraia]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Trás-os-Montes e Alto Douro]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.2052" lon="-7.6016002">
+    <ele>863</ele>
+    <name>CT/TM-032</name>
+    <cmt><![CDATA[São Domingos]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Trás-os-Montes e Alto Douro]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.186699" lon="-7.1936002">
+    <ele>870</ele>
+    <name>CT/TM-033</name>
+    <cmt><![CDATA[Carpinteiro]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Trás-os-Montes e Alto Douro]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.202999" lon="-7.3294001">
+    <ele>843</ele>
+    <name>CT/TM-034</name>
+    <cmt><![CDATA[Ansiães]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Trás-os-Montes e Alto Douro]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.805" lon="-7.0282998">
+    <ele>828</ele>
+    <name>CT/TM-035</name>
+    <cmt><![CDATA[Moaz]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Trás-os-Montes e Alto Douro]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.377399" lon="-7.9008999">
+    <ele>810</ele>
+    <name>CT/TM-036</name>
+    <cmt><![CDATA[Corisco]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Trás-os-Montes e Alto Douro]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.365898" lon="-7.1914001">
+    <ele>821</ele>
+    <name>CT/TM-037</name>
+    <cmt><![CDATA[Faro]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Trás-os-Montes e Alto Douro]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.695702" lon="-7.6036">
+    <ele>775</ele>
+    <name>CT/TM-038</name>
+    <cmt><![CDATA[Rebordondo]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Trás-os-Montes e Alto Douro]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.509899" lon="-6.7756">
+    <ele>771</ele>
+    <name>CT/TM-039</name>
+    <cmt><![CDATA[Paixão]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Trás-os-Montes e Alto Douro]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.058201" lon="-6.9998999">
+    <ele>766</ele>
+    <name>CT/TM-040</name>
+    <cmt><![CDATA[Cumeada]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Trás-os-Montes e Alto Douro]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.056801" lon="-6.8192">
+    <ele>730</ele>
+    <name>CT/TM-041</name>
+    <cmt><![CDATA[Penedo Durão]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Trás-os-Montes e Alto Douro]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.102501" lon="-6.9376998">
+    <ele>708</ele>
+    <name>CT/TM-042</name>
+    <cmt><![CDATA[Centieiro]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Trás-os-Montes e Alto Douro]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.558701" lon="-7.8038001">
+    <ele>704</ele>
+    <name>CT/TM-043</name>
+    <cmt><![CDATA[Bezerral]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Trás-os-Montes e Alto Douro]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.283501" lon="-7.3709002">
+    <ele>664</ele>
+    <name>CT/TM-044</name>
+    <cmt><![CDATA[Cota]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Trás-os-Montes e Alto Douro]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.412498" lon="-7.1876001">
+    <ele>554</ele>
+    <name>CT/TM-045</name>
+    <cmt><![CDATA[Cubo]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Trás-os-Montes e Alto Douro]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.1492" lon="-7.9022002">
+    <ele>530</ele>
+    <name>CT/TM-046</name>
+    <cmt><![CDATA[São Silvestre de Cimo do Douro]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Trás-os-Montes e Alto Douro]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.350201" lon="-7.3157001">
+    <ele>509</ele>
+    <name>CT/TM-047</name>
+    <cmt><![CDATA[Abreiro]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Trás-os-Montes e Alto Douro]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.184399" lon="-7.7705998">
+    <ele>442</ele>
+    <name>CT/TM-048</name>
+    <cmt><![CDATA[São Pedro]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Trás-os-Montes e Alto Douro]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.88271" lon="-7.7248998">
+    <ele>1537</ele>
+    <name>CT/TM-049</name>
+    <cmt><![CDATA[Larouco]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Trás-os-Montes e Alto Douro]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.3526" lon="-6.6222">
+    <ele>969</ele>
+    <name>CT/TM-050</name>
+    <cmt><![CDATA[Serra de Variz]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Trás-os-Montes e Alto Douro]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.416401" lon="-7.9159002">
+    <ele>941</ele>
+    <name>CT/TM-051</name>
+    <cmt><![CDATA[Monte Farinha]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Trás-os-Montes e Alto Douro]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.317299" lon="-6.7325001">
+    <ele>918</ele>
+    <name>CT/TM-052</name>
+    <cmt><![CDATA[Figueira]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Trás-os-Montes e Alto Douro]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.166698" lon="-7.0180998">
+    <ele>913</ele>
+    <name>CT/TM-053</name>
+    <cmt><![CDATA[Reboredo]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Trás-os-Montes e Alto Douro]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.7402" lon="-7.5640001">
+    <ele>777</ele>
+    <name>CT/TM-054</name>
+    <cmt><![CDATA[Bandeira]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Trás-os-Montes e Alto Douro]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.348598" lon="-7.1803002">
+    <ele>776</ele>
+    <name>CT/TM-055</name>
+    <cmt><![CDATA[Senhora da Assunção]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Trás-os-Montes e Alto Douro]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.669201" lon="-7.5176001">
+    <ele>775</ele>
+    <name>CT/TM-056</name>
+    <cmt><![CDATA[Santa Bárbara]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Trás-os-Montes e Alto Douro]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.7873" lon="-6.6901002">
+    <ele>771</ele>
+    <name>CT/TM-057</name>
+    <cmt><![CDATA[Guieiro]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Trás-os-Montes e Alto Douro]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.3293" lon="-7.2473998">
+    <ele>618</ele>
+    <name>CT/TM-058</name>
+    <cmt><![CDATA[Freixiel]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Trás-os-Montes e Alto Douro]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+  <wpt lat="41.354401" lon="-7.3495002">
+    <ele>551</ele>
+    <name>CT/TM-059</name>
+    <cmt><![CDATA[Castelo de Sobreira]]></cmt>
+    <desc><![CDATA[SOTA Association: CT - Portugal, Region: Trás-os-Montes e Alto Douro]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit CT/</type>
+  </wpt>
+</gpx>

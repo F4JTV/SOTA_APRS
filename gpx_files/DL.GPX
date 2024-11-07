@@ -1,0 +1,3208 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1" 
+     creator="SOTA Mapping Project GPX Generator 1.1" 
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+     xmlns="http://www.topografix.com/GPX/1/1" 
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>SOTA Summits GPX Export</name>
+    <desc>SOTA Summits data in GPX v1.1 format></desc>
+    <author>
+      <name>SOTA Mapping Project></name>
+      <email id="admin" domain="www.sotamaps.org" />
+      <link href="https://www.sotamaps.org">
+        <text>SOTA Mapping Project</text>
+      </link>
+    </author>
+    <link href="https://www.sotamaps.org">
+      <text>SOTA Mapping Project</text>
+    </link>
+    <time>2024-11-07T15:11:50Z</time>
+    <keywords>SOTA, Summits On The Air, amateur radio, ham radio</keywords>
+    <bounds minlat="47.2705" minlon="9.93995" maxlat="47.973701" maxlon="13.081583"/>
+  </metadata>
+  <wpt lat="47.2705" lon="10.2323">
+    <ele>2599</ele>
+    <name>DL/AL-001</name>
+    <cmt><![CDATA[Biberkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.280392" lon="10.24569">
+    <ele>2425</ele>
+    <name>DL/AL-003</name>
+    <cmt><![CDATA[Hochrappenkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.28093" lon="10.25471">
+    <ele>2469</ele>
+    <name>DL/AL-004</name>
+    <cmt><![CDATA[Rappenseekopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.284653" lon="10.262765">
+    <ele>2460</ele>
+    <name>DL/AL-005</name>
+    <cmt><![CDATA[Hochgundspitze]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.288109" lon="10.26578">
+    <ele>2485</ele>
+    <name>DL/AL-006</name>
+    <cmt><![CDATA[Rotgundspitze]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.292171" lon="10.287692">
+    <ele>2609</ele>
+    <name>DL/AL-009</name>
+    <cmt><![CDATA[Bockkarkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.296909" lon="10.29298">
+    <ele>2649</ele>
+    <name>DL/AL-010</name>
+    <cmt><![CDATA[Hochfrottspitze]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.303619" lon="10.29545">
+    <ele>2595</ele>
+    <name>DL/AL-012</name>
+    <cmt><![CDATA[Trettachspitze]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.3064" lon="10.317463">
+    <ele>2427</ele>
+    <name>DL/AL-013</name>
+    <cmt><![CDATA[Kratzer]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.317459" lon="10.34876">
+    <ele>2576</ele>
+    <name>DL/AL-015</name>
+    <cmt><![CDATA[Oefnerspitze]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.355431" lon="10.32665">
+    <ele>1959</ele>
+    <name>DL/AL-018</name>
+    <cmt><![CDATA[Kegelkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.336979" lon="10.35683">
+    <ele>2376</ele>
+    <name>DL/AL-019</name>
+    <cmt><![CDATA[Kreuzeck]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.344681" lon="10.36815">
+    <ele>2384</ele>
+    <name>DL/AL-020</name>
+    <cmt><![CDATA[Rauheck]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.354328" lon="10.383591">
+    <ele>2232</ele>
+    <name>DL/AL-021</name>
+    <cmt><![CDATA[Jochspitze]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.363171" lon="10.38624">
+    <ele>2306</ele>
+    <name>DL/AL-024</name>
+    <cmt><![CDATA[Kleiner Wilder]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.38036" lon="10.43669">
+    <ele>2592</ele>
+    <name>DL/AL-030</name>
+    <cmt><![CDATA[Hochvogel]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.391041" lon="10.429256">
+    <ele>2314</ele>
+    <name>DL/AL-031</name>
+    <cmt><![CDATA[Fuchskarspitze]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.402889" lon="10.431639">
+    <ele>2270</ele>
+    <name>DL/AL-033</name>
+    <cmt><![CDATA[Glasfelderkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.417816" lon="10.452605">
+    <ele>2070</ele>
+    <name>DL/AL-036</name>
+    <cmt><![CDATA[Schaenzlekopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.429169" lon="10.46279">
+    <ele>2121</ele>
+    <name>DL/AL-038</name>
+    <cmt><![CDATA[Lahnerkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.431549" lon="10.475321">
+    <ele>2135</ele>
+    <name>DL/AL-040</name>
+    <cmt><![CDATA[Kaelbelespitze]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.448524" lon="10.470241">
+    <ele>2125</ele>
+    <name>DL/AL-044</name>
+    <cmt><![CDATA[Kugelhorn]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.48571" lon="10.45136">
+    <ele>2044</ele>
+    <name>DL/AL-046</name>
+    <cmt><![CDATA[Ponten]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.503769" lon="10.4313">
+    <ele>1907</ele>
+    <name>DL/AL-049</name>
+    <cmt><![CDATA[Kuehgundkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.339619" lon="10.28737">
+    <ele>1955</ele>
+    <name>DL/AL-052</name>
+    <cmt><![CDATA[Hinterer Wildgundkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.362701" lon="10.28257">
+    <ele>1791</ele>
+    <name>DL/AL-054</name>
+    <cmt><![CDATA[Himmelschrofen]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.36718" lon="10.34945">
+    <ele>2258</ele>
+    <name>DL/AL-055</name>
+    <cmt><![CDATA[Hoefats]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.379349" lon="10.31732">
+    <ele>1748</ele>
+    <name>DL/AL-060</name>
+    <cmt><![CDATA[Riffenkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.38588" lon="10.38244">
+    <ele>2268</ele>
+    <name>DL/AL-061</name>
+    <cmt><![CDATA[Schneck]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.394859" lon="10.37172">
+    <ele>2111</ele>
+    <name>DL/AL-068</name>
+    <cmt><![CDATA[Lachenkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.422859" lon="10.35034">
+    <ele>2235</ele>
+    <name>DL/AL-076</name>
+    <cmt><![CDATA[Wengenkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.44157" lon="10.37556">
+    <ele>2280</ele>
+    <name>DL/AL-077</name>
+    <cmt><![CDATA[Grosser Daumen]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.45948" lon="10.36935">
+    <ele>2034</ele>
+    <name>DL/AL-079</name>
+    <cmt><![CDATA[Rotspitze]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.436489" lon="10.33125">
+    <ele>2043</ele>
+    <name>DL/AL-081</name>
+    <cmt><![CDATA[Entschenkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.450932" lon="10.32726">
+    <ele>1833</ele>
+    <name>DL/AL-082</name>
+    <cmt><![CDATA[Schnippenkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.484241" lon="10.35698">
+    <ele>1655</ele>
+    <name>DL/AL-086</name>
+    <cmt><![CDATA[Imberger Horn]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.310558" lon="10.21662">
+    <ele>2320</ele>
+    <name>DL/AL-092</name>
+    <cmt><![CDATA[Schafalpenkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.31918" lon="10.21117">
+    <ele>2260</ele>
+    <name>DL/AL-093</name>
+    <cmt><![CDATA[Suedl.Hammerspitze]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.350601" lon="10.21758">
+    <ele>2037</ele>
+    <name>DL/AL-097</name>
+    <cmt><![CDATA[Fellhorn]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.376179" lon="10.11711">
+    <ele>2033</ele>
+    <name>DL/AL-101</name>
+    <cmt><![CDATA[Ob.Gottesackerwand]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.398788" lon="10.18669">
+    <ele>1560</ele>
+    <name>DL/AL-104</name>
+    <cmt><![CDATA[Kackenkoepfe]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.425209" lon="10.188">
+    <ele>1679</ele>
+    <name>DL/AL-105</name>
+    <cmt><![CDATA[Besler]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.416229" lon="10.13287">
+    <ele>1630</ele>
+    <name>DL/AL-107</name>
+    <cmt><![CDATA[Piesenkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.451511" lon="10.15909">
+    <ele>1787</ele>
+    <name>DL/AL-108</name>
+    <cmt><![CDATA[Riedberger Horn]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.448311" lon="10.19206">
+    <ele>1712</ele>
+    <name>DL/AL-109</name>
+    <cmt><![CDATA[Wannenkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.463692" lon="10.18059">
+    <ele>1662</ele>
+    <name>DL/AL-110</name>
+    <cmt><![CDATA[Ochsenkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.465099" lon="10.20087">
+    <ele>1665</ele>
+    <name>DL/AL-111</name>
+    <cmt><![CDATA[Weiherkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.4701" lon="10.14013">
+    <ele>1669</ele>
+    <name>DL/AL-115</name>
+    <cmt><![CDATA[Bleicher Horn]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.480011" lon="10.12556">
+    <ele>1746</ele>
+    <name>DL/AL-118</name>
+    <cmt><![CDATA[Sipplingerkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.434521" lon="10.10935">
+    <ele>1552</ele>
+    <name>DL/AL-123</name>
+    <cmt><![CDATA[Hochschelpen]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.5172" lon="10.1611">
+    <ele>1749</ele>
+    <name>DL/AL-127</name>
+    <cmt><![CDATA[Stuiben]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.51078" lon="10.13104">
+    <ele>1772</ele>
+    <name>DL/AL-129</name>
+    <cmt><![CDATA[Buralpkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.504921" lon="10.10768">
+    <ele>1821</ele>
+    <name>DL/AL-131</name>
+    <cmt><![CDATA[Rindalphorn]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.49538" lon="10.07865">
+    <ele>1834</ele>
+    <name>DL/AL-132</name>
+    <cmt><![CDATA[Hochgrat]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.481812" lon="10.00316">
+    <ele>1562</ele>
+    <name>DL/AL-137</name>
+    <cmt><![CDATA[Hochhaedrich]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.553551" lon="10.18695">
+    <ele>1489</ele>
+    <name>DL/AL-138</name>
+    <cmt><![CDATA[Immenstaedter Horn]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.570889" lon="10.09004">
+    <ele>1254</ele>
+    <name>DL/AL-142</name>
+    <cmt><![CDATA[Salmaser Hoehe]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.554459" lon="10.03628">
+    <ele>1042</ele>
+    <name>DL/AL-144</name>
+    <cmt><![CDATA[Staufen]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.624321" lon="10.17301">
+    <ele>1244</ele>
+    <name>DL/AL-145</name>
+    <cmt><![CDATA[Hauchenberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.661781" lon="10.15698">
+    <ele>1106</ele>
+    <name>DL/AL-146</name>
+    <cmt><![CDATA[Sonneneck]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.637619" lon="10.06344">
+    <ele>1065</ele>
+    <name>DL/AL-148</name>
+    <cmt><![CDATA[Riedberger Kugel]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.554951" lon="10.32">
+    <ele>1738</ele>
+    <name>DL/AL-150</name>
+    <cmt><![CDATA[Gruenten]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.546242" lon="10.39013">
+    <ele>1684</ele>
+    <name>DL/AL-151</name>
+    <cmt><![CDATA[Wertacher Hoernle]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.526508" lon="10.38357">
+    <ele>1651</ele>
+    <name>DL/AL-153</name>
+    <cmt><![CDATA[Spiesser]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.548599" lon="10.55186">
+    <ele>1838</ele>
+    <name>DL/AL-158</name>
+    <cmt><![CDATA[Breitenberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.540409" lon="10.48891">
+    <ele>1688</ele>
+    <name>DL/AL-159</name>
+    <cmt><![CDATA[Schoenkahler]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.5919" lon="10.496667">
+    <ele>1630</ele>
+    <name>DL/AL-161</name>
+    <cmt><![CDATA[Edelsberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.590389" lon="10.46016">
+    <ele>1542</ele>
+    <name>DL/AL-163</name>
+    <cmt><![CDATA[Reuterwanne]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.5662" lon="10.51416">
+    <ele>1536</ele>
+    <name>DL/AL-164</name>
+    <cmt><![CDATA[Kienberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.569401" lon="10.59116">
+    <ele>1277</ele>
+    <name>DL/AL-167</name>
+    <cmt><![CDATA[Falkenstein]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.73555" lon="10.73581">
+    <ele>1055</ele>
+    <name>DL/AL-169</name>
+    <cmt><![CDATA[Auerberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.643261" lon="10.69107">
+    <ele>1055</ele>
+    <name>DL/AL-170</name>
+    <cmt><![CDATA[Zwieselberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.612862" lon="10.59013">
+    <ele>1053</ele>
+    <name>DL/AL-171</name>
+    <cmt><![CDATA[Eisenberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.635921" lon="10.65846">
+    <ele>1047</ele>
+    <name>DL/AL-172</name>
+    <cmt><![CDATA[Senkelekopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.7728" lon="10.77089">
+    <ele>965</ele>
+    <name>DL/AL-179</name>
+    <cmt><![CDATA[Weichberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.630001" lon="10.4069">
+    <ele>1151</ele>
+    <name>DL/AL-181</name>
+    <cmt><![CDATA[Burgkranzegger Horn]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.42601" lon="10.43257">
+    <ele>1823</ele>
+    <name>DL/AL-190</name>
+    <cmt><![CDATA[Rosskopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.427959" lon="10.24928">
+    <ele>1179</ele>
+    <name>DL/AL-206</name>
+    <cmt><![CDATA[Ochsenberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.541222" lon="10.17663">
+    <ele>1482</ele>
+    <name>DL/AL-258</name>
+    <cmt><![CDATA[Am roten Kopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.600281" lon="10.09866">
+    <ele>1126</ele>
+    <name>DL/AL-267</name>
+    <cmt><![CDATA[Ochsenberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.591351" lon="10.293">
+    <ele>1115</ele>
+    <name>DL/AL-271</name>
+    <cmt><![CDATA[Auf dem Falken]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.66172" lon="10.01141">
+    <ele>846</ele>
+    <name>DL/AL-272</name>
+    <cmt><![CDATA[Altringenberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.623699" lon="10.02073">
+    <ele>919</ele>
+    <name>DL/AL-273</name>
+    <cmt><![CDATA[Laubenberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.599548" lon="10.04673">
+    <ele>1012</ele>
+    <name>DL/AL-274</name>
+    <cmt><![CDATA[Fernberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.564201" lon="9.9862099">
+    <ele>984</ele>
+    <name>DL/AL-275</name>
+    <cmt><![CDATA[Gehaeuenholz]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.54932" lon="10.00322">
+    <ele>998</ele>
+    <name>DL/AL-276</name>
+    <cmt><![CDATA[Kapf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.537979" lon="9.93995">
+    <ele>1040</ele>
+    <name>DL/AL-277</name>
+    <cmt><![CDATA[Auf dem Hochstraess]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.50647" lon="10.00423">
+    <ele>1391</ele>
+    <name>DL/AL-278</name>
+    <cmt><![CDATA[Fluh]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.2752" lon="10.2079">
+    <ele>1913</ele>
+    <name>DL/AL-279</name>
+    <cmt><![CDATA[Gruener]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.54179" lon="10.1417">
+    <ele>1488</ele>
+    <name>DL/AL-280</name>
+    <cmt><![CDATA[Eckhalde]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.712769" lon="10.18481">
+    <ele>1129</ele>
+    <name>DL/AL-281</name>
+    <cmt><![CDATA[Ursersberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.7938" lon="10.3849">
+    <ele>916</ele>
+    <name>DL/AL-282</name>
+    <cmt><![CDATA[Steig]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.55938" lon="10.6566">
+    <ele>1026</ele>
+    <name>DL/AL-283</name>
+    <cmt><![CDATA[Vilser Berg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.321709" lon="10.2375">
+    <ele>2177</ele>
+    <name>DL/AL-284</name>
+    <cmt><![CDATA[Alpgundkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.560139" lon="10.49042">
+    <ele>1488</ele>
+    <name>DL/AL-285</name>
+    <cmt><![CDATA[Westerkienberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.41412" lon="10.17722">
+    <ele>1474</ele>
+    <name>DL/AL-286</name>
+    <cmt><![CDATA[Rote Wand]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.565521" lon="10.61302">
+    <ele>1288</ele>
+    <name>DL/AL-287</name>
+    <cmt><![CDATA[Salober]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.730881" lon="10.21358">
+    <ele>1077</ele>
+    <name>DL/AL-288</name>
+    <cmt><![CDATA[Dürrer Bühl]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Allgäuer Alpen]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.800919" lon="11.01275">
+    <ele>988</ele>
+    <name>DL/AM-001</name>
+    <cmt><![CDATA[Peissenberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Ammergauer Alpen]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.629719" lon="10.90764">
+    <ele>1638</ele>
+    <name>DL/AM-002</name>
+    <cmt><![CDATA[Hohe Bleick]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Ammergauer Alpen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.63102" lon="10.86813">
+    <ele>1526</ele>
+    <name>DL/AM-003</name>
+    <cmt><![CDATA[Wolfskopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Ammergauer Alpen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.587009" lon="11.05966">
+    <ele>1342</ele>
+    <name>DL/AM-004</name>
+    <cmt><![CDATA[Kofel]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Ammergauer Alpen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.584229" lon="11.0163">
+    <ele>1622</ele>
+    <name>DL/AM-006</name>
+    <cmt><![CDATA[Sonnenberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Ammergauer Alpen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.587421" lon="10.98626">
+    <ele>1758</ele>
+    <name>DL/AM-008</name>
+    <cmt><![CDATA[Teufelstaettkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Ammergauer Alpen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.58638" lon="10.96043">
+    <ele>1769</ele>
+    <name>DL/AM-009</name>
+    <cmt><![CDATA[Hennenkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Ammergauer Alpen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.58057" lon="10.90904">
+    <ele>1924</ele>
+    <name>DL/AM-012</name>
+    <cmt><![CDATA[Grosse Klammspitz]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Ammergauer Alpen]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.579659" lon="10.89026">
+    <ele>1866</ele>
+    <name>DL/AM-014</name>
+    <cmt><![CDATA[Feigenkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Ammergauer Alpen]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.57909" lon="10.86886">
+    <ele>1839</ele>
+    <name>DL/AM-015</name>
+    <cmt><![CDATA[Grubenkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Ammergauer Alpen]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.554661" lon="10.88751">
+    <ele>1929</ele>
+    <name>DL/AM-017</name>
+    <cmt><![CDATA[Scheinbergspitze]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Ammergauer Alpen]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.56361" lon="10.86771">
+    <ele>1827</ele>
+    <name>DL/AM-018</name>
+    <cmt><![CDATA[Vorderscheinberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Ammergauer Alpen]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.552212" lon="10.84203">
+    <ele>2082</ele>
+    <name>DL/AM-022</name>
+    <cmt><![CDATA[Hochplatte]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Ammergauer Alpen]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.561531" lon="10.82975">
+    <ele>1882</ele>
+    <name>DL/AM-028</name>
+    <cmt><![CDATA[Geiselstein]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Ammergauer Alpen]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.543652" lon="10.79436">
+    <ele>1933</ele>
+    <name>DL/AM-029</name>
+    <cmt><![CDATA[Hoher Straussberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Ammergauer Alpen]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.552952" lon="10.79828">
+    <ele>1784</ele>
+    <name>DL/AM-030</name>
+    <cmt><![CDATA[Ahornspitze]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Ammergauer Alpen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.559391" lon="10.78701">
+    <ele>1881</ele>
+    <name>DL/AM-031</name>
+    <cmt><![CDATA[Branderschrofen]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Ammergauer Alpen]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.571541" lon="10.80819">
+    <ele>1706</ele>
+    <name>DL/AM-033</name>
+    <cmt><![CDATA[Schoenleitenschrofen]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Ammergauer Alpen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.520039" lon="10.81259">
+    <ele>1909</ele>
+    <name>DL/AM-039</name>
+    <cmt><![CDATA[Kreuzkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Ammergauer Alpen]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.52634" lon="10.81274">
+    <ele>1905</ele>
+    <name>DL/AM-040</name>
+    <cmt><![CDATA[Ochsenaelpeleskopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Ammergauer Alpen]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.526539" lon="10.91798">
+    <ele>2185</ele>
+    <name>DL/AM-043</name>
+    <cmt><![CDATA[Kreuzspitze]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Ammergauer Alpen]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.521599" lon="10.95947">
+    <ele>2053</ele>
+    <name>DL/AM-045</name>
+    <cmt><![CDATA[Frieder]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Ammergauer Alpen]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.509281" lon="10.91632">
+    <ele>2052</ele>
+    <name>DL/AM-046</name>
+    <cmt><![CDATA[Schellschlicht]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Ammergauer Alpen]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.49725" lon="10.88765">
+    <ele>1832</ele>
+    <name>DL/AM-048</name>
+    <cmt><![CDATA[Schellkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Ammergauer Alpen]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.553398" lon="11.05509">
+    <ele>1888</ele>
+    <name>DL/AM-049</name>
+    <cmt><![CDATA[Notkarspitze]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Ammergauer Alpen]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.530231" lon="11.02902">
+    <ele>1928</ele>
+    <name>DL/AM-051</name>
+    <cmt><![CDATA[Vorderer Felderkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Ammergauer Alpen]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.540852" lon="10.99862">
+    <ele>1953</ele>
+    <name>DL/AM-052</name>
+    <cmt><![CDATA[Kienjoch]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Ammergauer Alpen]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.514252" lon="11.01198">
+    <ele>1935</ele>
+    <name>DL/AM-055</name>
+    <cmt><![CDATA[Hirschbuehel]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Ammergauer Alpen]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.50713" lon="11.04692">
+    <ele>1985</ele>
+    <name>DL/AM-056</name>
+    <cmt><![CDATA[Kramerspitz]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Ammergauer Alpen]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.501389" lon="11.00323">
+    <ele>1864</ele>
+    <name>DL/AM-057</name>
+    <cmt><![CDATA[Hoher Ziegspitz]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Ammergauer Alpen]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.63879" lon="11.07446">
+    <ele>1548</ele>
+    <name>DL/AM-058</name>
+    <cmt><![CDATA[Hinteres Hoernle]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Ammergauer Alpen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.584999" lon="11.10052">
+    <ele>1686</ele>
+    <name>DL/AM-060</name>
+    <cmt><![CDATA[Laber]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Ammergauer Alpen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.613861" lon="11.0974">
+    <ele>1542</ele>
+    <name>DL/AM-071</name>
+    <cmt><![CDATA[Grosser Aufacker]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Ammergauer Alpen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.577881" lon="11.1185">
+    <ele>1466</ele>
+    <name>DL/AM-093</name>
+    <cmt><![CDATA[Grosser Laber]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Ammergauer Alpen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.630531" lon="10.99185">
+    <ele>1396</ele>
+    <name>DL/AM-104</name>
+    <cmt><![CDATA[Hochschergen]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Ammergauer Alpen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.633831" lon="10.9394">
+    <ele>1545</ele>
+    <name>DL/AM-105</name>
+    <cmt><![CDATA[Hochwildfeuerberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Ammergauer Alpen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.517719" lon="10.91823">
+    <ele>2089</ele>
+    <name>DL/AM-118</name>
+    <cmt><![CDATA[Kreuzspitzl]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Ammergauer Alpen]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.586761" lon="10.97936">
+    <ele>1758</ele>
+    <name>DL/AM-122</name>
+    <cmt><![CDATA[Laubeneck]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Ammergauer Alpen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.485081" lon="10.95773">
+    <ele>1175</ele>
+    <name>DL/AM-134</name>
+    <cmt><![CDATA[Ofenberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Ammergauer Alpen]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.544128" lon="11.09051">
+    <ele>1380</ele>
+    <name>DL/AM-151</name>
+    <cmt><![CDATA[Schafkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Ammergauer Alpen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.662479" lon="10.90684">
+    <ele>1012</ele>
+    <name>DL/AM-156</name>
+    <cmt><![CDATA[Schneidberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Ammergauer Alpen]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.562759" lon="10.7119">
+    <ele>996</ele>
+    <name>DL/AM-175</name>
+    <cmt><![CDATA[Kienberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Ammergauer Alpen]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.714989" lon="10.90954">
+    <ele>958</ele>
+    <name>DL/AM-176</name>
+    <cmt><![CDATA[Rentschen]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Ammergauer Alpen]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.727211" lon="11.03137">
+    <ele>949</ele>
+    <name>DL/AM-177</name>
+    <cmt><![CDATA[Kirnberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Ammergauer Alpen]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.76548" lon="10.96626">
+    <ele>901</ele>
+    <name>DL/AM-178</name>
+    <cmt><![CDATA[Ammerleite]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Ammergauer Alpen]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.581299" lon="11.15939">
+    <ele>958</ele>
+    <name>DL/AM-179</name>
+    <cmt><![CDATA[Hoehenberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Ammergauer Alpen]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.916969" lon="11.2186">
+    <ele>758</ele>
+    <name>DL/AM-180</name>
+    <cmt><![CDATA[Berndorfer Buchet]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Ammergauer Alpen]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.723541" lon="11.48843">
+    <ele>1348</ele>
+    <name>DL/BE-003</name>
+    <cmt><![CDATA[Zwieselberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Benediktenwandgruppe]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.653141" lon="11.46561">
+    <ele>1800</ele>
+    <name>DL/BE-016</name>
+    <cmt><![CDATA[Benediktenwand]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Benediktenwandgruppe]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.652851" lon="11.4365">
+    <ele>1496</ele>
+    <name>DL/BE-017</name>
+    <cmt><![CDATA[Glaswand]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Benediktenwandgruppe]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.650372" lon="11.4122">
+    <ele>1555</ele>
+    <name>DL/BE-018</name>
+    <cmt><![CDATA[Rabenkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Benediktenwandgruppe]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.62748" lon="11.4063">
+    <ele>1514</ele>
+    <name>DL/BE-019</name>
+    <cmt><![CDATA[Hirschhoernlkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Benediktenwandgruppe]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.55439" lon="11.35709">
+    <ele>1328</ele>
+    <name>DL/BE-020</name>
+    <cmt><![CDATA[Altlacher Hochkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Benediktenwandgruppe]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.585789" lon="11.46771">
+    <ele>1532</ele>
+    <name>DL/BE-021</name>
+    <cmt><![CDATA[Staffel]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Benediktenwandgruppe]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.600689" lon="11.53999">
+    <ele>1376</ele>
+    <name>DL/BE-022</name>
+    <cmt><![CDATA[Hoher Zwiesler]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Benediktenwandgruppe]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.61253" lon="11.52325">
+    <ele>1151</ele>
+    <name>DL/BE-028</name>
+    <cmt><![CDATA[Brandkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Benediktenwandgruppe]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.608299" lon="11.46273">
+    <ele>1102</ele>
+    <name>DL/BE-030</name>
+    <cmt><![CDATA[Brunnenberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Benediktenwandgruppe]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.69313" lon="11.46681">
+    <ele>1225</ele>
+    <name>DL/BE-032</name>
+    <cmt><![CDATA[Buchenauer Kopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Benediktenwandgruppe]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.59996" lon="11.3914">
+    <ele>1164</ele>
+    <name>DL/BE-039</name>
+    <cmt><![CDATA[Fischberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Benediktenwandgruppe]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.633438" lon="11.49082">
+    <ele>1323</ele>
+    <name>DL/BE-044</name>
+    <cmt><![CDATA[Hahnberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Benediktenwandgruppe]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.562908" lon="11.42023">
+    <ele>1348</ele>
+    <name>DL/BE-048</name>
+    <cmt><![CDATA[Risser Hochkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Benediktenwandgruppe]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.700691" lon="11.49567">
+    <ele>1184</ele>
+    <name>DL/BE-049</name>
+    <cmt><![CDATA[Hochtannenkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Benediktenwandgruppe]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.625938" lon="11.37184">
+    <ele>1565</ele>
+    <name>DL/BE-050</name>
+    <cmt><![CDATA[Jochberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Benediktenwandgruppe]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.631031" lon="11.4639">
+    <ele>1487</ele>
+    <name>DL/BE-063</name>
+    <cmt><![CDATA[Latschenkopf (2)]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Benediktenwandgruppe]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.62009" lon="11.54189">
+    <ele>1052</ele>
+    <name>DL/BE-064</name>
+    <cmt><![CDATA[Lettnerberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Benediktenwandgruppe]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.562881" lon="11.40006">
+    <ele>1311</ele>
+    <name>DL/BE-066</name>
+    <cmt><![CDATA[Mitterberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Benediktenwandgruppe]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.599281" lon="11.50814">
+    <ele>1104</ele>
+    <name>DL/BE-073</name>
+    <cmt><![CDATA[Rotwand]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Benediktenwandgruppe]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.577" lon="11.51927">
+    <ele>1147</ele>
+    <name>DL/BE-076</name>
+    <cmt><![CDATA[Schindelberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Benediktenwandgruppe]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.571541" lon="11.45835">
+    <ele>1366</ele>
+    <name>DL/BE-083</name>
+    <cmt><![CDATA[Spitzberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Benediktenwandgruppe]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.617851" lon="11.56258">
+    <ele>1273</ele>
+    <name>DL/BE-084</name>
+    <cmt><![CDATA[Talkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Benediktenwandgruppe]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.584091" lon="11.43171">
+    <ele>1437</ele>
+    <name>DL/BE-091</name>
+    <cmt><![CDATA[Zwoelferkoepfl]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Benediktenwandgruppe]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.5769" lon="11.50328">
+    <ele>1293</ele>
+    <name>DL/BE-092</name>
+    <cmt><![CDATA[Niederskopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Benediktenwandgruppe]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.752682" lon="11.50667">
+    <ele>857</ele>
+    <name>DL/BE-093</name>
+    <cmt><![CDATA[Buchberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Benediktenwandgruppe]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.973701" lon="11.4278">
+    <ele>726</ele>
+    <name>DL/BE-094</name>
+    <cmt><![CDATA[Irschenhausen]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Benediktenwandgruppe]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.755711" lon="12.81408">
+    <ele>1782</ele>
+    <name>DL/BG-001</name>
+    <cmt><![CDATA[Zwiesel]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Berchtesgadener Alpen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.754921" lon="12.84878">
+    <ele>1771</ele>
+    <name>DL/BG-003</name>
+    <cmt><![CDATA[Hochstaufen]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Berchtesgadener Alpen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.5989" lon="12.7917">
+    <ele>2251</ele>
+    <name>DL/BG-008</name>
+    <cmt><![CDATA[Wagendrischelhorn]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Berchtesgadener Alpen]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.592781" lon="12.79509">
+    <ele>2286</ele>
+    <name>DL/BG-009</name>
+    <cmt><![CDATA[Stadelhorn]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Berchtesgadener Alpen]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.686352" lon="12.89273">
+    <ele>1738</ele>
+    <name>DL/BG-014</name>
+    <cmt><![CDATA[Karkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Berchtesgadener Alpen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.693481" lon="12.98666">
+    <ele>1972</ele>
+    <name>DL/BG-020</name>
+    <cmt><![CDATA[B'gadener Hochthron]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Berchtesgadener Alpen]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.65826" lon="13.01738">
+    <ele>1189</ele>
+    <name>DL/BG-022</name>
+    <cmt><![CDATA[Kneifelspitze]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Berchtesgadener Alpen]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.619606" lon="13.081583">
+    <ele>1604</ele>
+    <name>DL/BG-023</name>
+    <cmt><![CDATA[Ahornbuechsenkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Berchtesgadener Alpen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.54686" lon="12.8426">
+    <ele>2523</ele>
+    <name>DL/BG-026</name>
+    <cmt><![CDATA[Hocheisspitz]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Berchtesgadener Alpen]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.559711" lon="12.85487">
+    <ele>2468</ele>
+    <name>DL/BG-028</name>
+    <cmt><![CDATA[Steintalhoernl]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Berchtesgadener Alpen]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.5625" lon="12.86248">
+    <ele>2515</ele>
+    <name>DL/BG-029</name>
+    <cmt><![CDATA[Ofentalhoernl]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Berchtesgadener Alpen]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.569351" lon="12.86578">
+    <ele>2607</ele>
+    <name>DL/BG-030</name>
+    <cmt><![CDATA[Hochkalter]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Berchtesgadener Alpen]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.581982" lon="12.87465">
+    <ele>2153</ele>
+    <name>DL/BG-033</name>
+    <cmt><![CDATA[Schaertenspitze]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Berchtesgadener Alpen]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.631149" lon="12.92321">
+    <ele>1392</ele>
+    <name>DL/BG-037</name>
+    <cmt><![CDATA[Toter Mann]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Berchtesgadener Alpen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.554428" lon="12.92209">
+    <ele>2713</ele>
+    <name>DL/BG-039</name>
+    <cmt><![CDATA[Watzmann Mittelspitze]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Berchtesgadener Alpen]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.54805" lon="12.91693">
+    <ele>2712</ele>
+    <name>DL/BG-040</name>
+    <cmt><![CDATA[Watzmann Suedspitze]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Berchtesgadener Alpen]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.51067" lon="12.91159">
+    <ele>2330</ele>
+    <name>DL/BG-044</name>
+    <cmt><![CDATA[Schneiber]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Berchtesgadener Alpen]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.516331" lon="12.91092">
+    <ele>2268</ele>
+    <name>DL/BG-045</name>
+    <cmt><![CDATA[Gjaidkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Berchtesgadener Alpen]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.47485" lon="12.97297">
+    <ele>2543</ele>
+    <name>DL/BG-047</name>
+    <cmt><![CDATA[Grieskogel]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Berchtesgadener Alpen]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.485008" lon="12.9768">
+    <ele>2578</ele>
+    <name>DL/BG-049</name>
+    <cmt><![CDATA[Funtenseetauern]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Berchtesgadener Alpen]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.48917" lon="13.03634">
+    <ele>2362</ele>
+    <name>DL/BG-055</name>
+    <cmt><![CDATA[Gr. Teufelshorn]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Berchtesgadener Alpen]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.49815" lon="13.04826">
+    <ele>2269</ele>
+    <name>DL/BG-057</name>
+    <cmt><![CDATA[Wildalmriedl]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Berchtesgadener Alpen]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.531479" lon="13.03199">
+    <ele>2350</ele>
+    <name>DL/BG-060</name>
+    <cmt><![CDATA[Kahlersberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Berchtesgadener Alpen]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.562168" lon="13.05744">
+    <ele>2276</ele>
+    <name>DL/BG-061</name>
+    <cmt><![CDATA[Schneibstein]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Berchtesgadener Alpen]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.575722" lon="13.0203">
+    <ele>1874</ele>
+    <name>DL/BG-062</name>
+    <cmt><![CDATA[Jenner]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Berchtesgadener Alpen]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.558861" lon="12.94241">
+    <ele>2307</ele>
+    <name>DL/BG-067</name>
+    <cmt><![CDATA[Kleiner Watzmann]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Berchtesgadener Alpen]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.686111" lon="13.02263">
+    <ele>1017</ele>
+    <name>DL/BG-068</name>
+    <cmt><![CDATA[Eckberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Berchtesgadener Alpen]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.676731" lon="12.80414">
+    <ele>1028</ele>
+    <name>DL/BG-069</name>
+    <cmt><![CDATA[Kienberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Berchtesgadener Alpen]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.529591" lon="12.91643">
+    <ele>2114</ele>
+    <name>DL/BG-070</name>
+    <cmt><![CDATA[Hirschwiese]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Berchtesgadener Alpen]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.482128" lon="12.98286">
+    <ele>2519</ele>
+    <name>DL/BG-071</name>
+    <cmt><![CDATA[Graskopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Berchtesgadener Alpen]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.510712" lon="12.952">
+    <ele>1886</ele>
+    <name>DL/BG-072</name>
+    <cmt><![CDATA[Simetsberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Berchtesgadener Alpen]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.488251" lon="12.93262">
+    <ele>2158</ele>
+    <name>DL/BG-073</name>
+    <cmt><![CDATA[Viekogel]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Berchtesgadener Alpen]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.49791" lon="12.92016">
+    <ele>1993</ele>
+    <name>DL/BG-074</name>
+    <cmt><![CDATA[Hirsch]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Berchtesgadener Alpen]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.522739" lon="12.9961">
+    <ele>1670</ele>
+    <name>DL/BG-075</name>
+    <cmt><![CDATA[Kl. Regenbergl]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Berchtesgadener Alpen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.594292" lon="12.96552">
+    <ele>1304</ele>
+    <name>DL/BG-076</name>
+    <cmt><![CDATA[Gruenstein]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Berchtesgadener Alpen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.5793" lon="12.89002">
+    <ele>1791</ele>
+    <name>DL/BG-077</name>
+    <cmt><![CDATA[Stanglahnerkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Berchtesgadener Alpen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.536518" lon="12.85006">
+    <ele>2254</ele>
+    <name>DL/BG-078</name>
+    <cmt><![CDATA[Alpenhorn]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Berchtesgadener Alpen]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.65279" lon="12.81059">
+    <ele>1782</ele>
+    <name>DL/BG-080</name>
+    <cmt><![CDATA[Hirscheck]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Berchtesgadener Alpen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.70018" lon="12.81344">
+    <ele>1052</ele>
+    <name>DL/BG-081</name>
+    <cmt><![CDATA[Gebersberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Berchtesgadener Alpen]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.64539" lon="12.89492">
+    <ele>1428</ele>
+    <name>DL/BG-083</name>
+    <cmt><![CDATA[Pfaffenbichel]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Berchtesgadener Alpen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.658619" lon="12.86443">
+    <ele>1504</ele>
+    <name>DL/BG-084</name>
+    <cmt><![CDATA[Moosenkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Berchtesgadener Alpen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.62756" lon="12.83257">
+    <ele>1810</ele>
+    <name>DL/BG-085</name>
+    <cmt><![CDATA[Zirbeneck]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Berchtesgadener Alpen]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.625889" lon="12.84737">
+    <ele>1800</ele>
+    <name>DL/BG-086</name>
+    <cmt><![CDATA[Eisberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Berchtesgadener Alpen]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.65601" lon="12.88299">
+    <ele>1661</ele>
+    <name>DL/BG-087</name>
+    <cmt><![CDATA[Toertlschneid]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Berchtesgadener Alpen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.63538" lon="12.99235">
+    <ele>788</ele>
+    <name>DL/BG-088</name>
+    <cmt><![CDATA[Kaelberstein]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Berchtesgadener Alpen]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.664108" lon="13.0468">
+    <ele>934</ele>
+    <name>DL/BG-089</name>
+    <cmt><![CDATA[Braendelberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Berchtesgadener Alpen]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.661789" lon="13.06764">
+    <ele>1047</ele>
+    <name>DL/BG-090</name>
+    <cmt><![CDATA[Lercheck]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Berchtesgadener Alpen]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.69471" lon="13.03463">
+    <ele>923</ele>
+    <name>DL/BG-091</name>
+    <cmt><![CDATA[Hochzinken]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Berchtesgadener Alpen]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.695759" lon="13.06429">
+    <ele>930</ele>
+    <name>DL/BG-092</name>
+    <cmt><![CDATA[Hohe Goetschen]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Berchtesgadener Alpen]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.54903" lon="13.03105">
+    <ele>2164</ele>
+    <name>DL/BG-093</name>
+    <cmt><![CDATA[Fagstein]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Berchtesgadener Alpen]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.696442" lon="12.82358">
+    <ele>1363</ele>
+    <name>DL/BG-094</name>
+    <cmt><![CDATA[Rabensteinhorn]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Berchtesgadener Alpen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.707481" lon="12.33456">
+    <ele>1808</ele>
+    <name>DL/CG-001</name>
+    <cmt><![CDATA[Geigelstein]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Chiemgauer Alpen]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.696999" lon="12.33801">
+    <ele>1661</ele>
+    <name>DL/CG-005</name>
+    <cmt><![CDATA[Breitenstein]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Chiemgauer Alpen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.761662" lon="12.559">
+    <ele>1671</ele>
+    <name>DL/CG-014</name>
+    <cmt><![CDATA[Hochfelln]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Chiemgauer Alpen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.74192" lon="12.56048">
+    <ele>1595</ele>
+    <name>DL/CG-015</name>
+    <cmt><![CDATA[Haaralmschneid]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Chiemgauer Alpen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.75058" lon="12.51581">
+    <ele>1748</ele>
+    <name>DL/CG-018</name>
+    <cmt><![CDATA[Hochgern]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Chiemgauer Alpen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.75108" lon="12.40499">
+    <ele>1587</ele>
+    <name>DL/CG-024</name>
+    <cmt><![CDATA[Hochplatte]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Chiemgauer Alpen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.76989" lon="12.41026">
+    <ele>1297</ele>
+    <name>DL/CG-027</name>
+    <cmt><![CDATA[Gross Staffen]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Chiemgauer Alpen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.747131" lon="12.24875">
+    <ele>1569</ele>
+    <name>DL/CG-030</name>
+    <cmt><![CDATA[Hochries]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Chiemgauer Alpen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.73251" lon="12.26498">
+    <ele>1565</ele>
+    <name>DL/CG-031</name>
+    <cmt><![CDATA[Zinnenberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Chiemgauer Alpen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.734459" lon="12.23103">
+    <ele>1514</ele>
+    <name>DL/CG-033</name>
+    <cmt><![CDATA[Feichteck]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Chiemgauer Alpen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.759762" lon="12.26951">
+    <ele>1449</ele>
+    <name>DL/CG-037</name>
+    <cmt><![CDATA[Riesenberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Chiemgauer Alpen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.72287" lon="12.18852">
+    <ele>1398</ele>
+    <name>DL/CG-039</name>
+    <cmt><![CDATA[Kitzstein]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Chiemgauer Alpen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.700569" lon="12.18353">
+    <ele>1366</ele>
+    <name>DL/CG-041</name>
+    <cmt><![CDATA[Kranzhorn]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Chiemgauer Alpen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.755878" lon="12.36741">
+    <ele>1668</ele>
+    <name>DL/CG-046</name>
+    <cmt><![CDATA[Kampenwand]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Chiemgauer Alpen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.751579" lon="12.34835">
+    <ele>1598</ele>
+    <name>DL/CG-047</name>
+    <cmt><![CDATA[Scheibenwand]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Chiemgauer Alpen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.780239" lon="12.35179">
+    <ele>1123</ele>
+    <name>DL/CG-053</name>
+    <cmt><![CDATA[Haindorfer Berg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Chiemgauer Alpen]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.705849" lon="12.57886">
+    <ele>1691</ele>
+    <name>DL/CG-055</name>
+    <cmt><![CDATA[Gurnwandkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Chiemgauer Alpen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.733051" lon="12.69606">
+    <ele>1671</ele>
+    <name>DL/CG-057</name>
+    <cmt><![CDATA[Hinterer Rauschberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Chiemgauer Alpen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.734581" lon="12.71946">
+    <ele>1603</ele>
+    <name>DL/CG-059</name>
+    <cmt><![CDATA[Zenokopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Chiemgauer Alpen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.728821" lon="12.62132">
+    <ele>1490</ele>
+    <name>DL/CG-062</name>
+    <cmt><![CDATA[Eisenberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Chiemgauer Alpen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.78133" lon="12.67755">
+    <ele>1227</ele>
+    <name>DL/CG-065</name>
+    <cmt><![CDATA[Zinnkopf (Ruhpolding)]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Chiemgauer Alpen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.684063" lon="12.368667">
+    <ele>1434</ele>
+    <name>DL/CG-067</name>
+    <cmt><![CDATA[Rudersburg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Chiemgauer Alpen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.699162" lon="12.44">
+    <ele>1348</ele>
+    <name>DL/CG-070</name>
+    <cmt><![CDATA[Rauhe-Nadel]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Chiemgauer Alpen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.68222" lon="12.6958">
+    <ele>1961</ele>
+    <name>DL/CG-072</name>
+    <cmt><![CDATA[Sonntagshorn]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Chiemgauer Alpen]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.689442" lon="12.70805">
+    <ele>1756</ele>
+    <name>DL/CG-074</name>
+    <cmt><![CDATA[Aibleck]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Chiemgauer Alpen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.694561" lon="12.78174">
+    <ele>1569</ele>
+    <name>DL/CG-079</name>
+    <cmt><![CDATA[Ristfeuchthorn]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Chiemgauer Alpen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.673901" lon="12.60885">
+    <ele>1776</ele>
+    <name>DL/CG-082</name>
+    <cmt><![CDATA[Duerrnbachhorn]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Chiemgauer Alpen]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.702011" lon="12.53735">
+    <ele>1474</ele>
+    <name>DL/CG-089</name>
+    <cmt><![CDATA[Hochscharten]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Chiemgauer Alpen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.709202" lon="12.5222">
+    <ele>1415</ele>
+    <name>DL/CG-090</name>
+    <cmt><![CDATA[Rachelspitz]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Chiemgauer Alpen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.77816" lon="12.37629">
+    <ele>1134</ele>
+    <name>DL/CG-092</name>
+    <cmt><![CDATA[Erlbergkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Chiemgauer Alpen]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.780281" lon="12.29806">
+    <ele>1076</ele>
+    <name>DL/CG-093</name>
+    <cmt><![CDATA[Aschauer Kopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Chiemgauer Alpen]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.877369" lon="12.30454">
+    <ele>693</ele>
+    <name>DL/CG-094</name>
+    <cmt><![CDATA[Ratzinger Hoehe]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Chiemgauer Alpen]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.705299" lon="12.62305">
+    <ele>1173</ele>
+    <name>DL/CG-095</name>
+    <cmt><![CDATA[Seekopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Chiemgauer Alpen]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.725689" lon="12.51764">
+    <ele>1466</ele>
+    <name>DL/CG-096</name>
+    <cmt><![CDATA[Kl. Rechenberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Chiemgauer Alpen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.725361" lon="12.56037">
+    <ele>1226</ele>
+    <name>DL/CG-097</name>
+    <cmt><![CDATA[Gruendberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Chiemgauer Alpen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.675098" lon="12.77383">
+    <ele>959</ele>
+    <name>DL/CG-098</name>
+    <cmt><![CDATA[Wendelberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Chiemgauer Alpen]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.654549" lon="12.56167">
+    <ele>1245</ele>
+    <name>DL/CG-099</name>
+    <cmt><![CDATA[Sondersberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Chiemgauer Alpen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.766602" lon="12.17689">
+    <ele>910</ele>
+    <name>DL/CG-100</name>
+    <cmt><![CDATA[Dandlberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Chiemgauer Alpen]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.751438" lon="12.16984">
+    <ele>820</ele>
+    <name>DL/CG-101</name>
+    <cmt><![CDATA[Sattelberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Chiemgauer Alpen]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.805618" lon="12.76815">
+    <ele>1333</ele>
+    <name>DL/CG-102</name>
+    <cmt><![CDATA[Teisenbergkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Chiemgauer Alpen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.74712" lon="12.75721">
+    <ele>1181</ele>
+    <name>DL/CG-103</name>
+    <cmt><![CDATA[Falkenstein]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Chiemgauer Alpen]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.746342" lon="12.74152">
+    <ele>1135</ele>
+    <name>DL/CG-104</name>
+    <cmt><![CDATA[Kienbergl]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Chiemgauer Alpen]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.764938" lon="12.67021">
+    <ele>1065</ele>
+    <name>DL/CG-106</name>
+    <cmt><![CDATA[Zeller Berg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Chiemgauer Alpen]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.80809" lon="12.89985">
+    <ele>827</ele>
+    <name>DL/CG-107</name>
+    <cmt><![CDATA[Högl]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Chiemgauer Alpen]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.682564" lon="12.684065">
+    <ele>1909</ele>
+    <name>DL/CG-108</name>
+    <cmt><![CDATA[Hirscheck]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Chiemgauer Alpen]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.716419" lon="12.43437">
+    <ele>1200</ele>
+    <name>DL/CG-109</name>
+    <cmt><![CDATA[Steilenberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Chiemgauer Alpen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.68372" lon="12.49395">
+    <ele>1062</ele>
+    <name>DL/CG-110</name>
+    <cmt><![CDATA[Walmberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Chiemgauer Alpen]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.669159" lon="12.52587">
+    <ele>1332</ele>
+    <name>DL/CG-111</name>
+    <cmt><![CDATA[Muehlprachkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Chiemgauer Alpen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.688091" lon="12.54287">
+    <ele>1264</ele>
+    <name>DL/CG-112</name>
+    <cmt><![CDATA[Stuhlkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Chiemgauer Alpen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.696949" lon="12.64932">
+    <ele>1270</ele>
+    <name>DL/CG-113</name>
+    <cmt><![CDATA[Sauruesselkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Chiemgauer Alpen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.716282" lon="12.71406">
+    <ele>1153</ele>
+    <name>DL/CG-114</name>
+    <cmt><![CDATA[Sessseekopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Chiemgauer Alpen]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.6772" lon="12.75194">
+    <ele>1038</ele>
+    <name>DL/CG-115</name>
+    <cmt><![CDATA[Gamersberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Chiemgauer Alpen]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.772079" lon="12.52343">
+    <ele>1309</ele>
+    <name>DL/CG-116</name>
+    <cmt><![CDATA[Mehrentaler Wand]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Chiemgauer Alpen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.776791" lon="12.57155">
+    <ele>1156</ele>
+    <name>DL/CG-117</name>
+    <cmt><![CDATA[Gleichenberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Chiemgauer Alpen]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.777271" lon="12.59911">
+    <ele>1243</ele>
+    <name>DL/CG-118</name>
+    <cmt><![CDATA[Scheichenberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Chiemgauer Alpen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.773731" lon="12.62126">
+    <ele>1210</ele>
+    <name>DL/CG-119</name>
+    <cmt><![CDATA[Haargassberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Chiemgauer Alpen]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.785011" lon="12.81784">
+    <ele>1073</ele>
+    <name>DL/CG-120</name>
+    <cmt><![CDATA[Grosswald]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Chiemgauer Alpen]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.508701" lon="11.14312">
+    <ele>1780</ele>
+    <name>DL/EW-001</name>
+    <cmt><![CDATA[Wank]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Estergebirge/Walchenseeberge]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.531929" lon="11.15382">
+    <ele>1940</ele>
+    <name>DL/EW-002</name>
+    <cmt><![CDATA[Hoher Fricken]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Estergebirge/Walchenseeberge]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.54047" lon="11.17576">
+    <ele>2033</ele>
+    <name>DL/EW-003</name>
+    <cmt><![CDATA[Bischof]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Estergebirge/Walchenseeberge]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.54887" lon="11.18536">
+    <ele>2049</ele>
+    <name>DL/EW-006</name>
+    <cmt><![CDATA[Oberer Risskopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Estergebirge/Walchenseeberge]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.544369" lon="11.19142">
+    <ele>2086</ele>
+    <name>DL/EW-007</name>
+    <cmt><![CDATA[Krottenkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Estergebirge/Walchenseeberge]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.566479" lon="11.25367">
+    <ele>1840</ele>
+    <name>DL/EW-015</name>
+    <cmt><![CDATA[Simetsberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Estergebirge/Walchenseeberge]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.601089" lon="11.24151">
+    <ele>1660</ele>
+    <name>DL/EW-017</name>
+    <cmt><![CDATA[Hirschberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Estergebirge/Walchenseeberge]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.63105" lon="11.28498">
+    <ele>1395</ele>
+    <name>DL/EW-019</name>
+    <cmt><![CDATA[Roetelstein]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Estergebirge/Walchenseeberge]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.603119" lon="11.28174">
+    <ele>1519</ele>
+    <name>DL/EW-020</name>
+    <cmt><![CDATA[Rotwandkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Estergebirge/Walchenseeberge]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.61261" lon="11.28077">
+    <ele>1791</ele>
+    <name>DL/EW-021</name>
+    <cmt><![CDATA[Heimgarten]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Estergebirge/Walchenseeberge]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.61351" lon="11.30846">
+    <ele>1732</ele>
+    <name>DL/EW-022</name>
+    <cmt><![CDATA[Herzogstand]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Estergebirge/Walchenseeberge]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.510818" lon="11.18353">
+    <ele>1685</ele>
+    <name>DL/EW-049</name>
+    <cmt><![CDATA[Rotenkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Estergebirge/Walchenseeberge]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.504002" lon="11.21625">
+    <ele>1369</ele>
+    <name>DL/EW-057</name>
+    <cmt><![CDATA[Bletschertalkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Estergebirge/Walchenseeberge]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.59" lon="11.25222">
+    <ele>1218</ele>
+    <name>DL/EW-058</name>
+    <cmt><![CDATA[Sattmannsberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Estergebirge/Walchenseeberge]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.633678" lon="11.32574">
+    <ele>933</ele>
+    <name>DL/EW-059</name>
+    <cmt><![CDATA[Der Stein]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Estergebirge/Walchenseeberge]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.71088" lon="11.31113">
+    <ele>841</ele>
+    <name>DL/EW-060</name>
+    <cmt><![CDATA[Koenigsbergwald]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Estergebirge/Walchenseeberge]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.418774" lon="11.292854">
+    <ele>2321</ele>
+    <name>DL/KW-004</name>
+    <cmt><![CDATA[Sulzleklammspitze]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Karwendelgebirge]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.430038" lon="11.29887">
+    <ele>2385</ele>
+    <name>DL/KW-008</name>
+    <cmt><![CDATA[Westl. Karwendelspitze]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Karwendelgebirge]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.430805" lon="11.313523">
+    <ele>2362</ele>
+    <name>DL/KW-013</name>
+    <cmt><![CDATA[Larchetfleckspitze]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Karwendelgebirge]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.437649" lon="11.32117">
+    <ele>2430</ele>
+    <name>DL/KW-014</name>
+    <cmt><![CDATA[Tiefkarspitze]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Karwendelgebirge]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.449509" lon="11.33775">
+    <ele>2476</ele>
+    <name>DL/KW-016</name>
+    <cmt><![CDATA[Woerner]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Karwendelgebirge]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.447578" lon="11.350077">
+    <ele>2482</ele>
+    <name>DL/KW-017</name>
+    <cmt><![CDATA[Hochkarspitze]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Karwendelgebirge]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.446918" lon="11.40977">
+    <ele>2524</ele>
+    <name>DL/KW-021</name>
+    <cmt><![CDATA[Vogelkarspitze]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Karwendelgebirge]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.454639" lon="11.41331">
+    <ele>2015</ele>
+    <name>DL/KW-023</name>
+    <cmt><![CDATA[Steinkarspitze]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Karwendelgebirge]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.481541" lon="11.35708">
+    <ele>2257</ele>
+    <name>DL/KW-029</name>
+    <cmt><![CDATA[Soiernspitze]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Karwendelgebirge]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.493488" lon="11.36908">
+    <ele>2109</ele>
+    <name>DL/KW-030</name>
+    <cmt><![CDATA[Krapfenkarspitze]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Karwendelgebirge]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.50901" lon="11.48762">
+    <ele>2101</ele>
+    <name>DL/KW-035</name>
+    <cmt><![CDATA[Schafreiter]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Karwendelgebirge]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.514069" lon="11.56208">
+    <ele>1688</ele>
+    <name>DL/KW-037</name>
+    <cmt><![CDATA[Laerchkogel]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Karwendelgebirge]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.546139" lon="11.58641">
+    <ele>1923</ele>
+    <name>DL/KW-038</name>
+    <cmt><![CDATA[Demeljoch]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Karwendelgebirge]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.522011" lon="11.35592">
+    <ele>1783</ele>
+    <name>DL/KW-041</name>
+    <cmt><![CDATA[Hoher Grasberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Karwendelgebirge]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.53347" lon="11.38705">
+    <ele>1547</ele>
+    <name>DL/KW-042</name>
+    <cmt><![CDATA[Pfetterkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Karwendelgebirge]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.52951" lon="11.51924">
+    <ele>1771</ele>
+    <name>DL/KW-043</name>
+    <cmt><![CDATA[Kotzen]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Karwendelgebirge]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.53693" lon="11.47165">
+    <ele>1753</ele>
+    <name>DL/KW-044</name>
+    <cmt><![CDATA[Graskoepfel]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Karwendelgebirge]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.55447" lon="11.52438">
+    <ele>1131</ele>
+    <name>DL/KW-045</name>
+    <cmt><![CDATA[Rosskopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Karwendelgebirge]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.577492" lon="11.55765">
+    <ele>988</ele>
+    <name>DL/KW-046</name>
+    <cmt><![CDATA[Jaegerbergl]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Karwendelgebirge]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.679741" lon="11.61998">
+    <ele>1491</ele>
+    <name>DL/MF-001</name>
+    <cmt><![CDATA[Geigerstein]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Mangfallgebirge]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.584297" lon="11.67809">
+    <ele>1516</ele>
+    <name>DL/MF-003</name>
+    <cmt><![CDATA[Reitstein]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Mangfallgebirge]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.684399" lon="11.65221">
+    <ele>1564</ele>
+    <name>DL/MF-006</name>
+    <cmt><![CDATA[Fockenstein]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Mangfallgebirge]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.640598" lon="11.66695">
+    <ele>1592</ele>
+    <name>DL/MF-010</name>
+    <cmt><![CDATA[Hochplatte]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Mangfallgebirge]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.652168" lon="11.64315">
+    <ele>1601</ele>
+    <name>DL/MF-011</name>
+    <cmt><![CDATA[Seekarkreuz]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Mangfallgebirge]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.661091" lon="11.6596">
+    <ele>1607</ele>
+    <name>DL/MF-013</name>
+    <cmt><![CDATA[Auerkamp]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Mangfallgebirge]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.591511" lon="11.71334">
+    <ele>1618</ele>
+    <name>DL/MF-016</name>
+    <cmt><![CDATA[Platteneck]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Mangfallgebirge]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.614208" lon="11.85162">
+    <ele>1620</ele>
+    <name>DL/MF-017</name>
+    <cmt><![CDATA[Pfaffenkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Mangfallgebirge]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.638512" lon="11.64229">
+    <ele>1620</ele>
+    <name>DL/MF-018</name>
+    <cmt><![CDATA[Schoenberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Mangfallgebirge]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.6605" lon="11.69609">
+    <ele>1670</ele>
+    <name>DL/MF-021</name>
+    <cmt><![CDATA[Hirschberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Mangfallgebirge]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.63306" lon="11.67936">
+    <ele>1701</ele>
+    <name>DL/MF-024</name>
+    <cmt><![CDATA[Buchstein]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Mangfallgebirge]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.651241" lon="11.78456">
+    <ele>1706</ele>
+    <name>DL/MF-025</name>
+    <cmt><![CDATA[Setzberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Mangfallgebirge]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.665878" lon="11.79672">
+    <ele>1723</ele>
+    <name>DL/MF-026</name>
+    <cmt><![CDATA[Wallberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Mangfallgebirge]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.601131" lon="11.86114">
+    <ele>1808</ele>
+    <name>DL/MF-029</name>
+    <cmt><![CDATA[Schinder]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Mangfallgebirge]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.636902" lon="11.80349">
+    <ele>1826</ele>
+    <name>DL/MF-030</name>
+    <cmt><![CDATA[Risserkogel]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Mangfallgebirge]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.723541" lon="11.7956">
+    <ele>1335</ele>
+    <name>DL/MF-033</name>
+    <cmt><![CDATA[Gindelalmschneid]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Mangfallgebirge]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.70219" lon="11.81105">
+    <ele>1448</ele>
+    <name>DL/MF-034</name>
+    <cmt><![CDATA[Baumgartenschneid]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Mangfallgebirge]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.648861" lon="11.86589">
+    <ele>1602</ele>
+    <name>DL/MF-038</name>
+    <cmt><![CDATA[Rotkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Mangfallgebirge]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.642609" lon="11.87222">
+    <ele>1609</ele>
+    <name>DL/MF-039</name>
+    <cmt><![CDATA[Stolzenberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Mangfallgebirge]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.671741" lon="11.83809">
+    <ele>1668</ele>
+    <name>DL/MF-041</name>
+    <cmt><![CDATA[Bodenschneid]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Mangfallgebirge]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.676498" lon="11.87103">
+    <ele>1683</ele>
+    <name>DL/MF-042</name>
+    <cmt><![CDATA[Brecherspitz]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Mangfallgebirge]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.664341" lon="11.99791">
+    <ele>1538</ele>
+    <name>DL/MF-044</name>
+    <cmt><![CDATA[Seebergkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Mangfallgebirge]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.673489" lon="11.90608">
+    <ele>1746</ele>
+    <name>DL/MF-053</name>
+    <cmt><![CDATA[Jaegerkamp]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Mangfallgebirge]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.673168" lon="11.92368">
+    <ele>1759</ele>
+    <name>DL/MF-054</name>
+    <cmt><![CDATA[Aiplspitz]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Mangfallgebirge]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.643848" lon="11.94531">
+    <ele>1810</ele>
+    <name>DL/MF-056</name>
+    <cmt><![CDATA[Auerspitz]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Mangfallgebirge]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.657841" lon="11.94131">
+    <ele>1883</ele>
+    <name>DL/MF-057</name>
+    <cmt><![CDATA[Hochmiesing]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Mangfallgebirge]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.650211" lon="11.93437">
+    <ele>1884</ele>
+    <name>DL/MF-058</name>
+    <cmt><![CDATA[Rotwand]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Mangfallgebirge]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.68969" lon="12.12194">
+    <ele>1214</ele>
+    <name>DL/MF-059</name>
+    <cmt><![CDATA[Mitterberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Mangfallgebirge]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.70845" lon="12.10686">
+    <ele>1337</ele>
+    <name>DL/MF-061</name>
+    <cmt><![CDATA[Grosser Riesenkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Mangfallgebirge]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.702579" lon="12.10371">
+    <ele>1338</ele>
+    <name>DL/MF-062</name>
+    <cmt><![CDATA[Rehleitenkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Mangfallgebirge]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.72105" lon="11.98774">
+    <ele>1622</ele>
+    <name>DL/MF-070</name>
+    <cmt><![CDATA[Breitenstein]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Mangfallgebirge]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.64838" lon="12.0938">
+    <ele>1634</ele>
+    <name>DL/MF-071</name>
+    <cmt><![CDATA[Bruennstein]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Mangfallgebirge]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.716702" lon="12.0356">
+    <ele>1625</ele>
+    <name>DL/MF-072</name>
+    <cmt><![CDATA[Hochsalwand]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Mangfallgebirge]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.703461" lon="12.01212">
+    <ele>1838</ele>
+    <name>DL/MF-079</name>
+    <cmt><![CDATA[Wendelstein]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Mangfallgebirge]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.646561" lon="12.03764">
+    <ele>1852</ele>
+    <name>DL/MF-080</name>
+    <cmt><![CDATA[Gr. Traithen]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Mangfallgebirge]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.827202" lon="11.74925">
+    <ele>896</ele>
+    <name>DL/MF-082</name>
+    <cmt><![CDATA[Schwarzer Berg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Mangfallgebirge]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.744572" lon="12.06274">
+    <ele>1117</ele>
+    <name>DL/MF-091</name>
+    <cmt><![CDATA[Sulzberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Mangfallgebirge]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.711391" lon="11.8114">
+    <ele>1273</ele>
+    <name>DL/MF-092</name>
+    <cmt><![CDATA[Kreuzbergkoepfel]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Mangfallgebirge]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.74271" lon="11.88829">
+    <ele>1265</ele>
+    <name>DL/MF-093</name>
+    <cmt><![CDATA[Schliersberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Mangfallgebirge]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.722309" lon="11.62473">
+    <ele>1330</ele>
+    <name>DL/MF-094</name>
+    <cmt><![CDATA[Rechelkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Mangfallgebirge]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.71452" lon="11.66449">
+    <ele>1370</ele>
+    <name>DL/MF-095</name>
+    <cmt><![CDATA[Luckenkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Mangfallgebirge]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.69532" lon="11.60252">
+    <ele>1125</ele>
+    <name>DL/MF-096</name>
+    <cmt><![CDATA[Keilkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Mangfallgebirge]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.696972" lon="11.62167">
+    <ele>1278</ele>
+    <name>DL/MF-097</name>
+    <cmt><![CDATA[Schweinberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Mangfallgebirge]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.694092" lon="11.6716">
+    <ele>1384</ele>
+    <name>DL/MF-098</name>
+    <cmt><![CDATA[Sattelkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Mangfallgebirge]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.699841" lon="11.67289">
+    <ele>1406</ele>
+    <name>DL/MF-099</name>
+    <cmt><![CDATA[Huder]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Mangfallgebirge]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.681122" lon="12.13821">
+    <ele>1448</ele>
+    <name>DL/MF-100</name>
+    <cmt><![CDATA[Wildbarren]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Mangfallgebirge]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.61417" lon="11.72694">
+    <ele>1226</ele>
+    <name>DL/MF-101</name>
+    <cmt><![CDATA[Hoher Gernbergkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Mangfallgebirge]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.62262" lon="11.65187">
+    <ele>1364</ele>
+    <name>DL/MF-102</name>
+    <cmt><![CDATA[Sauruesselkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Mangfallgebirge]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.608959" lon="11.60411">
+    <ele>1427</ele>
+    <name>DL/MF-103</name>
+    <cmt><![CDATA[Gerstenrieder Kopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Mangfallgebirge]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.64576" lon="11.71314">
+    <ele>1444</ele>
+    <name>DL/MF-104</name>
+    <cmt><![CDATA[Filzenkogel]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Mangfallgebirge]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.636971" lon="11.71604">
+    <ele>1452</ele>
+    <name>DL/MF-105</name>
+    <cmt><![CDATA[Leonhardstein]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Mangfallgebirge]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.632339" lon="11.72281">
+    <ele>1395</ele>
+    <name>DL/MF-106</name>
+    <cmt><![CDATA[Grueneck]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Mangfallgebirge]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.691551" lon="12.06899">
+    <ele>1354</ele>
+    <name>DL/MF-107</name>
+    <cmt><![CDATA[Duempfel]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Mangfallgebirge]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.701031" lon="12.06351">
+    <ele>1322</ele>
+    <name>DL/MF-108</name>
+    <cmt><![CDATA[Schortenkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Mangfallgebirge]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.713699" lon="11.88909">
+    <ele>1272</ele>
+    <name>DL/MF-109</name>
+    <cmt><![CDATA[Hirschgeroehrkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Mangfallgebirge]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.657749" lon="11.89966">
+    <ele>1461</ele>
+    <name>DL/MF-111</name>
+    <cmt><![CDATA[Schwarzenkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Mangfallgebirge]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.70163" lon="11.84843">
+    <ele>1329</ele>
+    <name>DL/MF-112</name>
+    <cmt><![CDATA[Westerberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Mangfallgebirge]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.742931" lon="11.99587">
+    <ele>1241</ele>
+    <name>DL/MF-113</name>
+    <cmt><![CDATA[Sterneck]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Mangfallgebirge]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.742489" lon="12.03892">
+    <ele>1273</ele>
+    <name>DL/MF-114</name>
+    <cmt><![CDATA[Farrenpoint]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Mangfallgebirge]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.625629" lon="12.16222">
+    <ele>886</ele>
+    <name>DL/MF-115</name>
+    <cmt><![CDATA[Nusslberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Mangfallgebirge]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.639011" lon="12.15591">
+    <ele>892</ele>
+    <name>DL/MF-116</name>
+    <cmt><![CDATA[Muehlbacherberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Mangfallgebirge]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.641659" lon="12.13635">
+    <ele>1208</ele>
+    <name>DL/MF-117</name>
+    <cmt><![CDATA[Schwarzenberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Mangfallgebirge]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.715351" lon="12.01888">
+    <ele>1585</ele>
+    <name>DL/MF-118</name>
+    <cmt><![CDATA[Heidwand]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Mangfallgebirge]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.598389" lon="11.81424">
+    <ele>1423</ele>
+    <name>DL/MF-119</name>
+    <cmt><![CDATA[Langeckberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Mangfallgebirge]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.589642" lon="11.61761">
+    <ele>1190</ele>
+    <name>DL/MF-120</name>
+    <cmt><![CDATA[Achselkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Mangfallgebirge]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.617962" lon="11.63314">
+    <ele>1341</ele>
+    <name>DL/MF-121</name>
+    <cmt><![CDATA[Breitenkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Mangfallgebirge]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.421188" lon="10.98635">
+    <ele>2962</ele>
+    <name>DL/WS-001</name>
+    <cmt><![CDATA[Zugspitze]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Wettersteingebirge]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.396454" lon="10.992646">
+    <ele>2680</ele>
+    <name>DL/WS-006</name>
+    <cmt><![CDATA[Plattspitzen]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Wettersteingebirge]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.437099" lon="11.0038">
+    <ele>2263</ele>
+    <name>DL/WS-011</name>
+    <cmt><![CDATA[Riffelspitzen]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Wettersteingebirge]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.446129" lon="11.02327">
+    <ele>2277</ele>
+    <name>DL/WS-013</name>
+    <cmt><![CDATA[Grosser Waxenstein]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Wettersteingebirge]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.42057" lon="11.01953">
+    <ele>2743</ele>
+    <name>DL/WS-017</name>
+    <cmt><![CDATA[Mittlere Hoellentalspitze]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Wettersteingebirge]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.422611" lon="11.04334">
+    <ele>2703</ele>
+    <name>DL/WS-020</name>
+    <cmt><![CDATA[Hochblassen]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Wettersteingebirge]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.429359" lon="11.04771">
+    <ele>2628</ele>
+    <name>DL/WS-022</name>
+    <cmt><![CDATA[Alpspitze]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Wettersteingebirge]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.396137" lon="11.075983">
+    <ele>2670</ele>
+    <name>DL/WS-025</name>
+    <cmt><![CDATA[Hinterreintalschrofen]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Wettersteingebirge]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.395569" lon="11.10372">
+    <ele>2523</ele>
+    <name>DL/WS-026</name>
+    <cmt><![CDATA[Oberreintalschrofen]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Wettersteingebirge]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.395821" lon="11.11187">
+    <ele>2468</ele>
+    <name>DL/WS-027</name>
+    <cmt><![CDATA[Scharnitzspitze]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Wettersteingebirge]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.413841" lon="11.13995">
+    <ele>2476</ele>
+    <name>DL/WS-031</name>
+    <cmt><![CDATA[Musterstein]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Wettersteingebirge]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.397381" lon="11.22233">
+    <ele>2196</ele>
+    <name>DL/WS-036</name>
+    <cmt><![CDATA[Grosse Arnspitze]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Wettersteingebirge]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.452251" lon="11.07834">
+    <ele>1719</ele>
+    <name>DL/WS-037</name>
+    <cmt><![CDATA[Kreuzjoch]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Wettersteingebirge]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.430569" lon="11.22054">
+    <ele>1587</ele>
+    <name>DL/WS-052</name>
+    <cmt><![CDATA[Gruenkopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Wettersteingebirge]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.451351" lon="11.22858">
+    <ele>1391</ele>
+    <name>DL/WS-058</name>
+    <cmt><![CDATA[Hoher Kranzberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Wettersteingebirge]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.45623" lon="11.15512">
+    <ele>1288</ele>
+    <name>DL/WS-088</name>
+    <cmt><![CDATA[Stellwagelskopf]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Wettersteingebirge]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+  <wpt lat="47.474499" lon="11.16902">
+    <ele>1304</ele>
+    <name>DL/WS-101</name>
+    <cmt><![CDATA[Wamberg]]></cmt>
+    <desc><![CDATA[SOTA Association: DL - Germany (Alpine), Region: Wettersteingebirge]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit DL/</type>
+  </wpt>
+</gpx>

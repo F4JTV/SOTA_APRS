@@ -1,0 +1,3136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1" 
+     creator="SOTA Mapping Project GPX Generator 1.1" 
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+     xmlns="http://www.topografix.com/GPX/1/1" 
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>SOTA Summits GPX Export</name>
+    <desc>SOTA Summits data in GPX v1.1 format></desc>
+    <author>
+      <name>SOTA Mapping Project></name>
+      <email id="admin" domain="www.sotamaps.org" />
+      <link href="https://www.sotamaps.org">
+        <text>SOTA Mapping Project</text>
+      </link>
+    </author>
+    <link href="https://www.sotamaps.org">
+      <text>SOTA Mapping Project</text>
+    </link>
+    <time>2024-11-07T15:11:02Z</time>
+    <keywords>SOTA, Summits On The Air, amateur radio, ham radio</keywords>
+    <bounds minlat="51.442005" minlon="-10.653977" maxlat="55.354923" maxlon="-6.0636811"/>
+  </metadata>
+  <wpt lat="52.967152" lon="-6.4646029">
+    <ele>925</ele>
+    <name>EI/IE-001</name>
+    <cmt><![CDATA[Lugnaquilla]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland East]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.103596" lon="-6.4066811">
+    <ele>849</ele>
+    <name>EI/IE-002</name>
+    <cmt><![CDATA[Mullaghcleevaun]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland East]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.053436" lon="-6.382647">
+    <ele>817</ele>
+    <name>EI/IE-003</name>
+    <cmt><![CDATA[Tonelagee]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland East]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.618153" lon="-6.780333">
+    <ele>794</ele>
+    <name>EI/IE-004</name>
+    <cmt><![CDATA[Mount Leinster]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland East]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.1782" lon="-6.3320909">
+    <ele>757</ele>
+    <name>EI/IE-005</name>
+    <cmt><![CDATA[Kippure]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland East]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.548901" lon="-6.8057232">
+    <ele>732</ele>
+    <name>EI/IE-006</name>
+    <cmt><![CDATA[Blackstairs Mountain]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland East]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.13081" lon="-6.2399011">
+    <ele>726</ele>
+    <name>EI/IE-007</name>
+    <cmt><![CDATA[Djouce]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland East]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.427601" lon="-7.5628691">
+    <ele>720</ele>
+    <name>EI/IE-008</name>
+    <cmt><![CDATA[Slievenamon]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland East]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.751472" lon="-8.2614794">
+    <ele>694</ele>
+    <name>EI/IE-009</name>
+    <cmt><![CDATA[Keeper Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland East]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.918423" lon="-6.3668699">
+    <ele>664</ele>
+    <name>EI/IE-010</name>
+    <cmt><![CDATA[Croaghanmoira]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland East]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.950508" lon="-6.5814981">
+    <ele>653</ele>
+    <name>EI/IE-011</name>
+    <cmt><![CDATA[Keadeen Mountain]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland East]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.055157" lon="-6.3124819">
+    <ele>641</ele>
+    <name>EI/IE-012</name>
+    <cmt><![CDATA[Scarr]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland East]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.795471" lon="-6.3241482">
+    <ele>606</ele>
+    <name>EI/IE-013</name>
+    <cmt><![CDATA[Croghan Kinsella]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland East]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.147587" lon="-6.4430618">
+    <ele>600</ele>
+    <name>EI/IE-014</name>
+    <cmt><![CDATA[Sorrel Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland East]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.044434" lon="-6.2162471">
+    <ele>589</ele>
+    <name>EI/IE-015</name>
+    <cmt><![CDATA[Slieve Foye]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland East]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.70845" lon="-8.1886272">
+    <ele>543</ele>
+    <name>EI/IE-016</name>
+    <cmt><![CDATA[Mauherslieve]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland East]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.881557" lon="-6.4321342">
+    <ele>536</ele>
+    <name>EI/IE-017</name>
+    <cmt><![CDATA[Ballycurragh Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland East]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.238407" lon="-6.2453632">
+    <ele>536</ele>
+    <name>EI/IE-018</name>
+    <cmt><![CDATA[Two Rock Mountain]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland East]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.040604" lon="-7.65418">
+    <ele>527</ele>
+    <name>EI/IE-019</name>
+    <cmt><![CDATA[Arderin]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland East]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.509796" lon="-6.9741602">
+    <ele>515</ele>
+    <name>EI/IE-020</name>
+    <cmt><![CDATA[Brandon Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland East]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.07925" lon="-6.3215618">
+    <ele>508</ele>
+    <name>EI/IE-021</name>
+    <cmt><![CDATA[Clermont Carn]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland East]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.15416" lon="-6.1505051">
+    <ele>501</ele>
+    <name>EI/IE-022</name>
+    <cmt><![CDATA[Great Sugar Loaf]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland East]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.778389" lon="-8.2674665">
+    <ele>489</ele>
+    <name>EI/IE-023</name>
+    <cmt><![CDATA[Silvermine Mountains West Top]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland East]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.821472" lon="-7.915472">
+    <ele>480</ele>
+    <name>EI/IE-024</name>
+    <cmt><![CDATA[Devilsbit Mountain]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland East]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.763325" lon="-8.1459045">
+    <ele>467</ele>
+    <name>EI/IE-025</name>
+    <cmt><![CDATA[Cooneen Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland East]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.810135" lon="-7.9547629">
+    <ele>458</ele>
+    <name>EI/IE-026</name>
+    <cmt><![CDATA[Gortagarry]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland East]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.667877" lon="-8.2608805">
+    <ele>460</ele>
+    <name>EI/IE-027</name>
+    <cmt><![CDATA[Cullaun]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland East]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.65551" lon="-8.1337242">
+    <ele>457</ele>
+    <name>EI/IE-028</name>
+    <cmt><![CDATA[Tooreen Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland East]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.752235" lon="-6.371613">
+    <ele>454</ele>
+    <name>EI/IE-029</name>
+    <cmt><![CDATA[Annagh Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland East]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.655411" lon="-8.2031755">
+    <ele>444</ele>
+    <name>EI/IE-030</name>
+    <cmt><![CDATA[Knockastanna]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland East]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.61145" lon="-8.1557341">
+    <ele>440</ele>
+    <name>EI/IE-031</name>
+    <cmt><![CDATA[Foildarg]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland East]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.6241" lon="-8.0863762">
+    <ele>433</ele>
+    <name>EI/IE-032</name>
+    <cmt><![CDATA[Knockbane]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland East]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.791271" lon="-7.9859109">
+    <ele>433</ele>
+    <name>EI/IE-033</name>
+    <cmt><![CDATA[Knockanora]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland East]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.823715" lon="-6.4757562">
+    <ele>431</ele>
+    <name>EI/IE-034</name>
+    <cmt><![CDATA[Ballycumber Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland East]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.995152" lon="-6.264183">
+    <ele>430</ele>
+    <name>EI/IE-035</name>
+    <cmt><![CDATA[Trooperstown Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland East]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.677147" lon="-8.0273438">
+    <ele>427</ele>
+    <name>EI/IE-036</name>
+    <cmt><![CDATA[Knockalough]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland East]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.756962" lon="-6.6010332">
+    <ele>420</ele>
+    <name>EI/IE-037</name>
+    <cmt><![CDATA[Stookeen]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland East]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.656197" lon="-6.489459">
+    <ele>422</ele>
+    <name>EI/IE-038</name>
+    <cmt><![CDATA[Slieveboy]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland East]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.079395" lon="-6.5861211">
+    <ele>418</ele>
+    <name>EI/IE-039</name>
+    <cmt><![CDATA[Slievecorragh]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland East]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.966717" lon="-6.632966">
+    <ele>409</ele>
+    <name>EI/IE-040</name>
+    <cmt><![CDATA[Spinans Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland East]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.779537" lon="-8.1133566">
+    <ele>403</ele>
+    <name>EI/IE-041</name>
+    <cmt><![CDATA[Ballincurra Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland East]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.886112" lon="-6.305686">
+    <ele>400</ele>
+    <name>EI/IE-042</name>
+    <cmt><![CDATA[Cushbawn]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland East]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.798885" lon="-6.5018311">
+    <ele>397</ele>
+    <name>EI/IE-043</name>
+    <cmt><![CDATA[Muskeagh Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland East]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.24678" lon="-6.4776659">
+    <ele>397</ele>
+    <name>EI/IE-044</name>
+    <cmt><![CDATA[Saggart Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland East]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.852219" lon="-6.3886561">
+    <ele>388</ele>
+    <name>EI/IE-045</name>
+    <cmt><![CDATA[Preban Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland East]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.982899" lon="-6.1663971">
+    <ele>381</ele>
+    <name>EI/IE-046</name>
+    <cmt><![CDATA[Carrick Mountain]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland East]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.946625" lon="-6.6841822">
+    <ele>382</ele>
+    <name>EI/IE-047</name>
+    <cmt><![CDATA[Baltinglass Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland East]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.538475" lon="-7.0412989">
+    <ele>365</ele>
+    <name>EI/IE-048</name>
+    <cmt><![CDATA[Coppanagh]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland East]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.781563" lon="-6.5542989">
+    <ele>357</ele>
+    <name>EI/IE-049</name>
+    <cmt><![CDATA[Lakeen]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland East]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.739933" lon="-7.5091891">
+    <ele>349</ele>
+    <name>EI/IE-050</name>
+    <cmt><![CDATA[Clomantagh Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland East]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.797119" lon="-6.5775051">
+    <ele>344</ele>
+    <name>EI/IE-051</name>
+    <cmt><![CDATA[Seskin]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland East]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.165451" lon="-6.1167498">
+    <ele>342</ele>
+    <name>EI/IE-052</name>
+    <cmt><![CDATA[Little Sugar Loaf]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland East]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.644775" lon="-7.5324149">
+    <ele>340</ele>
+    <name>EI/IE-053</name>
+    <cmt><![CDATA[Knocknamuck]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland East]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.907589" lon="-6.9036999">
+    <ele>339</ele>
+    <name>EI/IE-054</name>
+    <cmt><![CDATA[Cornasaus]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland East]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.813202" lon="-7.0100522">
+    <ele>336</ele>
+    <name>EI/IE-055</name>
+    <cmt><![CDATA[Clogrennan Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland East]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.016838" lon="-6.2630992">
+    <ele>321</ele>
+    <name>EI/IE-056</name>
+    <cmt><![CDATA[Slievenaglogh]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland East]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.953663" lon="-7.2970181">
+    <ele>320</ele>
+    <name>EI/IE-057</name>
+    <cmt><![CDATA[Slieve Glah]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland East]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.411728" lon="-7.2909379">
+    <ele>314</ele>
+    <name>EI/IE-058</name>
+    <cmt><![CDATA[Carricktriss Gorse]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland East]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.958836" lon="-6.7329192">
+    <ele>312</ele>
+    <name>EI/IE-059</name>
+    <cmt><![CDATA[Tinoran Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland East]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.675194" lon="-6.6021681">
+    <ele>315</ele>
+    <name>EI/IE-060</name>
+    <cmt><![CDATA[Gibbet Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland East]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.348625" lon="-7.1275902">
+    <ele>292</ele>
+    <name>EI/IE-061</name>
+    <cmt><![CDATA[Tory Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland East]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.84763" lon="-6.1364789">
+    <ele>280</ele>
+    <name>EI/IE-062</name>
+    <cmt><![CDATA[Barranisky]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland East]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.744652" lon="-7.112308">
+    <ele>276</ele>
+    <name>EI/IE-063</name>
+    <cmt><![CDATA[Slieve na Calliagh]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland East]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.33918" lon="-6.9327331">
+    <ele>269</ele>
+    <name>EI/IE-064</name>
+    <cmt><![CDATA[Slievecoiltia]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland East]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.698803" lon="-6.2182741">
+    <ele>253</ele>
+    <name>EI/IE-065</name>
+    <cmt><![CDATA[Tara Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland East]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.789265" lon="-6.5122738">
+    <ele>251</ele>
+    <name>EI/IE-066</name>
+    <cmt><![CDATA[Mount Oriel]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland East]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.915665" lon="-6.0636811">
+    <ele>238</ele>
+    <name>EI/IE-067</name>
+    <cmt><![CDATA[Collon Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland East]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.316154" lon="-6.5636492">
+    <ele>237</ele>
+    <name>EI/IE-068</name>
+    <cmt><![CDATA[Forth Mountain]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland East]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.369835" lon="-6.782145">
+    <ele>234</ele>
+    <name>EI/IE-069</name>
+    <cmt><![CDATA[Carrickbyrne Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland East]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.587997" lon="-6.3880391">
+    <ele>232</ele>
+    <name>EI/IE-070</name>
+    <cmt><![CDATA[Carrigroe Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland East]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.37339" lon="-6.069387">
+    <ele>171</ele>
+    <name>EI/IE-072</name>
+    <cmt><![CDATA[Ben of Howth]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland East]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.954304" lon="-7.2597761">
+    <ele>317</ele>
+    <name>EI/IE-073</name>
+    <cmt><![CDATA[Cullenagh Mountain]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland East]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.789043" lon="-7.438971">
+    <ele>313</ele>
+    <name>EI/IE-074</name>
+    <cmt><![CDATA[Knockmannon Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland East]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="55.03429" lon="-8.112999">
+    <ele>751</ele>
+    <name>EI/IN-001</name>
+    <cmt><![CDATA[Errigal]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.98074" lon="-8.1201">
+    <ele>678</ele>
+    <name>EI/IN-002</name>
+    <cmt><![CDATA[Slieve Snaght]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.75415" lon="-8.0811005">
+    <ele>674</ele>
+    <name>EI/IN-003</name>
+    <cmt><![CDATA[Croaghgorm]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.766888" lon="-8.1016998">
+    <ele>671</ele>
+    <name>EI/IN-004</name>
+    <cmt><![CDATA[Lavagh More]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="55.105644" lon="-7.9937">
+    <ele>667</ele>
+    <name>EI/IN-005</name>
+    <cmt><![CDATA[Muckish]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.200924" lon="-7.8115001">
+    <ele>666</ele>
+    <name>EI/IN-006</name>
+    <cmt><![CDATA[Cuilcagh]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="55.036728" lon="-8.0286999">
+    <ele>652</ele>
+    <name>EI/IN-007</name>
+    <cmt><![CDATA[Dooish]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.374149" lon="-8.3716002">
+    <ele>647</ele>
+    <name>EI/IN-008</name>
+    <cmt><![CDATA[Truskmore]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="55.196461" lon="-7.3343">
+    <ele>615</ele>
+    <name>EI/IN-009</name>
+    <cmt><![CDATA[Slieve Snaght]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="55.069389" lon="-8.0544004">
+    <ele>602</ele>
+    <name>EI/IN-010</name>
+    <cmt><![CDATA[Aghla Beg South Top]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.769619" lon="-8.1455002">
+    <ele>600</ele>
+    <name>EI/IN-011</name>
+    <cmt><![CDATA[Silver Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.364655" lon="-8.4191999">
+    <ele>597</ele>
+    <name>EI/IN-012</name>
+    <cmt><![CDATA[Annacoona Top]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.651535" lon="-8.7080002">
+    <ele>596</ele>
+    <name>EI/IN-013</name>
+    <cmt><![CDATA[Slieve League]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.837734" lon="-8.1611996">
+    <ele>593</ele>
+    <name>EI/IN-014</name>
+    <cmt><![CDATA[Aghla Mountain]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.092274" lon="-7.9731998">
+    <ele>585</ele>
+    <name>EI/IN-015</name>
+    <cmt><![CDATA[Slieve Anierin]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.745369" lon="-7.9836998">
+    <ele>571</ele>
+    <name>EI/IN-016</name>
+    <cmt><![CDATA[Croaghnageer]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.80196" lon="-8.0271997">
+    <ele>565</ele>
+    <name>EI/IN-017</name>
+    <cmt><![CDATA[Gaugin Mountain]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="55.039967" lon="-8.0945997">
+    <ele>555</ele>
+    <name>EI/IN-018</name>
+    <cmt><![CDATA[Mackoght]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.194279" lon="-8.7603998">
+    <ele>544</ele>
+    <name>EI/IN-019</name>
+    <cmt><![CDATA[Knockalongy]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.179413" lon="-7.9517002">
+    <ele>543</ele>
+    <name>EI/IN-020</name>
+    <cmt><![CDATA[The Playbank]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.967224" lon="-8.0710001">
+    <ele>539</ele>
+    <name>EI/IN-021</name>
+    <cmt><![CDATA[Moylenanav]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.416794" lon="-8.2581997">
+    <ele>523</ele>
+    <name>EI/IN-022</name>
+    <cmt><![CDATA[Arroo Mountain]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.724705" lon="-7.9650998">
+    <ele>523</ele>
+    <name>EI/IN-023</name>
+    <cmt><![CDATA[Croaghconnellagh]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.749706" lon="-8.1933002">
+    <ele>521</ele>
+    <name>EI/IN-024</name>
+    <cmt><![CDATA[Carnaween]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.997635" lon="-8.1928997">
+    <ele>517</ele>
+    <name>EI/IN-025</name>
+    <cmt><![CDATA[Crocknafarragh]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.756001" lon="-8.5774002">
+    <ele>511</ele>
+    <name>EI/IN-026</name>
+    <cmt><![CDATA[Sliabh Tuaidh]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="55.255959" lon="-7.4678001">
+    <ele>502</ele>
+    <name>EI/IN-027</name>
+    <cmt><![CDATA[Raghtin More]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.720634" lon="-8.4520998">
+    <ele>500</ele>
+    <name>EI/IN-028</name>
+    <cmt><![CDATA[Common Mountain]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="55.226517" lon="-7.4394999">
+    <ele>494</ele>
+    <name>EI/IN-029</name>
+    <cmt><![CDATA[Bulbin]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.654499" lon="-8.5026999">
+    <ele>493</ele>
+    <name>EI/IN-030</name>
+    <cmt><![CDATA[Cruach na Rad]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="55.08997" lon="-7.3648">
+    <ele>484</ele>
+    <name>EI/IN-031</name>
+    <cmt><![CDATA[Scalp Mountain]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.800133" lon="-8.0924997">
+    <ele>476</ele>
+    <name>EI/IN-032</name>
+    <cmt><![CDATA[Cruach Mhin an Neanta]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="55.082783" lon="-8.0251999">
+    <ele>471</ele>
+    <name>EI/IN-033</name>
+    <cmt><![CDATA[Na Leargacha]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="55.085472" lon="-7.7922001">
+    <ele>469</ele>
+    <name>EI/IN-034</name>
+    <cmt><![CDATA[Loughsalt Mountain]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.329414" lon="-8.0914001">
+    <ele>462</ele>
+    <name>EI/IN-035</name>
+    <cmt><![CDATA[Dough Mountain]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.317146" lon="-8.3701">
+    <ele>463</ele>
+    <name>EI/IN-036</name>
+    <cmt><![CDATA[Crockauns]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.134743" lon="-8.2386999">
+    <ele>458</ele>
+    <name>EI/IN-037</name>
+    <cmt><![CDATA[Carrane Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.71661" lon="-7.9432998">
+    <ele>451</ele>
+    <name>EI/IN-038</name>
+    <cmt><![CDATA[Cruach Eoghanach]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.238422" lon="-8.1048002">
+    <ele>449</ele>
+    <name>EI/IN-039</name>
+    <cmt><![CDATA[Lackagh Mountain]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.996883" lon="-7.9741998">
+    <ele>442</ele>
+    <name>EI/IN-040</name>
+    <cmt><![CDATA[Leahanmore]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.312374" lon="-8.0314999">
+    <ele>432</ele>
+    <name>EI/IN-041</name>
+    <cmt><![CDATA[Thur Mountain]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.8298" lon="-8.0521002">
+    <ele>429</ele>
+    <name>EI/IN-042</name>
+    <cmt><![CDATA[Buailte Padraig]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="55.08255" lon="-8.1997004">
+    <ele>429</ele>
+    <name>EI/IN-043</name>
+    <cmt><![CDATA[Taobh an Leithid]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.859409" lon="-8.1035004">
+    <ele>428</ele>
+    <name>EI/IN-044</name>
+    <cmt><![CDATA[Scraigs]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.667599" lon="-8.7493">
+    <ele>427</ele>
+    <name>EI/IN-045</name>
+    <cmt><![CDATA[Liathan]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="55.001259" lon="-8.0102997">
+    <ele>421</ele>
+    <name>EI/IN-046</name>
+    <cmt><![CDATA[Farscallop]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.085739" lon="-8.9618998">
+    <ele>417</ele>
+    <name>EI/IN-047</name>
+    <cmt><![CDATA[Knocknasliggaun]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="55.22229" lon="-7.5184002">
+    <ele>417</ele>
+    <name>EI/IN-048</name>
+    <cmt><![CDATA[Urris Hills]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.287903" lon="-8.2311001">
+    <ele>415</ele>
+    <name>EI/IN-049</name>
+    <cmt><![CDATA[Benbo]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.104843" lon="-8.9317999">
+    <ele>413</ele>
+    <name>EI/IN-050</name>
+    <cmt><![CDATA[Largan Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.152824" lon="-7.6413999">
+    <ele>404</ele>
+    <name>EI/IN-051</name>
+    <cmt><![CDATA[Slieve Rushen]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.876369" lon="-8.1907997">
+    <ele>385</ele>
+    <name>EI/IN-052</name>
+    <cmt><![CDATA[Cruach Leithin]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.72826" lon="-8.6681995">
+    <ele>374</ele>
+    <name>EI/IN-053</name>
+    <cmt><![CDATA[Croaghacullion]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="55.190289" lon="-7.2329998">
+    <ele>371</ele>
+    <name>EI/IN-054</name>
+    <cmt><![CDATA[Grinlieve]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.865677" lon="-7.8745999">
+    <ele>369</ele>
+    <name>EI/IN-055</name>
+    <cmt><![CDATA[Culliagh SE Top]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.810925" lon="-7.9308">
+    <ele>364</ele>
+    <name>EI/IN-056</name>
+    <cmt><![CDATA[Altnapaste]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="55.155151" lon="-7.6307001">
+    <ele>363</ele>
+    <name>EI/IN-057</name>
+    <cmt><![CDATA[Knockalla]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.061825" lon="-8.4406004">
+    <ele>359</ele>
+    <name>EI/IN-058</name>
+    <cmt><![CDATA[Keshcorran]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="55.033691" lon="-7.9225998">
+    <ele>357</ele>
+    <name>EI/IN-059</name>
+    <cmt><![CDATA[Gartan Mountain]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="55.118446" lon="-7.6183">
+    <ele>357</ele>
+    <name>EI/IN-060</name>
+    <cmt><![CDATA[Craigcannon]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.599693" lon="-7.8088999">
+    <ele>363</ele>
+    <name>EI/IN-061</name>
+    <cmt><![CDATA[Crockkinnagoe]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.727634" lon="-8.4027004">
+    <ele>351</ele>
+    <name>EI/IN-062</name>
+    <cmt><![CDATA[Mulmosog Mountain]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="55.080322" lon="-7.8425999">
+    <ele>349</ele>
+    <name>EI/IN-063</name>
+    <cmt><![CDATA[Crockmore]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.959026" lon="-7.8196998">
+    <ele>336</ele>
+    <name>EI/IN-064</name>
+    <cmt><![CDATA[Gregory Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.836704" lon="-8.2669001">
+    <ele>332</ele>
+    <name>EI/IN-065</name>
+    <cmt><![CDATA[Cnoc na Deirce Bige]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="55.238159" lon="-6.9668002">
+    <ele>328</ele>
+    <name>EI/IN-066</name>
+    <cmt><![CDATA[Crocknasmug]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.258743" lon="-8.5745001">
+    <ele>327</ele>
+    <name>EI/IN-067</name>
+    <cmt><![CDATA[Knocknarea]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.053951" lon="-8.3779001">
+    <ele>321</ele>
+    <name>EI/IN-068</name>
+    <cmt><![CDATA[Bricklieve Mountains]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.949879" lon="-8.2707005">
+    <ele>315</ele>
+    <name>EI/IN-069</name>
+    <cmt><![CDATA[Cro Bheithe]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="55.13673" lon="-8.2625999">
+    <ele>314</ele>
+    <name>EI/IN-070</name>
+    <cmt><![CDATA[Cnoc Fola]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="55.105209" lon="-7.4461002">
+    <ele>312</ele>
+    <name>EI/IN-071</name>
+    <cmt><![CDATA[Mouldy Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.233616" lon="-8.3825998">
+    <ele>293</ele>
+    <name>EI/IN-072</name>
+    <cmt><![CDATA[Killerry Mountain]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="55.267399" lon="-7.3652">
+    <ele>291</ele>
+    <name>EI/IN-073</name>
+    <cmt><![CDATA[Coolcross Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="55.06778" lon="-7.8723998">
+    <ele>285</ele>
+    <name>EI/IN-074</name>
+    <cmt><![CDATA[Sliabh an tSratha Greadaithe]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.892101" lon="-7.6236">
+    <ele>284</ele>
+    <name>EI/IN-075</name>
+    <cmt><![CDATA[Mongorry Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="55.354923" lon="-7.2754998">
+    <ele>282</ele>
+    <name>EI/IN-076</name>
+    <cmt><![CDATA[Crockalough]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.807293" lon="-7.7158999">
+    <ele>278</ele>
+    <name>EI/IN-077</name>
+    <cmt><![CDATA[Corn Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.11911" lon="-8.6796999">
+    <ele>276</ele>
+    <name>EI/IN-078</name>
+    <cmt><![CDATA[Knocknashee]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.217236" lon="-8.4438">
+    <ele>275</ele>
+    <name>EI/IN-079</name>
+    <cmt><![CDATA[Slieve Daeane]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.898724" lon="-8.2486">
+    <ele>266</ele>
+    <name>EI/IN-080</name>
+    <cmt><![CDATA[Cruach Leac Chonaill]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.942989" lon="-7.5325999">
+    <ele>266</ele>
+    <name>EI/IN-081</name>
+    <cmt><![CDATA[Dooish Mountain]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.837765" lon="-9.0685997">
+    <ele>262</ele>
+    <name>EI/IN-082</name>
+    <cmt><![CDATA[Slieve Carn]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.991947" lon="-8.3834">
+    <ele>262</ele>
+    <name>EI/IN-083</name>
+    <cmt><![CDATA[Curlew Mountain]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.718517" lon="-8.0704002">
+    <ele>262</ele>
+    <name>EI/IN-084</name>
+    <cmt><![CDATA[Slieve Bawn]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.931393" lon="-7.5180998">
+    <ele>260</ele>
+    <name>EI/IN-085</name>
+    <cmt><![CDATA[Bruse Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="55.208862" lon="-7.9552002">
+    <ele>252</ele>
+    <name>EI/IN-086</name>
+    <cmt><![CDATA[Croaghnamaddy]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="55.285637" lon="-7.4200001">
+    <ele>250</ele>
+    <name>EI/IN-087</name>
+    <cmt><![CDATA[Binnion]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.911751" lon="-8.4124002">
+    <ele>245</ele>
+    <name>EI/IN-088</name>
+    <cmt><![CDATA[Croaghegly]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.938259" lon="-8.7255001">
+    <ele>234</ele>
+    <name>EI/IN-089</name>
+    <cmt><![CDATA[Mullaghanoe]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="55.28336" lon="-7.5159998">
+    <ele>232</ele>
+    <name>EI/IN-090</name>
+    <cmt><![CDATA[Dunaff Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="55.228184" lon="-7.6631999">
+    <ele>227</ele>
+    <name>EI/IN-091</name>
+    <cmt><![CDATA[Cnoc na Boirne]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.988369" lon="-8.5414">
+    <ele>227</ele>
+    <name>EI/IN-092</name>
+    <cmt><![CDATA[Cnoc an Iolair - Mullach Thiar (Aranmore Island)]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="55.073151" lon="-7.5107999">
+    <ele>220</ele>
+    <name>EI/IN-093</name>
+    <cmt><![CDATA[Inch Top]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.823528" lon="-7.5356002">
+    <ele>217</ele>
+    <name>EI/IN-094</name>
+    <cmt><![CDATA[Croaghan Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="55.206951" lon="-7.8263998">
+    <ele>207</ele>
+    <name>EI/IN-095</name>
+    <cmt><![CDATA[Gainne Mor]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.970543" lon="-9.0902996">
+    <ele>197</ele>
+    <name>EI/IN-096</name>
+    <cmt><![CDATA[Carranarah]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="55.232971" lon="-7.8074002">
+    <ele>163</ele>
+    <name>EI/IN-097</name>
+    <cmt><![CDATA[Cnoc na Slea]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland North]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="51.9995" lon="-9.7426996">
+    <ele>1039</ele>
+    <name>EI/IS-001</name>
+    <cmt><![CDATA[Carrauntoohil]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="51.997898" lon="-9.6955996">
+    <ele>985</ele>
+    <name>EI/IS-002</name>
+    <cmt><![CDATA[Cnoc na Peiste]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.2351" lon="-10.2543">
+    <ele>952</ele>
+    <name>EI/IS-003</name>
+    <cmt><![CDATA[Brandon Mountain]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.366001" lon="-8.1791">
+    <ele>918</ele>
+    <name>EI/IS-004</name>
+    <cmt><![CDATA[Galtymore]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.2071" lon="-9.8295002">
+    <ele>851</ele>
+    <name>EI/IS-005</name>
+    <cmt><![CDATA[Baurtregaum]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="51.970299" lon="-9.4843998">
+    <ele>838</ele>
+    <name>EI/IS-006</name>
+    <cmt><![CDATA[Mangerton]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.2164" lon="-10.2364">
+    <ele>840</ele>
+    <name>EI/IS-007</name>
+    <cmt><![CDATA[Brandon Peak]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.0079" lon="-9.6225004">
+    <ele>832</ele>
+    <name>EI/IS-008</name>
+    <cmt><![CDATA[Purple Mountain]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.213799" lon="-10.0774">
+    <ele>826</ele>
+    <name>EI/IS-009</name>
+    <cmt><![CDATA[Beenoskee]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.367401" lon="-8.1106997">
+    <ele>801</ele>
+    <name>EI/IS-010</name>
+    <cmt><![CDATA[Greenane]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.227901" lon="-7.9159002">
+    <ele>792</ele>
+    <name>EI/IS-011</name>
+    <cmt><![CDATA[Knockmealdown]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.2458" lon="-7.5366998">
+    <ele>792</ele>
+    <name>EI/IS-012</name>
+    <cmt><![CDATA[Fauscoum]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.348301" lon="-8.2453003">
+    <ele>783</ele>
+    <name>EI/IS-013</name>
+    <cmt><![CDATA[Temple Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="51.953701" lon="-9.7653999">
+    <ele>784</ele>
+    <name>EI/IS-014</name>
+    <cmt><![CDATA[Stumpa Duloigh]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="51.9338" lon="-9.8346004">
+    <ele>773</ele>
+    <name>EI/IS-015</name>
+    <cmt><![CDATA[Mullaghanattin]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="51.977901" lon="-10.0217">
+    <ele>772</ele>
+    <name>EI/IS-016</name>
+    <cmt><![CDATA[Coomacarrea]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.289001" lon="-7.5822001">
+    <ele>755</ele>
+    <name>EI/IS-017</name>
+    <cmt><![CDATA[Knockanaffrin]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="51.925701" lon="-9.8542004">
+    <ele>752</ele>
+    <name>EI/IS-018</name>
+    <cmt><![CDATA[Beann]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="51.972301" lon="-9.7454996">
+    <ele>745</ele>
+    <name>EI/IS-019</name>
+    <cmt><![CDATA[Broaghnabinnia]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="51.802502" lon="-9.4434004">
+    <ele>706</ele>
+    <name>EI/IS-020</name>
+    <cmt><![CDATA[Knockboy]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.015598" lon="-9.2631998">
+    <ele>694</ele>
+    <name>EI/IS-021</name>
+    <cmt><![CDATA[The Paps East]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="51.993103" lon="-10.175101">
+    <ele>690</ele>
+    <name>EI/IS-022</name>
+    <cmt><![CDATA[Knocknadobar]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="51.686966" lon="-9.7924356">
+    <ele>685</ele>
+    <name>EI/IS-023</name>
+    <cmt><![CDATA[Hungry Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="51.911484" lon="-9.9405632">
+    <ele>684</ele>
+    <name>EI/IS-024</name>
+    <cmt><![CDATA[Knockmoyle]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.031021" lon="-9.178401">
+    <ele>681</ele>
+    <name>EI/IS-025</name>
+    <cmt><![CDATA[Caherbarnagh]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="51.850166" lon="-10.041784">
+    <ele>675</ele>
+    <name>EI/IS-026</name>
+    <cmt><![CDATA[An Bheann Mhor]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.189587" lon="-10.170963">
+    <ele>671</ele>
+    <name>EI/IS-027</name>
+    <cmt><![CDATA[Slievanea NE Top]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.219616" lon="-7.8629351">
+    <ele>667</ele>
+    <name>EI/IS-028</name>
+    <cmt><![CDATA[Knocknafallia]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="51.738735" lon="-9.7254114">
+    <ele>658</ele>
+    <name>EI/IS-029</name>
+    <cmt><![CDATA[Knockowen]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="51.991142" lon="-9.3841515">
+    <ele>656</ele>
+    <name>EI/IS-030</name>
+    <cmt><![CDATA[Crohane]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.246162" lon="-8.0014553">
+    <ele>653</ele>
+    <name>EI/IS-031</name>
+    <cmt><![CDATA[Knockshanahullion]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="51.983204" lon="-9.1443233">
+    <ele>649</ele>
+    <name>EI/IS-032</name>
+    <cmt><![CDATA[Mullaghanish]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.013477" lon="-8.9782963">
+    <ele>643</ele>
+    <name>EI/IS-033</name>
+    <cmt><![CDATA[Musheramore]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="51.781319" lon="-9.6710129">
+    <ele>644</ele>
+    <name>EI/IS-034</name>
+    <cmt><![CDATA[Coomnadiha]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.176582" lon="-10.122887">
+    <ele>642</ele>
+    <name>EI/IS-035</name>
+    <cmt><![CDATA[Cnoc na Banoige]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="51.928757" lon="-9.7489891">
+    <ele>641</ele>
+    <name>EI/IS-036</name>
+    <cmt><![CDATA[Knocklomena]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="51.930977" lon="-9.695817">
+    <ele>639</ele>
+    <name>EI/IS-037</name>
+    <cmt><![CDATA[Cnoc na gCapall]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.387695" lon="-8.1558819">
+    <ele>641</ele>
+    <name>EI/IS-038</name>
+    <cmt><![CDATA[Cush]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="51.838818" lon="-9.4652233">
+    <ele>637</ele>
+    <name>EI/IS-039</name>
+    <cmt><![CDATA[Knocknamanagh]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.182262" lon="-10.251467">
+    <ele>623</ele>
+    <name>EI/IS-040</name>
+    <cmt><![CDATA[An Scraig]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="51.693008" lon="-9.8621693">
+    <ele>621</ele>
+    <name>EI/IS-041</name>
+    <cmt><![CDATA[Maulin]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="51.855743" lon="-9.3758698">
+    <ele>604</ele>
+    <name>EI/IS-042</name>
+    <cmt><![CDATA[Carran]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="51.722" lon="-9.807888">
+    <ele>603</ele>
+    <name>EI/IS-043</name>
+    <cmt><![CDATA[Lackabane]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.176792" lon="-9.9160395">
+    <ele>566</ele>
+    <name>EI/IS-044</name>
+    <cmt><![CDATA[Moanlaur]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="51.930302" lon="-9.5949497">
+    <ele>555</ele>
+    <name>EI/IS-045</name>
+    <cmt><![CDATA[Peakeen Mountain]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.194416" lon="-10.039316">
+    <ele>552</ele>
+    <name>EI/IS-046</name>
+    <cmt><![CDATA[Dromavally Mountain]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="51.802799" lon="-10.054591">
+    <ele>549</ele>
+    <name>EI/IS-047</name>
+    <cmt><![CDATA[Eagles Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="51.941071" lon="-9.9269915">
+    <ele>547</ele>
+    <name>EI/IS-048</name>
+    <cmt><![CDATA[Knocknacusha]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="51.786777" lon="-9.2300081">
+    <ele>546</ele>
+    <name>EI/IS-049</name>
+    <cmt><![CDATA[Shehy More]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="51.998119" lon="-9.5211344">
+    <ele>535</ele>
+    <name>EI/IS-050</name>
+    <cmt><![CDATA[Torc Mountain]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="51.722481" lon="-9.244297">
+    <ele>535</ele>
+    <name>EI/IS-051</name>
+    <cmt><![CDATA[Nowen Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.313602" lon="-8.5219135">
+    <ele>528</ele>
+    <name>EI/IS-052</name>
+    <cmt><![CDATA[Seefin Mountain W Top]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.117886" lon="-10.432023">
+    <ele>516</ele>
+    <name>EI/IS-053</name>
+    <cmt><![CDATA[Sliabh an Iolair]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="51.933853" lon="-9.5719566">
+    <ele>509</ele>
+    <name>EI/IS-054</name>
+    <cmt><![CDATA[Knockanaguish]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="51.803036" lon="-9.6374474">
+    <ele>507</ele>
+    <name>EI/IS-055</name>
+    <cmt><![CDATA[Knocknagorraveela]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="51.940083" lon="-9.3166924">
+    <ele>506</ele>
+    <name>EI/IS-056</name>
+    <cmt><![CDATA[Coomagearlahy]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="51.903542" lon="-10.16785">
+    <ele>497</ele>
+    <name>EI/IS-057</name>
+    <cmt><![CDATA[Foilclogh]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="51.708164" lon="-9.3158188">
+    <ele>494</ele>
+    <name>EI/IS-058</name>
+    <cmt><![CDATA[Mullaghmesha]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.046589" lon="-9.9134378">
+    <ele>493</ele>
+    <name>EI/IS-059</name>
+    <cmt><![CDATA[Seefin]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="51.6525" lon="-9.9929314">
+    <ele>488</ele>
+    <name>EI/IS-060</name>
+    <cmt><![CDATA[Knockoura]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.156155" lon="-7.598918">
+    <ele>484</ele>
+    <name>EI/IS-061</name>
+    <cmt><![CDATA[Crohaun]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.203621" lon="-10.004674">
+    <ele>477</ele>
+    <name>EI/IS-062</name>
+    <cmt><![CDATA[Cummeen]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="51.798569" lon="-9.2719784">
+    <ele>476</ele>
+    <name>EI/IS-063</name>
+    <cmt><![CDATA[Douce Mountain]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="51.814568" lon="-9.2883797">
+    <ele>471</ele>
+    <name>EI/IS-064</name>
+    <cmt><![CDATA[Doughill Mountain]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.378345" lon="-8.4041891">
+    <ele>465</ele>
+    <name>EI/IS-065</name>
+    <cmt><![CDATA[Slievereagh]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="51.9813" lon="-9.4052315">
+    <ele>454</ele>
+    <name>EI/IS-066</name>
+    <cmt><![CDATA[Bennaunmore]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.221558" lon="-9.3015862">
+    <ele>451</ele>
+    <name>EI/IS-067</name>
+    <cmt><![CDATA[Baraveha]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.107159" lon="-8.4336519">
+    <ele>427</ele>
+    <name>EI/IS-068</name>
+    <cmt><![CDATA[Knocknaskagh]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="51.841927" lon="-9.5532455">
+    <ele>426</ele>
+    <name>EI/IS-069</name>
+    <cmt><![CDATA[Knockeirka]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="51.865383" lon="-9.7994089">
+    <ele>413</ele>
+    <name>EI/IS-070</name>
+    <cmt><![CDATA[Knocknagullion]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="51.801834" lon="-10.321626">
+    <ele>410</ele>
+    <name>EI/IS-071</name>
+    <cmt><![CDATA[Bolus]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="51.556831" lon="-9.5418224">
+    <ele>407</ele>
+    <name>EI/IS-072</name>
+    <cmt><![CDATA[Mount Gabriel]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="51.938038" lon="-9.4155121">
+    <ele>406</ele>
+    <name>EI/IS-073</name>
+    <cmt><![CDATA[Esknabrock]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.148846" lon="-10.431784">
+    <ele>403</ele>
+    <name>EI/IS-074</name>
+    <cmt><![CDATA[Cruach Mharthain]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.295395" lon="-8.4389906">
+    <ele>401</ele>
+    <name>EI/IS-075</name>
+    <cmt><![CDATA[Carrigeenamronety]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="51.868977" lon="-10.313559">
+    <ele>397</ele>
+    <name>EI/IS-076</name>
+    <cmt><![CDATA[Knocknaskereighta]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.109814" lon="-8.8399982">
+    <ele>391</ele>
+    <name>EI/IS-077</name>
+    <cmt><![CDATA[Mount Hillary]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.249897" lon="-7.445797">
+    <ele>391</ele>
+    <name>EI/IS-078</name>
+    <cmt><![CDATA[Croughaun Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="51.667725" lon="-9.9621401">
+    <ele>386</ele>
+    <name>EI/IS-079</name>
+    <cmt><![CDATA[Miskish Mountain]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="51.779099" lon="-9.7394629">
+    <ele>386</ele>
+    <name>EI/IS-080</name>
+    <cmt><![CDATA[Knockanoughanish]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="51.959679" lon="-8.9074717">
+    <ele>380</ele>
+    <name>EI/IS-081</name>
+    <cmt><![CDATA[Burren]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="51.735096" lon="-9.6103821">
+    <ele>380</ele>
+    <name>EI/IS-082</name>
+    <cmt><![CDATA[Derrynafulla SW]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="51.659985" lon="-10.047077">
+    <ele>376</ele>
+    <name>EI/IS-083</name>
+    <cmt><![CDATA[Knocknagallaun]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="51.933765" lon="-10.216555">
+    <ele>376</ele>
+    <name>EI/IS-084</name>
+    <cmt><![CDATA[Bentee]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.155148" lon="-10.001034">
+    <ele>374</ele>
+    <name>EI/IS-085</name>
+    <cmt><![CDATA[Brickany]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.426208" lon="-8.2329922">
+    <ele>369</ele>
+    <name>EI/IS-086</name>
+    <cmt><![CDATA[Slievenamuck]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="51.970161" lon="-10.226831">
+    <ele>361</ele>
+    <name>EI/IS-087</name>
+    <cmt><![CDATA[Castlequin]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="51.885818" lon="-9.6941938">
+    <ele>356</ele>
+    <name>EI/IS-088</name>
+    <cmt><![CDATA[Knockanaskill]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.311672" lon="-8.3093328">
+    <ele>353</ele>
+    <name>EI/IS-089</name>
+    <cmt><![CDATA[Ballyarthur Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="51.695641" lon="-9.2032814">
+    <ele>354</ele>
+    <name>EI/IS-090</name>
+    <cmt><![CDATA[Milane Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.019794" lon="-9.8114262">
+    <ele>353</ele>
+    <name>EI/IS-091</name>
+    <cmt><![CDATA[Knocknabrone Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="51.598141" lon="-9.6979036">
+    <ele>345</ele>
+    <name>EI/IS-092</name>
+    <cmt><![CDATA[Seefin]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.448669" lon="-9.1538296">
+    <ele>345</ele>
+    <name>EI/IS-093</name>
+    <cmt><![CDATA[Knockanimpaha]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="51.83572" lon="-10.313305">
+    <ele>331</ele>
+    <name>EI/IS-094</name>
+    <cmt><![CDATA[Killurly]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="51.783047" lon="-9.7758436">
+    <ele>330</ele>
+    <name>EI/IS-095</name>
+    <cmt><![CDATA[Knockatee]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.159687" lon="-10.340299">
+    <ele>318</ele>
+    <name>EI/IS-096</name>
+    <cmt><![CDATA[Leataoibh]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="51.508484" lon="-9.7435446">
+    <ele>313</ele>
+    <name>EI/IS-097</name>
+    <cmt><![CDATA[Knocknamaddree]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="51.635563" lon="-9.0949221">
+    <ele>312</ele>
+    <name>EI/IS-098</name>
+    <cmt><![CDATA[Carrigfadda]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="51.81802" lon="-9.9512558">
+    <ele>308</ele>
+    <name>EI/IS-099</name>
+    <cmt><![CDATA[An Bheann Mhor]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="51.613811" lon="-9.4689312">
+    <ele>301</ele>
+    <name>EI/IS-100</name>
+    <cmt><![CDATA[Derrylahard East]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.035244" lon="-7.7471752">
+    <ele>301</ele>
+    <name>EI/IS-101</name>
+    <cmt><![CDATA[Carronadavderg]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="51.684814" lon="-9.1442308">
+    <ele>297</ele>
+    <name>EI/IS-102</name>
+    <cmt><![CDATA[Cashloura]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="51.742435" lon="-9.1489868">
+    <ele>296</ele>
+    <name>EI/IS-103</name>
+    <cmt><![CDATA[Coolsnaghtig]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.086887" lon="-10.559474">
+    <ele>292</ele>
+    <name>EI/IS-104</name>
+    <cmt><![CDATA[An Cro Mor]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.473999" lon="-8.80865">
+    <ele>288</ele>
+    <name>EI/IS-105</name>
+    <cmt><![CDATA[Knockfeerina]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.132099" lon="-10.086173">
+    <ele>286</ele>
+    <name>EI/IS-106</name>
+    <cmt><![CDATA[Knocknanacree]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="51.957207" lon="-10.30646">
+    <ele>278</ele>
+    <name>EI/IS-107</name>
+    <cmt><![CDATA[Killelan Mountain]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.048828" lon="-9.9627523">
+    <ele>275</ele>
+    <name>EI/IS-108</name>
+    <cmt><![CDATA[Curra Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.19062" lon="-10.321448">
+    <ele>274</ele>
+    <name>EI/IS-109</name>
+    <cmt><![CDATA[Rhinn Chonail]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="51.626225" lon="-9.8723011">
+    <ele>267</ele>
+    <name>EI/IS-110</name>
+    <cmt><![CDATA[Knockanallig]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.523903" lon="-9.6065702">
+    <ele>266</ele>
+    <name>EI/IS-111</name>
+    <cmt><![CDATA[Knockanore]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="51.922741" lon="-10.346325">
+    <ele>266</ele>
+    <name>EI/IS-112</name>
+    <cmt><![CDATA[Geokaun]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="51.612232" lon="-10.104124">
+    <ele>260</ele>
+    <name>EI/IS-113</name>
+    <cmt><![CDATA[Lackacroghan]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="51.7281" lon="-10.254249">
+    <ele>252</ele>
+    <name>EI/IS-114</name>
+    <cmt><![CDATA[Scarriff Island]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="51.595749" lon="-10.205146">
+    <ele>252</ele>
+    <name>EI/IS-115</name>
+    <cmt><![CDATA[Cnoc Bolais]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.230247" lon="-10.360974">
+    <ele>251</ele>
+    <name>EI/IS-116</name>
+    <cmt><![CDATA[Ceann Bhaile Dhaith]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="51.890827" lon="-10.421397">
+    <ele>239</ele>
+    <name>EI/IS-117</name>
+    <cmt><![CDATA[Bray Head]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="51.517265" lon="-9.6963367">
+    <ele>237</ele>
+    <name>EI/IS-118</name>
+    <cmt><![CDATA[Knockaphuca]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="51.461685" lon="-9.8065157">
+    <ele>232</ele>
+    <name>EI/IS-119</name>
+    <cmt><![CDATA[Mizen Peak]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="51.700882" lon="-8.9582481">
+    <ele>228</ele>
+    <name>EI/IS-120</name>
+    <cmt><![CDATA[Currane Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="51.771004" lon="-10.541756">
+    <ele>217</ele>
+    <name>EI/IS-121</name>
+    <cmt><![CDATA[Sceilg Mhicil]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.410614" lon="-9.8788338">
+    <ele>217</ele>
+    <name>EI/IS-122</name>
+    <cmt><![CDATA[Maulin Mountain]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.183525" lon="-10.465085">
+    <ele>206</ele>
+    <name>EI/IS-123</name>
+    <cmt><![CDATA[Ceann Sibeal]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="51.621258" lon="-9.9456949">
+    <ele>205</ele>
+    <name>EI/IS-124</name>
+    <cmt><![CDATA[Disert]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.076633" lon="-10.653977">
+    <ele>200</ele>
+    <name>EI/IS-125</name>
+    <cmt><![CDATA[An Tiaracht]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="51.508686" lon="-9.3143072">
+    <ele>197</ele>
+    <name>EI/IS-126</name>
+    <cmt><![CDATA[Knockomagh]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.115597" lon="-10.281657">
+    <ele>184</ele>
+    <name>EI/IS-127</name>
+    <cmt><![CDATA[Carhoo Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.06094" lon="-10.60683">
+    <ele>175</ele>
+    <name>EI/IS-128</name>
+    <cmt><![CDATA[Inis na Bro]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.131512" lon="-10.580509">
+    <ele>172</ele>
+    <name>EI/IS-129</name>
+    <cmt><![CDATA[Inis Tuaisceart]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="51.442005" lon="-9.4792366">
+    <ele>160</ele>
+    <name>EI/IS-130</name>
+    <cmt><![CDATA[Cnoicin an tSeabhaic]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="51.83736" lon="-10.410609">
+    <ele>159</ele>
+    <name>EI/IS-131</name>
+    <cmt><![CDATA[Puffin Island]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.42831" lon="-8.868228">
+    <ele>272</ele>
+    <name>EI/IS-132</name>
+    <cmt><![CDATA[Corronoher]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland South]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.637199" lon="-9.8303003">
+    <ele>814</ele>
+    <name>EI/IW-001</name>
+    <cmt><![CDATA[Mweelrea]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.013302" lon="-9.3683996">
+    <ele>806</ele>
+    <name>EI/IW-002</name>
+    <cmt><![CDATA[Nephin]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.642876" lon="-9.7974997">
+    <ele>803</ele>
+    <name>EI/IW-003</name>
+    <cmt><![CDATA[Ben Lugmore]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.662876" lon="-9.7408161">
+    <ele>772</ele>
+    <name>EI/IW-004</name>
+    <cmt><![CDATA[Barrclashcame]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.760044" lon="-9.6601124">
+    <ele>764</ele>
+    <name>EI/IW-005</name>
+    <cmt><![CDATA[Croagh Patrick]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.52124" lon="-9.8317614">
+    <ele>725</ele>
+    <name>EI/IW-006</name>
+    <cmt><![CDATA[Binn Bhan]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.068237" lon="-9.6581926">
+    <ele>721</ele>
+    <name>EI/IW-007</name>
+    <cmt><![CDATA[Slieve Carr]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.966194" lon="-9.6721659">
+    <ele>714</ele>
+    <name>EI/IW-008</name>
+    <cmt><![CDATA[Corranabinnia]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.506538" lon="-9.7928066">
+    <ele>711</ele>
+    <name>EI/IW-009</name>
+    <cmt><![CDATA[Binn Chorr]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.513847" lon="-9.6767635">
+    <ele>702</ele>
+    <name>EI/IW-010</name>
+    <cmt><![CDATA[Binn idir an Da Log]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.624687" lon="-9.721014">
+    <ele>700</ele>
+    <name>EI/IW-011</name>
+    <cmt><![CDATA[Ben Gorm]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.985146" lon="-9.4877567">
+    <ele>698</ele>
+    <name>EI/IW-012</name>
+    <cmt><![CDATA[Birreencorragh]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.512508" lon="-9.8141651">
+    <ele>696</ele>
+    <name>EI/IW-013</name>
+    <cmt><![CDATA[Binn Dubh]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.499615" lon="-9.8347139">
+    <ele>691</ele>
+    <name>EI/IW-014</name>
+    <cmt><![CDATA[Binn Bhraoin]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.984035" lon="-10.196633">
+    <ele>688</ele>
+    <name>EI/IW-015</name>
+    <cmt><![CDATA[Croaghaun]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.613209" lon="-9.5697851">
+    <ele>682</ele>
+    <name>EI/IW-016</name>
+    <cmt><![CDATA[Maumtrasna]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.009663" lon="-10.059507">
+    <ele>671</ele>
+    <name>EI/IW-017</name>
+    <cmt><![CDATA[Slievemore]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.533558" lon="-9.7275829">
+    <ele>667</ele>
+    <name>EI/IW-018</name>
+    <cmt><![CDATA[Binn Bhriocain]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.491531" lon="-9.8343649">
+    <ele>664</ele>
+    <name>EI/IW-019</name>
+    <cmt><![CDATA[Binn Gabhar]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.483269" lon="-9.6300316">
+    <ele>661</ele>
+    <name>EI/IW-020</name>
+    <cmt><![CDATA[Binn Mhor]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.52169" lon="-9.8597937">
+    <ele>654</ele>
+    <name>EI/IW-021</name>
+    <cmt><![CDATA[Muckanaght]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.600391" lon="-9.6396694">
+    <ele>645</ele>
+    <name>EI/IW-022</name>
+    <cmt><![CDATA[Devilsmother]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.518715" lon="-9.877758">
+    <ele>632</ele>
+    <name>EI/IW-023</name>
+    <cmt><![CDATA[An Chailleach]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.030201" lon="-9.6306419">
+    <ele>627</ele>
+    <name>EI/IW-024</name>
+    <cmt><![CDATA[Nephin Beg]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.57169" lon="-9.7004538">
+    <ele>618</ele>
+    <name>EI/IW-025</name>
+    <cmt><![CDATA[Leenaun Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.584782" lon="-9.8620682">
+    <ele>598</ele>
+    <name>EI/IW-026</name>
+    <cmt><![CDATA[Garraun]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.48204" lon="-9.5784349">
+    <ele>611</ele>
+    <name>EI/IW-027</name>
+    <cmt><![CDATA[Corcog]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.955185" lon="-9.5316763">
+    <ele>588</ele>
+    <name>EI/IW-028</name>
+    <cmt><![CDATA[Buckoogh]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.950199" lon="-9.6331253">
+    <ele>582</ele>
+    <name>EI/IW-029</name>
+    <cmt><![CDATA[Bengorm]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.537807" lon="-9.8635178">
+    <ele>582</ele>
+    <name>EI/IW-030</name>
+    <cmt><![CDATA[Benbrack]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.558987" lon="-9.6019278">
+    <ele>575</ele>
+    <name>EI/IW-031</name>
+    <cmt><![CDATA[Bunnacunneen]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.900047" lon="-9.8608627">
+    <ele>541</ele>
+    <name>EI/IW-032</name>
+    <cmt><![CDATA[Corraun Hill East Top]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.833454" lon="-8.5223656">
+    <ele>532</ele>
+    <name>EI/IW-033</name>
+    <cmt><![CDATA[Moylussa]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.569782" lon="-9.8875685">
+    <ele>526</ele>
+    <name>EI/IW-034</name>
+    <cmt><![CDATA[Doughruagh]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.94968" lon="-10.039686">
+    <ele>466</ele>
+    <name>EI/IW-035</name>
+    <cmt><![CDATA[Minaun]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.808231" lon="-10.020802">
+    <ele>462</ele>
+    <name>EI/IW-036</name>
+    <cmt><![CDATA[Knockmore (Clare Island)]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.846176" lon="-8.3912888">
+    <ele>457</ele>
+    <name>EI/IW-037</name>
+    <cmt><![CDATA[Tountinna]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.939186" lon="-9.8551569">
+    <ele>452</ele>
+    <name>EI/IW-038</name>
+    <cmt><![CDATA[Cnoc Leitreach]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.547775" lon="-9.9152555">
+    <ele>442</ele>
+    <name>EI/IW-039</name>
+    <cmt><![CDATA[Binn Ghuaire]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.92614" lon="-9.3731556">
+    <ele>430</ele>
+    <name>EI/IW-040</name>
+    <cmt><![CDATA[Croaghmoyle]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.565388" lon="-9.6368046">
+    <ele>426</ele>
+    <name>EI/IW-041</name>
+    <cmt><![CDATA[Roighne Mhor]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.543816" lon="-9.5001974">
+    <ele>424</ele>
+    <name>EI/IW-042</name>
+    <cmt><![CDATA[Bothan]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.535763" lon="-9.4338551">
+    <ele>416</ele>
+    <name>EI/IW-043</name>
+    <cmt><![CDATA[Binn Shleibhe]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.483559" lon="-9.7185345">
+    <ele>401</ele>
+    <name>EI/IW-044</name>
+    <cmt><![CDATA[Cnoc Lios Uachtair]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.96859" lon="-8.7188358">
+    <ele>400</ele>
+    <name>EI/IW-045</name>
+    <cmt><![CDATA[Maghera]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.486084" lon="-9.5321226">
+    <ele>396</ele>
+    <name>EI/IW-046</name>
+    <cmt><![CDATA[Lackavrea]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.965233" lon="-9.2653904">
+    <ele>395</ele>
+    <name>EI/IW-047</name>
+    <cmt><![CDATA[Farbreiga]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.840939" lon="-9.2708654">
+    <ele>391</ele>
+    <name>EI/IW-048</name>
+    <cmt><![CDATA[Slievecallan]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.719761" lon="-9.7139959">
+    <ele>390</ele>
+    <name>EI/IW-049</name>
+    <cmt><![CDATA[Knockakishaun]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.017147" lon="-9.5156488">
+    <ele>388</ele>
+    <name>EI/IW-050</name>
+    <cmt><![CDATA[Bullaunmore]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.270973" lon="-9.4788942">
+    <ele>379</ele>
+    <name>EI/IW-051</name>
+    <cmt><![CDATA[Maumakeogh]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.61372" lon="-9.7761889">
+    <ele>379</ele>
+    <name>EI/IW-052</name>
+    <cmt><![CDATA[Teenvnabinnia]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.980034" lon="-8.4804068">
+    <ele>378</ele>
+    <name>EI/IW-053</name>
+    <cmt><![CDATA[Cappaghabaun Mountain East]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.580303" lon="-9.4561911">
+    <ele>372</ele>
+    <name>EI/IW-054</name>
+    <cmt><![CDATA[Glenbeg East]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.115036" lon="-9.7195568">
+    <ele>370</ele>
+    <name>EI/IW-055</name>
+    <cmt><![CDATA[Knocklettercuss]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.091579" lon="-8.6186733">
+    <ele>365</ele>
+    <name>EI/IW-056</name>
+    <cmt><![CDATA[Cashlaundrumlahan]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.433598" lon="-9.6058912">
+    <ele>358</ele>
+    <name>EI/IW-057</name>
+    <cmt><![CDATA[Seanadh Bheara]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.583775" lon="-10.004942">
+    <ele>356</ele>
+    <name>EI/IW-058</name>
+    <cmt><![CDATA[Tully Mountain]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.37812" lon="-9.707613">
+    <ele>353</ele>
+    <name>EI/IW-059</name>
+    <cmt><![CDATA[Cnoc Mordain]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.398678" lon="-9.4854708">
+    <ele>346</ele>
+    <name>EI/IW-060</name>
+    <cmt><![CDATA[Cnoc na Saileog]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.083729" lon="-9.2692385">
+    <ele>344</ele>
+    <name>EI/IW-061</name>
+    <cmt><![CDATA[Slieve Elva]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.293694" lon="-9.5995083">
+    <ele>340</ele>
+    <name>EI/IW-062</name>
+    <cmt><![CDATA[Tawnaghmore]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.927479" lon="-9.9950247">
+    <ele>337</ele>
+    <name>EI/IW-063</name>
+    <cmt><![CDATA[Knockmore]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.206657" lon="-9.6574526">
+    <ele>335</ele>
+    <name>EI/IW-064</name>
+    <cmt><![CDATA[Slieve Fyagh]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.594181" lon="-9.8206825">
+    <ele>333</ele>
+    <name>EI/IW-065</name>
+    <cmt><![CDATA[Binn Mhor]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.054653" lon="-9.7323341">
+    <ele>329</ele>
+    <name>EI/IW-066</name>
+    <cmt><![CDATA[Slieve Alp]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.095196" lon="-9.0098276">
+    <ele>326</ele>
+    <name>EI/IW-067</name>
+    <cmt><![CDATA[Slievecarran]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.02644" lon="-9.4167948">
+    <ele>322</ele>
+    <name>EI/IW-068</name>
+    <cmt><![CDATA[Tristia]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.429058" lon="-9.8060951">
+    <ele>310</ele>
+    <name>EI/IW-069</name>
+    <cmt><![CDATA[Cashel Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.719967" lon="-8.7081165">
+    <ele>310</ele>
+    <name>EI/IW-070</name>
+    <cmt><![CDATA[Woodcock Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="52.777588" lon="-8.6897879">
+    <ele>309</ele>
+    <name>EI/IW-071</name>
+    <cmt><![CDATA[Knockanuarha]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.468285" lon="-9.4312706">
+    <ele>305</ele>
+    <name>EI/IW-072</name>
+    <cmt><![CDATA[Keeraunnageeragh]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.315918" lon="-9.6172743">
+    <ele>304</ele>
+    <name>EI/IW-073</name>
+    <cmt><![CDATA[Glinsk]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.395187" lon="-9.9595137">
+    <ele>300</ele>
+    <name>EI/IW-074</name>
+    <cmt><![CDATA[Iorras Beag]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.894756" lon="-9.9630394">
+    <ele>286</ele>
+    <name>EI/IW-075</name>
+    <cmt><![CDATA[Tievereivagh]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.024525" lon="-9.5708523">
+    <ele>279</ele>
+    <name>EI/IW-076</name>
+    <cmt><![CDATA[Lettertrask]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.158009" lon="-9.7305241">
+    <ele>269</ele>
+    <name>EI/IW-077</name>
+    <cmt><![CDATA[Carrafull]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.272484" lon="-9.8274269">
+    <ele>264</ele>
+    <name>EI/IW-078</name>
+    <cmt><![CDATA[Barr na Coilleadh]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.333656" lon="-9.8224497">
+    <ele>255</ele>
+    <name>EI/IW-079</name>
+    <cmt><![CDATA[An Bhinn Bhui]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.202236" lon="-9.8381186">
+    <ele>244</ele>
+    <name>EI/IW-080</name>
+    <cmt><![CDATA[Knocknascollop NW Top]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.039116" lon="-9.8110685">
+    <ele>243</ele>
+    <name>EI/IW-081</name>
+    <cmt><![CDATA[Bunmore]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.138908" lon="-9.0467157">
+    <ele>240</ele>
+    <name>EI/IW-082</name>
+    <cmt><![CDATA[Abbey Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.254456" lon="-9.3555489">
+    <ele>237</ele>
+    <name>EI/IW-083</name>
+    <cmt><![CDATA[Knockaghaleague]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.324085" lon="-9.7405605">
+    <ele>229</ele>
+    <name>EI/IW-084</name>
+    <cmt><![CDATA[Barr an Digin]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="54.002644" lon="-10.013871">
+    <ele>214</ele>
+    <name>EI/IW-085</name>
+    <cmt><![CDATA[Krinnuck]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.707977" lon="-10.112216">
+    <ele>189</ele>
+    <name>EI/IW-086</name>
+    <cmt><![CDATA[Inishturk]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+  <wpt lat="53.561817" lon="-10.044187">
+    <ele>172</ele>
+    <name>EI/IW-087</name>
+    <cmt><![CDATA[Maumfin]]></cmt>
+    <desc><![CDATA[SOTA Association: EI - Ireland, Region: Ireland West]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit EI/</type>
+  </wpt>
+</gpx>

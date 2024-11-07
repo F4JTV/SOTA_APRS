@@ -1,0 +1,1416 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1" 
+     creator="SOTA Mapping Project GPX Generator 1.1" 
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+     xmlns="http://www.topografix.com/GPX/1/1" 
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>SOTA Summits GPX Export</name>
+    <desc>SOTA Summits data in GPX v1.1 format></desc>
+    <author>
+      <name>SOTA Mapping Project></name>
+      <email id="admin" domain="www.sotamaps.org" />
+      <link href="https://www.sotamaps.org">
+        <text>SOTA Mapping Project</text>
+      </link>
+    </author>
+    <link href="https://www.sotamaps.org">
+      <text>SOTA Mapping Project</text>
+    </link>
+    <time>2024-11-07T15:09:06Z</time>
+    <keywords>SOTA, Summits On The Air, amateur radio, ham radio</keywords>
+    <bounds minlat="50.165031" minlon="-5.6134701" maxlat="55.587959" maxlon="0.58555698"/>
+  </metadata>
+  <wpt lat="51.919899" lon="-2.0058999">
+    <ele>330</ele>
+    <name>G/CE-001</name>
+    <cmt><![CDATA[Cleeve Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Central England]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="52.41621" lon="-2.08582">
+    <ele>316</ele>
+    <name>G/CE-002</name>
+    <cmt><![CDATA[Walton Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Central England]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="52.06073" lon="-2.0632401">
+    <ele>299</ele>
+    <name>G/CE-003</name>
+    <cmt><![CDATA[Bredon Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Central England]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="52.71442" lon="-1.31928">
+    <ele>280</ele>
+    <name>G/CE-004</name>
+    <cmt><![CDATA[Bardon Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Central England]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="51.772419" lon="-0.71117002">
+    <ele>268</ele>
+    <name>G/CE-005</name>
+    <cmt><![CDATA[Wendover Woods]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Central England]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="50.6852" lon="-4.0111599">
+    <ele>622</ele>
+    <name>G/DC-001</name>
+    <cmt><![CDATA[High Willhays]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Devon & Cornwall]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="50.590591" lon="-4.6027398">
+    <ele>420</ele>
+    <name>G/DC-002</name>
+    <cmt><![CDATA[Brown Willy]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Devon & Cornwall]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="50.519192" lon="-4.29387">
+    <ele>334</ele>
+    <name>G/DC-003</name>
+    <cmt><![CDATA[Kit Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Devon & Cornwall]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="50.837231" lon="-3.4724801">
+    <ele>261</ele>
+    <name>G/DC-005</name>
+    <cmt><![CDATA[Christ Cross]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Devon & Cornwall]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="50.18306" lon="-5.22932">
+    <ele>252</ele>
+    <name>G/DC-006</name>
+    <cmt><![CDATA[Carnmenellis]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Devon & Cornwall]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="50.165031" lon="-5.6134701">
+    <ele>253</ele>
+    <name>G/DC-007</name>
+    <cmt><![CDATA[Watch Croft]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Devon & Cornwall]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="50.38308" lon="-4.8127799">
+    <ele>365</ele>
+    <name>G/DC-008</name>
+    <cmt><![CDATA[Hensbarrow Downs]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Devon & Cornwall]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.454262" lon="-3.2116799">
+    <ele>978</ele>
+    <name>G/LD-001</name>
+    <cmt><![CDATA[Scafell Pike]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Lake District]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.527" lon="-3.0175099">
+    <ele>950</ele>
+    <name>G/LD-003</name>
+    <cmt><![CDATA[Helvellyn]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Lake District]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.65139" lon="-3.1477599">
+    <ele>930</ele>
+    <name>G/LD-004</name>
+    <cmt><![CDATA[Skiddaw]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Lake District]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.482079" lon="-3.2193">
+    <ele>899</ele>
+    <name>G/LD-005</name>
+    <cmt><![CDATA[Great Gable]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Lake District]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.497478" lon="-3.2811301">
+    <ele>892</ele>
+    <name>G/LD-006</name>
+    <cmt><![CDATA[Pillar]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Lake District]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.497051" lon="-2.9916501">
+    <ele>873</ele>
+    <name>G/LD-007</name>
+    <cmt><![CDATA[Fairfield]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Lake District]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.63995" lon="-3.0497899">
+    <ele>868</ele>
+    <name>G/LD-008</name>
+    <cmt><![CDATA[Blencathra - Hallsfell Top]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Lake District]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.57164" lon="-3.27791">
+    <ele>852</ele>
+    <name>G/LD-009</name>
+    <cmt><![CDATA[Grasmoor]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Lake District]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.51194" lon="-2.9758401">
+    <ele>841</ele>
+    <name>G/LD-010</name>
+    <cmt><![CDATA[St Sunday Crag]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Lake District]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.491692" lon="-2.8648601">
+    <ele>828</ele>
+    <name>G/LD-011</name>
+    <cmt><![CDATA[High Street]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Lake District]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.521839" lon="-3.2837">
+    <ele>807</ele>
+    <name>G/LD-012</name>
+    <cmt><![CDATA[High Stile]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Lake District]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.370659" lon="-3.1214499">
+    <ele>802</ele>
+    <name>G/LD-013</name>
+    <cmt><![CDATA[The Old Man of Coniston]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Lake District]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.483318" lon="-3.2441199">
+    <ele>802</ele>
+    <name>G/LD-014</name>
+    <cmt><![CDATA[Kirk Fell]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Lake District]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.591751" lon="-3.24207">
+    <ele>791</ele>
+    <name>G/LD-015</name>
+    <cmt><![CDATA[Grisedale Pike]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Lake District]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.470581" lon="-2.93257">
+    <ele>776</ele>
+    <name>G/LD-017</name>
+    <cmt><![CDATA[Red Screes]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Lake District]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.482059" lon="-2.90008">
+    <ele>764</ele>
+    <name>G/LD-018</name>
+    <cmt><![CDATA[Stony Cove Pike]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Lake District]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.47596" lon="-3.11127">
+    <ele>762</ele>
+    <name>G/LD-019</name>
+    <cmt><![CDATA[High Raise]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Lake District]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.527241" lon="-3.20228">
+    <ele>753</ele>
+    <name>G/LD-020</name>
+    <cmt><![CDATA[Dale Head]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Lake District]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.54081" lon="-3.23508">
+    <ele>737</ele>
+    <name>G/LD-021</name>
+    <cmt><![CDATA[Robinson]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Lake District]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.494862" lon="-3.01403">
+    <ele>737</ele>
+    <name>G/LD-022</name>
+    <cmt><![CDATA[Seat Sandal]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Lake District]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.686981" lon="-3.0933199">
+    <ele>710</ele>
+    <name>G/LD-023</name>
+    <cmt><![CDATA[Knott]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Lake District]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.428108" lon="-3.1249299">
+    <ele>705</ele>
+    <name>G/LD-024</name>
+    <cmt><![CDATA[Pike of Blisco]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Lake District]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.464069" lon="-3.32827">
+    <ele>692</ele>
+    <name>G/LD-025</name>
+    <cmt><![CDATA[Seatallan]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Lake District]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.463459" lon="-2.7906599">
+    <ele>664</ele>
+    <name>G/LD-026</name>
+    <cmt><![CDATA[Tarn Crag (Sleddale)]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Lake District]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.54427" lon="-2.9207301">
+    <ele>657</ele>
+    <name>G/LD-027</name>
+    <cmt><![CDATA[Place Fell]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Lake District]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.386921" lon="-3.20452">
+    <ele>653</ele>
+    <name>G/LD-028</name>
+    <cmt><![CDATA[Harter Fell (Eskdale)]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Lake District]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.43293" lon="-3.28263">
+    <ele>609</ele>
+    <name>G/LD-029</name>
+    <cmt><![CDATA[Illgill Head]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Lake District]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.257759" lon="-3.3285699">
+    <ele>600</ele>
+    <name>G/LD-030</name>
+    <cmt><![CDATA[Black Combe]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Lake District]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.564571" lon="-3.3771999">
+    <ele>573</ele>
+    <name>G/LD-031</name>
+    <cmt><![CDATA[Blake Fell]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Lake District]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.32547" lon="-3.2948999">
+    <ele>573</ele>
+    <name>G/LD-032</name>
+    <cmt><![CDATA[Whitfell]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Lake District]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.627819" lon="-3.2339799">
+    <ele>552</ele>
+    <name>G/LD-033</name>
+    <cmt><![CDATA[Lord's Seat]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Lake District]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.41103" lon="-3.18503">
+    <ele>549</ele>
+    <name>G/LD-034</name>
+    <cmt><![CDATA[Hard Knott]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Lake District]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.61985" lon="-2.9356401">
+    <ele>537</ele>
+    <name>G/LD-035</name>
+    <cmt><![CDATA[Great Mell Fell]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Lake District]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.55558" lon="-3.31826">
+    <ele>512</ele>
+    <name>G/LD-036</name>
+    <cmt><![CDATA[Mellbreak]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Lake District]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.608021" lon="-2.89447">
+    <ele>505</ele>
+    <name>G/LD-037</name>
+    <cmt><![CDATA[Little Mell Fell]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Lake District]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.392109" lon="-2.61958">
+    <ele>494</ele>
+    <name>G/LD-038</name>
+    <cmt><![CDATA[Grayrigg Forest]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Lake District]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.432072" lon="-3.0764101">
+    <ele>470</ele>
+    <name>G/LD-040</name>
+    <cmt><![CDATA[Lingmoor Fell]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Lake District]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.708801" lon="-3.20419">
+    <ele>447</ele>
+    <name>G/LD-041</name>
+    <cmt><![CDATA[Binsey]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Lake District]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.591358" lon="-3.3366101">
+    <ele>423</ele>
+    <name>G/LD-042</name>
+    <cmt><![CDATA[Low Fell]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Lake District]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.570412" lon="-2.8785">
+    <ele>388</ele>
+    <name>G/LD-043</name>
+    <cmt><![CDATA[Hallin Fell]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Lake District]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.588428" lon="-3.0715699">
+    <ele>355</ele>
+    <name>G/LD-044</name>
+    <cmt><![CDATA[High Rigg]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Lake District]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.502331" lon="-3.4816501">
+    <ele>352</ele>
+    <name>G/LD-045</name>
+    <cmt><![CDATA[Dent]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Lake District]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.341492" lon="-2.6370201">
+    <ele>340</ele>
+    <name>G/LD-046</name>
+    <cmt><![CDATA[Lambrigg Fell]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Lake District]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.43745" lon="-3.0083599">
+    <ele>335</ele>
+    <name>G/LD-047</name>
+    <cmt><![CDATA[Loughrigg Fell]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Lake District]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.318081" lon="-3.0638499">
+    <ele>335</ele>
+    <name>G/LD-048</name>
+    <cmt><![CDATA[Top o'Selside]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Lake District]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.245579" lon="-3.13726">
+    <ele>334</ele>
+    <name>G/LD-049</name>
+    <cmt><![CDATA[Kirkby Moor]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Lake District]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.288361" lon="-2.9379101">
+    <ele>321</ele>
+    <name>G/LD-050</name>
+    <cmt><![CDATA[Gummer's How]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Lake District]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.396301" lon="-3.05653">
+    <ele>316</ele>
+    <name>G/LD-051</name>
+    <cmt><![CDATA[Holme Fell]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Lake District]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.19141" lon="-2.6804399">
+    <ele>275</ele>
+    <name>G/LD-052</name>
+    <cmt><![CDATA[Hutton Roof Crags]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Lake District]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.367859" lon="-2.9526501">
+    <ele>270</ele>
+    <name>G/LD-053</name>
+    <cmt><![CDATA[Claife Heights]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Lake District]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.67445" lon="-3.3041501">
+    <ele>255</ele>
+    <name>G/LD-054</name>
+    <cmt><![CDATA[Watch Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Lake District]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.276001" lon="-2.85883">
+    <ele>215</ele>
+    <name>G/LD-056</name>
+    <cmt><![CDATA[Whitbarrow - Lord's Seat]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Lake District]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.59153" lon="-3.1724801">
+    <ele>245</ele>
+    <name>G/LD-057</name>
+    <cmt><![CDATA[Swinside]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Lake District]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.190189" lon="-2.8350301">
+    <ele>159</ele>
+    <name>G/LD-058</name>
+    <cmt><![CDATA[Arnside Knott]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Lake District]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.37582" lon="-3.3631401">
+    <ele>232</ele>
+    <name>G/LD-059</name>
+    <cmt><![CDATA[Muncaster Fell]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Lake District]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.703091" lon="-2.4869399">
+    <ele>893</ele>
+    <name>G/NP-001</name>
+    <cmt><![CDATA[Cross Fell]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Northern Pennines]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.615696" lon="-2.3018761">
+    <ele>790</ele>
+    <name>G/NP-002</name>
+    <cmt><![CDATA[Mickle Fell]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Northern Pennines]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.732578" lon="-2.336256">
+    <ele>748</ele>
+    <name>G/NP-003</name>
+    <cmt><![CDATA[Burnhope Seat]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Northern Pennines]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.228951" lon="-2.40201">
+    <ele>737</ele>
+    <name>G/NP-004</name>
+    <cmt><![CDATA[Whernside]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Northern Pennines]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.166431" lon="-2.39782">
+    <ele>723</ele>
+    <name>G/NP-005</name>
+    <cmt><![CDATA[Ingleborough]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Northern Pennines]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.370892" lon="-2.23452">
+    <ele>716</ele>
+    <name>G/NP-006</name>
+    <cmt><![CDATA[Great Shunner Fell]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Northern Pennines]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.384102" lon="-2.3741131">
+    <ele>708</ele>
+    <name>G/NP-007</name>
+    <cmt><![CDATA[Wild Boar Fell]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Northern Pennines]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.161049" lon="-1.998358">
+    <ele>704</ele>
+    <name>G/NP-008</name>
+    <cmt><![CDATA[Great Whernside]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Northern Pennines]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.204865" lon="-2.0615959">
+    <ele>702</ele>
+    <name>G/NP-009</name>
+    <cmt><![CDATA[Buckden Pike]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Northern Pennines]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.15601" lon="-2.248739">
+    <ele>694</ele>
+    <name>G/NP-010</name>
+    <cmt><![CDATA[Pen-y-ghent]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Northern Pennines]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.24707" lon="-2.4605601">
+    <ele>686</ele>
+    <name>G/NP-011</name>
+    <cmt><![CDATA[Great Coum]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Northern Pennines]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.31974" lon="-2.3998499">
+    <ele>678</ele>
+    <name>G/NP-012</name>
+    <cmt><![CDATA[Baugh Fell - Tarn Rigg Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Northern Pennines]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.367836" lon="-2.5133519">
+    <ele>676</ele>
+    <name>G/NP-013</name>
+    <cmt><![CDATA[The Calf]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Northern Pennines]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.422939" lon="-2.1259141">
+    <ele>672</ele>
+    <name>G/NP-014</name>
+    <cmt><![CDATA[Rogan's Seat]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Northern Pennines]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.279648" lon="-2.326092">
+    <ele>672</ele>
+    <name>G/NP-015</name>
+    <cmt><![CDATA[Great Knoutberry Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Northern Pennines]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.25668" lon="-2.2455699">
+    <ele>668</ele>
+    <name>G/NP-016</name>
+    <cmt><![CDATA[Dodd Fell Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Northern Pennines]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.139935" lon="-2.2094109">
+    <ele>668</ele>
+    <name>G/NP-017</name>
+    <cmt><![CDATA[Fountains Fell]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Northern Pennines]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.449898" lon="-2.270365">
+    <ele>662</ele>
+    <name>G/NP-018</name>
+    <cmt><![CDATA[Nine Standards Rigg]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Northern Pennines]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.381325" lon="-2.4854369">
+    <ele>639</ele>
+    <name>G/NP-019</name>
+    <cmt><![CDATA[Yarlside]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Northern Pennines]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.893906" lon="-2.6162519">
+    <ele>621</ele>
+    <name>G/NP-020</name>
+    <cmt><![CDATA[Cold Fell]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Northern Pennines]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.265179" lon="-2.5166121">
+    <ele>610</ele>
+    <name>G/NP-022</name>
+    <cmt><![CDATA[Calf Top]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Northern Pennines]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.292377" lon="-2.4306331">
+    <ele>556</ele>
+    <name>G/NP-023</name>
+    <cmt><![CDATA[Aye Gill Pike]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Northern Pennines]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.457615" lon="-1.998717">
+    <ele>555</ele>
+    <name>G/NP-024</name>
+    <cmt><![CDATA[Hoove]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Northern Pennines]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.394054" lon="-2.1568921">
+    <ele>499</ele>
+    <name>G/NP-026</name>
+    <cmt><![CDATA[Kisdon]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Northern Pennines]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.633904" lon="-2.4664731">
+    <ele>481</ele>
+    <name>G/NP-027</name>
+    <cmt><![CDATA[Dufton Pike]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Northern Pennines]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="53.903072" lon="-1.826944">
+    <ele>402</ele>
+    <name>G/NP-028</name>
+    <cmt><![CDATA[Rombalds Moor]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Northern Pennines]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="53.993473" lon="-2.063328">
+    <ele>357</ele>
+    <name>G/NP-029</name>
+    <cmt><![CDATA[Sharp Haw]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Northern Pennines]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.182957" lon="-2.1259351">
+    <ele>610</ele>
+    <name>G/NP-031</name>
+    <cmt><![CDATA[Birks Fell]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Northern Pennines]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.025532" lon="-2.0119951">
+    <ele>508</ele>
+    <name>G/NP-032</name>
+    <cmt><![CDATA[Cracoe Fell]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Northern Pennines]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="55.47847" lon="-2.1454401">
+    <ele>815</ele>
+    <name>G/SB-001</name>
+    <cmt><![CDATA[The Cheviot]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Scottish Borders]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="55.290199" lon="-2.5906">
+    <ele>603</ele>
+    <name>G/SB-004</name>
+    <cmt><![CDATA[Peel Fell]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Scottish Borders]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="55.12109" lon="-2.6266301">
+    <ele>520</ele>
+    <name>G/SB-005</name>
+    <cmt><![CDATA[Sighty Crag]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Scottish Borders]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="55.38092" lon="-2.2018199">
+    <ele>501</ele>
+    <name>G/SB-006</name>
+    <cmt><![CDATA[Shillhope Law]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Scottish Borders]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="55.278358" lon="-1.99395">
+    <ele>442</ele>
+    <name>G/SB-007</name>
+    <cmt><![CDATA[Tosson Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Scottish Borders]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="55.35664" lon="-1.90369">
+    <ele>319</ele>
+    <name>G/SB-008</name>
+    <cmt><![CDATA[Long Crag]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Scottish Borders]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="55.52158" lon="-1.87321">
+    <ele>316</ele>
+    <name>G/SB-009</name>
+    <cmt><![CDATA[Ros Castle]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Scottish Borders]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="55.587959" lon="-2.15675">
+    <ele>268</ele>
+    <name>G/SB-010</name>
+    <cmt><![CDATA[Housedon Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Scottish Borders]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="51.162788" lon="-3.58673">
+    <ele>519</ele>
+    <name>G/SC-001</name>
+    <cmt><![CDATA[Dunkery Beacon]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: South Central]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="51.109581" lon="-3.1937101">
+    <ele>386</ele>
+    <name>G/SC-002</name>
+    <cmt><![CDATA[Wills Neck]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: South Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="51.312149" lon="-2.7408199">
+    <ele>325</ele>
+    <name>G/SC-003</name>
+    <cmt><![CDATA[Beacon Batch]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: South Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="50.944538" lon="-3.0825701">
+    <ele>315</ele>
+    <name>G/SC-004</name>
+    <cmt><![CDATA[Staple Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: South Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="51.220821" lon="-3.54951">
+    <ele>308</ele>
+    <name>G/SC-005</name>
+    <cmt><![CDATA[Selworthy Beacon]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: South Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="51.186909" lon="-3.50877">
+    <ele>297</ele>
+    <name>G/SC-006</name>
+    <cmt><![CDATA[Periton Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: South Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="51.137749" lon="-2.3071401">
+    <ele>288</ele>
+    <name>G/SC-007</name>
+    <cmt><![CDATA[Long Knoll]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: South Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="50.98558" lon="-2.108">
+    <ele>277</ele>
+    <name>G/SC-008</name>
+    <cmt><![CDATA[Win Green]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: South Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="50.80732" lon="-2.79935">
+    <ele>279</ele>
+    <name>G/SC-009</name>
+    <cmt><![CDATA[Lewesdon Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: South Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="51.397739" lon="-2.6433699">
+    <ele>233</ele>
+    <name>G/SC-010</name>
+    <cmt><![CDATA[Dundry Down]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: South Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="50.744968" lon="-2.84428">
+    <ele>207</ele>
+    <name>G/SC-011</name>
+    <cmt><![CDATA[Hardown Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: South Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="50.630482" lon="-1.98937">
+    <ele>200</ele>
+    <name>G/SC-013</name>
+    <cmt><![CDATA[Nine Barrow Down]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: South Central]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="51.352489" lon="-1.46508">
+    <ele>297</ele>
+    <name>G/SE-001</name>
+    <cmt><![CDATA[Walbury Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Southern England]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="51.176498" lon="-0.37143999">
+    <ele>295</ele>
+    <name>G/SE-002</name>
+    <cmt><![CDATA[Leith Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Southern England]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="51.058632" lon="-0.68937999">
+    <ele>280</ele>
+    <name>G/SE-003</name>
+    <cmt><![CDATA[Black Down]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Southern England]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="50.97784" lon="-0.98027998">
+    <ele>270</ele>
+    <name>G/SE-004</name>
+    <cmt><![CDATA[Butser Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Southern England]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="51.278839" lon="-0.01262">
+    <ele>270</ele>
+    <name>G/SE-005</name>
+    <cmt><![CDATA[Botley Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Southern England]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="50.901741" lon="-0.10763">
+    <ele>248</ele>
+    <name>G/SE-006</name>
+    <cmt><![CDATA[Ditchling Beacon]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Southern England]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="51.055099" lon="0.153873">
+    <ele>242</ele>
+    <name>G/SE-007</name>
+    <cmt><![CDATA[Crowborough]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Southern England]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="50.603569" lon="-1.19759">
+    <ele>242</ele>
+    <name>G/SE-008</name>
+    <cmt><![CDATA[St Boniface Down]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Southern England]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="50.89658" lon="-0.38222">
+    <ele>240</ele>
+    <name>G/SE-009</name>
+    <cmt><![CDATA[Chanctonbury Ring]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Southern England]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="50.83379" lon="0.108146">
+    <ele>217</ele>
+    <name>G/SE-010</name>
+    <cmt><![CDATA[Firle Beacon]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Southern England]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="50.809818" lon="0.196539">
+    <ele>214</ele>
+    <name>G/SE-011</name>
+    <cmt><![CDATA[Wilmington Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Southern England]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="50.660599" lon="-1.38955">
+    <ele>214</ele>
+    <name>G/SE-012</name>
+    <cmt><![CDATA[Brighstone Down]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Southern England]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="51.298481" lon="0.58555698">
+    <ele>202</ele>
+    <name>G/SE-013</name>
+    <cmt><![CDATA[Detling Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Southern England]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="50.878109" lon="0.037035">
+    <ele>164</ele>
+    <name>G/SE-014</name>
+    <cmt><![CDATA[Cliffe Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Southern England]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="53.384811" lon="-1.87391">
+    <ele>636</ele>
+    <name>G/SP-001</name>
+    <cmt><![CDATA[Kinder Scout]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Southern Pennines]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="53.53801" lon="-1.8853101">
+    <ele>582</ele>
+    <name>G/SP-002</name>
+    <cmt><![CDATA[Black Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Southern Pennines]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.023022" lon="-2.6243401">
+    <ele>562</ele>
+    <name>G/SP-003</name>
+    <cmt><![CDATA[Ward's Stone]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Southern Pennines]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="53.260731" lon="-2.00947">
+    <ele>559</ele>
+    <name>G/SP-004</name>
+    <cmt><![CDATA[Shining Tor]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Southern Pennines]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="53.868561" lon="-2.2985699">
+    <ele>557</ele>
+    <name>G/SP-005</name>
+    <cmt><![CDATA[Pendle Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Southern Pennines]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.02409" lon="-2.49928">
+    <ele>544</ele>
+    <name>G/SP-006</name>
+    <cmt><![CDATA[White Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Southern Pennines]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="53.91993" lon="-2.61485">
+    <ele>522</ele>
+    <name>G/SP-007</name>
+    <cmt><![CDATA[Fair Snape Fell]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Southern Pennines]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="53.816921" lon="-2.1082499">
+    <ele>518</ele>
+    <name>G/SP-008</name>
+    <cmt><![CDATA[Boulsworth Hill - Lad Law]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Southern Pennines]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="53.670341" lon="-2.25126">
+    <ele>477</ele>
+    <name>G/SP-009</name>
+    <cmt><![CDATA[Hail Storm Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Southern Pennines]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="53.629902" lon="-2.5157599">
+    <ele>457</ele>
+    <name>G/SP-010</name>
+    <cmt><![CDATA[Winter Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Southern Pennines]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="53.693279" lon="-2.1438401">
+    <ele>454</ele>
+    <name>G/SP-011</name>
+    <cmt><![CDATA[Freeholds Top]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Southern Pennines]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="53.93359" lon="-2.4123099">
+    <ele>396</ele>
+    <name>G/SP-012</name>
+    <cmt><![CDATA[Easington Fell]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Southern Pennines]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="53.15078" lon="-2.0462201">
+    <ele>385</ele>
+    <name>G/SP-013</name>
+    <cmt><![CDATA[Gun]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Southern Pennines]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="53.864632" lon="-2.52157">
+    <ele>350</ele>
+    <name>G/SP-014</name>
+    <cmt><![CDATA[Longridge Fell - Spire Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Southern Pennines]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="53.170368" lon="-2.1447001">
+    <ele>343</ele>
+    <name>G/SP-015</name>
+    <cmt><![CDATA[The Cloud]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Southern Pennines]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="53.507671" lon="-2.71685">
+    <ele>179</ele>
+    <name>G/SP-017</name>
+    <cmt><![CDATA[Billinge Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Southern Pennines]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.406368" lon="-1.08592">
+    <ele>454</ele>
+    <name>G/TW-001</name>
+    <cmt><![CDATA[Urra Moor - Round Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Tees to the Wash]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.41927" lon="-1.17322">
+    <ele>434</ele>
+    <name>G/TW-002</name>
+    <cmt><![CDATA[Cringle Moor - Drake Howe]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Tees to the Wash]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.503078" lon="-1.0248899">
+    <ele>329</ele>
+    <name>G/TW-003</name>
+    <cmt><![CDATA[Gisborough Moor]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Tees to the Wash]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="54.002708" lon="-0.74770999">
+    <ele>248</ele>
+    <name>G/TW-004</name>
+    <cmt><![CDATA[Bishop Wilton Wold]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Tees to the Wash]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="53.45306" lon="-0.31316">
+    <ele>168</ele>
+    <name>G/TW-005</name>
+    <cmt><![CDATA[Normanby Top]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Tees to the Wash]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="52.47673" lon="-2.59958">
+    <ele>540</ele>
+    <name>G/WB-002</name>
+    <cmt><![CDATA[Brown Clee Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Welsh Borders]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="52.581921" lon="-2.93486">
+    <ele>537</ele>
+    <name>G/WB-003</name>
+    <cmt><![CDATA[Stiperstones]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Welsh Borders]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="52.398048" lon="-2.6019599">
+    <ele>533</ele>
+    <name>G/WB-004</name>
+    <cmt><![CDATA[Titterstone Clee Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Welsh Borders]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="52.54467" lon="-2.86378">
+    <ele>517</ele>
+    <name>G/WB-005</name>
+    <cmt><![CDATA[Long Mynd - Pole Bank]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Welsh Borders]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="52.553841" lon="-2.77212">
+    <ele>460</ele>
+    <name>G/WB-006</name>
+    <cmt><![CDATA[Caer Caradoc Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Welsh Borders]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="52.5406" lon="-2.98103">
+    <ele>453</ele>
+    <name>G/WB-007</name>
+    <cmt><![CDATA[Heath Mynd]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Welsh Borders]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="52.199509" lon="-3.0924001">
+    <ele>427</ele>
+    <name>G/WB-008</name>
+    <cmt><![CDATA[Hergest Ridge]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Welsh Borders]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="52.104939" lon="-2.3389499">
+    <ele>425</ele>
+    <name>G/WB-009</name>
+    <cmt><![CDATA[Worcestershire Beacon]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Welsh Borders]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="52.670231" lon="-2.5510399">
+    <ele>407</ele>
+    <name>G/WB-010</name>
+    <cmt><![CDATA[The Wrekin]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Welsh Borders]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="52.21949" lon="-3.0519199">
+    <ele>391</ele>
+    <name>G/WB-011</name>
+    <cmt><![CDATA[Bradnor Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Welsh Borders]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="52.347221" lon="-2.7678199">
+    <ele>375</ele>
+    <name>G/WB-012</name>
+    <cmt><![CDATA[High Vinnalls]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Welsh Borders]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="51.92128" lon="-2.8202901">
+    <ele>366</ele>
+    <name>G/WB-013</name>
+    <cmt><![CDATA[Garway Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Welsh Borders]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="52.442219" lon="-2.91189">
+    <ele>358</ele>
+    <name>G/WB-014</name>
+    <cmt><![CDATA[Burrow]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Welsh Borders]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="52.460831" lon="-2.7950599">
+    <ele>340</ele>
+    <name>G/WB-015</name>
+    <cmt><![CDATA[Callow Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Welsh Borders]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="52.25629" lon="-2.95731">
+    <ele>333</ele>
+    <name>G/WB-016</name>
+    <cmt><![CDATA[Wapley Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Welsh Borders]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="52.271412" lon="-2.9072101">
+    <ele>326</ele>
+    <name>G/WB-017</name>
+    <cmt><![CDATA[Shobdon Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Welsh Borders]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="52.423828" lon="-2.8501999">
+    <ele>321</ele>
+    <name>G/WB-018</name>
+    <cmt><![CDATA[View Edge]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Welsh Borders]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="51.889191" lon="-2.4438901">
+    <ele>296</ele>
+    <name>G/WB-019</name>
+    <cmt><![CDATA[May Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Welsh Borders]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="52.134079" lon="-2.8859501">
+    <ele>294</ele>
+    <name>G/WB-020</name>
+    <cmt><![CDATA[Burton Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Welsh Borders]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="51.849609" lon="-2.53141">
+    <ele>290</ele>
+    <name>G/WB-021</name>
+    <cmt><![CDATA[Ruardean Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Welsh Borders]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="52.038589" lon="-2.5497899">
+    <ele>272</ele>
+    <name>G/WB-022</name>
+    <cmt><![CDATA[Seager Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Welsh Borders]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="52.181969" lon="-2.60798">
+    <ele>255</ele>
+    <name>G/WB-023</name>
+    <cmt><![CDATA[Hegdon Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Welsh Borders]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+  <wpt lat="51.993198" lon="-2.7211001">
+    <ele>276</ele>
+    <name>G/WB-024</name>
+    <cmt><![CDATA[Aconbury Hill]]></cmt>
+    <desc><![CDATA[SOTA Association: G - England, Region: Welsh Borders]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit G/</type>
+  </wpt>
+</gpx>

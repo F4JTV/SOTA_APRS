@@ -1,0 +1,1864 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1" 
+     creator="SOTA Mapping Project GPX Generator 1.1" 
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+     xmlns="http://www.topografix.com/GPX/1/1" 
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>SOTA Summits GPX Export</name>
+    <desc>SOTA Summits data in GPX v1.1 format></desc>
+    <author>
+      <name>SOTA Mapping Project></name>
+      <email id="admin" domain="www.sotamaps.org" />
+      <link href="https://www.sotamaps.org">
+        <text>SOTA Mapping Project</text>
+      </link>
+    </author>
+    <link href="https://www.sotamaps.org">
+      <text>SOTA Mapping Project</text>
+    </link>
+    <time>2024-11-07T15:16:20Z</time>
+    <keywords>SOTA, Summits On The Air, amateur radio, ham radio</keywords>
+    <bounds minlat="48.585201" minlon="12.5028" maxlat="50.975601" maxlon="18.8001"/>
+  </metadata>
+  <wpt lat="48.771301" lon="13.8573">
+    <ele>1378</ele>
+    <name>OK/JC-001</name>
+    <cmt><![CDATA[Plechý]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Jihočeský]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="48.991199" lon="13.8176">
+    <ele>1362</ele>
+    <name>OK/JC-002</name>
+    <cmt><![CDATA[Boubín]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Jihočeský]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="48.959" lon="13.8653">
+    <ele>1264</ele>
+    <name>OK/JC-005</name>
+    <cmt><![CDATA[Bobík]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Jihočeský]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="48.814899" lon="14.0389">
+    <ele>1221</ele>
+    <name>OK/JC-009</name>
+    <cmt><![CDATA[Špičák]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Jihočeský]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.0406" lon="13.6178">
+    <ele>1221</ele>
+    <name>OK/JC-010</name>
+    <cmt><![CDATA[Přilba]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Jihočeský]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="48.883701" lon="14.0908">
+    <ele>1191</ele>
+    <name>OK/JC-011</name>
+    <cmt><![CDATA[Chlum]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Jihočeský]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="48.9785" lon="14.0112">
+    <ele>1095</ele>
+    <name>OK/JC-015</name>
+    <cmt><![CDATA[Libín]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Jihočeský]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="48.865101" lon="14.2836">
+    <ele>1084</ele>
+    <name>OK/JC-018</name>
+    <cmt><![CDATA[Kleť]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Jihočeský]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="48.875" lon="13.767">
+    <ele>1080</ele>
+    <name>OK/JC-019</name>
+    <cmt><![CDATA[Žlebský vrch]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Jihočeský]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="48.585201" lon="14.6697">
+    <ele>1072</ele>
+    <name>OK/JC-020</name>
+    <cmt><![CDATA[Kamenec]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Jihočeský]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="48.828899" lon="13.8821">
+    <ele>1068</ele>
+    <name>OK/JC-021</name>
+    <cmt><![CDATA[Jelenská hora]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Jihočeský]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="48.880501" lon="13.8277">
+    <ele>1065</ele>
+    <name>OK/JC-023</name>
+    <cmt><![CDATA[Stožec]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Jihočeský]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.138302" lon="13.653">
+    <ele>1066</ele>
+    <name>OK/JC-024</name>
+    <cmt><![CDATA[Javorník]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Jihočeský]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="48.644901" lon="14.1034">
+    <ele>1035</ele>
+    <name>OK/JC-028</name>
+    <cmt><![CDATA[Vítkův Kámen]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Jihočeský]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="48.714901" lon="14.7386">
+    <ele>1033</ele>
+    <name>OK/JC-029</name>
+    <cmt><![CDATA[Vysoká]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Jihočeský]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="48.908501" lon="14.1901">
+    <ele>952</ele>
+    <name>OK/JC-037</name>
+    <cmt><![CDATA[Bulový]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Jihočeský]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="48.753899" lon="14.4197">
+    <ele>919</ele>
+    <name>OK/JC-040</name>
+    <cmt><![CDATA[Poluška]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Jihočeský]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="48.7686" lon="14.5827">
+    <ele>874</ele>
+    <name>OK/JC-043</name>
+    <cmt><![CDATA[Kohout]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Jihočeský]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="48.962898" lon="14.1988">
+    <ele>832</ele>
+    <name>OK/JC-048</name>
+    <cmt><![CDATA[Buglata]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Jihočeský]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="48.924" lon="14.329">
+    <ele>740</ele>
+    <name>OK/JC-058</name>
+    <cmt><![CDATA[Kluk]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Jihočeský]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.542999" lon="14.5025">
+    <ele>722</ele>
+    <name>OK/JC-063</name>
+    <cmt><![CDATA[Javorová skála]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Jihočeský]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.169201" lon="14.0965">
+    <ele>667</ele>
+    <name>OK/JC-074</name>
+    <cmt><![CDATA[Hrad]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Jihočeský]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.1231" lon="14.1167">
+    <ele>640</ele>
+    <name>OK/JC-078</name>
+    <cmt><![CDATA[Svobodná hora]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Jihočeský]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.294601" lon="14.2244">
+    <ele>632</ele>
+    <name>OK/JC-080</name>
+    <cmt><![CDATA[Mehelník]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Jihočeský]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="48.847198" lon="14.0201">
+    <ele>1234</ele>
+    <name>OK/JC-126</name>
+    <cmt><![CDATA[Knížecí Stolec]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Jihočeský]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="48.9352" lon="13.7288">
+    <ele>1133</ele>
+    <name>OK/JC-127</name>
+    <cmt><![CDATA[Žlíbský vrch]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Jihočeský]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="48.656502" lon="14.2096">
+    <ele>993</ele>
+    <name>OK/JC-128</name>
+    <cmt><![CDATA[Kaliště]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Jihočeský]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="48.925598" lon="14.1202">
+    <ele>911</ele>
+    <name>OK/JC-129</name>
+    <cmt><![CDATA[Ktišská hora]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Jihočeský]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="48.661598" lon="14.39">
+    <ele>870</ele>
+    <name>OK/JC-130</name>
+    <cmt><![CDATA[Žibřidovský vrch]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Jihočeský]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="48.971901" lon="14.0978">
+    <ele>839</ele>
+    <name>OK/JC-131</name>
+    <cmt><![CDATA[Klenovec]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Jihočeský]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="48.739899" lon="14.54">
+    <ele>779</ele>
+    <name>OK/JC-132</name>
+    <cmt><![CDATA[Hradišťský vrch]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Jihočeský]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="48.906601" lon="13.6815">
+    <ele>1078</ele>
+    <name>OK/JC-133</name>
+    <cmt><![CDATA[Skalnatý hřbet]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Jihočeský]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.362999" lon="16.594999">
+    <ele>596</ele>
+    <name>OK/JM-007</name>
+    <cmt><![CDATA[Bukovec]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Jihomoravský]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.313202" lon="16.576799">
+    <ele>562</ele>
+    <name>OK/JM-011</name>
+    <cmt><![CDATA[Babí lom]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Jihomoravský]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="48.869499" lon="16.650299">
+    <ele>554</ele>
+    <name>OK/JM-013</name>
+    <cmt><![CDATA[Děvín]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Jihomoravský]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.201" lon="17.121">
+    <ele>518</ele>
+    <name>OK/JM-016</name>
+    <cmt><![CDATA[Hradisko]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Jihomoravský]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.1003" lon="17.049101">
+    <ele>437</ele>
+    <name>OK/JM-026</name>
+    <cmt><![CDATA[U slepice]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Jihomoravský]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.3587" lon="16.414801">
+    <ele>469</ele>
+    <name>OK/JM-069</name>
+    <cmt><![CDATA[Květnice]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Jihomoravský]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.396198" lon="12.968">
+    <ele>1243</ele>
+    <name>OK/KA-001</name>
+    <cmt><![CDATA[Klínovec]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Karlovarský]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.035" lon="12.616">
+    <ele>982</ele>
+    <name>OK/KA-008</name>
+    <cmt><![CDATA[Lesný]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Karlovarský]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.967899" lon="12.5028">
+    <ele>940</ele>
+    <name>OK/KA-013</name>
+    <cmt><![CDATA[Dyleň]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Karlovarský]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.2178" lon="13.1266">
+    <ele>933</ele>
+    <name>OK/KA-014</name>
+    <cmt><![CDATA[Hradiště]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Karlovarský]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.32" lon="13.078">
+    <ele>828</ele>
+    <name>OK/KA-021</name>
+    <cmt><![CDATA[Velká Jehličná]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Karlovarský]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.080101" lon="13.2158">
+    <ele>693</ele>
+    <name>OK/KA-042</name>
+    <cmt><![CDATA[Vladař]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Karlovarský]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.204102" lon="12.8466">
+    <ele>611</ele>
+    <name>OK/KA-049</name>
+    <cmt><![CDATA[Doubská hora]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Karlovarský]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.735901" lon="15.7398">
+    <ele>1603</ele>
+    <name>OK/KR-001</name>
+    <cmt><![CDATA[Sněžka]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Královéhradecký]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.727299" lon="15.6825">
+    <ele>1555</ele>
+    <name>OK/KR-002</name>
+    <cmt><![CDATA[Luční hora]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Královéhradecký]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.6525" lon="15.7417">
+    <ele>1299</ele>
+    <name>OK/KR-005</name>
+    <cmt><![CDATA[Černá hora]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Královéhradecký]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.3013" lon="16.397699">
+    <ele>1115</ele>
+    <name>OK/KR-008</name>
+    <cmt><![CDATA[Velká Deštná]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Královéhradecký]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.648998" lon="15.864">
+    <ele>1033</ele>
+    <name>OK/KR-011</name>
+    <cmt><![CDATA[Dvorský les]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Královéhradecký]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.658001" lon="15.989">
+    <ele>880</ele>
+    <name>OK/KR-015</name>
+    <cmt><![CDATA[Královecký Špičák]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Královéhradecký]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.552601" lon="16.052099">
+    <ele>740</ele>
+    <name>OK/KR-019</name>
+    <cmt><![CDATA[Žaltman]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Královéhradecký]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.4547" lon="15.6958">
+    <ele>671</ele>
+    <name>OK/KR-026</name>
+    <cmt><![CDATA[Zvičina]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Královéhradecký]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.476601" lon="15.9183">
+    <ele>612</ele>
+    <name>OK/KR-032</name>
+    <cmt><![CDATA[Liščí hora]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Královéhradecký]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.5746" lon="16.1241">
+    <ele>786</ele>
+    <name>OK/KR-082</name>
+    <cmt><![CDATA[Čáp]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Královéhradecký]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.889099" lon="15.2731">
+    <ele>1124</ele>
+    <name>OK/LI-003</name>
+    <cmt><![CDATA[Smrk]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Liberecký]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.8339" lon="15.2595">
+    <ele>1122</ele>
+    <name>OK/LI-004</name>
+    <cmt><![CDATA[Jizera]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Liberecký]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.7327" lon="14.985">
+    <ele>1012</ele>
+    <name>OK/LI-010</name>
+    <cmt><![CDATA[Ještěd]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Liberecký]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.7118" lon="15.233">
+    <ele>870</ele>
+    <name>OK/LI-014</name>
+    <cmt><![CDATA[Černá studnice]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Liberecký]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.751499" lon="15.2824">
+    <ele>803</ele>
+    <name>OK/LI-017</name>
+    <cmt><![CDATA[Špičák]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Liberecký]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.788502" lon="14.898">
+    <ele>789</ele>
+    <name>OK/LI-018</name>
+    <cmt><![CDATA[Vápenný]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Liberecký]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.788601" lon="14.5728">
+    <ele>759</ele>
+    <name>OK/LI-020</name>
+    <cmt><![CDATA[Klíč]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Liberecký]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.5938" lon="15.2638">
+    <ele>744</ele>
+    <name>OK/LI-021</name>
+    <cmt><![CDATA[Kozákov]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Liberecký]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.816502" lon="14.5836">
+    <ele>735</ele>
+    <name>OK/LI-022</name>
+    <cmt><![CDATA[Velký Buk]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Liberecký]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.864498" lon="15.074">
+    <ele>723</ele>
+    <name>OK/LI-023</name>
+    <cmt><![CDATA[Špičák]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Liberecký]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.674301" lon="14.7659">
+    <ele>696</ele>
+    <name>OK/LI-024</name>
+    <cmt><![CDATA[Ralsko]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Liberecký]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.509102" lon="15.3667">
+    <ele>682</ele>
+    <name>OK/LI-027</name>
+    <cmt><![CDATA[Tábor]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Liberecký]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.790901" lon="14.7045">
+    <ele>665</ele>
+    <name>OK/LI-028</name>
+    <cmt><![CDATA[Jezevčí vrch]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Liberecký]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.562302" lon="15.5571">
+    <ele>630</ele>
+    <name>OK/LI-031</name>
+    <cmt><![CDATA[Stráž]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Liberecký]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.602501" lon="14.4541">
+    <ele>614</ele>
+    <name>OK/LI-032</name>
+    <cmt><![CDATA[Vlhošť]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Liberecký]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.539299" lon="14.7208">
+    <ele>603</ele>
+    <name>OK/LI-035</name>
+    <cmt><![CDATA[Bezděz]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Liberecký]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.726601" lon="14.7445">
+    <ele>589</ele>
+    <name>OK/LI-036</name>
+    <cmt><![CDATA[Tlustec]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Liberecký]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.749001" lon="14.6326">
+    <ele>554</ele>
+    <name>OK/LI-041</name>
+    <cmt><![CDATA[Ortel]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Liberecký]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.6203" lon="14.4145">
+    <ele>552</ele>
+    <name>OK/LI-042</name>
+    <cmt><![CDATA[Ronov]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Liberecký]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.583" lon="14.577">
+    <ele>499</ele>
+    <name>OK/LI-043</name>
+    <cmt><![CDATA[Maršovický vrch]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Liberecký]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.540001" lon="14.648">
+    <ele>466</ele>
+    <name>OK/LI-047</name>
+    <cmt><![CDATA[Tachovský vrch]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Liberecký]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.5163" lon="15.2316">
+    <ele>488</ele>
+    <name>OK/LI-049</name>
+    <cmt><![CDATA[Trosky]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Liberecký]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.531898" lon="15.1596">
+    <ele>466</ele>
+    <name>OK/LI-052</name>
+    <cmt><![CDATA[Vyskeř]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Liberecký]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.665199" lon="15.5685">
+    <ele>1036</ele>
+    <name>OK/LI-060</name>
+    <cmt><![CDATA[Zadní Žalý]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Liberecký]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.739601" lon="15.3754">
+    <ele>970</ele>
+    <name>OK/LI-061</name>
+    <cmt><![CDATA[Bílá Skála]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Liberecký]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.790298" lon="14.9236">
+    <ele>748</ele>
+    <name>OK/LI-062</name>
+    <cmt><![CDATA[Dlouhá hora]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Liberecký]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.663898" lon="14.4562">
+    <ele>598</ele>
+    <name>OK/LI-064</name>
+    <cmt><![CDATA[Kozel]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Liberecký]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.783798" lon="14.6541">
+    <ele>586</ele>
+    <name>OK/LI-065</name>
+    <cmt><![CDATA[Zelený vrch]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Liberecký]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.724499" lon="14.6089">
+    <ele>540</ele>
+    <name>OK/LI-066</name>
+    <cmt><![CDATA[Tisový vrch]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Liberecký]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.721298" lon="14.4209">
+    <ele>527</ele>
+    <name>OK/LI-067</name>
+    <cmt><![CDATA[Dvorský kopec]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Liberecký]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.676701" lon="14.8273">
+    <ele>514</ele>
+    <name>OK/LI-068</name>
+    <cmt><![CDATA[Veliký Jelení vrch]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Liberecký]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.745201" lon="14.5415">
+    <ele>498</ele>
+    <name>OK/LI-069</name>
+    <cmt><![CDATA[Chotovický vrch]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Liberecký]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.702702" lon="14.5493">
+    <ele>459</ele>
+    <name>OK/LI-070</name>
+    <cmt><![CDATA[Špičák]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Liberecký]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.612499" lon="14.641">
+    <ele>458</ele>
+    <name>OK/LI-071</name>
+    <cmt><![CDATA[Dub]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Liberecký]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.589401" lon="14.6629">
+    <ele>446</ele>
+    <name>OK/LI-072</name>
+    <cmt><![CDATA[Borný]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Liberecký]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.083" lon="17.231001">
+    <ele>1491</ele>
+    <name>OK/MO-001</name>
+    <cmt><![CDATA[Praděd]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Moravskoslezský]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.546001" lon="18.4473">
+    <ele>1328</ele>
+    <name>OK/MO-002</name>
+    <cmt><![CDATA[Lysá hora]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Moravskoslezský]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.508202" lon="18.3706">
+    <ele>1276</ele>
+    <name>OK/MO-003</name>
+    <cmt><![CDATA[Smrk]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Moravskoslezský]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.4958" lon="18.3125">
+    <ele>1257</ele>
+    <name>OK/MO-005</name>
+    <cmt><![CDATA[Kněhyně]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Moravskoslezský]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.159801" lon="17.312">
+    <ele>1216</ele>
+    <name>OK/MO-006</name>
+    <cmt><![CDATA[Medvědí vrch]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Moravskoslezský]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.5616" lon="18.507">
+    <ele>1203</ele>
+    <name>OK/MO-007</name>
+    <cmt><![CDATA[Travný]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Moravskoslezský]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.597" lon="18.5867">
+    <ele>1082</ele>
+    <name>OK/MO-010</name>
+    <cmt><![CDATA[Ropice]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Moravskoslezský]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.448101" lon="18.3734">
+    <ele>987</ele>
+    <name>OK/MO-014</name>
+    <cmt><![CDATA[Trojačka]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Moravskoslezský]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.219002" lon="17.383801">
+    <ele>975</ele>
+    <name>OK/MO-015</name>
+    <cmt><![CDATA[Příčný vrch]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Moravskoslezský]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.552799" lon="18.3009">
+    <ele>964</ele>
+    <name>OK/MO-017</name>
+    <cmt><![CDATA[Skalka]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Moravskoslezský]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.527199" lon="18.1609">
+    <ele>918</ele>
+    <name>OK/MO-019</name>
+    <cmt><![CDATA[Velký Javorník]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Moravskoslezský]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.5317" lon="18.8001">
+    <ele>840</ele>
+    <name>OK/MO-024</name>
+    <cmt><![CDATA[Girová]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Moravskoslezský]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.8396" lon="17.43">
+    <ele>800</ele>
+    <name>OK/MO-025</name>
+    <cmt><![CDATA[Slunečná]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Moravskoslezský]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.632801" lon="18.2645">
+    <ele>661</ele>
+    <name>OK/MO-036</name>
+    <cmt><![CDATA[Kubánkov]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Moravskoslezský]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.575001" lon="18.154699">
+    <ele>695</ele>
+    <name>OK/MO-039</name>
+    <cmt><![CDATA[Červený kámen]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Moravskoslezský]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.198101" lon="17.605301">
+    <ele>574</ele>
+    <name>OK/MO-042</name>
+    <cmt><![CDATA[Kobyla]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Moravskoslezský]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.594299" lon="18.126699">
+    <ele>557</ele>
+    <name>OK/MO-045</name>
+    <cmt><![CDATA[Bílá hora]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Moravskoslezský]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.6768" lon="18.750401">
+    <ele>709</ele>
+    <name>OK/MO-061</name>
+    <cmt><![CDATA[Ostrý vrch]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Moravskoslezský]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.146198" lon="17.266199">
+    <ele>1205</ele>
+    <name>OK/MO-062</name>
+    <cmt><![CDATA[Jelení loučky]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Moravskoslezský]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.097401" lon="17.3521">
+    <ele>1031</ele>
+    <name>OK/MO-063</name>
+    <cmt><![CDATA[Vysoká hora]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Moravskoslezský]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.567001" lon="18.6726">
+    <ele>982</ele>
+    <name>OK/MO-064</name>
+    <cmt><![CDATA[Kozubová]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Moravskoslezský]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.496899" lon="18.452999">
+    <ele>919</ele>
+    <name>OK/MO-065</name>
+    <cmt><![CDATA[Těšíňočka]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Moravskoslezský]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.1996" lon="17.424">
+    <ele>888</ele>
+    <name>OK/MO-066</name>
+    <cmt><![CDATA[Končina]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Moravskoslezský]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.951599" lon="17.531401">
+    <ele>713</ele>
+    <name>OK/MO-067</name>
+    <cmt><![CDATA[Zadní vrch]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Moravskoslezský]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.611599" lon="18.287001">
+    <ele>612</ele>
+    <name>OK/MO-068</name>
+    <cmt><![CDATA[Kozlovická hora]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Moravskoslezský]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.5457" lon="17.965599">
+    <ele>608</ele>
+    <name>OK/MO-069</name>
+    <cmt><![CDATA[Petřkovická hora]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Moravskoslezský]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.552601" lon="18.1406">
+    <ele>606</ele>
+    <name>OK/MO-070</name>
+    <cmt><![CDATA[Na peklech]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Moravskoslezský]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.607101" lon="18.2201">
+    <ele>601</ele>
+    <name>OK/MO-071</name>
+    <cmt><![CDATA[Kazničov]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Moravskoslezský]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.564602" lon="18.0844">
+    <ele>558</ele>
+    <name>OK/MO-072</name>
+    <cmt><![CDATA[Hlásnice]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Moravskoslezský]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.5811" lon="18.201599">
+    <ele>544</ele>
+    <name>OK/MO-073</name>
+    <cmt><![CDATA[Tichavská hůrka]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Moravskoslezský]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.155399" lon="17.389601">
+    <ele>875</ele>
+    <name>OK/MO-074</name>
+    <cmt><![CDATA[Jelení vrch]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Moravskoslezský]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.171001" lon="17.1164">
+    <ele>1423</ele>
+    <name>OK/OL-002</name>
+    <cmt><![CDATA[Keprník]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Olomoucký]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.1217" lon="17.0777">
+    <ele>1237</ele>
+    <name>OK/OL-008</name>
+    <cmt><![CDATA[Černá stráň]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Olomoucký]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.229599" lon="17.033899">
+    <ele>1127</ele>
+    <name>OK/OL-011</name>
+    <cmt><![CDATA[Smrk]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Olomoucký]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.257999" lon="17.1665">
+    <ele>991</ele>
+    <name>OK/OL-015</name>
+    <cmt><![CDATA[Studniční vrch]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Olomoucký]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.963699" lon="17.099899">
+    <ele>964</ele>
+    <name>OK/OL-017</name>
+    <cmt><![CDATA[Kamenný vrch]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Olomoucký]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.231098" lon="17.2502">
+    <ele>922</ele>
+    <name>OK/OL-018</name>
+    <cmt><![CDATA[Bílé skály]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Olomoucký]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.341499" lon="16.9377">
+    <ele>850</ele>
+    <name>OK/OL-022</name>
+    <cmt><![CDATA[Koníček]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Olomoucký]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.501598" lon="16.789801">
+    <ele>735</ele>
+    <name>OK/OL-024</name>
+    <cmt><![CDATA[Skalky]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Olomoucký]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.839298" lon="16.7808">
+    <ele>605</ele>
+    <name>OK/OL-031</name>
+    <cmt><![CDATA[Kančí vrch]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Olomoucký]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.854" lon="17.0543">
+    <ele>599</ele>
+    <name>OK/OL-032</name>
+    <cmt><![CDATA[Bradlo]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Olomoucký]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.5145" lon="17.677999">
+    <ele>479</ele>
+    <name>OK/OL-037</name>
+    <cmt><![CDATA[Maleník]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Olomoucký]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.071301" lon="17.1567">
+    <ele>1353</ele>
+    <name>OK/OL-060</name>
+    <cmt><![CDATA[Dlouhé Stráně]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Olomoucký]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.092499" lon="17.045799">
+    <ele>1009</ele>
+    <name>OK/OL-061</name>
+    <cmt><![CDATA[Ucháč]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Olomoucký]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.063099" lon="16.896099">
+    <ele>801</ele>
+    <name>OK/OL-062</name>
+    <cmt><![CDATA[Raškovská Bouda]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Olomoucký]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.994202" lon="17.0716">
+    <ele>778</ele>
+    <name>OK/OL-063</name>
+    <cmt><![CDATA[Petrovský vrch]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Olomoucký]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.970901" lon="16.934">
+    <ele>631</ele>
+    <name>OK/OL-064</name>
+    <cmt><![CDATA[Háj]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Olomoucký]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.056801" lon="16.812901">
+    <ele>1003</ele>
+    <name>OK/PA-002</name>
+    <cmt><![CDATA[Jeřáb]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Pardubický]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.0508" lon="16.693399">
+    <ele>995</ele>
+    <name>OK/PA-003</name>
+    <cmt><![CDATA[Suchý vrch]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Pardubický]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.686001" lon="16.7024">
+    <ele>626</ele>
+    <name>OK/PA-012</name>
+    <cmt><![CDATA[Hušák]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Pardubický]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.911598" lon="16.515699">
+    <ele>613</ele>
+    <name>OK/PA-016</name>
+    <cmt><![CDATA[Palice]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Pardubický]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.094799" lon="16.3563">
+    <ele>603</ele>
+    <name>OK/PA-018</name>
+    <cmt><![CDATA[Chlum]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Pardubický]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.008801" lon="16.3487">
+    <ele>546</ele>
+    <name>OK/PA-024</name>
+    <cmt><![CDATA[Hůrka]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Pardubický]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.7244" lon="16.585899">
+    <ele>660</ele>
+    <name>OK/PA-042</name>
+    <cmt><![CDATA[Roh]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Pardubický]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.775398" lon="16.681">
+    <ele>553</ele>
+    <name>OK/PA-043</name>
+    <cmt><![CDATA[Dubina]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Pardubický]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.168598" lon="13.1847">
+    <ele>1343</ele>
+    <name>OK/PL-003</name>
+    <cmt><![CDATA[Jezerní hora]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Plzeňský]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.104599" lon="13.3128">
+    <ele>1337</ele>
+    <name>OK/PL-004</name>
+    <cmt><![CDATA[Plesná]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Plzeňský]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.064201" lon="13.395">
+    <ele>1315</ele>
+    <name>OK/PL-007</name>
+    <cmt><![CDATA[Poledník]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Plzeňský]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.202202" lon="13.2465">
+    <ele>1234</ele>
+    <name>OK/PL-010</name>
+    <cmt><![CDATA[Můstek]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Plzeňský]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.122398" lon="13.4479">
+    <ele>1125</ele>
+    <name>OK/PL-015</name>
+    <cmt><![CDATA[Křemelná]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Plzeňský]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.453701" lon="12.7513">
+    <ele>888</ele>
+    <name>OK/PL-019</name>
+    <cmt><![CDATA[Škarmanka]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Plzeňský]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.2509" lon="13.3966">
+    <ele>865</ele>
+    <name>OK/PL-021</name>
+    <cmt><![CDATA[Borek]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Plzeňský]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.682701" lon="12.6684">
+    <ele>848</ele>
+    <name>OK/PL-022</name>
+    <cmt><![CDATA[Přimda]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Plzeňský]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.391602" lon="13.0827">
+    <ele>773</ele>
+    <name>OK/PL-028</name>
+    <cmt><![CDATA[Koráb]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Plzeňský]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.322399" lon="13.0698">
+    <ele>740</ele>
+    <name>OK/PL-032</name>
+    <cmt><![CDATA[Jezvinec]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Plzeňský]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.431999" lon="13.2029">
+    <ele>727</ele>
+    <name>OK/PL-034</name>
+    <cmt><![CDATA[Doubrava]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Plzeňský]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.823002" lon="13.6664">
+    <ele>723</ele>
+    <name>OK/PL-035</name>
+    <cmt><![CDATA[Radeč]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Plzeňský]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.4772" lon="13.2409">
+    <ele>711</ele>
+    <name>OK/PL-036</name>
+    <cmt><![CDATA[Běleč]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Plzeňský]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.599499" lon="12.7611">
+    <ele>662</ele>
+    <name>OK/PL-050</name>
+    <cmt><![CDATA[Černá Hora]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Plzeňský]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.913502" lon="13.7928">
+    <ele>617</ele>
+    <name>OK/PL-057</name>
+    <cmt><![CDATA[Těchovín]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Plzeňský]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.383301" lon="12.7837">
+    <ele>1042</ele>
+    <name>OK/PL-088</name>
+    <cmt><![CDATA[Čerchov]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Plzeňský]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.2355" lon="13.4875">
+    <ele>845</ele>
+    <name>OK/PL-089</name>
+    <cmt><![CDATA[Svatobor]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Plzeňský]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.8106" lon="12.8557">
+    <ele>704</ele>
+    <name>OK/PL-090</name>
+    <cmt><![CDATA[Vlčí hora]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Plzeňský]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.091202" lon="13.4684">
+    <ele>1013</ele>
+    <name>OK/PL-091</name>
+    <cmt><![CDATA[Spálený]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Plzeňský]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.308399" lon="13.469">
+    <ele>759</ele>
+    <name>OK/PL-092</name>
+    <cmt><![CDATA[Vidhošť]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Plzeňský]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.438702" lon="13.0538">
+    <ele>709</ele>
+    <name>OK/PL-093</name>
+    <cmt><![CDATA[Ulíkovská hora]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Plzeňský]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.427502" lon="13.2698">
+    <ele>567</ele>
+    <name>OK/PL-094</name>
+    <cmt><![CDATA[Smrčí]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Plzeňský]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.784801" lon="14.036">
+    <ele>691</ele>
+    <name>OK/ST-011</name>
+    <cmt><![CDATA[Písek]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Středočeský]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.811298" lon="13.9888">
+    <ele>654</ele>
+    <name>OK/ST-015</name>
+    <cmt><![CDATA[Plešivec]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Středočeský]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.6418" lon="14.8736">
+    <ele>638</ele>
+    <name>OK/ST-019</name>
+    <cmt><![CDATA[Velký Blaník]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Středočeský]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.963299" lon="13.9299">
+    <ele>609</ele>
+    <name>OK/ST-021</name>
+    <cmt><![CDATA[Krušná hora]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Středočeský]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.9142" lon="14.7868">
+    <ele>546</ele>
+    <name>OK/ST-035</name>
+    <cmt><![CDATA[Pecný]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Středočeský]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.478699" lon="14.6512">
+    <ele>507</ele>
+    <name>OK/ST-052</name>
+    <cmt><![CDATA[Vrátenská hora]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Středočeský]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.896702" lon="14.1032">
+    <ele>499</ele>
+    <name>OK/ST-053</name>
+    <cmt><![CDATA[Bacín]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Středočeský]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.527699" lon="15.046">
+    <ele>463</ele>
+    <name>OK/ST-066</name>
+    <cmt><![CDATA[Mužský]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Středočeský]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.704498" lon="13.8768">
+    <ele>865</ele>
+    <name>OK/ST-105</name>
+    <cmt><![CDATA[Tok]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Středočeský]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.490398" lon="13.1586">
+    <ele>993</ele>
+    <name>OK/US-001</name>
+    <cmt><![CDATA[Jelení hora]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Ústecký]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.648602" lon="13.6103">
+    <ele>956</ele>
+    <name>OK/US-003</name>
+    <cmt><![CDATA[Loučná]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Ústecký]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.554798" lon="13.9314">
+    <ele>836</ele>
+    <name>OK/US-014</name>
+    <cmt><![CDATA[Milešovka]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Ústecký]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.856499" lon="14.5598">
+    <ele>774</ele>
+    <name>OK/US-018</name>
+    <cmt><![CDATA[Jedlová]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Ústecký]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.5075" lon="13.8703">
+    <ele>752</ele>
+    <name>OK/US-019</name>
+    <cmt><![CDATA[Hradišťany]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Ústecký]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.8321" lon="14.4543">
+    <ele>736</ele>
+    <name>OK/US-020</name>
+    <cmt><![CDATA[Studenec]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Ústecký]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.593201" lon="14.2639">
+    <ele>726</ele>
+    <name>OK/US-022</name>
+    <cmt><![CDATA[Sedlo]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Ústecký]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.791199" lon="14.1047">
+    <ele>723</ele>
+    <name>OK/US-024</name>
+    <cmt><![CDATA[Děčínský Sněžník]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Ústecký]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.567101" lon="13.9729">
+    <ele>706</ele>
+    <name>OK/US-026</name>
+    <cmt><![CDATA[Kletečná]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Ústecký]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.671799" lon="14.2271">
+    <ele>686</ele>
+    <name>OK/US-028</name>
+    <cmt><![CDATA[Buková hora]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Ústecký]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.832901" lon="14.3303">
+    <ele>619</ele>
+    <name>OK/US-032</name>
+    <cmt><![CDATA[Růžovský vrch]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Ústecký]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.731701" lon="14.1145">
+    <ele>616</ele>
+    <name>OK/US-033</name>
+    <cmt><![CDATA[Javorský vrch]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Ústecký]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.975601" lon="14.4262">
+    <ele>609</ele>
+    <name>OK/US-034</name>
+    <cmt><![CDATA[Hrazený]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Ústecký]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.527599" lon="14.0182">
+    <ele>569</ele>
+    <name>OK/US-040</name>
+    <cmt><![CDATA[Lovoš]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Ústecký]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.928398" lon="14.6458">
+    <ele>544</ele>
+    <name>OK/US-042</name>
+    <cmt><![CDATA[Špičák]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Ústecký]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.527699" lon="13.7639">
+    <ele>539</ele>
+    <name>OK/US-043</name>
+    <cmt><![CDATA[Bořeň]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Ústecký]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.516102" lon="13.7148">
+    <ele>521</ele>
+    <name>OK/US-045</name>
+    <cmt><![CDATA[Zlatník]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Ústecký]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.4347" lon="13.7578">
+    <ele>510</ele>
+    <name>OK/US-047</name>
+    <cmt><![CDATA[Milá]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Ústecký]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.4114" lon="13.8085">
+    <ele>509</ele>
+    <name>OK/US-049</name>
+    <cmt><![CDATA[Oblík]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Ústecký]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.406898" lon="13.7713">
+    <ele>457</ele>
+    <name>OK/US-056</name>
+    <cmt><![CDATA[Raná]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Ústecký]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.434101" lon="14.0142">
+    <ele>418</ele>
+    <name>OK/US-061</name>
+    <cmt><![CDATA[Hazmburk]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Ústecký]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.512501" lon="13.9128">
+    <ele>688</ele>
+    <name>OK/US-064</name>
+    <cmt><![CDATA[Lipská hora]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Ústecký]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.584702" lon="14.0534">
+    <ele>459</ele>
+    <name>OK/US-068</name>
+    <cmt><![CDATA[Deblík]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Ústecký]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.386501" lon="14.2896">
+    <ele>460</ele>
+    <name>OK/US-069</name>
+    <cmt><![CDATA[Říp]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Ústecký]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.546101" lon="13.8783">
+    <ele>736</ele>
+    <name>OK/US-071</name>
+    <cmt><![CDATA[Pařez / Kloč]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Ústecký]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.825699" lon="14.5008">
+    <ele>693</ele>
+    <name>OK/US-072</name>
+    <cmt><![CDATA[Javor]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Ústecký]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.8386" lon="14.5473">
+    <ele>692</ele>
+    <name>OK/US-073</name>
+    <cmt><![CDATA[Velká Tisová]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Ústecký]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.358898" lon="13.2383">
+    <ele>593</ele>
+    <name>OK/US-075</name>
+    <cmt><![CDATA[Úhošť]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Ústecký]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.614399" lon="14.0596">
+    <ele>561</ele>
+    <name>OK/US-076</name>
+    <cmt><![CDATA[Vaňovský vrch]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Ústecký]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.791302" lon="14.4333">
+    <ele>540</ele>
+    <name>OK/US-077</name>
+    <cmt><![CDATA[Zámecký vrch]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Ústecký]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.768501" lon="14.3067">
+    <ele>534</ele>
+    <name>OK/US-078</name>
+    <cmt><![CDATA[Dobrná]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Ústecký]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.537701" lon="13.7261">
+    <ele>436</ele>
+    <name>OK/US-079</name>
+    <cmt><![CDATA[Kaňkov]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Ústecký]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.507" lon="13.6172">
+    <ele>413</ele>
+    <name>OK/US-080</name>
+    <cmt><![CDATA[Ressl]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Ústecký]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.638401" lon="13.86">
+    <ele>395</ele>
+    <name>OK/US-081</name>
+    <cmt><![CDATA[Doubravská hora]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Ústecký]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="50.5937" lon="14.1397">
+    <ele>677</ele>
+    <name>OK/US-082</name>
+    <cmt><![CDATA[Vrchovina]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Ústecký]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.670799" lon="16.032301">
+    <ele>836</ele>
+    <name>OK/VY-001</name>
+    <cmt><![CDATA[Devět skal]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Vysočina]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.221001" lon="15.3396">
+    <ele>836</ele>
+    <name>OK/VY-002</name>
+    <cmt><![CDATA[Javořice]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Vysočina]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.591301" lon="16.3421">
+    <ele>774</ele>
+    <name>OK/VY-009</name>
+    <cmt><![CDATA[Horní les]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Vysočina]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.6385" lon="15.3199">
+    <ele>714</ele>
+    <name>OK/VY-023</name>
+    <cmt><![CDATA[Melechov jižní vrchol]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Vysočina]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.403999" lon="18.360901">
+    <ele>1024</ele>
+    <name>OK/ZL-001</name>
+    <cmt><![CDATA[Vysoká]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Zlínský]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.260899" lon="18.1632">
+    <ele>923</ele>
+    <name>OK/ZL-004</name>
+    <cmt><![CDATA[Makyta]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Zlínský]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.083599" lon="18.0907">
+    <ele>836</ele>
+    <name>OK/ZL-010</name>
+    <cmt><![CDATA[Průklesy]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Zlínský]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.0275" lon="17.995501">
+    <ele>782</ele>
+    <name>OK/ZL-012</name>
+    <cmt><![CDATA[Javorník]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Zlínský]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.2645" lon="18.055099">
+    <ele>759</ele>
+    <name>OK/ZL-014</name>
+    <cmt><![CDATA[Filka]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Zlínský]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.205898" lon="17.943701">
+    <ele>753</ele>
+    <name>OK/ZL-015</name>
+    <cmt><![CDATA[Klášťov]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Zlínský]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.325802" lon="17.8388">
+    <ele>706</ele>
+    <name>OK/ZL-018</name>
+    <cmt><![CDATA[Humenec]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Zlínský]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.4398" lon="18.024599">
+    <ele>692</ele>
+    <name>OK/ZL-020</name>
+    <cmt><![CDATA[Vrchhůra]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Zlínský]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.1567" lon="17.773199">
+    <ele>672</ele>
+    <name>OK/ZL-021</name>
+    <cmt><![CDATA[Komonec]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Zlínský]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.120399" lon="17.995399">
+    <ele>664</ele>
+    <name>OK/ZL-022</name>
+    <cmt><![CDATA[Stráně]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Zlínský]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.171101" lon="17.309099">
+    <ele>587</ele>
+    <name>OK/ZL-026</name>
+    <cmt><![CDATA[Brdo]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Zlínský]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.400299" lon="17.7658">
+    <ele>865</ele>
+    <name>OK/ZL-041</name>
+    <cmt><![CDATA[Kelčský Javorník]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Zlínský]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.5093" lon="18.135799">
+    <ele>862</ele>
+    <name>OK/ZL-078</name>
+    <cmt><![CDATA[Kamenárka]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Zlínský]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.280701" lon="18.124001">
+    <ele>777</ele>
+    <name>OK/ZL-079</name>
+    <cmt><![CDATA[Hrachovec]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Zlínský]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+  <wpt lat="49.3382" lon="17.9014">
+    <ele>695</ele>
+    <name>OK/ZL-080</name>
+    <cmt><![CDATA[Drastihlava]]></cmt>
+    <desc><![CDATA[SOTA Association: OK - Czechia, Region: Zlínský]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit OK/</type>
+  </wpt>
+</gpx>

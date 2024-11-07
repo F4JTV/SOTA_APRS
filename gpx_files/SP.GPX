@@ -1,0 +1,1712 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1" 
+     creator="SOTA Mapping Project GPX Generator 1.1" 
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+     xmlns="http://www.topografix.com/GPX/1/1" 
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>SOTA Summits GPX Export</name>
+    <desc>SOTA Summits data in GPX v1.1 format></desc>
+    <author>
+      <name>SOTA Mapping Project></name>
+      <email id="admin" domain="www.sotamaps.org" />
+      <link href="https://www.sotamaps.org">
+        <text>SOTA Mapping Project</text>
+      </link>
+    </author>
+    <link href="https://www.sotamaps.org">
+      <text>SOTA Mapping Project</text>
+    </link>
+    <time>2024-11-07T15:17:39Z</time>
+    <keywords>SOTA, Summits On The Air, amateur radio, ham radio</keywords>
+    <bounds minlat="49.074699" minlon="15.3229" maxlat="54.223499" maxlon="22.738501"/>
+  </metadata>
+  <wpt lat="49.074699" lon="22.726299">
+    <ele>1346</ele>
+    <name>SP/BI-001</name>
+    <cmt><![CDATA[Tarnica]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Bieszczady]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.085999" lon="22.738501">
+    <ele>1335</ele>
+    <name>SP/BI-002</name>
+    <cmt><![CDATA[Krzemień]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Bieszczady]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.098801" lon="22.577999">
+    <ele>1307</ele>
+    <name>SP/BI-003</name>
+    <cmt><![CDATA[Wielka Rawka]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Bieszczady]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.138401" lon="22.6029">
+    <ele>1297</ele>
+    <name>SP/BI-004</name>
+    <cmt><![CDATA[Połonina Caryńska (Kruhły Wierch)]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Bieszczady]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.167702" lon="22.528299">
+    <ele>1255</ele>
+    <name>SP/BI-005</name>
+    <cmt><![CDATA[Połonina Wetlińska (Roh)]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Bieszczady]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.1134" lon="22.4419">
+    <ele>1199</ele>
+    <name>SP/BI-006</name>
+    <cmt><![CDATA[Paportna]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Bieszczady]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.1581" lon="22.360901">
+    <ele>1158</ele>
+    <name>SP/BI-007</name>
+    <cmt><![CDATA[Jasło]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Bieszczady]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.1814" lon="22.282">
+    <ele>1103</ele>
+    <name>SP/BI-008</name>
+    <cmt><![CDATA[Hyrlata]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Bieszczady]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.2397" lon="22.2498">
+    <ele>1071</ele>
+    <name>SP/BI-009</name>
+    <cmt><![CDATA[Wołosań]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Bieszczady]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.245399" lon="22.3389">
+    <ele>1069</ele>
+    <name>SP/BI-010</name>
+    <cmt><![CDATA[Łopiennik]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Bieszczady]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.18" lon="22.571199">
+    <ele>1047</ele>
+    <name>SP/BI-011</name>
+    <cmt><![CDATA[Jawornik (Magura Nasiczańska)]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Bieszczady]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.164902" lon="22.6448">
+    <ele>1016</ele>
+    <name>SP/BI-013</name>
+    <cmt><![CDATA[Magura Stuposiańska]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Bieszczady]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.191898" lon="22.583799">
+    <ele>1004</ele>
+    <name>SP/BI-015</name>
+    <cmt><![CDATA[Dwernik Kamień (Holica)]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Bieszczady]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.305599" lon="22.188101">
+    <ele>997</ele>
+    <name>SP/BI-016</name>
+    <cmt><![CDATA[Chryszczata]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Bieszczady]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.2001" lon="22.2355">
+    <ele>991</ele>
+    <name>SP/BI-017</name>
+    <cmt><![CDATA[Matragona]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Bieszczady]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.215199" lon="22.409201">
+    <ele>981</ele>
+    <name>SP/BI-018</name>
+    <cmt><![CDATA[Czerenina]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Bieszczady]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.1101" lon="22.6789">
+    <ele>971</ele>
+    <name>SP/BI-019</name>
+    <cmt><![CDATA[Kiczera]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Bieszczady]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.200699" lon="22.3874">
+    <ele>937</ele>
+    <name>SP/BI-020</name>
+    <cmt><![CDATA[Krzemienna]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Bieszczady]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.202202" lon="22.124599">
+    <ele>905</ele>
+    <name>SP/BI-021</name>
+    <cmt><![CDATA[Magura (Wysoki Groń)]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Bieszczady]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.284302" lon="22.3706">
+    <ele>894</ele>
+    <name>SP/BI-022</name>
+    <cmt><![CDATA[Korbania (Patrola)]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Bieszczady]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.209801" lon="22.2001">
+    <ele>848</ele>
+    <name>SP/BI-023</name>
+    <cmt><![CDATA[Kopa (Kiczara)]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Bieszczady]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.187599" lon="22.703501">
+    <ele>816</ele>
+    <name>SP/BI-024</name>
+    <cmt><![CDATA[Czereśnia]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Bieszczady]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.362801" lon="22.167999">
+    <ele>759</ele>
+    <name>SP/BI-025</name>
+    <cmt><![CDATA[Suliła]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Bieszczady]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.300098" lon="22.4519">
+    <ele>748</ele>
+    <name>SP/BI-026</name>
+    <cmt><![CDATA[Tołsta]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Bieszczady]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.369099" lon="22.235399">
+    <ele>743</ele>
+    <name>SP/BI-027</name>
+    <cmt><![CDATA[Gabry Wierch]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Bieszczady]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.3027" lon="22.096201">
+    <ele>735</ele>
+    <name>SP/BI-028</name>
+    <cmt><![CDATA[Jasieniowa]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Bieszczady]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.3297" lon="22.264099">
+    <ele>724</ele>
+    <name>SP/BI-029</name>
+    <cmt><![CDATA[Wasylkowa]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Bieszczady]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.186401" lon="22.4799">
+    <ele>1223</ele>
+    <name>SP/BI-030</name>
+    <cmt><![CDATA[Smerek (Wysoka)]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Bieszczady]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.1423" lon="22.288">
+    <ele>1020</ele>
+    <name>SP/BI-031</name>
+    <cmt><![CDATA[Stryb (Manewa)]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Bieszczady]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.755402" lon="21.8151">
+    <ele>585</ele>
+    <name>SP/BP-001</name>
+    <cmt><![CDATA[Sucha Góra]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Pogórze Beskidzkie]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.813499" lon="21.3515">
+    <ele>562</ele>
+    <name>SP/BP-002</name>
+    <cmt><![CDATA[Liwocz]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Pogórze Beskidzkie]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.888401" lon="21.5389">
+    <ele>534</ele>
+    <name>SP/BP-003</name>
+    <cmt><![CDATA[Bardo]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Pogórze Beskidzkie]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.844601" lon="21.0875">
+    <ele>534</ele>
+    <name>SP/BP-004</name>
+    <cmt><![CDATA[Brzanka]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Pogórze Beskidzkie]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.6175" lon="22.184999">
+    <ele>533</ele>
+    <name>SP/BP-005</name>
+    <cmt><![CDATA[Kopacz]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Pogórze Beskidzkie]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.884499" lon="20.911301">
+    <ele>523</ele>
+    <name>SP/BP-006</name>
+    <cmt><![CDATA[Wał]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Pogórze Beskidzkie]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.926701" lon="21.207399">
+    <ele>434</ele>
+    <name>SP/BP-008</name>
+    <cmt><![CDATA[Kokocz]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Pogórze Beskidzkie]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.838799" lon="22.0196">
+    <ele>506</ele>
+    <name>SP/BP-009</name>
+    <cmt><![CDATA[Wilcze]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Pogórze Beskidzkie]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.426498" lon="21.102501">
+    <ele>998</ele>
+    <name>SP/BS-001</name>
+    <cmt><![CDATA[Lackowa]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Środkowe]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.438499" lon="21.122999">
+    <ele>930</ele>
+    <name>SP/BS-002</name>
+    <cmt><![CDATA[Ostry Wierch]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Środkowe]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.546001" lon="20.8675">
+    <ele>888</ele>
+    <name>SP/BS-003</name>
+    <cmt><![CDATA[Kozie Żebro]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Środkowe]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.574799" lon="20.9128">
+    <ele>880</ele>
+    <name>SP/BS-005</name>
+    <cmt><![CDATA[Jaworze]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Środkowe]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.447201" lon="21.218">
+    <ele>869</ele>
+    <name>SP/BS-006</name>
+    <cmt><![CDATA[Jaworzynka]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Środkowe]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.396999" lon="21.820601">
+    <ele>857</ele>
+    <name>SP/BS-007</name>
+    <cmt><![CDATA[Kamień]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Środkowe]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.3451" lon="21.9662">
+    <ele>848</ele>
+    <name>SP/BS-008</name>
+    <cmt><![CDATA[Wielki Bukowiec (Pasika)]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Środkowe]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.575401" lon="21.366301">
+    <ele>846</ele>
+    <name>SP/BS-009</name>
+    <cmt><![CDATA[Wątkowa]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Środkowe]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.553398" lon="21.2197">
+    <ele>813</ele>
+    <name>SP/BS-010</name>
+    <cmt><![CDATA[Magura Małastowska]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Środkowe]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.542599" lon="21.3645">
+    <ele>801</ele>
+    <name>SP/BS-011</name>
+    <cmt><![CDATA[Mareszka (Mereżka)]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Środkowe]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.597" lon="20.997601">
+    <ele>778</ele>
+    <name>SP/BS-012</name>
+    <cmt><![CDATA[Chełm]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Środkowe]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.432598" lon="22.032">
+    <ele>778</ele>
+    <name>SP/BS-013</name>
+    <cmt><![CDATA[Tokarnia]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Środkowe]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.5466" lon="21.3251">
+    <ele>777</ele>
+    <name>SP/BS-014</name>
+    <cmt><![CDATA[Magurycz Duży]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Środkowe]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.512501" lon="20.9657">
+    <ele>774</ele>
+    <name>SP/BS-015</name>
+    <cmt><![CDATA[Hłocza]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Środkowe]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.471401" lon="21.2348">
+    <ele>777</ele>
+    <name>SP/BS-016</name>
+    <cmt><![CDATA[Rotunda]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Środkowe]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.481201" lon="21.8507">
+    <ele>762</ele>
+    <name>SP/BS-017</name>
+    <cmt><![CDATA[Jawornik]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Środkowe]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.436798" lon="21.5975">
+    <ele>754</ele>
+    <name>SP/BS-018</name>
+    <cmt><![CDATA[Baranie (Stávok)]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Środkowe]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.6269" lon="20.8584">
+    <ele>750</ele>
+    <name>SP/BS-019</name>
+    <cmt><![CDATA[Rosochatka]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Środkowe]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.6436" lon="21.058599">
+    <ele>753</ele>
+    <name>SP/BS-020</name>
+    <cmt><![CDATA[Maślana Góra]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Środkowe]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.530499" lon="21.717699">
+    <ele>716</ele>
+    <name>SP/BS-022</name>
+    <cmt><![CDATA[Cergowa]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Środkowe]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.5378" lon="21.5109">
+    <ele>714</ele>
+    <name>SP/BS-023</name>
+    <cmt><![CDATA[Kamień]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Środkowe]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.435101" lon="21.6541">
+    <ele>702</ele>
+    <name>SP/BS-024</name>
+    <cmt><![CDATA[Zimny Wierch]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Środkowe]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.533901" lon="21.5987">
+    <ele>696</ele>
+    <name>SP/BS-025</name>
+    <cmt><![CDATA[Dania]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Środkowe]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.5303" lon="21.6483">
+    <ele>695</ele>
+    <name>SP/BS-026</name>
+    <cmt><![CDATA[Chyrowa]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Środkowe]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.494999" lon="21.4426">
+    <ele>695</ele>
+    <name>SP/BS-027</name>
+    <cmt><![CDATA[Cyrla]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Środkowe]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.541801" lon="21.1234">
+    <ele>672</ele>
+    <name>SP/BS-028</name>
+    <cmt><![CDATA[Kopa]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Środkowe]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.462002" lon="22.114401">
+    <ele>664</ele>
+    <name>SP/BS-029</name>
+    <cmt><![CDATA[Żurawinka (Kuty)]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Środkowe]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.596199" lon="21.0914">
+    <ele>648</ele>
+    <name>SP/BS-031</name>
+    <cmt><![CDATA[Suchy Wierch]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Środkowe]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.5644" lon="21.0772">
+    <ele>609</ele>
+    <name>SP/BS-032</name>
+    <cmt><![CDATA[Kiczera Żdżar]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Środkowe]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.571999" lon="21.650101">
+    <ele>533</ele>
+    <name>SP/BS-033</name>
+    <cmt><![CDATA[Franków (Patryja)]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Środkowe]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.501202" lon="21.153999">
+    <ele>673</ele>
+    <name>SP/BS-034</name>
+    <cmt><![CDATA[Polana]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Środkowe]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.476601" lon="21.749599">
+    <ele>728</ele>
+    <name>SP/BS-035</name>
+    <cmt><![CDATA[Piotruś (Pitrosa)]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Środkowe]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.490898" lon="21.115999">
+    <ele>772</ele>
+    <name>SP/BS-036</name>
+    <cmt><![CDATA[Jaworzynka]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Środkowe]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.233101" lon="22.657801">
+    <ele>939</ele>
+    <name>SP/BW-001</name>
+    <cmt><![CDATA[Trohaniec]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Wschodnie]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.340199" lon="22.712799">
+    <ele>908</ele>
+    <name>SP/BW-002</name>
+    <cmt><![CDATA[Jaworniki]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Wschodnie]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.444698" lon="22.5819">
+    <ele>768</ele>
+    <name>SP/BW-003</name>
+    <cmt><![CDATA[Kamienna Laworta]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Wschodnie]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.3839" lon="22.492599">
+    <ele>741</ele>
+    <name>SP/BW-004</name>
+    <cmt><![CDATA[Patryja (Jawor)]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Wschodnie]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.5406" lon="22.367001">
+    <ele>668</ele>
+    <name>SP/BW-006</name>
+    <cmt><![CDATA[Słonne (Góra Słonna)]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Wschodnie]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.4977" lon="22.4702">
+    <ele>630</ele>
+    <name>SP/BW-007</name>
+    <cmt><![CDATA[Magura]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Wschodnie]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.4473" lon="22.3652">
+    <ele>576</ele>
+    <name>SP/BW-008</name>
+    <cmt><![CDATA[Czulnia]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Wschodnie]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.527302" lon="22.547899">
+    <ele>682</ele>
+    <name>SP/BW-009</name>
+    <cmt><![CDATA[Truszowskie]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Wschodnie]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.5732" lon="19.5296">
+    <ele>1725</ele>
+    <name>SP/BZ-001</name>
+    <cmt><![CDATA[Diablak (Babia Góra)]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Zachodnie]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.6236" lon="19.6192">
+    <ele>1369</ele>
+    <name>SP/BZ-002</name>
+    <cmt><![CDATA[Polica]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Zachodnie]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.560799" lon="19.241899">
+    <ele>1366</ele>
+    <name>SP/BZ-003</name>
+    <cmt><![CDATA[Romanka]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Zachodnie]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.531601" lon="19.218599">
+    <ele>1323</ele>
+    <name>SP/BZ-004</name>
+    <cmt><![CDATA[Lipowska]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Zachodnie]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.5429" lon="20.1113">
+    <ele>1315</ele>
+    <name>SP/BZ-005</name>
+    <cmt><![CDATA[Turbacz]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Zachodnie]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.572601" lon="20.176201">
+    <ele>1274</ele>
+    <name>SP/BZ-006</name>
+    <cmt><![CDATA[Kudłoń]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Zachodnie]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.449299" lon="20.604099">
+    <ele>1262</ele>
+    <name>SP/BZ-007</name>
+    <cmt><![CDATA[Radziejowa]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Zachodnie]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.684399" lon="19.030001">
+    <ele>1257</ele>
+    <name>SP/BZ-008</name>
+    <cmt><![CDATA[Skrzyczne]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Zachodnie]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.5653" lon="20.2528">
+    <ele>1228</ele>
+    <name>SP/BZ-010</name>
+    <cmt><![CDATA[Gorc (Gorc Kamieniecki)]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Zachodnie]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.415901" lon="19.0919">
+    <ele>1226</ele>
+    <name>SP/BZ-011</name>
+    <cmt><![CDATA[Rycerzowa Wielka]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Zachodnie]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.611401" lon="19.010599">
+    <ele>1220</ele>
+    <name>SP/BZ-012</name>
+    <cmt><![CDATA[Barania (Barania Góra)]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Zachodnie]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.4893" lon="20.339001">
+    <ele>1211</ele>
+    <name>SP/BZ-013</name>
+    <cmt><![CDATA[Lubań]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Zachodnie]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.655201" lon="20.2768">
+    <ele>1171</ele>
+    <name>SP/BZ-014</name>
+    <cmt><![CDATA[Mogielica]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Zachodnie]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.612999" lon="19.461201">
+    <ele>1169</ele>
+    <name>SP/BZ-015</name>
+    <cmt><![CDATA[Beskidek (Mędralowa)]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Zachodnie]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.455299" lon="19.1045">
+    <ele>1165</ele>
+    <name>SP/BZ-016</name>
+    <cmt><![CDATA[Muńczoł (Muńcuł)]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Zachodnie]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.427799" lon="19.044201">
+    <ele>1144</ele>
+    <name>SP/BZ-018</name>
+    <cmt><![CDATA[Będoszka (Bendoszka Wielka)]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Zachodnie]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.7397" lon="18.9953">
+    <ele>1117</ele>
+    <name>SP/BZ-020</name>
+    <cmt><![CDATA[Klimczok]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Zachodnie]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.417999" lon="20.8955">
+    <ele>1114</ele>
+    <name>SP/BZ-021</name>
+    <cmt><![CDATA[Jaworzyna (Jaworzyna Krynicka}]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Zachodnie]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.660801" lon="19.4772">
+    <ele>1111</ele>
+    <name>SP/BZ-022</name>
+    <cmt><![CDATA[Jałowiec]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Zachodnie]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.688702" lon="20.191601">
+    <ele>1072</ele>
+    <name>SP/BZ-024</name>
+    <cmt><![CDATA[Ćwilin]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Zachodnie]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.4062" lon="20.8258">
+    <ele>1060</ele>
+    <name>SP/BZ-025</name>
+    <cmt><![CDATA[Pusta Wielka]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Zachodnie]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.630901" lon="20.2202">
+    <ele>1052</ele>
+    <name>SP/BZ-026</name>
+    <cmt><![CDATA[Jasień]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Zachodnie]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.592499" lon="19.4111">
+    <ele>1047</ele>
+    <name>SP/BZ-027</name>
+    <cmt><![CDATA[Jaworzyna]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Zachodnie]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.455299" lon="19.0392">
+    <ele>1044</ele>
+    <name>SP/BZ-028</name>
+    <cmt><![CDATA[Praszywka Duża (Praszywka Wielka)]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Zachodnie]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.526901" lon="19.141399">
+    <ele>1040</ele>
+    <name>SP/BZ-029</name>
+    <cmt><![CDATA[Sucha Góra]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Zachodnie]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.621201" lon="20.375999">
+    <ele>1028</ele>
+    <name>SP/BZ-030</name>
+    <cmt><![CDATA[Modyń]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Zachodnie]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.6535" lon="19.991899">
+    <ele>1022</ele>
+    <name>SP/BZ-031</name>
+    <cmt><![CDATA[Luboń (Luboń Wielki)]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Zachodnie]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.558899" lon="19.145599">
+    <ele>1010</ele>
+    <name>SP/BZ-032</name>
+    <cmt><![CDATA[Prusów]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Zachodnie]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.612301" lon="20.255699">
+    <ele>1007</ele>
+    <name>SP/BZ-033</name>
+    <cmt><![CDATA[Wielki Wierch]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Zachodnie]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.716" lon="20.1782">
+    <ele>1006</ele>
+    <name>SP/BZ-034</name>
+    <cmt><![CDATA[Śnieżnica]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Zachodnie]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.678799" lon="18.804701">
+    <ele>995</ele>
+    <name>SP/BZ-035</name>
+    <cmt><![CDATA[Czantoria Wielka]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Zachodnie]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.595299" lon="18.839199">
+    <ele>990</ele>
+    <name>SP/BZ-036</name>
+    <cmt><![CDATA[Kiczory]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Zachodnie]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.464901" lon="20.481001">
+    <ele>991</ele>
+    <name>SP/BZ-037</name>
+    <cmt><![CDATA[Przysłop (Dzwonkówka)]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Zachodnie]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.688499" lon="20.0105">
+    <ele>976</ele>
+    <name>SP/BZ-038</name>
+    <cmt><![CDATA[Szczebel]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Zachodnie]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.712601" lon="20.098801">
+    <ele>968</ele>
+    <name>SP/BZ-039</name>
+    <cmt><![CDATA[Lubogoszcz]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Zachodnie]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.503101" lon="19.0042">
+    <ele>954</ele>
+    <name>SP/BZ-040</name>
+    <cmt><![CDATA[Rachowiec]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Zachodnie]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.692299" lon="20.265499">
+    <ele>951</ele>
+    <name>SP/BZ-041</name>
+    <cmt><![CDATA[Łopień]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Zachodnie]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.523701" lon="19.834299">
+    <ele>939</ele>
+    <name>SP/BZ-043</name>
+    <cmt><![CDATA[Bukowiński Dział (Bukowiński Wierch)]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Zachodnie]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.315201" lon="20.9394">
+    <ele>935</ele>
+    <name>SP/BZ-044</name>
+    <cmt><![CDATA[Kraczonik]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Zachodnie]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.517502" lon="19.766701">
+    <ele>934</ele>
+    <name>SP/BZ-045</name>
+    <cmt><![CDATA[Pająków Wierch]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Zachodnie]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.768101" lon="19.160801">
+    <ele>933</ele>
+    <name>SP/BZ-046</name>
+    <cmt><![CDATA[Czupel]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Zachodnie]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.7635" lon="19.3962">
+    <ele>929</ele>
+    <name>SP/BZ-047</name>
+    <cmt><![CDATA[Łamana Skała (Madohora)]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Zachodnie]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.643101" lon="20.3736">
+    <ele>926</ele>
+    <name>SP/BZ-048</name>
+    <cmt><![CDATA[Cichoń (Góra Księża)]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Zachodnie]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.720699" lon="20.5208">
+    <ele>921</ele>
+    <name>SP/BZ-049</name>
+    <cmt><![CDATA[Jaworz]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Zachodnie]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.766899" lon="20.059601">
+    <ele>904</ele>
+    <name>SP/BZ-050</name>
+    <cmt><![CDATA[Lubomir]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Zachodnie]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.3661" lon="21.0264">
+    <ele>894</ele>
+    <name>SP/BZ-052</name>
+    <cmt><![CDATA[Wysokie Bereście]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Zachodnie]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.778099" lon="19.2847">
+    <ele>884</ele>
+    <name>SP/BZ-053</name>
+    <cmt><![CDATA[Wielka Góra (Kocierz)]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Zachodnie]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.7244" lon="18.856701">
+    <ele>884</ele>
+    <name>SP/BZ-054</name>
+    <cmt><![CDATA[Równica]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Zachodnie]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.7019" lon="19.571699">
+    <ele>872</ele>
+    <name>SP/BZ-055</name>
+    <cmt><![CDATA[Magurka]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Zachodnie]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.642502" lon="19.375099">
+    <ele>868</ele>
+    <name>SP/BZ-056</name>
+    <cmt><![CDATA[Butorówka (Łosek)]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Zachodnie]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.750801" lon="19.7831">
+    <ele>866</ele>
+    <name>SP/BZ-057</name>
+    <cmt><![CDATA[Koskowa Góra]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Zachodnie]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.712799" lon="19.9111">
+    <ele>859</ele>
+    <name>SP/BZ-058</name>
+    <cmt><![CDATA[Zębalowa]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Zachodnie]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.768902" lon="19.896099">
+    <ele>857</ele>
+    <name>SP/BZ-059</name>
+    <cmt><![CDATA[Kotoń]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Zachodnie]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.5215" lon="18.9517">
+    <ele>850</ele>
+    <name>SP/BZ-060</name>
+    <cmt><![CDATA[Kiczorki (Trojaki)]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Zachodnie]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.7075" lon="19.816401">
+    <ele>841</ele>
+    <name>SP/BZ-061</name>
+    <cmt><![CDATA[Stołowa Góra]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Zachodnie]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.815899" lon="19.1441">
+    <ele>839</ele>
+    <name>SP/BZ-062</name>
+    <cmt><![CDATA[Groniczki]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Zachodnie]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.773602" lon="20.1425">
+    <ele>829</ele>
+    <name>SP/BZ-063</name>
+    <cmt><![CDATA[Ciecień]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Zachodnie]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.532501" lon="19.081699">
+    <ele>824</ele>
+    <name>SP/BZ-064</name>
+    <cmt><![CDATA[Zabawa]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Zachodnie]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.666199" lon="20.1441">
+    <ele>806</ele>
+    <name>SP/BZ-065</name>
+    <cmt><![CDATA[Ogorzała]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Zachodnie]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.778599" lon="20.396299">
+    <ele>802</ele>
+    <name>SP/BZ-066</name>
+    <cmt><![CDATA[Kamionna]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Zachodnie]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.8214" lon="19.256599">
+    <ele>767</ele>
+    <name>SP/BZ-068</name>
+    <cmt><![CDATA[Bukowski Groń (Palenica)]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Zachodnie]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.6908" lon="19.368">
+    <ele>766</ele>
+    <name>SP/BZ-069</name>
+    <cmt><![CDATA[Bąków (Czeretnik)]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Zachodnie]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.770802" lon="20.299299">
+    <ele>730</ele>
+    <name>SP/BZ-070</name>
+    <cmt><![CDATA[Kostrza]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Zachodnie]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.759499" lon="19.5121">
+    <ele>724</ele>
+    <name>SP/BZ-072</name>
+    <cmt><![CDATA[Żurawnica]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Zachodnie]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.799999" lon="20.447201">
+    <ele>661</ele>
+    <name>SP/BZ-074</name>
+    <cmt><![CDATA[Łopusze (Łopusze Zachodnie)]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Zachodnie]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.7323" lon="20.347799">
+    <ele>645</ele>
+    <name>SP/BZ-075</name>
+    <cmt><![CDATA[Paproć]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Zachodnie]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.659698" lon="19.195801">
+    <ele>612</ele>
+    <name>SP/BZ-077</name>
+    <cmt><![CDATA[Wielki Grojec]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Zachodnie]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.8465" lon="19.537399">
+    <ele>544</ele>
+    <name>SP/BZ-078</name>
+    <cmt><![CDATA[Jaroszowska Góra (Jaroszowicka Góra)]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Zachodnie]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.749199" lon="20.115499">
+    <ele>778</ele>
+    <name>SP/BZ-080</name>
+    <cmt><![CDATA[Wierzbanowska Góra]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Zachodnie]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.696899" lon="18.8783">
+    <ele>813</ele>
+    <name>SP/BZ-081</name>
+    <cmt><![CDATA[Góra Orłowa]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Zachodnie]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.7467" lon="20.319799">
+    <ele>693</ele>
+    <name>SP/BZ-082</name>
+    <cmt><![CDATA[Zęzów]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Zachodnie]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.5984" lon="19.6833">
+    <ele>960</ele>
+    <name>SP/BZ-083</name>
+    <cmt><![CDATA[Kiełek]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Zachodnie]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.492802" lon="20.443899">
+    <ele>945</ele>
+    <name>SP/BZ-084</name>
+    <cmt><![CDATA[Kotliny (Błyszcz)]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Zachodnie]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.481098" lon="20.804701">
+    <ele>1091</ele>
+    <name>SP/BZ-085</name>
+    <cmt><![CDATA[Czarci Wierch]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Beskidy Zachodnie]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="50.891399" lon="20.8964">
+    <ele>612</ele>
+    <name>SP/GS-001</name>
+    <cmt><![CDATA[Łysica]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Góry Świętokrzyskie]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="50.826099" lon="21.160601">
+    <ele>554</ele>
+    <name>SP/GS-002</name>
+    <cmt><![CDATA[Szczytniak]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Góry Świętokrzyskie]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="50.956402" lon="20.8342">
+    <ele>484</ele>
+    <name>SP/GS-003</name>
+    <cmt><![CDATA[Bukowa Góra]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Góry Świętokrzyskie]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="50.776901" lon="15.5678">
+    <ele>1509</ele>
+    <name>SP/KA-002</name>
+    <cmt><![CDATA[Wielki Szyszak]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Karkonosze]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.380402" lon="20.555599">
+    <ele>1050</ele>
+    <name>SP/PI-001</name>
+    <cmt><![CDATA[Wysokie Skałki (Wysoka)]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Pieniny]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.413799" lon="20.414101">
+    <ele>983</ele>
+    <name>SP/PI-002</name>
+    <cmt><![CDATA[Trzy Korony]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Pieniny]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="54.223499" lon="18.1234">
+    <ele>329</ele>
+    <name>SP/PO-001</name>
+    <cmt><![CDATA[Wieżyca]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Niziny]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="53.550499" lon="19.9398">
+    <ele>312</ele>
+    <name>SP/PO-002</name>
+    <cmt><![CDATA[Dylewska Góra]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Niziny]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="54.183102" lon="22.3323">
+    <ele>309</ele>
+    <name>SP/PO-003</name>
+    <cmt><![CDATA[Szeska Góra]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Niziny]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="52.383499" lon="15.3229">
+    <ele>225</ele>
+    <name>SP/PO-004</name>
+    <cmt><![CDATA[Bukowiec]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Niziny]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="51.209" lon="19.43">
+    <ele>393</ele>
+    <name>SP/PO-005</name>
+    <cmt><![CDATA[Góra Kamieńska]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Niziny]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="50.8647" lon="16.707899">
+    <ele>718</ele>
+    <name>SP/SP-001</name>
+    <cmt><![CDATA[Ślęża]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Przedgórze Sudeckie]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="50.8386" lon="16.7083">
+    <ele>581</ele>
+    <name>SP/SP-002</name>
+    <cmt><![CDATA[Radunia]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Przedgórze Sudeckie]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="50.820301" lon="16.6292">
+    <ele>462</ele>
+    <name>SP/SP-003</name>
+    <cmt><![CDATA[Szczytna]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Przedgórze Sudeckie]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="50.680401" lon="16.4856">
+    <ele>1015</ele>
+    <name>SP/SS-001</name>
+    <cmt><![CDATA[Wielka Sowa]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Sudety Środkowe]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="50.261101" lon="16.560499">
+    <ele>985</ele>
+    <name>SP/SS-002</name>
+    <cmt><![CDATA[Jagodna]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Sudety Środkowe]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="50.642799" lon="16.5464">
+    <ele>964</ele>
+    <name>SP/SS-003</name>
+    <cmt><![CDATA[Kalenica]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Sudety Środkowe]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="50.680698" lon="16.278">
+    <ele>936</ele>
+    <name>SP/SS-004</name>
+    <cmt><![CDATA[Waligóra]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Sudety Środkowe]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="50.484699" lon="16.340799">
+    <ele>919</ele>
+    <name>SP/SS-005</name>
+    <cmt><![CDATA[Szczeliniec Wielki]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Sudety Środkowe]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="50.189098" lon="16.5791">
+    <ele>891</ele>
+    <name>SP/SS-006</name>
+    <cmt><![CDATA[Czerniec]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Sudety Środkowe]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="50.723" lon="16.304501">
+    <ele>853</ele>
+    <name>SP/SS-007</name>
+    <cmt><![CDATA[Borowa]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Sudety Środkowe]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="50.702301" lon="16.191401">
+    <ele>851</ele>
+    <name>SP/SS-008</name>
+    <cmt><![CDATA[Lesista Wielka]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Sudety Środkowe]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="50.779099" lon="16.2104">
+    <ele>851</ele>
+    <name>SP/SS-009</name>
+    <cmt><![CDATA[Chełmiec]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Sudety Środkowe]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="50.7024" lon="16.227301">
+    <ele>841</ele>
+    <name>SP/SS-010</name>
+    <cmt><![CDATA[Stożek Wielki]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Sudety Środkowe]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="50.812698" lon="16.1637">
+    <ele>778</ele>
+    <name>SP/SS-012</name>
+    <cmt><![CDATA[Trójgarb]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Sudety Środkowe]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="50.453701" lon="16.7586">
+    <ele>765</ele>
+    <name>SP/SS-013</name>
+    <cmt><![CDATA[Szeroka Góra (Kłodzka Góra)]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Sudety Środkowe]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="50.702801" lon="16.012899">
+    <ele>701</ele>
+    <name>SP/SS-014</name>
+    <cmt><![CDATA[Święta Góra (Święta Góra Lubawska)]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Sudety Środkowe]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="50.8414" lon="16.0581">
+    <ele>692</ele>
+    <name>SP/SS-016</name>
+    <cmt><![CDATA[Krąglak]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Sudety Środkowe]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="50.550701" lon="16.5208">
+    <ele>648</ele>
+    <name>SP/SS-017</name>
+    <cmt><![CDATA[Góra Wszystkich Świętych]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Sudety Środkowe]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="50.534401" lon="16.5396">
+    <ele>598</ele>
+    <name>SP/SS-018</name>
+    <cmt><![CDATA[Wilkowiec (Wilczy Kopel)]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Sudety Środkowe]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="50.722198" lon="15.9595">
+    <ele>724</ele>
+    <name>SP/SS-019</name>
+    <cmt><![CDATA[Zadzierna]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Sudety Środkowe]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="50.2075" lon="16.847401">
+    <ele>1425</ele>
+    <name>SP/SW-001</name>
+    <cmt><![CDATA[Śnieżnik]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Sudety Wschodnie]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="50.251999" lon="16.805">
+    <ele>1205</ele>
+    <name>SP/SW-002</name>
+    <cmt><![CDATA[Czarna Góra]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Sudety Wschodnie]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="50.390598" lon="16.903">
+    <ele>900</ele>
+    <name>SP/SW-003</name>
+    <cmt><![CDATA[Borówkowa]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Sudety Wschodnie]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="50.256302" lon="17.429199">
+    <ele>878</ele>
+    <name>SP/SW-004</name>
+    <cmt><![CDATA[Biskupia Kopa]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Sudety Wschodnie]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="50.406799" lon="16.851101">
+    <ele>872</ele>
+    <name>SP/SW-005</name>
+    <cmt><![CDATA[Jawornik Wielki]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Sudety Wschodnie]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="50.849899" lon="15.4201">
+    <ele>1126</ele>
+    <name>SP/SZ-001</name>
+    <cmt><![CDATA[Wysoka Kopa]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Sudety Zachodnie]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="50.8839" lon="15.4419">
+    <ele>973</ele>
+    <name>SP/SZ-002</name>
+    <cmt><![CDATA[Kamienica]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Sudety Zachodnie]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="50.808399" lon="15.9002">
+    <ele>945</ele>
+    <name>SP/SZ-003</name>
+    <cmt><![CDATA[Skalnik]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Sudety Zachodnie]]></desc>
+    <sym>SOTA06</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="50.980701" lon="15.8184">
+    <ele>714</ele>
+    <name>SP/SZ-005</name>
+    <cmt><![CDATA[Okole]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Sudety Zachodnie]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="50.8922" lon="15.9688">
+    <ele>684</ele>
+    <name>SP/SZ-006</name>
+    <cmt><![CDATA[Turzec]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Sudety Zachodnie]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="50.891602" lon="16.0394">
+    <ele>673</ele>
+    <name>SP/SZ-007</name>
+    <cmt><![CDATA[Poręba]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Sudety Zachodnie]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="50.916401" lon="15.9906">
+    <ele>670</ele>
+    <name>SP/SZ-008</name>
+    <cmt><![CDATA[Lubrza]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Sudety Zachodnie]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="50.9464" lon="15.9753">
+    <ele>664</ele>
+    <name>SP/SZ-009</name>
+    <cmt><![CDATA[Żeleźniak]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Sudety Zachodnie]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="50.864201" lon="15.8683">
+    <ele>654</ele>
+    <name>SP/SZ-010</name>
+    <cmt><![CDATA[Krzyżna Góra]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Sudety Zachodnie]]></desc>
+    <sym>SOTA02</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="51.056" lon="15.7632">
+    <ele>501</ele>
+    <name>SP/SZ-011</name>
+    <cmt><![CDATA[Ostrzyca (Ostrzyca Proboszczowicka)]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Sudety Zachodnie]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="50.943802" lon="15.8729">
+    <ele>723</ele>
+    <name>SP/SZ-012</name>
+    <cmt><![CDATA[Folwarczna]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Sudety Zachodnie]]></desc>
+    <sym>SOTA04</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.187199" lon="20.0599">
+    <ele>2432</ele>
+    <name>SP/TA-001</name>
+    <cmt><![CDATA[Mięguszowiecki Szczyt]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Tatry]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.219501" lon="20.009399">
+    <ele>2301</ele>
+    <name>SP/TA-002</name>
+    <cmt><![CDATA[Świnica]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Tatry]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.218399" lon="20.028601">
+    <ele>2291</ele>
+    <name>SP/TA-003</name>
+    <cmt><![CDATA[Kozi Wierch]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Tatry]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.2015" lon="20.048901">
+    <ele>2233</ele>
+    <name>SP/TA-004</name>
+    <cmt><![CDATA[Miedziane]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Tatry]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.213402" lon="19.9021">
+    <ele>1977</ele>
+    <name>SP/TA-009</name>
+    <cmt><![CDATA[Tomanowy Wierch Polski]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Tatry]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.2509" lon="19.934">
+    <ele>1895</ele>
+    <name>SP/TA-010</name>
+    <cmt><![CDATA[Giewont]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Tatry]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.240799" lon="19.835501">
+    <ele>1829</ele>
+    <name>SP/TA-011</name>
+    <cmt><![CDATA[Kominiarski Wierch]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Tatry]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.246101" lon="19.7862">
+    <ele>1663</ele>
+    <name>SP/TA-012</name>
+    <cmt><![CDATA[Bobrowiec]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Tatry]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.260601" lon="19.8594">
+    <ele>1333</ele>
+    <name>SP/TA-014</name>
+    <cmt><![CDATA[Zadnia Kopka]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Tatry]]></desc>
+    <sym>SOTA10</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="49.303902" lon="19.8869">
+    <ele>1199</ele>
+    <name>SP/TA-016</name>
+    <cmt><![CDATA[Palenica (Palenica Kościeliska)]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Tatry]]></desc>
+    <sym>SOTA08</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="50.455799" lon="18.169201">
+    <ele>400</ele>
+    <name>SP/WS-002</name>
+    <cmt><![CDATA[Góra Świętej Anny]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Wyżyna Śląska]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+  <wpt lat="50.451099" lon="19.5536">
+    <ele>516</ele>
+    <name>SP/WS-003</name>
+    <cmt><![CDATA[Góra Zamkowa (Góra Janowskiego)]]></cmt>
+    <desc><![CDATA[SOTA Association: SP - Poland, Region: Wyżyna Śląska]]></desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit SP/</type>
+  </wpt>
+</gpx>
