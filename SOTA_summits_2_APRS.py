@@ -312,6 +312,8 @@ elif args.asso:
             wget.download(f"{SOTAMAP_URL + prefix + '.gpx'}")
             print("\nDone")
             gpx_summit_file_list.append(f"{prefix + '.gpx'}")
+        else:
+            print(f"Omitted {prefix}: not in the official association list")
 
 for file in gpx_summit_file_list:
     try:
